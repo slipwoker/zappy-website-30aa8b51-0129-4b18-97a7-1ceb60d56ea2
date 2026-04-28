@@ -12649,6 +12649,395 @@ main,
 }
 
 /* ==END ZAPPY V2 E-COMMERCE THEME CSS== */
+
+/* AI-generated section */
+/* =========================================
+   HERO SECTION — גורים בכפר
+   ========================================= */
+
+.hero-gcv-main {
+  background-color: #FFFDF8;
+  padding: 80px 24px 0;
+  font-family: system-ui, sans-serif;
+  direction: rtl;
+  text-align: right;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Subtle background texture dots */
+.hero-gcv-main::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: radial-gradient(circle, rgba(47, 107, 79, 0.06) 1px, transparent 1px);
+  background-size: 28px 28px;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* ---- Container ---- */
+.hero-gcv-container {
+  max-width: 1160px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 56px;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+}
+
+/* =========================================
+   RIGHT COLUMN — Text Content
+   ========================================= */
+
+.hero-gcv-content {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+/* ---- Badge / Eyebrow ---- */
+.hero-gcv-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  background-color: rgba(201, 142, 91, 0.10);
+  color: #b07030;
+  border: 1.5px solid rgba(201, 142, 91, 0.45);
+  border-radius: 50px;
+  padding: 7px 16px;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.4px;
+  width: fit-content;
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.hero-gcv-badge:hover {
+  background-color: rgba(201, 142, 91, 0.18);
+  border-color: rgba(201, 142, 91, 0.7);
+}
+
+.hero-gcv-badge-icon {
+  color: #C98E5B;
+  flex-shrink: 0;
+}
+
+/* ---- Headline ---- */
+.hero-gcv-headline {
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 800;
+  line-height: 1.2;
+  color: #1a2e23;
+  margin: 0;
+  letter-spacing: -0.5px;
+}
+
+.hero-gcv-headline-accent {
+  color: var(--primary, #2F6B4F);
+  display: inline-block;
+}
+
+/* ---- Body ---- */
+.hero-gcv-body {
+  font-size: 16.5px;
+  line-height: 1.8;
+  color: #4a5a50;
+  margin: 0;
+  max-width: 500px;
+}
+
+/* ---- Trust Indicators ---- */
+.hero-gcv-trust {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.hero-gcv-trust-item {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  background-color: #f4faf7;
+  border: 1px solid rgba(47, 107, 79, 0.18);
+  border-radius: 8px;
+  padding: 8px 14px;
+  font-size: 13.5px;
+  font-weight: 600;
+  color: #2e5c42;
+}
+
+.hero-gcv-trust-icon {
+  font-size: 16px;
+  line-height: 1;
+}
+
+/* ---- CTA Buttons ---- */
+.hero-gcv-cta-group {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.hero-gcv-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 14px 26px;
+  border-radius: 10px;
+  font-size: 15.5px;
+  font-weight: 700;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.22s ease, color 0.22s ease, border-color 0.22s ease, transform 0.18s ease, box-shadow 0.22s ease;
+  white-space: nowrap;
+  letter-spacing: 0.2px;
+}
+
+.hero-gcv-btn:focus-visible {
+  outline: 3px solid #C98E5B;
+  outline-offset: 3px;
+}
+
+/* Primary filled button */
+.hero-gcv-btn-primary {
+  background: var(--gradient-primary, linear-gradient(180deg, #3B785F 0%, #2F6B55 100%));
+  color: #ffffff;
+  border: 2px solid transparent;
+  box-shadow: 0 4px 18px rgba(47, 107, 79, 0.28);
+}
+
+.hero-gcv-btn-primary:hover {
+  background: linear-gradient(180deg, #2F6B4F 0%, #255940 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 26px rgba(47, 107, 79, 0.38);
+  color: #ffffff;
+}
+
+.hero-gcv-btn-primary:active {
+  transform: translateY(0);
+  box-shadow: 0 3px 10px rgba(47, 107, 79, 0.25);
+}
+
+/* Outline / ghost button */
+.hero-gcv-btn-outline {
+  background-color: transparent;
+  color: var(--primary, #2F6B4F);
+  border: 2px solid var(--primary, #2F6B4F);
+}
+
+.hero-gcv-btn-outline:hover {
+  background-color: var(--primary, #2F6B4F);
+  color: #ffffff;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(47, 107, 79, 0.22);
+}
+
+.hero-gcv-btn-outline:active {
+  transform: translateY(0);
+}
+
+/* =========================================
+   LEFT COLUMN — Image
+   ========================================= */
+
+.hero-gcv-image-col {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-gcv-image-wrapper {
+  position: relative;
+  width: 100%;
+  max-width: 520px;
+}
+
+/* Decorative background shape behind image */
+.hero-gcv-image-decoration {
+  position: absolute;
+  top: -18px;
+  left: -18px;
+  right: 18px;
+  bottom: 18px;
+  background: linear-gradient(135deg, rgba(47, 107, 79, 0.12) 0%, rgba(201, 142, 91, 0.10) 100%);
+  border-radius: 24px;
+  z-index: 0;
+}
+
+.hero-gcv-image {
+  display: block;
+  width: 100%;
+  height: 420px;
+  object-fit: cover;
+  border-radius: 20px;
+  box-shadow: 0 16px 48px rgba(47, 107, 79, 0.18), 0 4px 16px rgba(0,0,0,0.08);
+  position: relative;
+  z-index: 1;
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
+  cursor: pointer;
+}
+
+.hero-gcv-image:hover {
+  transform: translateY(-4px) scale(1.01);
+  box-shadow: 0 24px 60px rgba(47, 107, 79, 0.24), 0 8px 24px rgba(0,0,0,0.10);
+}
+
+/* Floating badge on image */
+.hero-gcv-image-badge {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  z-index: 2;
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 10px 16px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  border: 1.5px solid rgba(47, 107, 79, 0.15);
+}
+
+.hero-gcv-image-badge-num {
+  font-size: 20px;
+  font-weight: 800;
+  color: var(--primary, #2F6B4F);
+  line-height: 1;
+}
+
+.hero-gcv-image-badge-label {
+  font-size: 11px;
+  font-weight: 600;
+  color: #6b8070;
+  white-space: nowrap;
+}
+
+/* =========================================
+   BOTTOM WAVE
+   ========================================= */
+
+.hero-gcv-wave {
+  margin-top: 60px;
+  line-height: 0;
+  overflow: hidden;
+}
+
+.hero-gcv-wave svg {
+  display: block;
+  width: 100%;
+  height: 60px;
+}
+
+/* =========================================
+   RESPONSIVE — TABLET
+   ========================================= */
+
+@media (max-width: 900px) {
+  .hero-gcv-main {
+    padding: 60px 20px 0;
+  }
+
+  .hero-gcv-container {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+
+  /* On mobile/tablet, image goes first (top), text below */
+  .hero-gcv-image-col {
+    order: -1;
+  }
+
+  .hero-gcv-image {
+    height: 320px;
+    max-width: 100%;
+  }
+
+  .hero-gcv-image-wrapper {
+    max-width: 100%;
+  }
+
+  .hero-gcv-content {
+    gap: 20px;
+  }
+
+  .hero-gcv-headline {
+    font-size: clamp(1.7rem, 6vw, 2.4rem);
+  }
+}
+
+/* =========================================
+   RESPONSIVE — MOBILE
+   ========================================= */
+
+@media (max-width: 580px) {
+  .hero-gcv-main {
+    padding: 44px 16px 0;
+  }
+
+  .hero-gcv-container {
+    gap: 28px;
+  }
+
+  .hero-gcv-image {
+    height: 240px;
+    border-radius: 16px;
+  }
+
+  .hero-gcv-image-decoration {
+    top: -10px;
+    left: -10px;
+    right: 10px;
+    bottom: 10px;
+    border-radius: 18px;
+  }
+
+  .hero-gcv-headline {
+    font-size: 1.75rem;
+  }
+
+  .hero-gcv-body {
+    font-size: 15px;
+  }
+
+  .hero-gcv-cta-group {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .hero-gcv-btn {
+    justify-content: center;
+    padding: 14px 20px;
+    font-size: 15px;
+  }
+
+  .hero-gcv-trust {
+    gap: 10px;
+  }
+
+  .hero-gcv-trust-item {
+    font-size: 12.5px;
+    padding: 7px 11px;
+  }
+
+  .hero-gcv-image-badge {
+    bottom: 14px;
+    right: 14px;
+    padding: 8px 12px;
+  }
+
+  .hero-gcv-image-badge-num {
+    font-size: 17px;
+  }
+
+  .hero-gcv-wave {
+    margin-top: 36px;
+  }
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
