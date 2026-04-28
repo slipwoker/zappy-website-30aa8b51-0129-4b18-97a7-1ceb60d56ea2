@@ -1046,9 +1046,92 @@
   
   
 
-<section id="layout-1777378637594" class="layout-section" data-zappy-component="true" style="width: 100%; padding: 60px 0; direction: rtl;" data-component-id="empty-section">
-  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 1.5rem;">
-    <p style="font-size: 16px; line-height: 1.7; color: #1F2937; opacity: 0.5; text-align: center; font-family: system-ui, -apple-system, sans-serif;">הוסף את תוכן הטקסט שלך כאן. זהו טקסט ממלא מקום שניתן לערוך.</p>
+<section id="layout-1777378637594" class="breeds-section" dir="rtl" style="width:100%; padding: 72px 0 80px; background: linear-gradient(180deg, #FFFDF8 0%, #F3EEE5 100%); direction: rtl;">
+  <div style="max-width: 1200px; margin: 0 auto; padding: 0 1.5rem;">
+    <!-- Header -->
+    <div style="text-align: center; margin-bottom: 48px;">
+      <span style="display: inline-block; font-size: 13px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--secondary); margin-bottom: 12px;">הגזעים שלנו</span>
+      <h2 style="font-size: clamp(28px, 4vw, 40px); font-weight: 700; color: var(--text-dark); margin: 0 0 14px;">הגורים הזמינים שלנו</h2>
+      <p style="font-size: 16px; color: var(--text-muted); max-width: 520px; margin: 0 auto; line-height: 1.7;">מצאו את החבר הכי טוב החדש שלכם — גורים בריאים, מחוסנים ומלאי אהבה</p>
+    </div>
+
+    <!-- Cards Grid -->
+    <div style="--zappy-grid-cols: repeat(4, 1fr); display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px;" data-zappy-explicit-columns="true">
+
+      <!-- Card 1: Shih Tzu -->
+      <div class="breed-card" style="background: #FFFFFF; border-radius: 16px; overflow: hidden; box-shadow: var(--shadow-card); transition: var(--transition-hover); display: flex; flex-direction: column;">
+        <div style="position: relative; overflow: hidden; height: 220px; background: #f5f0ea;">
+          <img data-placeholder="breed-shih-tzu" src="/assets/site-breed-shih-tzu.webp" alt="שיצו — גור חמוד" style="width:100%; height:100%; object-fit:cover; display:block;">
+          <div style="position:absolute; top:12px; right:12px; background: var(--secondary); color:#fff; font-size:11px; font-weight:700; padding:4px 10px; border-radius:20px;">זמין</div>
+        </div>
+        <div style="padding: 20px 18px 24px; flex:1; display:flex; flex-direction:column; gap:8px;">
+          <h3 style="font-size:20px; font-weight:700; color: var(--text-dark); margin:0;">שיצו</h3>
+          <p style="font-size:13px; color: var(--secondary); font-weight:600; margin:0;">גזע קטן וחברותי</p>
+          <p style="font-size:14px; color: var(--text-muted); line-height:1.65; margin:0; flex:1;">כלב עדין ואוהב, אידיאלי לחיים בדירה ולמשפחות עם ילדים. חברותי, שמח ומלא אהבה — מתחבר מהר לכולם.</p>
+          <div style="display:flex; gap:6px; flex-wrap:wrap; margin-top:4px;">
+            <span style="background:#FFF3E8; color:var(--secondary); font-size:12px; font-weight:600; padding:3px 10px; border-radius:12px;">🏠 מתאים לדירה</span>
+            <span style="background:#EEF7F2; color:var(--primary); font-size:12px; font-weight:600; padding:3px 10px; border-radius:12px;">❤️ חברותי</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 2: Poodle -->
+      <div class="breed-card" style="background: #FFFFFF; border-radius: 16px; overflow: hidden; box-shadow: var(--shadow-card); transition: var(--transition-hover); display: flex; flex-direction: column;">
+        <div style="position: relative; overflow: hidden; height: 220px; background: #f5f0ea;">
+          <img data-placeholder="breed-poodle" src="/assets/site-breed-poodle.webp" alt="פודל — גור חכם ואלגנטי" style="width:100%; height:100%; object-fit:cover; display:block;">
+          <div style="position:absolute; top:12px; right:12px; background: var(--secondary); color:#fff; font-size:11px; font-weight:700; padding:4px 10px; border-radius:20px;">זמין</div>
+        </div>
+        <div style="padding: 20px 18px 24px; flex:1; display:flex; flex-direction:column; gap:8px;">
+          <h3 style="font-size:20px; font-weight:700; color: var(--text-dark); margin:0;">פודל</h3>
+          <p style="font-size:13px; color: var(--secondary); font-weight:600; margin:0;">גזע חכם ואלגנטי</p>
+          <p style="font-size:14px; color: var(--text-muted); line-height:1.65; margin:0; flex:1;">אחד הגזעים החכמים בעולם. לומד מהר, נאמן ומרגש לאמן. מתאים לאלרגיים — שיערו כמעט אינו נושר ומינימלי בטיפוח.</p>
+          <div style="display:flex; gap:6px; flex-wrap:wrap; margin-top:4px;">
+            <span style="background:#FFF3E8; color:var(--secondary); font-size:12px; font-weight:600; padding:3px 10px; border-radius:12px;">🧠 חכם ונאמן</span>
+            <span style="background:#EEF7F2; color:var(--primary); font-size:12px; font-weight:600; padding:3px 10px; border-radius:12px;">🌿 אנטי-אלרגי</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 3: Pomeranian -->
+      <div class="breed-card" style="background: #FFFFFF; border-radius: 16px; overflow: hidden; box-shadow: var(--shadow-card); transition: var(--transition-hover); display: flex; flex-direction: column;">
+        <div style="position: relative; overflow: hidden; height: 220px; background: #f5f0ea;">
+          <img data-placeholder="breed-pomeranian" src="/assets/site-breed-pomeranian.webp" alt="פומרניאן — גור חמוד ותוסס" style="width:100%; height:100%; object-fit:cover; display:block;">
+          <div style="position:absolute; top:12px; right:12px; background: var(--primary); color:#fff; font-size:11px; font-weight:700; padding:4px 10px; border-radius:20px;">זמין לאימוץ</div>
+        </div>
+        <div style="padding: 20px 18px 24px; flex:1; display:flex; flex-direction:column; gap:8px;">
+          <h3 style="font-size:20px; font-weight:700; color: var(--text-dark); margin:0;">פומרניאן</h3>
+          <p style="font-size:13px; color: var(--secondary); font-weight:600; margin:0;">גזע קטן ותוסס</p>
+          <p style="font-size:14px; color: var(--text-muted); line-height:1.65; margin:0; flex:1;">כלב קטן עם אישיות ענקית! סקרן, שמח ומלא חיים. מתאים לדירות ואוהב בני אדם. מעורר חיוכים בכל מקום שהולך.</p>
+          <div style="display:flex; gap:6px; flex-wrap:wrap; margin-top:4px;">
+            <span style="background:#FFF3E8; color:var(--secondary); font-size:12px; font-weight:600; padding:3px 10px; border-radius:12px;">✨ אישיות ענקית</span>
+            <span style="background:#EEF7F2; color:var(--primary); font-size:12px; font-weight:600; padding:3px 10px; border-radius:12px;">🏠 מתאים לדירה</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 4: Golden Retriever -->
+      <div class="breed-card" style="background: #FFFFFF; border-radius: 16px; overflow: hidden; box-shadow: var(--shadow-card); transition: var(--transition-hover); display: flex; flex-direction: column;">
+        <div style="position: relative; overflow: hidden; height: 220px; background: #f5f0ea;">
+          <img data-placeholder="breed-golden-retriever" src="/assets/site-breed-golden-retriever.webp" alt="גולדן רטריבר — גור אוהבני ומשפחתי" style="width:100%; height:100%; object-fit:cover; display:block;">
+          <div style="position:absolute; top:12px; right:12px; background: var(--secondary); color:#fff; font-size:11px; font-weight:700; padding:4px 10px; border-radius:20px;">זמין</div>
+        </div>
+        <div style="padding: 20px 18px 24px; flex:1; display:flex; flex-direction:column; gap:8px;">
+          <h3 style="font-size:20px; font-weight:700; color: var(--text-dark); margin:0;">גולדן רטריבר</h3>
+          <p style="font-size:13px; color: var(--secondary); font-weight:600; margin:0;">גזע משפחתי ואוהבני</p>
+          <p style="font-size:14px; color: var(--text-muted); line-height:1.65; margin:0; flex:1;">כלב המשפחה הקלאסי — סבלני, אוהב ילדים ומרגיש בנוח עם כולם. נאמן ועליז, אחד הגזעים הפופולריים בישראל.</p>
+          <div style="display:flex; gap:6px; flex-wrap:wrap; margin-top:4px;">
+            <span style="background:#FFF3E8; color:var(--secondary); font-size:12px; font-weight:600; padding:3px 10px; border-radius:12px;">👨‍👩‍👧 אוהב ילדים</span>
+            <span style="background:#EEF7F2; color:var(--primary); font-size:12px; font-weight:600; padding:3px 10px; border-radius:12px;">🌟 גזע מוביל</span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- CTA -->
+    <div style="text-align:center; margin-top:40px;">
+      <a href="/contact" style="display:inline-block; background:var(--primary); color:#fff; font-size:15px; font-weight:700; padding:14px 36px; border-radius:var(--radius-btn); text-decoration:none; box-shadow:var(--shadow-btn-hover); transition:var(--transition-hover);">צרו קשר לבירור זמינות</a>
+    </div>
   </div>
 </section>
 
