@@ -18889,6 +18889,12 @@ body:has(.products-section) .navbar .mobile-toggle {
   object-position: center center !important;
 }
 }
+
+@media (max-width: 768px) {
+.new-puppy-guide-hero-section .nph-bg-img {
+  object-position: center center !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
