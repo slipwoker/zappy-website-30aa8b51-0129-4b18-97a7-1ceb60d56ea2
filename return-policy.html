@@ -801,68 +801,90 @@
 }
 </style>
 
-<section class="legal-page-content return-policy rp-page" id="legal-page-content">
-  <div class="rp-hero">
+<section class="legal-page-content return-policy" style="padding:0;background:none;">
+  <style>
+    .lp-hero{background:#202124;padding:90px 24px 56px;text-align:center;position:relative;overflow:hidden;}
+    .lp-hero::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse at 65% 40%,rgba(47,107,79,.25) 0%,transparent 65%),radial-gradient(ellipse at 15% 80%,rgba(201,142,91,.12) 0%,transparent 60%);pointer-events:none;}
+    .lp-eyebrow{display:inline-block;font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#C98E5B;margin-bottom:14px;position:relative;z-index:1;}
+    .lp-hero h1{color:#fff!important;font-size:clamp(2rem,5vw,3rem)!important;font-weight:700!important;margin:0 0 14px!important;line-height:1.25!important;position:relative;z-index:1;}
+    .lp-hero-sub{color:rgba(255,255,255,.6);font-size:16px;max-width:500px;margin:0 auto;line-height:1.7;position:relative;z-index:1;}
+    .lp-wave{display:block;background:#202124;line-height:0;margin-top:-1px;}
+    .lp-body{background:#F7F3EC;padding:52px 24px 80px;}
+    .lp-inner{max-width:820px;margin:0 auto;}
+    .lp-badge{display:inline-flex;align-items:center;gap:8px;background:rgba(47,107,79,.1);border:1px solid rgba(47,107,79,.22);border-radius:999px;padding:6px 18px;font-size:13px;color:#2F6B4F;margin-bottom:28px;font-weight:600;}
+    .lp-badge::before{content:'';display:inline-block;width:7px;height:7px;background:#2F6B4F;border-radius:50%;flex-shrink:0;}
+    .lp-intro{font-size:15.5px;color:#4a4843;line-height:1.85;margin-bottom:28px;padding:22px 28px;background:#fff;border-radius:10px;border-right:4px solid #2F6B4F;box-shadow:0 2px 8px rgba(47,107,79,.07);}
+    .lp-card{background:#fff;border:1px solid #E6E0D7;border-radius:12px;padding:28px 34px;margin-bottom:18px;box-shadow:0 2px 6px rgba(0,0,0,.04);transition:box-shadow .22s ease,border-color .22s ease;}
+    .lp-card:hover{box-shadow:0 8px 24px rgba(47,107,79,.1);border-color:rgba(47,107,79,.22);}
+    .lp-card h2{color:#2F6B4F!important;font-size:1.1rem!important;font-weight:700!important;margin:0 0 16px!important;padding-bottom:12px!important;border-bottom:2px solid rgba(47,107,79,.12)!important;display:flex!important;align-items:center!important;gap:12px!important;}
+    .lp-num{display:inline-flex;align-items:center;justify-content:center;min-width:28px;height:28px;background:#2F6B4F;color:#fff;border-radius:50%;font-size:12px;font-weight:700;flex-shrink:0;}
+    .lp-card p{color:#202124!important;font-size:15px!important;line-height:1.8!important;margin:0 0 10px!important;}
+    .lp-card ul{margin:8px 0 0!important;padding:0!important;list-style:none!important;}
+    .lp-card ul li{position:relative;padding-right:22px;padding-bottom:8px;font-size:15px;color:#202124;line-height:1.75;}
+    .lp-card ul li::before{content:'';position:absolute;right:0;top:10px;width:7px;height:7px;border-radius:50%;background:#C98E5B;}
+    .lp-card ul li strong{color:#2F6B4F;}
+    .lp-card a{color:#2F6B4F;}
+    .lp-contact{background:linear-gradient(135deg,#202124 0%,#2a2d30 100%)!important;border:1px solid rgba(201,142,91,.35)!important;position:relative;overflow:hidden;}
+    .lp-contact::after{content:'';position:absolute;top:-40px;left:-40px;width:220px;height:220px;background:radial-gradient(circle,rgba(201,142,91,.18) 0%,transparent 70%);pointer-events:none;}
+    .lp-contact h2{color:#C98E5B!important;border-bottom-color:rgba(201,142,91,.2)!important;}
+    .lp-contact .lp-num{background:#C98E5B!important;color:#202124!important;}
+    .lp-contact p,.lp-contact li{color:rgba(255,255,255,.8)!important;}
+    .lp-contact li::before{background:#C98E5B!important;}
+    .lp-contact a{color:#C98E5B!important;text-decoration:underline;}
+    .lp-contact strong{color:#fff!important;}
+    .lp-notice{background:rgba(201,142,91,.12);border:1px solid rgba(201,142,91,.3);border-radius:10px;padding:18px 24px;margin-bottom:8px;font-size:15px;color:#5a4020;line-height:1.7;}
+  </style>
+
+  <div class="lp-hero">
+    <span class="lp-eyebrow">גורים בכפר</span>
     <h1>מדיניות החזרת מוצרים</h1>
-    <p class="rp-updated">עדכון אחרון: 29.4.2026</p>
+    <p class="lp-hero-sub">שביעות רצונכם חשובה לנו — כל מה שצריך לדעת על החזרות והביטולים</p>
+  </div>
+  <div class="lp-wave">
+    <svg viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;display:block;height:60px;"><path d="M0,60 L0,30 Q360,0 720,28 T1440,20 L1440,60 Z" fill="#F7F3EC"></path></svg>
   </div>
 
-  <div class="rp-body">
+  <div class="lp-body">
+    <div class="lp-inner">
+      <div class="lp-badge">עדכון אחרון: 29.4.2026</div>
+      <p class="lp-intro">גורים בכפר מחויבת לשביעות רצון לקוחותיה. מדיניות זו מפרטת את זכויותיכם להחזרת מוצרים בהתאם לחוק הגנת הצרכן.</p>
 
-    <div class="rp-intro">
-      גורים בכפר מחויבת לשביעות רצון לקוחותיה. מדיניות זו מפרטת את זכויותיכם להחזרת מוצרים בהתאם לחוק הגנת הצרכן.
-    </div>
-
-    <div class="rp-section">
-      <h2 class="rp-section-title">1. זכות הביטול</h2>
-      <div class="rp-card">
-        <p style="margin: 0px 0px 16px;">בהתאם לחוק הגנת הצרכן, עומדת לכם הזכות לבטל עסקה בתוך&nbsp;14 ימים<strong>&nbsp;</strong>מיום קבלת המוצר.</p>
-        <ul class="rp-list">
+      <div class="lp-card">
+        <h2><span class="lp-num">1</span> זכות הביטול</h2>
+        <p>בהתאם לחוק הגנת הצרכן, עומדת לכם הזכות לבטל עסקה בתוך <strong>14 ימים</strong> מיום קבלת המוצר.</p>
+        <ul>
           <li>לאזרחים ותיקים, עולים חדשים ואנשים עם מוגבלות — תקופת הביטול היא 4 חודשים</li>
           <li>יש להחזיר את המוצר באריזתו המקורית</li>
           <li>ההחזר הכספי יבוצע תוך 14 ימים מהודעת הביטול</li>
         </ul>
       </div>
-    </div>
 
-    <div class="rp-section">
-      <h2 class="rp-section-title">2. מוצרים שלא ניתן להחזיר</h2>
-      <div class="rp-card">
-        <ul class="rp-list">
+      <div class="lp-card">
+        <h2><span class="lp-num">2</span> מוצרים שלא ניתן להחזיר</h2>
+        <ul>
           <li>מוצרי מזון פסידים</li>
           <li>מוצרים שיוצרו במיוחד לפי הזמנה</li>
           <li>תוכנות ותקליטורים שנפתחו</li>
           <li>מוצרי היגיינה אישית שנפתחו</li>
         </ul>
       </div>
-    </div>
 
-    <div class="rp-section">
-      <h2 class="rp-section-title">3. מוצר פגום</h2>
-      <div class="rp-card">
-        במקרה של מוצר פגום או שונה מהמתואר, זכאים אתם להחזר מלא ללא דמי ביטול, כולל החזר דמי משלוח.
+      <div class="lp-card">
+        <h2><span class="lp-num">3</span> מוצר פגום</h2>
+        <p>במקרה של מוצר פגום או שונה מהמתואר, זכאים אתם להחזר מלא ללא דמי ביטול, כולל החזר דמי משלוח.</p>
       </div>
-    </div>
 
-    <div class="rp-section">
-      <h2 class="rp-section-title">4. יצירת קשר</h2>
-      <div class="rp-contact">
-        <p class="rp-contact-title">לביצוע החזרה או לשאלות — אנחנו כאן בשבילכם:</p>
-        <div class="rp-contact-row">
-          <span class="rp-contact-icon"><i class="fas fa-envelope" style="color:#fff;font-size:14px;" data-element-type="icon" data-element-id="icon-1777462506146-9oh8iw46v" data-icon-type="fontawesome"></i></span>
-          <span><strong style="color:#fff;">אימייל:</strong>&nbsp;<a href="mailto:gurimbakfar@gmail.com">gurimbakfar@gmail.com</a></span>
-        </div>
-        <div class="rp-contact-row">
-          <span class="rp-contact-icon"><i class="fas fa-phone" style="color:#fff;font-size:14px;" data-element-type="icon" data-element-id="icon-1777462506146-ngrwlplqe" data-icon-type="fontawesome"></i></span>
-          <span><strong style="color:#fff;">טלפון:</strong>&nbsp;<a href="tel:052-6662922">052-6662922</a></span>
-        </div>
-        <div class="rp-contact-row">
-          <span class="rp-contact-icon"><i class="fas fa-map-marker-alt" style="color:#fff;font-size:14px;"></i></span>
-          <span><strong style="color:#fff;">כתובת:</strong>&nbsp;התאנה 9, בית שקמה, ישראל</span>
-        </div>
+      <div class="lp-card lp-contact">
+        <h2><span class="lp-num">4</span> יצירת קשר</h2>
+        <p>לביצוע החזרה או לשאלות — אנחנו כאן בשבילכם:</p>
+        <ul>
+          <li><strong>אימייל:</strong> <a href="mailto:gurimbakfar@gmail.com">gurimbakfar@gmail.com</a></li>
+          <li><strong>טלפון:</strong> <a href="tel:052-6662922">052-6662922</a></li>
+          <li><strong>כתובת:</strong> התאנה 9, בית שקמה, ישראל</li>
+        </ul>
       </div>
-    </div>
 
+    </div>
   </div>
 </section>
   </main>
