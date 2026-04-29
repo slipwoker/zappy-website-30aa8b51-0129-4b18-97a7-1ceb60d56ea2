@@ -18823,6 +18823,18 @@ body:has(.products-section) .navbar .mobile-toggle {
   color: rgba(255, 253, 248, 0.88) !important;
 }
 }
+
+@media (max-width: 768px) {
+.new-puppy-guide-hero-section .nph-divider-wrapper {
+  display: none !important;
+}
+}
+
+@media (max-width: 768px) {
+.new-puppy-guide-hero-section .nph-divider-wrapper {
+  display: none !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
