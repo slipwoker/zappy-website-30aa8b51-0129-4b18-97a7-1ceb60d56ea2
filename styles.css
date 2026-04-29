@@ -18593,6 +18593,21 @@ to { opacity: 1; transform: rotate(0) scale(1); } }
 .navbar .nav-menu.active .mobile-submenu-toggle {
   color: #1a1a1a !important;
 }
+
+body:has(.products-section) .navbar .nav-menu a,
+body:has(.products-section) .navbar .nav-menu li a,
+body:has(.products-section) .navbar .phone-header-btn,
+body:has(.products-section) .navbar .nav-login,
+body:has(.products-section) .navbar .nav-cart,
+body:has(.products-section) .navbar .nav-search-btn,
+body:has(.products-section) .navbar .mobile-toggle {
+  color: #FFFFFF !important;
+}
+
+body:has(.products-section) .navbar .nav-menu a:hover,
+body:has(.products-section) .navbar .nav-menu li a:hover {
+  color: var(--nav-text-hover) !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
