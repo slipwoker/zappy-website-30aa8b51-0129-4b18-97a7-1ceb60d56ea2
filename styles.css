@@ -18472,6 +18472,63 @@ to { opacity: 1; transform: rotate(0) scale(1); } }
 .gcv-why-section.fiu-visible a {
   animation: fadeInUpOurCubs 0.8s ease-out 0.4s both;
 }
+
+.navbar .nav-menu.active,
+.navbar #navMenu.active {
+  background-color: #ffffff !important;
+}
+
+.navbar .nav-menu.active li a,
+.navbar #navMenu.active li a,
+.navbar .nav-menu.active li .menu-group-title,
+.navbar #navMenu.active li .menu-group-title {
+  color: #1a1a1a !important;
+}
+
+.navbar .nav-menu.active li a:hover,
+.navbar #navMenu.active li a:hover {
+  color: var(--primary) !important;
+}
+
+.navbar .nav-menu.active .mobile-submenu-toggle {
+  color: #1a1a1a !important;
+}
+
+.navbar .nav-menu .sub-menu li a {
+  color: #1a1a1a !important;
+}
+
+.navbar.scrolled ~ .zappy-catalog-menu .catalog-menu-item {
+  color: #1a1a1a !important;
+}
+
+.navbar.scrolled ~ .zappy-catalog-menu .catalog-menu-all {
+  color: #1a1a1a !important;
+}
+
+.navbar.scrolled ~ #zappy-catalog-menu .catalog-menu-item {
+  color: #1a1a1a !important;
+}
+
+.navbar.scrolled ~ #zappy-catalog-menu .catalog-menu-all {
+  color: #1a1a1a !important;
+}
+
+.navbar.scrolled .nav-menu > li > a {
+  color: #1a1a1a !important;
+}
+
+.navbar.scrolled .nav-menu > .nav-item > a {
+  color: #1a1a1a !important;
+}
+
+.navbar.scrolled .cart-link.nav-cart {
+  color: #1a1a1a !important;
+}
+
+.navbar.scrolled .login-link.nav-login {
+  color: #1a1a1a !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
