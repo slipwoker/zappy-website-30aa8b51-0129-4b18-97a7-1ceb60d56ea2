@@ -2678,9 +2678,10 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   padding-bottom: 32px;
 }
 
+/* Frosted Glass Card */
 .index-hero-section .index-hero-card {
-  background: rgba(255, 253, 248, 0.55) !important;
-  backdrop-filter: blur(8px) !important;
+  background: rgba(255, 253, 248, 0.86);
+  backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
   border: 1px solid rgba(230, 224, 215, 0.7);
   border-radius: 8px;
@@ -2805,27 +2806,22 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 /* ── MOBILE ─────────────────────────────────────────────────────────── */
 @media (max-width: 768px) {
   .index-hero-section {
-  min-height: 100svh;
-  align-items: flex-end !important;
-  padding-bottom: 0 !important;
-  padding-top: 100px;
-}
+    min-height: 100svh;
+    align-items: flex-end;
+    padding-bottom: 70px;
+    padding-top: 100px;
+  }
 
   .index-hero-section .index-hero-content-wrap {
-  padding: 0 16px 20px;
-  justify-content: center;
-  align-items: flex-end !important;
-  padding-bottom: 0px !important;
-}
+    padding: 0 16px 20px;
+    justify-content: center;
+  }
 
   .index-hero-section .index-hero-card {
-  padding: 16px 18px 20px !important;
-  max-width: 100%;
-  border-radius: 16px 16px 0 0 !important;
-  max-height: 45vh !important;
-  overflow-y: auto !important;
-  background: rgba(255, 253, 248, 0.97) !important;
-}
+    padding: 28px 22px 26px;
+    max-width: 100%;
+    border-radius: 8px;
+  }
 
   .index-hero-section .index-hero-h1 {
     font-size: 2.1rem;
@@ -14039,119 +14035,6 @@ main,
 .nav-search-input {
   font-size: 15px !important;
   height: 40px !important;
-}
-}
-
-@media (max-width: 768px) {
-.index-hero-section .index-hero-bg img {
-  object-position: 20% 75% !important;
-  object-fit: cover !important;
-  transform: scale(0.85) !important;
-  transform-origin: center bottom !important;
-}
-
-.index-hero-section .index-hero-card {
-  background: rgba(255, 253, 248, 0.97) !important;
-  backdrop-filter: blur(4px) !important;
-}
-}
-
-@media (max-width: 768px) {
-.index-hero-section .index-hero-bg img {
-  object-position: 30% 75% !important;
-}
-}
-
-@media (max-width: 768px) {
-.index-hero-section {
-  align-items: flex-end !important;
-  min-height: 100vh !important;
-}
-
-.index-hero-section .index-hero-content-wrap {
-  padding-bottom: 0px !important;
-  margin-bottom: 0 !important;
-}
-
-.index-hero-section .index-hero-card {
-  border-radius: 16px 16px 0 0 !important;
-  max-height: 55vh !important;
-  overflow-y: auto !important;
-  padding: 20px 18px 28px !important;
-}
-
-.index-hero-section .index-hero-card h3:first-child {
-  display: none !important;
-}
-
-.index-hero-section .index-hero-subtitle {
-  margin-bottom: 14px !important;
-}
-}
-
-@media (max-width: 768px) {
-.index-hero-section .index-hero-content-wrap {
-  padding-bottom: 0px !important;
-  align-items: flex-end !important;
-}
-
-.index-hero-section .index-hero-card {
-  border-radius: 16px 16px 0 0 !important;
-  max-height: 55vh !important;
-  overflow-y: auto !important;
-  padding: 18px 18px 24px !important;
-}
-
-.index-hero-section .index-hero-card h3:first-child {
-  display: none !important;
-}
-
-.index-hero-section .index-hero-h1 {
-  font-size: 1.7rem !important;
-  margin-bottom: 8px !important;
-}
-
-.index-hero-section .index-hero-subtitle {
-  margin-bottom: 12px !important;
-  font-size: 0.9rem !important;
-}
-}
-
-@media (max-width: 768px) {
-.index-hero-section {
-  margin-top: -90px !important;
-  padding-top: 90px !important;
-  min-height: 100svh !important;
-}
-
-.index-hero-section .index-hero-bg {
-  top: 0 !important;
-  height: 100% !important;
-}
-
-body {
-  background-color: #1a2a22 !important;
-}
-}
-
-@media (max-width: 768px) {
-.index-hero-section .index-hero-card {
-  border-radius: 16px 16px 0 0 !important;
-  max-height: 45vh !important;
-  overflow-y: auto !important;
-  padding: 16px 18px 20px !important;
-  background: rgba(255, 253, 248, 0.97) !important;
-}
-
-.index-hero-section .index-hero-content-wrap {
-  align-items: flex-end !important;
-  padding-bottom: 0 !important;
-  margin-bottom: 0 !important;
-}
-
-.index-hero-section {
-  align-items: flex-end !important;
-  padding-bottom: 0 !important;
 }
 }
 /* mobile-submenu-overflow-fix */
