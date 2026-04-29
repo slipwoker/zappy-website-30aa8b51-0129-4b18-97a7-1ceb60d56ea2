@@ -2678,10 +2678,9 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   padding-bottom: 32px;
 }
 
-/* Frosted Glass Card */
 .index-hero-section .index-hero-card {
-  background: rgba(255, 253, 248, 0.86);
-  backdrop-filter: blur(10px);
+  background: rgba(255, 253, 248, 0.60) !important;
+  backdrop-filter: blur(6px) !important;
   -webkit-backdrop-filter: blur(10px);
   border: 1px solid rgba(230, 224, 215, 0.7);
   border-radius: 8px;
@@ -14049,6 +14048,12 @@ main,
 .index-hero-section .index-hero-card {
   background: rgba(255, 253, 248, 0.97) !important;
   backdrop-filter: blur(4px) !important;
+}
+}
+
+@media (max-width: 768px) {
+.index-hero-section .index-hero-bg img {
+  object-position: 30% 75% !important;
 }
 }
 /* mobile-submenu-overflow-fix */
