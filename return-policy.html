@@ -774,39 +774,99 @@
     </nav>
   <main class="page-container ecommerce-page">
     
-<section class="legal-page-content return-policy">
-  <div class="container">
+<style>
+.rp-page { padding: 0 0 80px 0; background: linear-gradient(180deg, #F7F3EC 0%, #ffffff 100%); }
+.rp-hero { background: linear-gradient(135deg, #2F6B4F 0%, #3B785F 55%, #C98E5B 100%); padding: 60px 24px 80px; text-align: center; }
+.rp-hero h1 { color: #fff; font-size: 2.5rem; font-weight: 800; margin: 0 0 10px; letter-spacing: -0.5px; text-shadow: 0 2px 14px rgba(0,0,0,0.18); }
+.rp-hero .rp-updated { color: rgba(255,255,255,0.82); font-size: 0.88rem; margin: 0; }
+.rp-body { max-width: 760px; margin: -40px auto 0; padding: 0 20px; position: relative; }
+.rp-intro { background: #fff; border-radius: 18px; padding: 28px 32px; box-shadow: 0 8px 28px rgba(47,107,79,0.1); border: 1px solid #E6E0D7; margin-bottom: 32px; font-size: 1.05rem; line-height: 1.8; color: #202124; }
+.rp-section { margin-bottom: 28px; }
+.rp-section-title { display: flex; align-items: center; gap: 12px; font-size: 1.15rem; font-weight: 700; color: #2F6B4F; margin: 0 0 14px; }
+.rp-section-title::before { content: ''; display: inline-block; width: 5px; height: 22px; background: linear-gradient(180deg, #2F6B4F, #C98E5B); border-radius: 4px; flex-shrink: 0; }
+.rp-card { background: #fff; border: 1px solid #E6E0D7; border-radius: 16px; padding: 24px 28px; box-shadow: 0 4px 18px rgba(47,107,79,0.07); font-size: 1rem; line-height: 1.8; color: #202124; }
+.rp-list { list-style: none; margin: 0; padding: 0; }
+.rp-list li { position: relative; padding: 12px 30px 12px 0; border-bottom: 1px solid #E6E0D7; font-size: 1rem; line-height: 1.7; color: #202124; }
+.rp-list li:last-child { border-bottom: none; }
+.rp-list li::before { content: '✓'; position: absolute; right: 0; top: 13px; color: #2F6B4F; font-weight: 700; font-size: 1rem; }
+.rp-contact { background: linear-gradient(135deg, #2F6B4F 0%, #3B785F 100%); border-radius: 20px; padding: 36px 40px; color: #fff; box-shadow: 0 10px 32px rgba(47,107,79,0.25); }
+.rp-contact-title { font-size: 1.1rem; font-weight: 700; color: #fff; margin: 0 0 14px; }
+.rp-contact-row { display: flex; align-items: center; gap: 10px; padding: 8px 0; border-bottom: 1px solid rgba(255,255,255,0.15); font-size: 1rem; color: rgba(255,255,255,0.9); }
+.rp-contact-row:last-child { border-bottom: none; }
+.rp-contact-icon { width: 32px; height: 32px; background: rgba(255,255,255,0.15); border-radius: 8px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+.rp-contact-row a { color: #E7C372; text-decoration: none; font-weight: 600; }
+.rp-contact-row a:hover { text-decoration: underline; }
+@media (max-width: 768px) {
+  .rp-hero h1 { font-size: 1.8rem; }
+  .rp-body { margin-top: -30px; padding: 0 12px; }
+  .rp-intro { padding: 20px; }
+  .rp-card { padding: 18px; }
+  .rp-contact { padding: 24px 20px; }
+}
+</style>
+
+<section class="legal-page-content return-policy rp-page">
+  <div class="rp-hero">
     <h1>מדיניות החזרת מוצרים</h1>
-    <p class="last-updated"><strong>עדכון אחרון:</strong> 29.4.2026</p>
-    
-    <p>גורים בכפר מחויבת לשביעות רצון לקוחותיה. מדיניות זו מפרטת את זכויותיכם להחזרת מוצרים בהתאם לחוק הגנת הצרכן.</p>
+    <p class="rp-updated">עדכון אחרון: 29.4.2026</p>
+  </div>
 
-    <h2>1. זכות הביטול</h2>
-    <p>בהתאם לחוק הגנת הצרכן, עומדת לכם הזכות לבטל עסקה בתוך <strong>14 ימים</strong> מיום קבלת המוצר.</p>
-    <ul>
-      <li>לאזרחים ותיקים, עולים חדשים ואנשים עם מוגבלות - תקופת הביטול היא 4 חודשים</li>
-      <li>יש להחזיר את המוצר באריזתו המקורית</li>
-      <li>ההחזר הכספי יבוצע תוך 14 ימים מהודעת הביטול</li>
-    </ul>
+  <div class="rp-body">
 
-    <h2>2. מוצרים שלא ניתן להחזיר</h2>
-    <ul>
-      <li>מוצרי מזון פסידים</li>
-      <li>מוצרים שיוצרו במיוחד לפי הזמנה</li>
-      <li>תוכנות ותקליטורים שנפתחו</li>
-      <li>מוצרי היגיינה אישית שנפתחו</li>
-    </ul>
-
-    <h2>3. מוצר פגום</h2>
-    <p>במקרה של מוצר פגום או שונה מהמתואר, זכאים אתם להחזר מלא ללא דמי ביטול, כולל החזר דמי משלוח.</p>
-
-    <h2>4. יצירת קשר</h2>
-    <div class="contact-box">
-      <p>לביצוע החזרה או לשאלות:</p>
-      <p><strong>אימייל:</strong> <a href="mailto:gurimbakfar@gmail.com">gurimbakfar@gmail.com</a></p>
-      <p><strong>טלפון:</strong> <a href="tel:052-6662922">052-6662922</a></p>
-      <p><strong>כתובת:</strong> התאנה 9, בית שקמה, ישראל</p>
+    <div class="rp-intro">
+      גורים בכפר מחויבת לשביעות רצון לקוחותיה. מדיניות זו מפרטת את זכויותיכם להחזרת מוצרים בהתאם לחוק הגנת הצרכן.
     </div>
+
+    <div class="rp-section">
+      <h2 class="rp-section-title">1. זכות הביטול</h2>
+      <div class="rp-card">
+        <p style="margin:0 0 16px;">בהתאם לחוק הגנת הצרכן, עומדת לכם הזכות לבטל עסקה בתוך <strong>14 ימים</strong> מיום קבלת המוצר.</p>
+        <ul class="rp-list">
+          <li>לאזרחים ותיקים, עולים חדשים ואנשים עם מוגבלות — תקופת הביטול היא 4 חודשים</li>
+          <li>יש להחזיר את המוצר באריזתו המקורית</li>
+          <li>ההחזר הכספי יבוצע תוך 14 ימים מהודעת הביטול</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="rp-section">
+      <h2 class="rp-section-title">2. מוצרים שלא ניתן להחזיר</h2>
+      <div class="rp-card">
+        <ul class="rp-list">
+          <li>מוצרי מזון פסידים</li>
+          <li>מוצרים שיוצרו במיוחד לפי הזמנה</li>
+          <li>תוכנות ותקליטורים שנפתחו</li>
+          <li>מוצרי היגיינה אישית שנפתחו</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="rp-section">
+      <h2 class="rp-section-title">3. מוצר פגום</h2>
+      <div class="rp-card">
+        במקרה של מוצר פגום או שונה מהמתואר, זכאים אתם להחזר מלא ללא דמי ביטול, כולל החזר דמי משלוח.
+      </div>
+    </div>
+
+    <div class="rp-section">
+      <h2 class="rp-section-title">4. יצירת קשר</h2>
+      <div class="rp-contact">
+        <p class="rp-contact-title">לביצוע החזרה או לשאלות — אנחנו כאן בשבילכם:</p>
+        <div class="rp-contact-row">
+          <span class="rp-contact-icon"><i class="fas fa-envelope" style="color:#fff;font-size:14px;"></i></span>
+          <span><strong style="color:#fff;">אימייל:</strong>&nbsp;<a href="mailto:gurimbakfar@gmail.com">gurimbakfar@gmail.com</a></span>
+        </div>
+        <div class="rp-contact-row">
+          <span class="rp-contact-icon"><i class="fas fa-phone" style="color:#fff;font-size:14px;"></i></span>
+          <span><strong style="color:#fff;">טלפון:</strong>&nbsp;<a href="tel:052-6662922">052-6662922</a></span>
+        </div>
+        <div class="rp-contact-row">
+          <span class="rp-contact-icon"><i class="fas fa-map-marker-alt" style="color:#fff;font-size:14px;"></i></span>
+          <span><strong style="color:#fff;">כתובת:</strong>&nbsp;התאנה 9, בית שקמה, ישראל</span>
+        </div>
+      </div>
+    </div>
+
   </div>
 </section>
   </main>
