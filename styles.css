@@ -18264,6 +18264,161 @@ to { opacity: 1; transform: scale(1); } }
 to { opacity: 1; transform: perspective(400px) rotateY(0); } }
 to { opacity: 1; transform: rotate(0) scale(1); } }
 
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.index-hero-section,
+.index-services-section,
+.index-standards-section,
+.index-testimonials-section,
+.index-cta-section {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+}
+
+.index-hero-section.animate-in,
+.index-services-section.animate-in,
+.index-standards-section.animate-in,
+.index-testimonials-section.animate-in,
+.index-cta-section.animate-in {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@keyframes zappy-fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.index-hero-section,
+.index-services-section,
+.index-standards-section,
+.index-testimonials-section,
+.index-cta-section {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+}
+
+.index-hero-section.animate-in,
+.index-services-section.animate-in,
+.index-standards-section.animate-in,
+.index-testimonials-section.animate-in,
+.index-cta-section.animate-in {
+  opacity: 1 !important;
+  transform: translateY(0) !important;
+}
+
+.index-hero-section.animate-in h1,
+.index-hero-section.animate-in h2,
+.index-hero-section.animate-in h3 {
+  animation: zappy-fadeInUp 0.8s ease-out 0.1s both;
+}
+
+.index-hero-section.animate-in p {
+  animation: zappy-fadeInUp 0.8s ease-out 0.2s both;
+}
+
+.index-hero-section.animate-in .index-hero-ctas {
+  animation: zappy-fadeInUp 0.8s ease-out 0.35s both;
+}
+
+.index-services-section.animate-in .index-services-intro h2,
+.index-services-section.animate-in .index-services-intro h3 {
+  animation: zappy-fadeInUp 0.8s ease-out 0.1s both;
+}
+
+.index-services-section.animate-in .index-services-intro p {
+  animation: zappy-fadeInUp 0.8s ease-out 0.2s both;
+}
+
+.index-services-section.animate-in .index-service-card:nth-child(1) {
+  animation: zappy-fadeInUp 0.8s ease-out 0.15s both;
+}
+
+.index-services-section.animate-in .index-service-card:nth-child(2) {
+  animation: zappy-fadeInUp 0.8s ease-out 0.3s both;
+}
+
+.index-services-section.animate-in .index-service-card:nth-child(3) {
+  animation: zappy-fadeInUp 0.8s ease-out 0.45s both;
+}
+
+.index-standards-section.animate-in .index-standards-heading {
+  animation: zappy-fadeInUp 0.8s ease-out 0.1s both;
+}
+
+.index-standards-section.animate-in .index-standards-intro {
+  animation: zappy-fadeInUp 0.8s ease-out 0.2s both;
+}
+
+.index-standards-section.animate-in .index-standards-trust-item:nth-child(1) {
+  animation: zappy-fadeInUp 0.8s ease-out 0.1s both;
+}
+
+.index-standards-section.animate-in .index-standards-trust-item:nth-child(2) {
+  animation: zappy-fadeInUp 0.8s ease-out 0.22s both;
+}
+
+.index-standards-section.animate-in .index-standards-trust-item:nth-child(3) {
+  animation: zappy-fadeInUp 0.8s ease-out 0.34s both;
+}
+
+.index-standards-section.animate-in .index-standards-trust-item:nth-child(4) {
+  animation: zappy-fadeInUp 0.8s ease-out 0.46s both;
+}
+
+.index-standards-section.animate-in .index-standards-image-col {
+  animation: zappy-fadeInUp 0.8s ease-out 0.25s both;
+}
+
+.index-testimonials-section.animate-in .index-testimonials-header {
+  animation: zappy-fadeInUp 0.8s ease-out 0.1s both;
+}
+
+.index-testimonials-section.animate-in .index-testimonials-card:nth-child(1) {
+  animation: zappy-fadeInUp 0.8s ease-out 0.15s both;
+}
+
+.index-testimonials-section.animate-in .index-testimonials-card:nth-child(2) {
+  animation: zappy-fadeInUp 0.8s ease-out 0.3s both;
+}
+
+.index-testimonials-section.animate-in .index-testimonials-card:nth-child(3) {
+  animation: zappy-fadeInUp 0.8s ease-out 0.45s both;
+}
+
+.index-cta-section.animate-in .index-cta-heading {
+  animation: zappy-fadeInUp 0.8s ease-out 0.1s both;
+}
+
+.index-cta-section.animate-in .index-cta-subtext {
+  animation: zappy-fadeInUp 0.8s ease-out 0.2s both;
+}
+
+.index-cta-section.animate-in .index-cta-buttons {
+  animation: zappy-fadeInUp 0.8s ease-out 0.35s both;
+}
+
+.index-cta-section.animate-in .index-cta-footnote {
+  animation: zappy-fadeInUp 0.8s ease-out 0.45s both;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,

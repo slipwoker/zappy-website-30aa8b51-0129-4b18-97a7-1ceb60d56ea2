@@ -1613,7 +1613,65 @@
     <i class="fab fa-whatsapp"></i>
   </a>
   
-  <div data-integration="accessibility:toolbar"></div>
+  <script id="zappy-fadeinup-observer">
+  (function() {
+    function initFadeInUp() {
+      var sections = document.querySelectorAll(
+        '.index-hero-section, .index-services-section, .index-standards-section, .index-testimonials-section, .index-cta-section'
+      );
+
+      if (!sections.length) return;
+
+      var observer = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('animate-in');
+            observer.unobserve(entry.target);
+          }
+        });
+      }, {
+        threshold: 0.08,
+        rootMargin: '0px 0px -40px 0px'
+      });
+
+      sections.forEach(function(section) {
+        observer.observe(section);
+      });
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initFadeInUp);
+    } else {
+      initFadeInUp();
+    }
+  })();
+  </script>
+
+    <div data-integration="accessibility:toolbar"></div>
+  <script id="zappy-fadeinup-observer">
+  (function() {
+    function initFadeInUp() {
+      var sections = document.querySelectorAll(
+        '.index-hero-section, .index-services-section, .index-standards-section, .index-testimonials-section, .index-cta-section'
+      );
+      if (!sections.length) return;
+      var observer = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('animate-in');
+            observer.unobserve(entry.target);
+          }
+        });
+      }, { threshold: 0.08, rootMargin: '0px 0px -40px 0px' });
+      sections.forEach(function(section) { observer.observe(section); });
+    }
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initFadeInUp);
+    } else {
+      initFadeInUp();
+    }
+  })();
+  </script>
 
     <script src="/script.js"></script>
 
