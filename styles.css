@@ -2679,8 +2679,8 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .index-hero-section .index-hero-card {
-  background: rgba(255, 253, 248, 0.60) !important;
-  backdrop-filter: blur(6px) !important;
+  background: rgba(255, 253, 248, 0.55) !important;
+  backdrop-filter: blur(8px) !important;
   -webkit-backdrop-filter: blur(10px);
   border: 1px solid rgba(230, 224, 215, 0.7);
   border-radius: 8px;
@@ -14109,6 +14109,23 @@ main,
 .index-hero-section .index-hero-subtitle {
   margin-bottom: 12px !important;
   font-size: 0.9rem !important;
+}
+}
+
+@media (max-width: 768px) {
+.index-hero-section {
+  margin-top: -90px !important;
+  padding-top: 90px !important;
+  min-height: 100svh !important;
+}
+
+.index-hero-section .index-hero-bg {
+  top: 0 !important;
+  height: 100% !important;
+}
+
+body {
+  background-color: #1a2a22 !important;
 }
 }
 /* mobile-submenu-overflow-fix */
