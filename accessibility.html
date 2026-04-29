@@ -753,8 +753,121 @@
     </nav>
   
     <main>
-    <section class="legal-page-content accessibility-statement">
-  <div class="container">
+    <section class="legal-page-content accessibility-statement" style="padding:0;background:none;">
+  <style>
+    .lp-hero{background:#202124;padding:90px 24px 56px;text-align:center;position:relative;overflow:hidden;}
+    .lp-hero::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse at 65% 40%,rgba(47,107,79,.25) 0%,transparent 65%),radial-gradient(ellipse at 15% 80%,rgba(201,142,91,.12) 0%,transparent 60%);pointer-events:none;}
+    .lp-eyebrow{display:inline-block;font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#C98E5B;margin-bottom:14px;position:relative;z-index:1;}
+    .lp-hero h1{color:#fff!important;font-size:clamp(2rem,5vw,3rem)!important;font-weight:700!important;margin:0 0 14px!important;line-height:1.25!important;position:relative;z-index:1;}
+    .lp-hero-sub{color:rgba(255,255,255,.6);font-size:16px;max-width:500px;margin:0 auto;line-height:1.7;position:relative;z-index:1;}
+    .lp-wave{display:block;background:#202124;line-height:0;margin-top:-1px;}
+    .lp-body{background:#F7F3EC;padding:52px 24px 80px;}
+    .lp-inner{max-width:820px;margin:0 auto;}
+    .lp-badge{display:inline-flex;align-items:center;gap:8px;background:rgba(47,107,79,.1);border:1px solid rgba(47,107,79,.22);border-radius:999px;padding:6px 18px;font-size:13px;color:#2F6B4F;margin-bottom:28px;font-weight:600;}
+    .lp-badge::before{content:'';display:inline-block;width:7px;height:7px;background:#2F6B4F;border-radius:50%;flex-shrink:0;}
+    .lp-intro{font-size:15.5px;color:#4a4843;line-height:1.85;margin-bottom:28px;padding:22px 28px;background:#fff;border-radius:10px;border-right:4px solid #2F6B4F;box-shadow:0 2px 8px rgba(47,107,79,.07);}
+    .lp-compliance{background:rgba(47,107,79,.08);border:1px solid rgba(47,107,79,.2);border-radius:10px;padding:14px 22px;margin-bottom:24px;font-size:14px;color:#2F6B4F;font-weight:700;text-align:center;}
+    .lp-card{background:#fff;border:1px solid #E6E0D7;border-radius:12px;padding:28px 34px;margin-bottom:18px;box-shadow:0 2px 6px rgba(0,0,0,.04);transition:box-shadow .22s ease,border-color .22s ease;}
+    .lp-card:hover{box-shadow:0 8px 24px rgba(47,107,79,.1);border-color:rgba(47,107,79,.22);}
+    .lp-card h2{color:#2F6B4F!important;font-size:1.1rem!important;font-weight:700!important;margin:0 0 16px!important;padding-bottom:12px!important;border-bottom:2px solid rgba(47,107,79,.12)!important;display:flex!important;align-items:center!important;gap:12px!important;}
+    .lp-card h3{color:#2F6B4F!important;font-size:.95rem!important;font-weight:700!important;margin:12px 0 8px!important;}
+    .lp-num{display:inline-flex;align-items:center;justify-content:center;min-width:28px;height:28px;background:#2F6B4F;color:#fff;border-radius:50%;font-size:12px;font-weight:700;flex-shrink:0;}
+    .lp-card p{color:#202124!important;font-size:15px!important;line-height:1.8!important;margin:0 0 10px!important;}
+    .lp-card ul{margin:8px 0 0!important;padding:0!important;list-style:none!important;}
+    .lp-card ul li{position:relative;padding-right:22px;padding-bottom:8px;font-size:15px;color:#202124;line-height:1.75;}
+    .lp-card ul li::before{content:'';position:absolute;right:0;top:10px;width:7px;height:7px;border-radius:50%;background:#C98E5B;}
+    .lp-card ul li strong{color:#2F6B4F;}
+    .lp-card a{color:#2F6B4F;}
+    .lp-wcag-box{background:rgba(47,107,79,.05);border-radius:8px;padding:16px 20px;margin-top:12px;border:1px solid rgba(47,107,79,.1);}
+    .lp-contact{background:linear-gradient(135deg,#202124 0%,#2a2d30 100%)!important;border:1px solid rgba(201,142,91,.35)!important;position:relative;overflow:hidden;}
+    .lp-contact::after{content:'';position:absolute;top:-40px;left:-40px;width:220px;height:220px;background:radial-gradient(circle,rgba(201,142,91,.18) 0%,transparent 70%);pointer-events:none;}
+    .lp-contact h2{color:#C98E5B!important;border-bottom-color:rgba(201,142,91,.2)!important;}
+    .lp-contact .lp-num{background:#C98E5B!important;color:#202124!important;}
+    .lp-contact p,.lp-contact li{color:rgba(255,255,255,.8)!important;}
+    .lp-contact li::before{background:#C98E5B!important;}
+    .lp-contact a{color:#C98E5B!important;text-decoration:underline;}
+    .lp-contact strong{color:#fff!important;}
+  </style>
+  <div class="lp-hero">
+    <span class="lp-eyebrow">גורים בכפר</span>
+    <h1>הצהרת נגישות</h1>
+    <p class="lp-hero-sub">מחויבותנו לנגישות דיגיטלית עבור כלל הציבור</p>
+  </div>
+  <div class="lp-wave">
+    <svg viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;display:block;height:60px;"><path d="M0,60 L0,30 Q360,0 720,28 T1440,20 L1440,60 Z" fill="#F7F3EC"/></svg>
+  </div>
+  <div class="lp-body">
+    <div class="lp-inner">
+      <div class="lp-badge">עדכון אחרון: 22.4.2026</div>
+      <p class="lp-intro">גורים בכפר מחויבת להנגיש את השירותים לכלל הציבור. אנו פועלים ליישם את הנחיות התקן הישראלי (ת"י 5568) המבוסס על הנחיות WCAG 2.1 ברמת AA.</p>
+      <div class="lp-compliance">רמת נגישות: AA (תקן ישראלי ת"י 5568)</div>
+      <div class="lp-card">
+        <h2><span class="lp-num">1</span> מדיניות הנגישות</h2>
+        <p>אנו מאמינים בשוויון זכויות ובזכותו של כל אדם לקבל מידע ושירותים בצורה עצמאית ושוויונית. אתר זה תוכנן ונבנה תוך מתן דגש מיוחד על נגישות לאנשים עם מוגבלויות.</p>
+      </div>
+      <div class="lp-card">
+        <h2><span class="lp-num">2</span> הסדרי הנגישות באתר</h2>
+        <ul>
+          <li>תמיכה בניווט באמצעות מקלדת</li>
+          <li>תמיכה בקוראי מסך</li>
+          <li>ניגודיות צבעים מתאימה</li>
+          <li>גדלי פונט גמישים וניתנים להגדלה</li>
+          <li>תיאורי תמונות (Alt text) מפורטים</li>
+          <li>כותרות מובנות היררכית</li>
+          <li>קישורים תיאוריים וברורים</li>
+          <li>תמיכה בזום עד 200% ללא אובדן תוכן</li>
+        </ul>
+        <div class="lp-wcag-box">
+          <h3>תאימות לתקן WCAG 2.1</h3>
+          <p>האתר תואם לרמת AA של תקן WCAG 2.1, הכולל:</p>
+          <ul>
+            <li><strong>נתפס (Perceivable):</strong> המידע מוצג בדרכים שמשתמשים יכולים לתפוס</li>
+            <li><strong>פעיל (Operable):</strong> רכיבי הממשק ניתנים להפעלה</li>
+            <li><strong>מובן (Understandable):</strong> המידע וממשק המשתמש מובנים</li>
+            <li><strong>חזק (Robust):</strong> התוכן יכול להיות מפוענח על ידי מגוון טכנולוגיות</li>
+          </ul>
+        </div>
+      </div>
+      <div class="lp-card">
+        <h2><span class="lp-num">3</span> טכנולוגיות מסייעות נתמכות</h2>
+        <ul>
+          <li>NVDA (Windows)</li>
+          <li>JAWS (Windows)</li>
+          <li>VoiceOver (Mac/iOS)</li>
+          <li>TalkBack (Android)</li>
+          <li>Dragon NaturallySpeaking</li>
+          <li>Switch navigation</li>
+        </ul>
+      </div>
+      <div class="lp-card">
+        <h2><span class="lp-num">4</span> בדיקות נגישות</h2>
+        <p>האתר נבדק באמצעות:</p>
+        <ul>
+          <li>כלים אוטומטיים לבדיקת נגישות</li>
+          <li>בדיקות ידניות עם קוראי מסך</li>
+          <li>ניווט באמצעות מקלדת בלבד</li>
+          <li>בדיקת ניגודיות צבעים</li>
+          <li>בדיקה עם משתמשים עם מוגבלויות</li>
+        </ul>
+      </div>
+      <div class="lp-card">
+        <h2><span class="lp-num">5</span> שיפורים מתמשכים</h2>
+        <p>אנו עובדים באופן מתמשך לשיפור נגישות האתר ומעדכנים אותו בהתאם להתפתחויות טכנולוגיות ולמשוב מהמשתמשים.</p>
+      </div>
+      <div class="lp-card lp-contact">
+        <h2><span class="lp-num">6</span> יצירת קשר ומשוב</h2>
+        <p>אם נתקלתם בבעיית נגישות באתר או זקוקים לסיוע, אנא פנו אלינו:</p>
+        <ul>
+          <li><strong>חברה:</strong> גורים בכפר</li>
+          <li><strong>אימייל:</strong> <a href="mailto:gurimbakfar@gmail.com">gurimbakfar@gmail.com</a></li>
+          <li><strong>טלפון:</strong> <a href="tel:052-6662922">052-6662922</a></li>
+        </ul>
+        <p><strong>זמני מענה:</strong> נענה לפניות בנושא נגישות תוך 3 ימי עסקים ונפעל לפתרון תוך 10 ימי עסקים.</p>
+        <p><strong>תלונות:</strong> ניתן להגיש תלונה למשרד המשפטים - הנציבות לשוויון זכויות לאנשים עם מוגבלות</p>
+      </div>
+    </div>
+  </div>
+  <div style="display:none" class="container">
 
         <h1>הצהרת נגישות</h1>
         
