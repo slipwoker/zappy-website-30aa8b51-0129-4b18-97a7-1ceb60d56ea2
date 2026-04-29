@@ -18798,6 +18798,24 @@ body:has(.products-section) .navbar .mobile-toggle {
   color: rgba(255, 253, 248, 0.88) !important;
 }
 }
+
+@media (max-width: 768px) {
+.index-hero-section .index-hero-card {
+  background: transparent !important;
+  backdrop-filter: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.index-hero-section .index-hero-card h1,
+  .index-hero-section .index-hero-card h3 {
+  color: #FFFFFF !important;
+}
+
+.index-hero-section .index-hero-card .index-hero-subtitle {
+  color: rgba(255, 253, 248, 0.88) !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
