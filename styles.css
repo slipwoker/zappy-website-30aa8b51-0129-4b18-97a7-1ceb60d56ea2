@@ -18883,6 +18883,12 @@ body:has(.products-section) .navbar .mobile-toggle {
   background-color: rgba(255, 255, 255, 0.4) !important;
 }
 }
+
+@media (max-width: 768px) {
+.new-puppy-guide-hero-section .nph-bg-img {
+  object-position: center center !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
