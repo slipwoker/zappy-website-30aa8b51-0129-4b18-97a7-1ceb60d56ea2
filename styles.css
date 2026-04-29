@@ -18847,6 +18847,42 @@ body:has(.products-section) .navbar .mobile-toggle {
   pointer-events: none !important;
 }
 }
+
+@media (max-width: 768px) {
+.new-puppy-guide-hero-section .nph-glass-card {
+  background: transparent;
+  backdrop-filter: none;
+  border: none;
+  box-shadow: none;
+}
+
+.new-puppy-guide-hero-section .nph-headline,
+  .new-puppy-guide-hero-section .nph-subtitle {
+  color: #FFFFFF !important;
+}
+}
+
+@media (max-width: 768px) {
+.new-puppy-guide-hero-section .nph-glass-card {
+  background: transparent !important;
+  background-color: transparent !important;
+  backdrop-filter: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.new-puppy-guide-hero-section .nph-headline {
+  color: #FFFFFF !important;
+}
+
+.new-puppy-guide-hero-section .nph-subtitle {
+  color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.new-puppy-guide-hero-section .nph-card-divider {
+  background-color: rgba(255, 255, 255, 0.4) !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
