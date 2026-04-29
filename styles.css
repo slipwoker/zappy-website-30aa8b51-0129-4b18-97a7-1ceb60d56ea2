@@ -2805,22 +2805,27 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 /* ── MOBILE ─────────────────────────────────────────────────────────── */
 @media (max-width: 768px) {
   .index-hero-section {
-    min-height: 100svh;
-    align-items: flex-end;
-    padding-bottom: 70px;
-    padding-top: 100px;
-  }
+  min-height: 100svh;
+  align-items: flex-end !important;
+  padding-bottom: 0 !important;
+  padding-top: 100px;
+}
 
   .index-hero-section .index-hero-content-wrap {
-    padding: 0 16px 20px;
-    justify-content: center;
-  }
+  padding: 0 16px 20px;
+  justify-content: center;
+  align-items: flex-end !important;
+  padding-bottom: 0px !important;
+}
 
   .index-hero-section .index-hero-card {
-    padding: 28px 22px 26px;
-    max-width: 100%;
-    border-radius: 8px;
-  }
+  padding: 16px 18px 20px !important;
+  max-width: 100%;
+  border-radius: 16px 16px 0 0 !important;
+  max-height: 45vh !important;
+  overflow-y: auto !important;
+  background: rgba(255, 253, 248, 0.97) !important;
+}
 
   .index-hero-section .index-hero-h1 {
     font-size: 2.1rem;
