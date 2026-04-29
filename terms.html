@@ -753,8 +753,137 @@
     </nav>
   
     <main>
-    <section class="legal-page-content terms-conditions">
-  <div class="container">
+    <section class="legal-page-content terms-conditions" style="padding:0;background:none;">
+  <style>
+    .lp-hero{background:#202124;padding:90px 24px 56px;text-align:center;position:relative;overflow:hidden;}
+    .lp-hero::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse at 65% 40%,rgba(47,107,79,.25) 0%,transparent 65%),radial-gradient(ellipse at 15% 80%,rgba(201,142,91,.12) 0%,transparent 60%);pointer-events:none;}
+    .lp-eyebrow{display:inline-block;font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#C98E5B;margin-bottom:14px;position:relative;z-index:1;}
+    .lp-hero h1{color:#fff!important;font-size:clamp(2rem,5vw,3rem)!important;font-weight:700!important;margin:0 0 14px!important;line-height:1.25!important;position:relative;z-index:1;}
+    .lp-hero-sub{color:rgba(255,255,255,.6);font-size:16px;max-width:500px;margin:0 auto;line-height:1.7;position:relative;z-index:1;}
+    .lp-wave{display:block;background:#202124;line-height:0;margin-top:-1px;}
+    .lp-body{background:#F7F3EC;padding:52px 24px 80px;}
+    .lp-inner{max-width:820px;margin:0 auto;}
+    .lp-badge{display:inline-flex;align-items:center;gap:8px;background:rgba(47,107,79,.1);border:1px solid rgba(47,107,79,.22);border-radius:999px;padding:6px 18px;font-size:13px;color:#2F6B4F;margin-bottom:28px;font-weight:600;}
+    .lp-badge::before{content:'';display:inline-block;width:7px;height:7px;background:#2F6B4F;border-radius:50%;flex-shrink:0;}
+    .lp-notice{background:rgba(201,142,91,.12);border:1px solid rgba(201,142,91,.3);border-radius:10px;padding:18px 24px;margin-bottom:24px;font-size:15px;color:#5a4020;line-height:1.7;font-weight:500;}
+    .lp-card{background:#fff;border:1px solid #E6E0D7;border-radius:12px;padding:28px 34px;margin-bottom:18px;box-shadow:0 2px 6px rgba(0,0,0,.04);transition:box-shadow .22s ease,border-color .22s ease;}
+    .lp-card:hover{box-shadow:0 8px 24px rgba(47,107,79,.1);border-color:rgba(47,107,79,.22);}
+    .lp-card h2{color:#2F6B4F!important;font-size:1.1rem!important;font-weight:700!important;margin:0 0 16px!important;padding-bottom:12px!important;border-bottom:2px solid rgba(47,107,79,.12)!important;display:flex!important;align-items:center!important;gap:12px!important;}
+    .lp-num{display:inline-flex;align-items:center;justify-content:center;min-width:28px;height:28px;background:#2F6B4F;color:#fff;border-radius:50%;font-size:12px;font-weight:700;flex-shrink:0;}
+    .lp-card p{color:#202124!important;font-size:15px!important;line-height:1.8!important;margin:0 0 10px!important;}
+    .lp-card ul{margin:8px 0 0!important;padding:0!important;list-style:none!important;}
+    .lp-card ul li{position:relative;padding-right:22px;padding-bottom:8px;font-size:15px;color:#202124;line-height:1.75;}
+    .lp-card ul li::before{content:'';position:absolute;right:0;top:10px;width:7px;height:7px;border-radius:50%;background:#C98E5B;}
+    .lp-card ul li strong{color:#2F6B4F;}
+    .lp-card a{color:#2F6B4F;}
+    .lp-contact{background:linear-gradient(135deg,#202124 0%,#2a2d30 100%)!important;border:1px solid rgba(201,142,91,.35)!important;position:relative;overflow:hidden;}
+    .lp-contact::after{content:'';position:absolute;top:-40px;left:-40px;width:220px;height:220px;background:radial-gradient(circle,rgba(201,142,91,.18) 0%,transparent 70%);pointer-events:none;}
+    .lp-contact h2{color:#C98E5B!important;border-bottom-color:rgba(201,142,91,.2)!important;}
+    .lp-contact .lp-num{background:#C98E5B!important;color:#202124!important;}
+    .lp-contact p,.lp-contact li{color:rgba(255,255,255,.8)!important;}
+    .lp-contact li::before{background:#C98E5B!important;}
+    .lp-contact a{color:#C98E5B!important;text-decoration:underline;}
+    .lp-contact strong{color:#fff!important;}
+  </style>
+  <div class="lp-hero">
+    <span class="lp-eyebrow">גורים בכפר</span>
+    <h1>תנאי שימוש</h1>
+    <p class="lp-hero-sub">הזכויות והחובות של המשתמשים באתרנו</p>
+  </div>
+  <div class="lp-wave">
+    <svg viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;display:block;height:60px;"><path d="M0,60 L0,30 Q360,0 720,28 T1440,20 L1440,60 Z" fill="#F7F3EC"/></svg>
+  </div>
+  <div class="lp-body">
+    <div class="lp-inner">
+      <div class="lp-badge">עדכון אחרון: 22.4.2026</div>
+      <div class="lp-notice">השימוש באתר זה מהווה הסכמה לתנאי השימוש המפורטים להלן. אנא קראו בעיון לפני השימוש.</div>
+      <div class="lp-card">
+        <h2><span class="lp-num">1</span> הגדרות</h2>
+        <ul>
+          <li><strong>"החברה"</strong> - גורים בכפר</li>
+          <li><strong>"המשתמש"</strong> - כל מי שגולש או משתמש באתר</li>
+          <li><strong>"השירותים"</strong> - שירותי חיות מחמד הניתנים דרך האתר</li>
+        </ul>
+      </div>
+      <div class="lp-card">
+        <h2><span class="lp-num">2</span> תיאור השירותים</h2>
+        <p>גורים בכפר מספקת שירותי חיות מחמד דרך האתר. השירותים כפופים לתנאים המפורטים במסמך זה ועשויים להשתנות מעת לעת.</p>
+      </div>
+      <div class="lp-card">
+        <h2><span class="lp-num">3</span> תנאי השימוש</h2>
+        <p>השימוש באתר מותנה בעמידה בתנאים הבאים:</p>
+        <ul>
+          <li>השימוש באתר למטרות חוקיות בלבד</li>
+          <li>אי-הפרעה לפעילות האתר או משתמשים אחרים</li>
+          <li>אי-העלאת תוכן פוגעני, לא חוקי או מזיק</li>
+          <li>כיבוד זכויות יוצרים וקניין רוחני</li>
+          <li>אי-ביצוע פעולות שעלולות לפגוע באבטחת האתר</li>
+        </ul>
+      </div>
+      <div class="lp-card">
+        <h2><span class="lp-num">4</span> חובות המשתמש</h2>
+        <ul>
+          <li>מתן מידע נכון ומדויק בעת הרשמה או הזמנה</li>
+          <li>שמירה על סודיות פרטי הגישה לחשבון</li>
+          <li>הודעה מיידית על כל שימוש לא מורשה בחשבון</li>
+          <li>עדכון מידע אישי במידת הצורך</li>
+        </ul>
+      </div>
+      <div class="lp-card">
+        <h2><span class="lp-num">5</span> מדיניות תשלומים והחזרים</h2>
+        <p>במידה והשירותים כוללים תשלום:</p>
+        <ul>
+          <li>התשלומים מבוצעים דרך מערכות בטוחות ומוצפנות</li>
+          <li>המחירים כוללים מע"מ כנדרש בחוק</li>
+          <li>זכות ביטול עסקה תעמוד בהתאם לחוק הגנת הצרכן</li>
+          <li>החזרים יבוצעו תוך 14 ימי עסקים מאישור הביטול</li>
+        </ul>
+      </div>
+      <div class="lp-card">
+        <h2><span class="lp-num">6</span> הגבלת אחריות</h2>
+        <p>השירותים ניתנים "כפי שהם" ללא אחריות מכל סוג. החברה לא תהיה אחראית לנזקים עקיפים, תוצאתיים או מיוחדים הנובעים משימוש באתר, למעט במקרים בהם החוק קובע אחרת.</p>
+      </div>
+      <div class="lp-card">
+        <h2><span class="lp-num">7</span> זכויות יוצרים וקניין רוחני</h2>
+        <p>כל התכנים באתר, כולל טקסטים, תמונות, עיצוב וקוד, מוגנים בזכויות יוצרים השייכות לגורים בכפר. אסור לשכפל, להפיץ או לעשות שימוש מסחרי בתכנים ללא אישור בכתב.</p>
+      </div>
+      <div class="lp-card">
+        <h2><span class="lp-num">8</span> פרטיות</h2>
+        <p>איסוף ושימוש במידע אישי כפופים למדיניות הפרטיות שלנו. השימוש באתר מהווה הסכמה למדיניות הפרטיות כפי שמפורט בנפרד.</p>
+      </div>
+      <div class="lp-card">
+        <h2><span class="lp-num">9</span> שינוי תנאי השימוש</h2>
+        <p>החברה רשאית לשנות תנאי שימוש אלה בכל עת. שינויים מהותיים יפורסמו באתר עם הודעה מוקדמת של 30 יום. המשך השימוש לאחר השינוי מהווה הסכמה לתנאים החדשים.</p>
+      </div>
+      <div class="lp-card">
+        <h2><span class="lp-num">10</span> סיום השירות</h2>
+        <p>החברה רשאית להפסיק או להגביל את השירות בכל עת, לרבות במקרה של הפרת תנאי השימוש. במקרה של סיום השירות, יישמרו הוראות הסעיפים הרלוונטיים.</p>
+      </div>
+      <div class="lp-card">
+        <h2><span class="lp-num">11</span> דין חל ויישוב סכסוכים</h2>
+        <p>תנאי שימוש אלה כפופים לחוקי מדינת ישראל. כל סכסוך יידון בבתי המשפט המוסמכים בישראל, תוך מתן עדיפות לבוררות או גישור במידת האפשר.</p>
+      </div>
+      <div class="lp-card">
+        <h2><span class="lp-num">12</span> הוראות כלליות</h2>
+        <ul>
+          <li>אם חלק מהתנאים יוכרז כבלתי תקף, יישארו שאר התנאים בתוקף</li>
+          <li>אי-אכיפה של זכות לא תחשב כוויתור עליה</li>
+          <li>תנאי השימוש מהווים את מלוא ההסכם בין הצדדים</li>
+        </ul>
+      </div>
+      <div class="lp-card lp-contact">
+        <h2><span class="lp-num">13</span> פרטי יצירת קשר</h2>
+        <p>לשאלות או הבהרות בנוגע לתנאי השימוש:</p>
+        <ul>
+          <li><strong>חברה:</strong> גורים בכפר</li>
+          <li><strong>אימייל:</strong> <a href="mailto:gurimbakfar@gmail.com">gurimbakfar@gmail.com</a></li>
+          <li><strong>טלפון:</strong> <a href="tel:052-6662922">052-6662922</a></li>
+          <li><strong>כתובת:</strong> התאנה 9, בית שקמה, ישראל</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div style="display:none" class="container">
 
         <h1>תנאי שימוש</h1>
         
