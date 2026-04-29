@@ -48,6 +48,10 @@ https://gurimbakfar.co.il/product/:slug
 https://gurimbakfar.co.il/category/:slug
 מוצרים - גורים בכפר
 
+### מדריך לטיפול בגור חדש
+https://gurimbakfar.co.il/new-puppy-guide
+גורים בכפר - מדריך לטיפול בגור חדש
+
 ## Legal & Policy
 
 ### Privacy Policy
