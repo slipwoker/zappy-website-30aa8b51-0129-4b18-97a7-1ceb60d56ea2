@@ -2722,6 +2722,86 @@
   
   <div data-integration="accessibility:toolbar"></div>
 
+  <script id="zappy-nrg-fadeinup-animation">
+  (function() {
+    // Inject keyframe + base styles
+    var styleEl = document.createElement('style');
+    styleEl.id = 'zappy-nrg-fadeinup-styles';
+    styleEl.textContent =
+      '@keyframes nrgFadeInUp {' +
+        'from { opacity: 0; transform: translateY(30px); }' +
+        'to   { opacity: 1; transform: translateY(0);    }' +
+      '}' +
+      '@media (prefers-reduced-motion: reduce) {' +
+        '.nrg-fiu-ready { opacity: 1 !important; transform: none !important; animation: none !important; }' +
+      '}';
+    document.head.appendChild(styleEl);
+
+    // Child selectors to stagger inside each section
+    var CHILD_SEL = 'h1, h2, h3, p, a[class*="btn"], a[class*="nph-btn"], a[class*="npg-btn"], button[class*="btn"], .npg-service-card, .faq-block, .npg-sub-block, .npg-info-card';
+
+    function hideEl(el, ty) {
+      el.style.opacity = '0';
+      el.style.transform = 'translateY(' + (ty || 30) + 'px)';
+      el.style.willChange = 'opacity, transform';
+    }
+
+    function animateEl(el, dur, easing, delay) {
+      el.style.animation = 'nrgFadeInUp ' + dur + 's ' + easing + ' ' + delay + 's forwards';
+    }
+
+    function onSectionVisible(section) {
+      // Animate the section wrapper itself
+      animateEl(section, 0.8, 'ease-out', 0);
+
+      // Stagger child elements
+      var children = Array.prototype.slice.call(section.querySelectorAll(CHILD_SEL));
+      children.forEach(function(child, i) {
+        if (child.dataset.nrgFiuDone) return;
+        child.dataset.nrgFiuDone = '1';
+        var delay = Math.min(0.12 + i * 0.08, 0.72);
+        hideEl(child, 20);
+        setTimeout(function() {
+          animateEl(child, 0.8, 'ease-out', delay);
+        }, 60);
+      });
+    }
+
+    function init() {
+      // Select all main content sections
+      var sections = document.querySelectorAll(
+        '.new-puppy-guide-hero-section, ' +
+        '.new-puppy-guide-services-section, ' +
+        '.new-puppy-guide-about-section, ' +
+        '.new-puppy-guide-faq-section, ' +
+        '.new-puppy-guide-cta-section'
+      );
+
+      if (!sections.length) return;
+
+      var observer = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+          if (entry.isIntersecting) {
+            onSectionVisible(entry.target);
+            observer.unobserve(entry.target);
+          }
+        });
+      }, { threshold: 0.07, rootMargin: '0px 0px -40px 0px' });
+
+      sections.forEach(function(section) {
+        hideEl(section, 30);
+        observer.observe(section);
+      });
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', init);
+    } else {
+      setTimeout(init, 80);
+    }
+  })();
+  </script>
+
     <script src="/script.js"></script>
 
     <script id="zappy-mobile-submenu-script">
