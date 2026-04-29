@@ -12,35 +12,35 @@ https://gurimbakfar.co.il
 https://gurimbakfar.co.il/our-cubs
 בית גידול כלבים למכירה עם גורים בריאים, מחוסנים ומלאי אהבה. גורים בכפר מגדל בסטנדרטים הגבוהים ביותר כדי שהגור הבא שלכם יגיע אליכם מוכן ומאושר.
 
-### מוצרים
+### Products
 https://gurimbakfar.co.il/products
 המוצרים שלנו - גורים בכפר
 
-### עגלת קניות
+### Cart
 https://gurimbakfar.co.il/cart
 עגלת הקניות שלך
 
-### תשלום
+### Checkout
 https://gurimbakfar.co.il/checkout
 תשלום
 
-### התחברות
+### Login
 https://gurimbakfar.co.il/login
 התחברות לקוחות
 
-### החשבון שלי
+### Account
 https://gurimbakfar.co.il/account
 החשבון שלי
 
-### ההזמנה התקבלה!
+### Order Success
 https://gurimbakfar.co.il/order-success
 תודה על ההזמנה
 
-### פרטי המוצר
+### Product Detail
 https://gurimbakfar.co.il/product/:slug
 פרטי המוצר - גורים בכפר
 
-### מוצרים
+### Category
 https://gurimbakfar.co.il/category/:slug
 מוצרים - גורים בכפר
 
