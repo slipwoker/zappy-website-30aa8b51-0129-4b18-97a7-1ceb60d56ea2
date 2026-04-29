@@ -18608,6 +18608,44 @@ body:has(.products-section) .navbar .nav-menu a:hover,
 body:has(.products-section) .navbar .nav-menu li a:hover {
   color: var(--nav-text-hover) !important;
 }
+
+.products-section ~ * .navbar .nav-menu a,
+body:has(.products-section) .navbar .nav-menu a,
+body:has(.products-section) .navbar.scrolled .nav-menu a {
+  color: #FFFFFF !important;
+}
+
+body:has(.products-section) .navbar .nav-menu a:hover {
+  color: var(--nav-text-hover, var(--accent-color)) !important;
+}
+
+body:has(.products-section) .navbar .nav-menu a {
+  color: #FFFFFF !important;
+}
+
+body:has(.products-section) .navbar .nav-menu li a {
+  color: #FFFFFF !important;
+}
+
+body:has(.products-section) .navbar .phone-header-btn {
+  color: #FFFFFF !important;
+}
+
+body:has(.products-section) .navbar .nav-login {
+  color: #FFFFFF !important;
+}
+
+body:has(.products-section) .navbar .nav-cart {
+  color: #FFFFFF !important;
+}
+
+body:has(.products-section) .navbar .nav-search-btn {
+  color: #FFFFFF !important;
+}
+
+body:has(.products-section) .navbar .mobile-toggle {
+  color: #FFFFFF !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
