@@ -14037,6 +14037,20 @@ main,
   height: 40px !important;
 }
 }
+
+@media (max-width: 768px) {
+.index-hero-section .index-hero-bg img {
+  object-position: 20% 75% !important;
+  object-fit: cover !important;
+  transform: scale(0.85) !important;
+  transform-origin: center bottom !important;
+}
+
+.index-hero-section .index-hero-card {
+  background: rgba(255, 253, 248, 0.97) !important;
+  backdrop-filter: blur(4px) !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
