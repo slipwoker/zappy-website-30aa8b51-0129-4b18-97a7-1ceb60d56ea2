@@ -1213,7 +1213,7 @@
 
 
 
-<section class="hero-gpv hero-gpv--main" aria-label="בית גידול מוסמך גורים בכפר" id="hero-gpv" style="opacity: 1; margin-top: -90px !important; padding-top: 160px">
+<section class="hero-gpv hero-gpv--main" aria-label="בית גידול מוסמך גורים בכפר" id="hero-gpv" style="margin-top: -90px !important; padding-top: 160px;">
   <div class="hero-gpv__container">
     <!-- Text Content (Right side in RTL) -->
     <div class="hero-gpv__content">
@@ -1368,7 +1368,7 @@
       
     </div>
   </div>
-</section><section class="puppies-journey-section" data-layout-spec="גורים ורבייה-journey" dir="rtl" id="puppies-journey-section">
+</section><section class="puppies-journey-section" data-layout-spec="גורים ורבייה-journey" dir="rtl" id="puppies-journey-section" style="transform: none; opacity: 1; animation: none; visibility: visible">
   <div class="puppies-journey-container">
     <div class="puppies-journey-header">
       <div class="zappy-inserted-element" id="zappy-element-1777382883724-gr17rckkf" data-element-id="zappy-element-1777382883724-gr17rckkf" data-element-type="h2" style="width: 100%;"><h2 class="font-bold" data-element-type="h2" data-element-id="zappy-element-1777382883724-gr17rckkf" id="zappy-element-1777382883724-gr17rckkf" style="text-align: center; max-width: none;" data-zappy-text-width="full"></h2><h3 ><font color="#2f6b4f">הפילוסופיה שלנו</font></h3></div><h2 class="puppies-journey-title" >מהרגע הראשון ועד הבית שלכם</h2>
@@ -1404,7 +1404,7 @@
   </div>
 </section>
 
-<section class="gcv-why-section" dir="rtl" lang="he" aria-labelledby="gcv-why-title" id="zappy-section-4" style="background-color:#F7F3EC; font-family:system-ui,sans-serif; direction:rtl; padding:0; overflow:hidden;">
+<section class="gcv-why-section" dir="rtl" lang="he" aria-labelledby="gcv-why-title" id="zappy-section-4" style="background-color: #F7F3EC; font-family: system-ui,sans-serif; direction: rtl; padding: 0; overflow: hidden; opacity: 1; transform: none; animation: none; visibility: visible">
 
   <!-- Section Header -->
   <div style="max-width:1160px; margin:0 auto; padding:72px 24px 0;">
@@ -1609,7 +1609,88 @@
     <i class="fab fa-whatsapp"></i>
   </a>
   
-  <div data-integration="accessibility:toolbar"></div>
+  <script id="zappy-fadeinup-animation">
+  (function() {
+    // Inject keyframe CSS into the document
+    var styleEl = document.createElement('style');
+    styleEl.id = 'zappy-fadeinup-styles';
+    styleEl.textContent = [
+      '@keyframes zappyFadeInUp {',
+      '  from { opacity: 0; transform: translateY(30px); }',
+      '  to   { opacity: 1; transform: translateY(0);    }',
+      '}',
+      '@media (prefers-reduced-motion: reduce) {',
+      '  .zappy-fiu { opacity: 1 !important; transform: none !important; animation: none !important; }',
+      '}'
+    ].join('\n');
+    document.head.appendChild(styleEl);
+
+    function applyAnimation(el, delay) {
+      el.style.opacity = '0';
+      el.style.transform = 'translateY(30px)';
+      el.style.willChange = 'opacity, transform';
+      el.dataset.fiuDelay = delay || '0';
+    }
+
+    function triggerAnimation(el) {
+      var delay = parseFloat(el.dataset.fiuDelay) || 0;
+      el.style.animation = 'zappyFadeInUp 0.8s ease-out ' + delay + 's forwards';
+    }
+
+    function initAnimations() {
+      // Target all main content sections
+      var sections = document.querySelectorAll(
+        'main > section, main > .breeds-section, main > .puppies-journey-section, main > .gcv-why-section'
+      );
+
+      var observer = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+          if (entry.isIntersecting) {
+            triggerAnimation(entry.target);
+            // Stagger child elements
+            var children = entry.target.querySelectorAll(
+              'h1, h2, h3, p, a[class*="btn"], button[class*="btn"], .breed-card, .puppies-journey-card, [class*="stat"], [class*="trust"]'
+            );
+            children.forEach(function(child, i) {
+              var childDelay = 0.1 + (i * 0.08);
+              if (childDelay > 0.64) childDelay = 0.64; // cap at 8 steps
+              // Only animate if not already animated
+              if (!child.dataset.fiuDone) {
+                child.dataset.fiuDone = '1';
+                var origOpacity = child.style.opacity;
+                child.style.opacity = '0';
+                child.style.transform = 'translateY(20px)';
+                child.style.willChange = 'opacity, transform';
+                setTimeout(function(c, d) {
+                  return function() {
+                    c.style.animation = 'zappyFadeInUp 0.7s ease-out ' + d + 's forwards';
+                  };
+                }(child, childDelay), 50);
+              }
+            });
+            observer.unobserve(entry.target);
+          }
+        });
+      }, { threshold: 0.08, rootMargin: '0px 0px -40px 0px' });
+
+      sections.forEach(function(section, i) {
+        // Hero section starts visible (no delay), rest get slight entrance delay
+        var sectionDelay = i === 0 ? 0 : 0.05;
+        applyAnimation(section, sectionDelay);
+        observer.observe(section);
+      });
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initAnimations);
+    } else {
+      // Small delay to let page render first
+      setTimeout(initAnimations, 100);
+    }
+  })();
+  </script>
+
+    <div data-integration="accessibility:toolbar"></div>
 
     <script src="/script.js"></script>
 
