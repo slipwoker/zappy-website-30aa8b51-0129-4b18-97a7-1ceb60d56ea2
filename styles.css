@@ -18895,6 +18895,13 @@ body:has(.products-section) .navbar .mobile-toggle {
   object-position: center center !important;
 }
 }
+
+.navbar.scrolled {
+  background-color: transparent !important;
+  background: transparent !important;
+  backdrop-filter: none !important;
+  box-shadow: none !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
