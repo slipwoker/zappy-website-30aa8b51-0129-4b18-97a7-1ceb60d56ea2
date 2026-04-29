@@ -18250,6 +18250,10 @@ main,
 }
 
 /* ==END ZAPPY V2 E-COMMERCE THEME CSS== */
+
+.fiu-section.fiu-animate {
+  animation: fadeInUp 0.8s ease-out forwards;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
