@@ -18701,13 +18701,6 @@ body:has(.products-section) .navbar .mobile-toggle {
   content: '';
   transform: scaleX(1) !important;
 }
-
-body.page-our-cubs .navbar,
-html[data-page="/our-cubs"] .navbar {
-  background-color: transparent !important;
-  background: linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0)) !important;
-  box-shadow: none !important;
-}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
