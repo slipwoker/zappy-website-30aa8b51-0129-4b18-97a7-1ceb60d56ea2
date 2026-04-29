@@ -18419,6 +18419,59 @@ to { opacity: 1; transform: rotate(0) scale(1); } }
 .index-cta-section.animate-in .index-cta-footnote {
   animation: zappy-fadeInUp 0.8s ease-out 0.45s both;
 }
+
+@keyframes zappy-fade-in { from { opacity: 0; } to { opacity: 1; } }
+@keyframes zappy-slide-up { from { opacity: 0; transform: translateY(30px); } to { opacity: 1; transform: translateY(0); } }
+@keyframes zappy-slide-left { from { opacity: 0; transform: translateX(-30px); } to { opacity: 1; transform: translateX(0); } }
+@keyframes zappy-slide-right { from { opacity: 0; transform: translateX(30px); } to { opacity: 1; transform: translateX(0); } }
+@keyframes zappy-zoom-in { from { opacity: 0; transform: scale(0.9); } to { opacity: 1; transform: scale(1); } }
+@keyframes zappy-bounce { 0% { opacity: 0; transform: translateY(30px); } 60% { opacity: 1; transform: translateY(-5px); } 100% { transform: translateY(0); } }
+@keyframes zappy-flip { from { opacity: 0; transform: perspective(400px) rotateY(90deg); } to { opacity: 1; transform: perspective(400px) rotateY(0); } }
+@keyframes zappy-rotate-in { from { opacity: 0; transform: rotate(-10deg) scale(0.95); } to { opacity: 1; transform: rotate(0) scale(1); } }
+[data-zappy-animate] { opacity: 0; }
+[data-zappy-animate].zappy-animated { opacity: 1; }
+
+
+.breeds-section.fiu-visible h2,
+.breeds-section.fiu-visible h3,
+.puppies-journey-section.fiu-visible h2,
+.puppies-journey-section.fiu-visible h3,
+.gcv-why-section.fiu-visible h2,
+.gcv-why-section.fiu-visible h3 {
+  animation: fadeInUpOurCubs 0.8s ease-out 0.1s both;
+}
+
+.breeds-section.fiu-visible p,
+.puppies-journey-section.fiu-visible p,
+.gcv-why-section.fiu-visible p {
+  animation: fadeInUpOurCubs 0.8s ease-out 0.2s both;
+}
+
+.breeds-section.fiu-visible .breed-card:nth-child(1),
+.puppies-journey-section.fiu-visible .puppies-journey-card:nth-child(1) {
+  animation: fadeInUpOurCubs 0.8s ease-out 0.15s both;
+}
+
+.breeds-section.fiu-visible .breed-card:nth-child(2),
+.puppies-journey-section.fiu-visible .puppies-journey-card:nth-child(2) {
+  animation: fadeInUpOurCubs 0.8s ease-out 0.25s both;
+}
+
+.breeds-section.fiu-visible .breed-card:nth-child(3),
+.puppies-journey-section.fiu-visible .puppies-journey-card:nth-child(3) {
+  animation: fadeInUpOurCubs 0.8s ease-out 0.35s both;
+}
+
+.breeds-section.fiu-visible .breed-card:nth-child(4),
+.puppies-journey-section.fiu-visible .puppies-journey-card:nth-child(4) {
+  animation: fadeInUpOurCubs 0.8s ease-out 0.45s both;
+}
+
+.breeds-section.fiu-visible a,
+.puppies-journey-section.fiu-visible a,
+.gcv-why-section.fiu-visible a {
+  animation: fadeInUpOurCubs 0.8s ease-out 0.4s both;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,

@@ -1213,7 +1213,7 @@
 
 
 
-<section class="hero-gpv hero-gpv--main" aria-label="בית גידול מוסמך גורים בכפר" id="hero-gpv" style="margin-top: -90px !important; padding-top: 200px">
+<section class="hero-gpv hero-gpv--main" aria-label="בית גידול מוסמך גורים בכפר" id="hero-gpv" style="margin-top: -90px !important; padding-top: 200px" data-zappy-animate="fade-in" data-zappy-anim-duration="0.8s" data-zappy-anim-delay="0s">
   <div class="hero-gpv__container">
     <!-- Text Content (Right side in RTL) -->
     <div class="hero-gpv__content">
@@ -1284,7 +1284,7 @@
       <div class="hero-gpv__blob hero-gpv__blob--2" aria-hidden="true"></div>
     </div>
   </div>
-</section><section id="layout-1777378637594" class="breeds-section" dir="rtl" style="width: 100%; padding-top: 72px !important; padding-right: 0px; padding-bottom: 80px; padding-left: 0px; background: linear-gradient(rgb(255, 253, 248) 0%, rgb(243, 238, 229) 100%); direction: rtl; margin-top: -72px !important;">
+</section><section id="layout-1777378637594" class="breeds-section" dir="rtl" style="width: 100%; padding-top: 72px !important; padding-right: 0px; padding-bottom: 80px; padding-left: 0px; background: linear-gradient(rgb(255, 253, 248) 0%, rgb(243, 238, 229) 100%); direction: rtl; margin-top: -72px !important;" data-zappy-animate="fade-in" data-zappy-anim-duration="0.8s" data-zappy-anim-delay="0.1s">
   <div style="max-width: 1200px; margin: 0 auto; padding: 0 1.5rem;">
     <!-- Header -->
     <div style="text-align: center; margin-bottom: 48px;">
@@ -1368,7 +1368,7 @@
       
     </div>
   </div>
-</section><section class="puppies-journey-section" data-layout-spec="גורים ורבייה-journey" dir="rtl" id="puppies-journey-section" style="transform: none; opacity: 1; animation: none; visibility: visible">
+</section><section class="puppies-journey-section" data-layout-spec="גורים ורבייה-journey" dir="rtl" id="puppies-journey-section" style="transform: none; opacity: 1; animation: none; visibility: visible" data-zappy-animate="fade-in" data-zappy-anim-duration="0.8s" data-zappy-anim-delay="0.2s">
   <div class="puppies-journey-container">
     <div class="puppies-journey-header">
       <div class="zappy-inserted-element" id="zappy-element-1777382883724-gr17rckkf" data-element-id="zappy-element-1777382883724-gr17rckkf" data-element-type="h2" style="width: 100%;"><h2 class="font-bold" data-element-type="h2" data-element-id="zappy-element-1777382883724-gr17rckkf" id="zappy-element-1777382883724-gr17rckkf" style="text-align: center; max-width: none;" data-zappy-text-width="full"></h2><h3 ><font color="#2f6b4f">הפילוסופיה שלנו</font></h3></div><h2 class="puppies-journey-title" >מהרגע הראשון ועד הבית שלכם</h2>
@@ -1404,7 +1404,7 @@
   </div>
 </section>
 
-<section class="gcv-why-section" dir="rtl" lang="he" aria-labelledby="gcv-why-title" id="zappy-section-4" style="background-color: #F7F3EC; font-family: system-ui,sans-serif; direction: rtl; padding: 0; overflow: hidden; opacity: 1; transform: none; animation: none; visibility: visible">
+<section class="gcv-why-section" dir="rtl" lang="he" aria-labelledby="gcv-why-title" id="zappy-section-4" style="background-color: #F7F3EC; font-family: system-ui,sans-serif; direction: rtl; padding: 0; overflow: hidden; opacity: 1; transform: none; animation: none; visibility: visible" data-zappy-animate="fade-in" data-zappy-anim-duration="0.8s" data-zappy-anim-delay="0.30000000000000004s">
 
   <!-- Section Header -->
   <div style="max-width:1160px; margin:0 auto; padding:72px 24px 0;">
@@ -1691,7 +1691,26 @@
   </script>
 
     <div data-integration="accessibility:toolbar"></div>
-
+<script data-zappy-animation-observer="">(function() {
+  if (window.__zappyAnimObserver) return;
+  var observer = new IntersectionObserver(function(entries) {
+    entries.forEach(function(entry) {
+      if (entry.isIntersecting) {
+        var el = entry.target;
+        var anim = el.getAttribute('data-zappy-animate');
+        var dur = el.getAttribute('data-zappy-anim-duration') || '0.6s';
+        var del = el.getAttribute('data-zappy-anim-delay') || '0s';
+        el.style.animation = 'zappy-' + anim + ' ' + dur + ' ' + del + ' ease forwards';
+        el.classList.add('zappy-animated');
+        observer.unobserve(el);
+      }
+    });
+  }, { threshold: 0.1, rootMargin: '0px 0px -50px 0px' });
+  document.querySelectorAll('[data-zappy-animate]').forEach(function(el) {
+    observer.observe(el);
+  });
+  window.__zappyAnimObserver = observer;
+})();</script>
     <script src="/script.js"></script>
 
     <script id="zappy-mobile-submenu-script">
