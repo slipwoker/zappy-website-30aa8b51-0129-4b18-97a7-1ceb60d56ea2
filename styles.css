@@ -18238,6 +18238,10 @@ body:has(.products-section) .navbar .mobile-toggle {
   backdrop-filter: none !important;
   box-shadow: none !important;
 }
+/* Batch: Force white color on language switcher globe icon */
+.lang-switcher-current { color: #FFFFFF !important; } .lang-switcher-current svg { fill: #FFFFFF !important; color: #FFFFFF !important; }
+/* Batch: Fix language switcher dropdown options visibility and clickability */
+.lang-switcher-dropdown .lang-option { display: flex !important; opacity: 1 !important; visibility: visible !important; pointer-events: auto !important; align-items: center; gap: 8px; width: 100%; padding: 10px 14px; background: none; border: none; text-align: right; cursor: pointer; font-size: 14px; color: #333; } .lang-switcher-dropdown.lang-open { opacity: 1 !important; visibility: visible !important; transform: translateY(0) !important; pointer-events: auto !important; display: block !important; position: absolute !important; z-index: 99999 !important; background: white !important; border-radius: 8px !important; box-shadow: 0 4px 12px rgba(0,0,0,0.15) !important; min-width: 140px !important; padding: 8px 0 !important; top: calc(100% + 4px) !important; }
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
