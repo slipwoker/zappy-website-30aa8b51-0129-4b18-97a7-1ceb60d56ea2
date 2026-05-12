@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# גורים בכפר — Generative Engine Optimization Map
+
+> A multi-service pet business focused on dogs, offering a pet supply store, a dog boarding facility (kennel), and a dog breeding operation with puppies available for sale. The business caters to dog owners and dog lovers, combining retail, hospitality for pets, and breeding under one roof.
 
 ---
 
@@ -68,12 +70,56 @@ Information about WCAG compliance and accessibility features.
 
 ---
 
-# Business Context (for LLM understanding)
+## Products
 
-## About Business
+**Total active products: 3**
+
+### רצועה
+https://gurimbakfar.co.il/product/rtsvah-td9392
+- Price: 50.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+- Image: https://gurimbakfar.co.il/assets/image-product-image-1777452899918-d58srp.webp
+
+### קולר
+https://gurimbakfar.co.il/product/kvlr-ke21bi
+- Price: 100.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+- Image: https://gurimbakfar.co.il/assets/image-product-image-1777452489356-xpps0a.webp
+
+### סטיספקשן רגולר לכלב בוגר מגזע קטן 15 קילוגרם
+https://gurimbakfar.co.il/product/styspkshn-rgvlr-lklb-bvgr-mgza-ktn-15-kylvgrm-j3x104
+- Price: 300.00 ILS (sale, was 350.00 ILS)
+- Availability: In stock
+- Category: מזון
+- Description: כך וכך וכך
+- Image: https://gurimbakfar.co.il/assets/image-product-image-1777375508231-jvyimp.webp
+
 ---
 
-# Additional Resources
+# Business Context (for LLM understanding)
 
-- **Sitemap**: https://gurimbakfar.co.il/sitemap.xml
-- **Robots.txt**: https://gurimbakfar.co.il/robots.txt
+## About גורים בכפר
+A multi-service pet business focused on dogs, offering a pet supply store, a dog boarding facility (kennel), and a dog breeding operation with puppies available for sale. The business caters to dog owners and dog lovers, combining retail, hospitality for pets, and breeding under one roof.
+
+## Services/Products
+- חנות חיות לכלבים
+- פנסיון כלבים
+- בית גידול למכירה
+
+## Target Audience
+בעלי כלבים
+
+## Industry
+שירותי חיות מחמד
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://gurimbakfar.co.il/sitemap.xml
+- Robots: https://gurimbakfar.co.il/robots.txt
+- Flattened page text (for LLMs): https://gurimbakfar.co.il/llms-full.txt
+- Products (JSON): https://gurimbakfar.co.il/products.json
+- Products (Google Merchant RSS): https://gurimbakfar.co.il/product-feed.xml

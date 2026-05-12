@@ -223,6 +223,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="דברו איתנו — אנחנו כאן בשבילכם — גורים בכפר">
     <meta name="twitter:description" content="יש לכם שאלה על פנסיון כלבים, גורים למכירה או ציוד לכלב? צרו קשר עם צוות גורים בכפר ונשמח לעזור לכם למצוא בדיוק את מה שהכלב שלכם צריך. מחכים לשמוע מכם!">
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"LocalBusiness","@id":"https://gurimbakfar.co.il#organization","name":"גורים בכפר","url":"https://gurimbakfar.co.il","description":"A multi-service pet business focused on dogs, offering a pet supply store, a dog boarding facility (kennel), and a dog breeding operation with puppies available for sale. The business caters to dog owners and dog lovers, combining retail, hospitality for pets, and breeding under one roof.","address":{"@type":"PostalAddress","streetAddress":"התאנה 9, בית שקמה, ישראל"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","email":"gurimbakfar@gmail.com","telephone":"052-6662922","availableLanguage":["he","en","ru"]}]},{"@type":"WebSite","@id":"https://gurimbakfar.co.il#website","url":"https://gurimbakfar.co.il","name":"גורים בכפר","publisher":{"@id":"https://gurimbakfar.co.il#organization"},"inLanguage":"he"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://gurimbakfar.co.il"},{"@type":"ListItem","position":2,"name":"Contact","item":"https://gurimbakfar.co.il/contact"}]},{"@type":"ContactPage","@id":"https://gurimbakfar.co.il/contact#contactpage","url":"https://gurimbakfar.co.il/contact","name":"דברו איתנו — אנחנו כאן בשבילכם — גורים בכפר","mainEntity":{"@id":"https://gurimbakfar.co.il#organization"},"potentialAction":{"@type":"CommunicateAction","target":{"@type":"EntryPoint","urlTemplate":"https://gurimbakfar.co.il/api/email/contact-form","actionPlatform":["http/method=POST"],"contentType":"application/json"},"instrument":[{"@type":"PropertyValue","name":"name","propertyID":"text","valueRequired":true,"description":"ישראל ישראלי"},{"@type":"PropertyValue","name":"phone","propertyID":"tel","valueRequired":true,"description":"05X-XXX-XXXX"},{"@type":"PropertyValue","name":"email","propertyID":"email","valueRequired":true,"description":"example@email.com"},{"@type":"PropertyValue","name":"message","propertyID":"textarea","valueRequired":true,"description":"כתבו את הודעתכם כאן..."},{"@type":"PropertyValue","name":"privacy_consent","propertyID":"checkbox","valueRequired":true}]}}]}</script>
     <title data-i18n="contact_page_title">דברו איתנו — אנחנו כאן בשבילכם — גורים בכפר</title>
   
   
@@ -1285,11 +1286,37 @@ html[dir="rtl"] body {
     <link rel="stylesheet" href="/styles.css">
 
     <style id="zappy-widget-visibility">
-      #mic-access-tool-general-button, .mic-access-tool-general-button,
-      #mic-init-access-tool .mic-access-tool-general-button, #mic-init-access-tool #mic-access-tool-general-button,
-      ._access-icon, #mic-access-tool-box, .mic-access-tool-box,
-      #mic-init-access-tool #mic-access-tool-box, div[id*="mic-access-tool-box"], ._access-menu {
-        display: none !important; visibility: hidden !important; opacity: 0 !important; pointer-events: none !important;
+      html[dir="rtl"] .whatsapp-float { right: 20px !important; left: auto !important; }
+      html[dir="ltr"] .whatsapp-float, html:not([dir]) .whatsapp-float { left: 20px !important; right: auto !important; }
+      html[dir="rtl"] #mic-access-tool-general-button, html[dir="rtl"] .mic-access-tool-general-button,
+      html[dir="rtl"] #mic-init-access-tool .mic-access-tool-general-button,
+      html[dir="rtl"] #mic-init-access-tool #mic-access-tool-general-button,
+      html[dir="rtl"] ._access-icon { left: 20px !important; right: auto !important; }
+      html[dir="ltr"] #mic-access-tool-general-button, html[dir="ltr"] .mic-access-tool-general-button,
+      html[dir="ltr"] #mic-init-access-tool .mic-access-tool-general-button,
+      html[dir="ltr"] #mic-init-access-tool #mic-access-tool-general-button,
+      html[dir="ltr"] ._access-icon,
+      html:not([dir]) #mic-access-tool-general-button, html:not([dir]) .mic-access-tool-general-button,
+      html:not([dir]) #mic-init-access-tool .mic-access-tool-general-button,
+      html:not([dir]) #mic-init-access-tool #mic-access-tool-general-button,
+      html:not([dir]) ._access-icon { right: 20px !important; left: auto !important; }
+      @media (max-width: 768px) { .whatsapp-float { display: flex !important; } }
+      @media (min-width: 769px) { .whatsapp-float { display: flex !important; } }
+      @media (max-width: 768px) {
+        #mic-access-tool-general-button, .mic-access-tool-general-button,
+        #mic-init-access-tool .mic-access-tool-general-button, #mic-init-access-tool #mic-access-tool-general-button,
+        ._access-icon, #mic-access-tool-box, .mic-access-tool-box,
+        #mic-init-access-tool #mic-access-tool-box, div[id*="mic-access-tool-box"], ._access-menu {
+          display: none !important; visibility: hidden !important; opacity: 0 !important; pointer-events: none !important;
+        }
+      }
+      @media (min-width: 769px) {
+        #mic-access-tool-general-button, .mic-access-tool-general-button,
+        #mic-init-access-tool .mic-access-tool-general-button, #mic-init-access-tool #mic-access-tool-general-button,
+        ._access-icon, #mic-access-tool-box, .mic-access-tool-box,
+        #mic-init-access-tool #mic-access-tool-box, div[id*="mic-access-tool-box"], ._access-menu {
+          display: none !important; visibility: hidden !important; opacity: 0 !important; pointer-events: none !important;
+        }
       }
     </style>
 </head>
@@ -1309,7 +1336,7 @@ html[dir="rtl"] body {
       <div class="search-results" id="mobile-search-results"></div>
     </div>
   
-<script>window.ZAPPY_WEBSITE_ID = "30aa8b51-0129-4b18-97a7-1ceb60d56ea2";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script>
+<script>window.ZAPPY_WEBSITE_ID = "30aa8b51-0129-4b18-97a7-1ceb60d56ea2";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script>
   <nav class="navbar" id="main-navbar">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -1913,10 +1940,10 @@ html[dir="rtl"] body {
       </div>
 
       <div class="privacy-consent">
-        <label class="privacy-consent-label" data-i18n="contact_label_87">
+        <label class="privacy-consent-label">
           <input type="checkbox" name="privacy_consent" class="privacy-consent-checkbox" required="">
-          <span>קראתי ואני מסכים/ה ל<a href="/terms" target="_blank" data-i18n="contact_link_62">תנאי השימוש</a><span class="separator">|</span>
-            <a href="/return-policy" aria-label="מדיניות החזרות" data-i18n="contact_link_63">מדיניות החזרות</a> ול<a href="/privacy" target="_blank" data-i18n="contact_link_64">מדיניות הפרטיות</a></span>
+          <span><span data-i18n="contact_text_87_0">קראתי ואני מסכים/ה ל</span><a href="/terms" target="_blank" data-i18n="contact_link_62">תנאי השימוש</a><span class="separator">|</span>
+            <a href="/return-policy" aria-label="מדיניות החזרות" data-i18n="contact_link_63">מדיניות החזרות</a> <span data-i18n="contact_text_87_2">ול</span><a href="/privacy" target="_blank" data-i18n="contact_link_64">מדיניות הפרטיות</a></span>
         </label>
       </div>
 
@@ -2098,74 +2125,197 @@ html[dir="rtl"] body {
 <!-- i18next Multi-Language Support -->
 <script>
 (function() {
+  var __generatedDir = document.documentElement.getAttribute('dir') || 'ltr';
+
   // Language resources (inline to avoid CDN dependency)
   const resources = {
   "he": {
     "translation": {
+      "ecom_accountWelcome": "ברוך הבא",
+      "ecom_addAddress": "הוסף כתובת",
+      "ecom_addBundleToCart": "הוספת {count} מוצרים לעגלה",
       "ecom_addToCart": "הוסף לעגלה",
-      "ecom_startingAt": "החל מ",
-      "ecom_all": "הכל",
-      "ecom_featured": "מומלצים",
-      "ecom_new": "חדשים",
-      "ecom_sale": "מבצעים",
-      "ecom_total": "סה\"כ",
-      "ecom_subtotal": "סכום ביניים",
-      "ecom_yourCart": "העגלה שלך",
-      "ecom_emptyCart": "העגלה ריקה",
-      "ecom_checkout": "תשלום",
-      "ecom_remove": "הסר",
-      "ecom_quantity": "כמות",
-      "ecom_viewDetails": "לפרטים נוספים",
-      "ecom_inStock": "במלאי",
-      "ecom_outOfStock": "אזל מהמלאי",
-      "ecom_sku": "מק\"ט",
-      "ecom_proceedToCheckout": "המשך לתשלום",
-      "ecom_continueShopping": "להמשך קניות",
+      "ecom_addedToCart": "המוצר נוסף לעגלה!",
+      "ecom_addedToFavorites": "נוסף למועדפים",
+      "ecom_addressDeleted": "הכתובת נמחקה",
+      "ecom_addressLabel": "שם הכתובת",
+      "ecom_addressSaved": "הכתובת נשמרה בהצלחה",
+      "ecom_addresses": "כתובות",
       "ecom_agreeToTerms": "אני מסכים/ה ל",
-      "ecom_termsAndConditions": "תנאי השימוש",
-      "ecom_pleaseAcceptTerms": "נא לאשר את תנאי השימוש",
-      "ecom_nameRequired": "נא להזין שם מלא",
-      "ecom_emailRequired": "נא להזין כתובת אימייל",
-      "ecom_emailInvalid": "כתובת אימייל לא תקינה",
-      "ecom_phoneRequired": "נא להזין מספר טלפון",
-      "ecom_shippingRequired": "נא לבחור שיטת משלוח",
-      "ecom_streetRequired": "נא להזין רחוב ומספר",
-      "ecom_cityRequired": "נא להזין עיר",
-      "ecom_city": "עיר",
-      "ecom_saveAddressForNextTime": "שמור את הכתובת לפעם הבאה",
-      "ecom_countryRegion": "מדינה / אזור",
-      "ecom_stateProvince": "מדינה / מחוז",
-      "ecom_stateRequired": "נא לבחור מדינה / מחוז",
-      "ecom_streetAndNumber": "רחוב ומספר",
+      "ecom_all": "הכל",
+      "ecom_alreadyHaveAccount": "כבר יש לך חשבון?",
+      "ecom_apartment": "דירה, קומה, כניסה",
       "ecom_apartmentExt": "דירה, קומה, קוד בניין, הערות וכו'",
-      "ecom_zipPostal": "מיקוד",
+      "ecom_applyCoupon": "החל",
+      "ecom_backToProducts": "חזרה למוצרים",
+      "ecom_browseFavorites": "גלו את כל המוצרים שלנו",
+      "ecom_bundleTotal": "סה\"כ לעגלה",
+      "ecom_callNow": "התקשר עכשיו",
+      "ecom_cancel": "ביטול",
+      "ecom_capacity": "קיבולת",
+      "ecom_cart": "עגלת קניות",
+      "ecom_category": "קטגוריה",
+      "ecom_checkout": "תשלום",
+      "ecom_city": "עיר",
+      "ecom_cityRequired": "נא להזין עיר",
+      "ecom_color": "צבע",
+      "ecom_confirmDelete": "האם אתה בטוח שברצונך למחוק?",
+      "ecom_contactInformation": "פרטי התקשרות",
+      "ecom_continueShopping": "להמשך קניות",
+      "ecom_continueToHomePage": "המשך לדף הבית",
+      "ecom_countryRegion": "מדינה / אזור",
+      "ecom_couponApplied": "הקופון הוחל בהצלחה!",
+      "ecom_couponCode": "קוד קופון",
+      "ecom_couponExpired": "הקופון פג תוקף",
+      "ecom_couponMinOrder": "סכום הזמנה מינימלי",
+      "ecom_customerInfo": "פרטי לקוח",
+      "ecom_customerLogin": "התחברות לקוחות",
+      "ecom_days": "ימים",
+      "ecom_defaultAddress": "כתובת ברירת מחדל",
+      "ecom_deleteAddress": "מחק כתובת",
+      "ecom_discount": "הנחה",
+      "ecom_editAddress": "ערוך כתובת",
+      "ecom_editProfile": "עריכת פרופיל",
+      "ecom_email": "אימייל",
+      "ecom_emailAddress": "כתובת אימייל",
+      "ecom_emailInvalid": "כתובת אימייל לא תקינה",
+      "ecom_emailRequired": "נא להזין כתובת אימייל",
+      "ecom_emptyCart": "העגלה ריקה",
+      "ecom_enterCode": "הזן את הקוד שנשלח לאימייל שלך",
+      "ecom_enterCouponCode": "הזן קוד קופון",
+      "ecom_enterEmail": "הזן את כתובת האימייל שלך ונשלח לך קוד התחברות",
+      "ecom_errorLoading": "שגיאה בטעינת האפשרויות",
+      "ecom_featured": "מומלצים",
+      "ecom_featuredCategories": "קנו לפי קטגוריה",
+      "ecom_featuredProducts": "מוצרים מומלצים",
+      "ecom_free": "חינם",
+      "ecom_freeAbove": "חינם מעל",
       "ecom_frequentlyBoughtTogether": "לרכוש יחד",
       "ecom_frequentlyBoughtTogetherSubtitle": "הוספת מוצרים נלווים לעגלה",
-      "ecom_bundleTotal": "סה\"כ לעגלה",
-      "ecom_addBundleToCart": "הוספת {count} מוצרים לעגלה",
-      "ecom_upsellFree": "חינם",
+      "ecom_fullName": "שם מלא",
+      "ecom_haveCouponCode": "יש לי קוד קופון",
       "ecom_home": "דף הבית",
-      "ecom_products": "מוצרים",
-      "ecom_productDetails": "פרטי המוצר",
-      "ecom_specifications": "מפרט טכני",
-      "ecom_storeNote": "מידע נוסף",
-      "ecom_relatedProducts": "מוצרים דומים",
-      "ecom_color": "צבע",
-      "ecom_size": "גודל",
-      "ecom_material": "חומר",
-      "ecom_style": "סגנון",
-      "ecom_weight": "משקל",
-      "ecom_capacity": "קיבולת",
+      "ecom_inStock": "במלאי",
+      "ecom_inquiryAbout": "פנייה בנושא",
+      "ecom_invalidCoupon": "קוד קופון לא תקין",
+      "ecom_items": "פריטים",
       "ecom_length": "אורך",
+      "ecom_linkCopied": "הקישור הועתק!",
+      "ecom_loadingOrder": "טוען פרטי הזמנה...",
+      "ecom_loadingPayment": "טוען אפשרויות תשלום...",
+      "ecom_loadingProducts": "טוען מוצרים...",
+      "ecom_loadingShipping": "טוען שיטות משלוח...",
+      "ecom_loggedInAs": "מחובר כ:",
+      "ecom_login": "התחברות",
+      "ecom_loginHere": "התחבר כאן",
+      "ecom_loginToFavorite": "יש להתחבר כדי לשמור מועדפים",
+      "ecom_logout": "התנתק",
+      "ecom_material": "חומר",
+      "ecom_mobileNumber": "מספר טלפון",
+      "ecom_myAccount": "החשבון שלי",
+      "ecom_myFavorites": "המועדפים שלי",
+      "ecom_name": "שם",
+      "ecom_nameRequired": "נא להזין שם מלא",
+      "ecom_new": "חדשים",
+      "ecom_next": "הבא",
+      "ecom_noAddresses": "אין כתובות שמורות",
+      "ecom_noFavorites": "אין עדיין מוצרים מועדפים",
+      "ecom_noFeaturedProducts": "עוד לא נבחרו מוצרים מומלצים. צפו בכל המוצרים שלנו!",
+      "ecom_noOrders": "אין עדיין הזמנות",
+      "ecom_noProducts": "אין מוצרים להצגה כרגע",
       "ecom_noShippingMethods": "אין אפשרויות משלוח זמינות",
-      "ecom_free": "חינם",
-      "ecom_days": "ימים",
-      "ecom_freeAbove": "חינם מעל",
-      "ecom_errorLoading": "שגיאה בטעינת האפשרויות",
-      "ecom_vatIncluded": "כולל מע\"מ",
+      "ecom_notLoggedIn": "לא מחובר",
+      "ecom_orderConfirmation": "אישור הזמנה נשלח לאימייל שלך",
+      "ecom_orderDate": "תאריך",
+      "ecom_orderDetails": "פרטי ההזמנה",
+      "ecom_orderItems": "פריטים בהזמנה",
+      "ecom_orderNotFound": "לא נמצאה הזמנה",
+      "ecom_orderNumber": "מספר הזמנה",
+      "ecom_orderProcessing": "ההזמנה שלך בטיפול. נעדכן אותך כשהמשלוח יצא לדרך.",
+      "ecom_orderStatus": "סטטוס",
+      "ecom_orderSuccess": "ההזמנה התקבלה!",
+      "ecom_orderSummary": "סיכום הזמנה",
+      "ecom_orderTotal": "סה\"כ",
+      "ecom_other": "אחר",
+      "ecom_ourProducts": "המוצרים שלנו",
+      "ecom_outOfStock": "אזל מהמלאי",
+      "ecom_paidAmount": "סכום ששולם",
+      "ecom_payment": "תשלום",
+      "ecom_paymentMethod": "אמצעי תשלום",
+      "ecom_paymentNotConfigured": "תשלום מקוון לא מוגדר",
+      "ecom_personalDetails": "פרטים אישיים",
+      "ecom_phone": "טלפון",
+      "ecom_phoneRequired": "נא להזין מספר טלפון",
+      "ecom_placeOrder": "בצע הזמנה",
+      "ecom_pleaseAcceptTerms": "נא לאשר את תנאי השימוש",
+      "ecom_pleaseLogin": "יש להתחבר כדי לצפות בחשבון",
+      "ecom_pleaseSelect": "נא לבחור",
+      "ecom_proceedToCheckout": "המשך לתשלום",
+      "ecom_productDetails": "פרטי המוצר",
+      "ecom_productNotFound": "המוצר לא נמצא",
+      "ecom_products": "מוצרים",
+      "ecom_profileUpdated": "הפרופיל עודכן בהצלחה",
+      "ecom_quantity": "כמות",
+      "ecom_relatedProducts": "מוצרים דומים",
+      "ecom_remove": "הסר",
+      "ecom_removeCoupon": "הסר",
+      "ecom_removeFromFavorites": "הסר ממועדפים",
+      "ecom_removedFromFavorites": "הוסר מהמועדפים",
+      "ecom_returnPolicy": "מדיניות החזרות",
+      "ecom_sale": "מבצעים",
+      "ecom_saveAddressForNextTime": "שמור את הכתובת לפעם הבאה",
+      "ecom_saveChanges": "שמור שינויים",
+      "ecom_saveToFavorites": "שמור למועדפים",
+      "ecom_saving": "שומר...",
+      "ecom_searchProducts": "חיפוש מוצרים",
+      "ecom_selectVariant": "בחר אפשרות",
+      "ecom_sendCode": "שלח קוד",
+      "ecom_sendInquiry": "שלח פנייה",
+      "ecom_setAsDefault": "הגדר כברירת מחדל",
+      "ecom_shareProduct": "שתף מוצר",
       "ecom_shipping": "משלוח",
-      "ecom_discount": "הנחה",
+      "ecom_shippingAddress": "כתובת למשלוח",
+      "ecom_shippingMethod": "שיטת משלוח",
+      "ecom_shippingRequired": "נא לבחור שיטת משלוח",
+      "ecom_signInHere": "התחבר כאן",
+      "ecom_size": "גודל",
+      "ecom_sku": "מק\"ט",
+      "ecom_specifications": "מפרט טכני",
+      "ecom_startingAt": "החל מ",
+      "ecom_stateProvince": "מדינה / מחוז",
+      "ecom_stateRequired": "נא לבחור מדינה / מחוז",
+      "ecom_statusCancelled": "בוטל",
+      "ecom_statusDelivered": "נמסר",
+      "ecom_statusPaid": "שולם",
+      "ecom_statusPending": "ממתין לתשלום",
+      "ecom_statusProcessing": "בטיפול",
+      "ecom_statusShipped": "נשלח",
+      "ecom_storeNote": "מידע נוסף",
+      "ecom_street": "רחוב ומספר",
+      "ecom_streetAndNumber": "רחוב ומספר",
+      "ecom_streetRequired": "נא להזין רחוב ומספר",
+      "ecom_style": "סגנון",
+      "ecom_subtotal": "סכום ביניים",
+      "ecom_termsAndConditions": "תנאי השימוש",
+      "ecom_thankYouOrder": "תודה על ההזמנה",
+      "ecom_total": "סה\"כ",
       "ecom_totalToPay": "סה\"כ לתשלום",
+      "ecom_transactionDate": "תאריך עסקה",
+      "ecom_upsellFree": "חינם",
+      "ecom_variantUnavailable": "לא זמין",
+      "ecom_vat": "מע\"מ",
+      "ecom_vatIncluded": "כולל מע\"מ",
+      "ecom_verificationCode": "קוד אימות",
+      "ecom_verify": "אמת",
+      "ecom_viewAllResults": "הצג את כל התוצאות",
+      "ecom_viewDetails": "לפרטים נוספים",
+      "ecom_viewOrder": "צפה בהזמנה",
+      "ecom_weight": "משקל",
+      "ecom_work": "עבודה",
+      "ecom_yourCart": "העגלה שלך",
+      "ecom_yourOrders": "ההזמנות שלך",
+      "ecom_zip": "מיקוד",
+      "ecom_zipPostal": "מיקוד",
       "cart_p_6": "אנחנו כאן לכל צרכי הכלב שלך — מגידול אחראי ועד חנות ציוד .",
       "cart_p_7": "© 2026 גורים בכפר. כל הזכויות שמורות.",
       "cart_h1_1": "עגלת הקניות שלך",
@@ -2184,9 +2334,7 @@ html[dir="rtl"] body {
       "home_h3_9": "חנות ציוד ובית גידול מוסמך – הכל במקום אחד, עם לב גדול וטיפול אמיתי.",
       "home_p_20": "בגורים בכפר תמצאו הכל תחת קורת גג אחת - בית גידול משפחתי לכלבים, בו הגורים גדלים באווירה כפרית עם חשיפה נכונה התורמת לבריאותם הפיזית והנפשית. אנו מעניקים יחס חם ואוהב, סביבת מגורים בטוחה, חצר גדולה לפריקת אנרגיה, ותזונה איכותית לצד טיפולים וטרינריים שוטפים. בנוסף, במקום חנות ציוד לחיות עם מוצרים איכותיים המותאמים אישית לכל סוגי הכלבים, \n\nכולל שירות משלוחים נוח עד הבית.",
       "home_p_21": "מזון איכותי, אביזרים, צעצועים, קולרים ורצועות — הכל נבחר בקפידה עבור הכלב שלך. חנות ציוד לכלבים קרוב אליך, עם ידע מקצועי ושירות מותאם אישית.",
-      "home_p_22": "לחנות שלנו &gt;&nbsp;",
       "home_p_23": "גורים מגודלים בסביבה כפרית שלווה, עם ליווי מקצועי לאורך כל הדרך. בית גידול כלבים שמאמין בשקיפות, בריאות ואהבה אמיתית לגזע.",
-      "home_p_24": "הגורים שלנו &gt;&nbsp;",
       "home_p_25": "הסטנדרט שלנו",
       "home_p_26": "<b>ב</b><strong>גורים בכפר</strong>, אנחנו מאמינים שכל כלב ראוי לאותה הקפדה שהיית מבקש עבור בן משפחה. הסטנדרטים שלנו אינם סיסמאות — הם חלק מהשגרה היומיומית במשפחת הכלבים שלנו.&nbsp;\nבית הגידול שלנו הוא משפחתי באופיו, הכלבים גדלים באווירה כפרית ייחודים עם חצר ענקית לטיולים ופריקת אנרגיה. החשיפה הנכונה והסביבה הטבעית תורמים לבריאותם הפיזית והנפשית של הגורים",
       "home_p_27": "כל כלב בפנסיון שלנו מקבל מעקב אישי לאורך כל היום טיולים, האכלה בשעות קבועות ומגע אנושי חם שמפחית חרדת פרידה, תוך הקפדה על בריאותו הכוללת. אנו דואגים לתזונה בריאה ואיכותית, טיפולים וטרינריים שוטפים כמו חיסונים ותילועים, וכמובן זמינות לטיפולים בשעות חירום.",
@@ -2502,7 +2650,6 @@ html[dir="rtl"] body {
       "terms_li_108": "אי-אכיפה של זכות לא תחשב כוויתור עליה",
       "terms_li_109": "תנאי השימוש מהווים את מלוא ההסכם בין הצדדים",
       "terms_li_110": "חברה: גורים בכפר",
-      "terms_li_111": "אימייל: gurimbakfar@gmail.com",
       "terms_li_112": "טלפון: 052-6662922",
       "terms_li_113": "כתובת: התאנה 9, בית שקמה, ישראל",
       "terms_li_114": "\"החברה\" - גורים בכפר",
@@ -2525,7 +2672,6 @@ html[dir="rtl"] body {
       "terms_li_131": "אי-אכיפה של זכות לא תחשב כוויתור עליה",
       "terms_li_132": "תנאי השימוש מהווים את מלוא ההסכם בין הצדדים",
       "terms_li_133": "חברה: גורים בכפר",
-      "terms_li_134": "אימייל: gurimbakfar@gmail.com",
       "terms_li_135": "טלפון: 052-6662922",
       "terms_li_136": "כתובת: התאנה 9, בית שקמה, ישראל",
       "terms_li_137": "הגורים שלנו",
@@ -2610,14 +2756,14 @@ html[dir="rtl"] body {
       "our_cubs_h3_6": "מצאו את החבר הכי טוב החדש שלכם גורים בריאים, מחוסנים ומלאי אהבה\nכל גור גדל בבית, מוקף בחום ובאהבה. אנו מגדלים גזעים נבחרים בסטנדרטים הגבוהים ביותר של בריאות, סוציאליזציה וטיפול\nכי כל כלב ראוי להתחלה הטובה ביותר.",
       "our_cubs_h3_7": "שיצו",
       "our_cubs_h3_8": "פודל",
-      "our_cubs_h3_9": "פומרניאן",
+      "our_cubs_h3_9": "לברדור רטריבר",
       "our_cubs_p_24": "אנחנו מתמחים בגידול אחראי ואוהב של גורי איכות. כל הגורים שלנו גדלים בתנאים הטובים ביותר עם ליווי וטרינרי צמוד, תוך דגש על סוציאליזציה מוקדמת ובריאות גנטית.",
       "our_cubs_p_25": "גזע קטן וחברותי",
       "our_cubs_p_26": "כלב עדין ואוהב, אידיאלי לחיים בדירה ולמשפחות עם ילדים. חברותי, שמח ומלא אהבה — מתחבר מהר לכולם.",
       "our_cubs_p_27": "גזע חכם ואלגנטי",
       "our_cubs_p_28": "אחד הגזעים החכמים בעולם. לומד מהר, נאמן ומרגש לאמן. מתאים לאלרגיים — שיערו כמעט אינו נושר ומינימלי בטיפוח.",
-      "our_cubs_p_29": "גזע קטן ותוסס",
-      "our_cubs_p_30": "כלב קטן עם אישיות ענקית! סקרן, שמח ומלא חיים. מתאים לדירות ואוהב בני אדם. מעורר חיוכים בכל מקום שהולך.",
+      "our_cubs_p_29": "גזע אוהבני ונאמן",
+      "our_cubs_p_30": "כלב משפחתי נאמן ועליז, ידוע ביכולת הלמידה המהירה ואהבתו לבני אדם. מתאים למשפחות עם ילדים, אוהב מים ופעילות חוץ. אחד הגזעים הפופולריים בעולם.",
       "our_cubs_p_31": "גזע משפחתי ואוהבני",
       "our_cubs_p_32": "כלב המשפחה הקלאסי — סבלני, אוהב ילדים ומרגיש בנוח עם כולם. נאמן ועליז, אחד הגזעים הפופולריים בישראל.",
       "our_cubs_p_33": "בגורים בכפר, כל גור עובר מסע קפדני של טיפול, התפתחות ולמידה\nכדי שיגיע אליכם בריא, מאוזן ומוכן לחיים משפחתיים",
@@ -2664,7 +2810,6 @@ html[dir="rtl"] body {
       "privacy_li_95": "זכות להתנגד לעיבוד מידע למטרות שיווק",
       "privacy_li_96": "זכות להגשת תלונה לרשם מאגרי המידע",
       "privacy_li_97": "חברה: גורים בכפר",
-      "privacy_li_98": "אימייל: gurimbakfar@gmail.com",
       "privacy_li_99": "טלפון: 052-6662922",
       "products_h1_1": "המוצרים שלנו",
       "products_h2_2": "עגלת הקניות שלך",
@@ -2800,7 +2945,6 @@ html[dir="rtl"] body {
       "privacy_li_115": "זכות להתנגד לעיבוד מידע למטרות שיווק",
       "privacy_li_116": "זכות להגשת תלונה לרשם מאגרי המידע",
       "privacy_li_117": "חברה: גורים בכפר",
-      "privacy_li_118": "אימייל: gurimbakfar@gmail.com",
       "privacy_li_119": "טלפון: 052-6662922",
       "privacy_li_120": "כתובת: התאנה 9, בית שקמה, ישראל",
       "privacy_li_121": "הגורים שלנו",
@@ -3016,7 +3160,6 @@ html[dir="rtl"] body {
       "contact_label_84": "טלפון",
       "contact_label_85": "דואר אלקטרוני",
       "contact_label_86": "הודעה",
-      "contact_label_87": "<input type=\"checkbox\" name=\"privacy_consent\" class=\"privacy-consent-checkbox\" required />\n          <span>קראתי ואני מסכים/ה ל<a href=\"/terms\" target=\"_blank\">תנאי השימוש</a><span class=\"separator\">|</span>\n            <a href=\"/return-policy\" aria-label=\"מדיניות החזרות\">מדיניות החזרות</a> ול<a href=\"/privacy\" target=\"_blank\">מדיניות הפרטיות</a></span>",
       "legal_terms_h1_1": "תנאי שימוש",
       "legal_terms_h1_2": "תנאי שימוש",
       "legal_terms_h2_3": "1 הגדרות",
@@ -3064,7 +3207,7 @@ html[dir="rtl"] body {
       "our_cubs_div_110": "<span class=\"hero-gpv__stat-number\" data-fiu-done=\"1\" style=\"opacity: 0; transform: translateY(20px); will-change: opacity, transform; animation: 0.8s ease-out 0.64s 1 normal both running zappyFadeInUp;\">100%</span>\n          <span class=\"hero-gpv__stat-label\" data-fiu-done=\"1\" style=\"opacity: 0; transform: translateY(20px); will-change: opacity, transform; animation: 0.8s ease-out 0.64s 1 normal both running zappyFadeInUp;\">מחוסנים ובדוקים</span>",
       "our_cubs_div_111": "🏠 מתאים לדירה\n            ❤️ חברותי",
       "our_cubs_div_112": "🧠 חכם ונאמן\n            🌿 אנטי-אלרגי",
-      "our_cubs_div_113": "✨ אישיות ענקית\n            🏠 מתאים לדירה",
+      "our_cubs_div_113": "🐾 אוהב מים\n            👨‍👩‍👧 מתאים למשפחות",
       "our_cubs_div_114": "👨‍👩‍👧 אוהב ילדים\n            🌟 גזע מוביל",
       "our_cubs_link_76": "צפו בגורים שלנו",
       "our_cubs_link_77": "צרו קשר",
@@ -3281,7 +3424,6 @@ html[dir="rtl"] body {
       "legal_terms_li_108": "אי-אכיפה של זכות לא תחשב כוויתור עליה",
       "legal_terms_li_109": "תנאי השימוש מהווים את מלוא ההסכם בין הצדדים",
       "legal_terms_li_110": "חברה: גורים בכפר",
-      "legal_terms_li_111": "אימייל: gurimbakfar@gmail.com",
       "legal_terms_li_112": "טלפון: 052-6662922",
       "legal_terms_li_113": "כתובת: התאנה 9, בית שקמה, ישראל",
       "legal_terms_li_114": "\"החברה\" - גורים בכפר",
@@ -3304,7 +3446,6 @@ html[dir="rtl"] body {
       "legal_terms_li_131": "אי-אכיפה של זכות לא תחשב כוויתור עליה",
       "legal_terms_li_132": "תנאי השימוש מהווים את מלוא ההסכם בין הצדדים",
       "legal_terms_li_133": "חברה: גורים בכפר",
-      "legal_terms_li_134": "אימייל: gurimbakfar@gmail.com",
       "legal_terms_li_135": "טלפון: 052-6662922",
       "legal_terms_li_136": "כתובת: התאנה 9, בית שקמה, ישראל",
       "legal_terms_li_137": "הגורים שלנו",
@@ -3397,7 +3538,6 @@ html[dir="rtl"] body {
       "accessibility_li_96": "בדיקת ניגודיות צבעים",
       "accessibility_li_97": "בדיקה עם משתמשים עם מוגבלויות",
       "accessibility_li_98": "חברה: גורים בכפר",
-      "accessibility_li_99": "אימייל: gurimbakfar@gmail.com",
       "cart_aria_label_104": "Menu",
       "cart_aria_label_105": "Call",
       "cart_aria_label_106": "Facebook",
@@ -3453,7 +3593,6 @@ html[dir="rtl"] body {
       "legal_privacy_li_95": "זכות להתנגד לעיבוד מידע למטרות שיווק",
       "legal_privacy_li_96": "זכות להגשת תלונה לרשם מאגרי המידע",
       "legal_privacy_li_97": "חברה: גורים בכפר",
-      "legal_privacy_li_98": "אימייל: gurimbakfar@gmail.com",
       "legal_privacy_li_99": "טלפון: 052-6662922",
       "legal_terms_alt_162": "גורים בכפר",
       "legal_terms_alt_186": "גורים בכפר",
@@ -3522,7 +3661,6 @@ html[dir="rtl"] body {
       "return_policy_li_59": "מוצרים שיוצרו במיוחד לפי הזמנה",
       "return_policy_li_60": "תוכנות ותקליטורים שנפתחו",
       "return_policy_li_61": "מוצרי היגיינה אישית שנפתחו",
-      "return_policy_li_62": "אימייל: gurimbakfar@gmail.com",
       "return_policy_li_63": "טלפון: 052-6662922",
       "return_policy_li_64": "כתובת: התאנה 9, בית שקמה, ישראל",
       "return_policy_li_65": "הגורים שלנו",
@@ -3563,7 +3701,6 @@ html[dir="rtl"] body {
       "accessibility_li_122": "בדיקת ניגודיות צבעים",
       "accessibility_li_123": "בדיקה עם משתמשים עם מוגבלויות",
       "accessibility_li_124": "חברה: גורים בכפר",
-      "accessibility_li_125": "אימייל: gurimbakfar@gmail.com",
       "accessibility_li_126": "טלפון: 052-6662922",
       "accessibility_li_127": "הגורים שלנו",
       "accessibility_li_128": "החנות",
@@ -3617,7 +3754,6 @@ html[dir="rtl"] body {
       "legal_privacy_li_115": "זכות להתנגד לעיבוד מידע למטרות שיווק",
       "legal_privacy_li_116": "זכות להגשת תלונה לרשם מאגרי המידע",
       "legal_privacy_li_117": "חברה: גורים בכפר",
-      "legal_privacy_li_118": "אימייל: gurimbakfar@gmail.com",
       "legal_privacy_li_119": "טלפון: 052-6662922",
       "legal_privacy_li_120": "כתובת: התאנה 9, בית שקמה, ישראל",
       "legal_privacy_li_121": "הגורים שלנו",
@@ -4168,7 +4304,6 @@ html[dir="rtl"] body {
       "legal_accessibility_li_96": "בדיקת ניגודיות צבעים",
       "legal_accessibility_li_97": "בדיקה עם משתמשים עם מוגבלויות",
       "legal_accessibility_li_98": "חברה: גורים בכפר",
-      "legal_accessibility_li_99": "אימייל: gurimbakfar@gmail.com",
       "new_resident_guide_li_100": "תוספי תזונה לתמיכה בעצמות ובמפרקים",
       "new_resident_guide_li_101": "חטיפי אימון בריאים ודלי קלוריות",
       "new_resident_guide_li_102": "ייעוץ אישי מצוות מנוסה לבחירת המזון הנכון",
@@ -4225,7 +4360,6 @@ html[dir="rtl"] body {
       "legal_accessibility_li_122": "בדיקת ניגודיות צבעים",
       "legal_accessibility_li_123": "בדיקה עם משתמשים עם מוגבלויות",
       "legal_accessibility_li_124": "חברה: גורים בכפר",
-      "legal_accessibility_li_125": "אימייל: gurimbakfar@gmail.com",
       "legal_accessibility_li_126": "טלפון: 052-6662922",
       "legal_accessibility_li_127": "הגורים שלנו",
       "legal_accessibility_li_128": "החנות",
@@ -4451,75 +4585,213 @@ html[dir="rtl"] body {
       "legal_accessibility_meta_description": "הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית",
       "new_resident_guide_seo_twitter_title": "מדריך לטיפול בגור חדש",
       "new_resident_guide_seo_og_description": "גורים בכפר - מדריך לטיפול בגור חדש",
-      "new_resident_guide_seo_twitter_description": "גורים בכפר - מדריך לטיפול בגור חדש"
+      "new_resident_guide_seo_twitter_description": "גורים בכפר - מדריך לטיפול בגור חדש",
+      "home_text_22_1": "&nbsp;",
+      "home_text_24_1": "&nbsp;",
+      "return_text_62_0": "אימייל: ",
+      "privacy_text_98_0": "אימייל: ",
+      "privacy_text_118_0": "אימייל: ",
+      "accessibility_text_99_0": "אימייל: ",
+      "accessibility_text_125_0": "אימייל: ",
+      "terms_text_111_0": "אימייל: ",
+      "terms_text_134_0": "אימייל: ",
+      "contact_text_87_0": "<input type=\"checkbox\" name=\"privacy_consent\" class=\"privacy-consent-checkbox\" required />\n          <span>קראתי ואני מסכים/ה ל<a href=\"/terms\" target=\"_blank\">",
+      "contact_text_87_2": "\">מדיניות החזרות</a> ול<a href=\"/privacy\" target=\"_blank\">",
+      "legal_text_111_0": "אימייל: ",
+      "legal_text_134_0": "אימייל: ",
+      "legal_text_98_0": "אימייל: ",
+      "legal_text_118_0": "אימייל: ",
+      "legal_text_99_0": "אימייל: ",
+      "legal_text_125_0": "אימייל: "
     }
   },
   "en": {
     "translation": {
+      "ecom_accountWelcome": "Welcome",
+      "ecom_addAddress": "Add Address",
+      "ecom_addBundleToCart": "Add {count} items to cart",
       "ecom_addToCart": "Add to Cart",
-      "ecom_startingAt": "Starting at",
-      "ecom_all": "All",
-      "ecom_featured": "Featured",
-      "ecom_new": "New",
-      "ecom_sale": "Sale",
-      "ecom_total": "Total",
-      "ecom_subtotal": "Subtotal",
-      "ecom_yourCart": "Your Cart",
-      "ecom_emptyCart": "Your cart is empty",
-      "ecom_checkout": "Checkout",
-      "ecom_remove": "Remove",
-      "ecom_quantity": "Quantity",
-      "ecom_viewDetails": "View Details",
-      "ecom_inStock": "In Stock",
-      "ecom_outOfStock": "Out of Stock",
-      "ecom_sku": "SKU",
-      "ecom_proceedToCheckout": "Proceed to Checkout",
-      "ecom_continueShopping": "Continue Shopping",
+      "ecom_addedToCart": "Product added to cart!",
+      "ecom_addedToFavorites": "Added to favorites",
+      "ecom_addressDeleted": "Address deleted",
+      "ecom_addressLabel": "Address Label",
+      "ecom_addressSaved": "Address saved successfully",
+      "ecom_addresses": "Addresses",
       "ecom_agreeToTerms": "I agree to the",
-      "ecom_termsAndConditions": "Terms and Conditions",
-      "ecom_pleaseAcceptTerms": "Please accept the terms and conditions",
-      "ecom_nameRequired": "Please enter your full name",
-      "ecom_emailRequired": "Please enter your email address",
-      "ecom_emailInvalid": "Please enter a valid email address",
-      "ecom_phoneRequired": "Please enter your phone number",
-      "ecom_shippingRequired": "Please select a shipping method",
-      "ecom_streetRequired": "Please enter your street address",
-      "ecom_cityRequired": "Please enter your city",
-      "ecom_city": "City",
-      "ecom_saveAddressForNextTime": "Save this address for next time",
-      "ecom_countryRegion": "Country / Region",
-      "ecom_stateProvince": "State / Province",
-      "ecom_stateRequired": "Please select a state / province",
-      "ecom_streetAndNumber": "Street and Number",
+      "ecom_all": "All",
+      "ecom_alreadyHaveAccount": "Already have an account?",
+      "ecom_apartment": "Apt, Floor, Unit",
       "ecom_apartmentExt": "Apt, Floor, Building Code, Notes, Etc.",
-      "ecom_zipPostal": "Zip / Postal Code",
+      "ecom_applyCoupon": "Apply",
+      "ecom_backToProducts": "Back to Products",
+      "ecom_browseFavorites": "Discover all our products",
+      "ecom_bundleTotal": "Bundle total",
+      "ecom_callNow": "Call Now",
+      "ecom_cancel": "Cancel",
+      "ecom_capacity": "Capacity",
+      "ecom_cart": "Cart",
+      "ecom_category": "Category",
+      "ecom_checkout": "Checkout",
+      "ecom_city": "City",
+      "ecom_cityRequired": "Please enter your city",
+      "ecom_color": "Color",
+      "ecom_confirmDelete": "Are you sure you want to delete?",
+      "ecom_contactInformation": "Contact Information",
+      "ecom_continueShopping": "Continue Shopping",
+      "ecom_continueToHomePage": "Continue to Home Page",
+      "ecom_countryRegion": "Country / Region",
+      "ecom_couponApplied": "Coupon applied successfully!",
+      "ecom_couponCode": "Coupon Code",
+      "ecom_couponExpired": "Coupon has expired",
+      "ecom_couponMinOrder": "Minimum order amount",
+      "ecom_customerInfo": "Customer Info",
+      "ecom_customerLogin": "Customer Login",
+      "ecom_days": "days",
+      "ecom_defaultAddress": "Default Address",
+      "ecom_deleteAddress": "Delete Address",
+      "ecom_discount": "Discount",
+      "ecom_editAddress": "Edit Address",
+      "ecom_editProfile": "Edit Profile",
+      "ecom_email": "Email",
+      "ecom_emailAddress": "Email Address",
+      "ecom_emailInvalid": "Please enter a valid email address",
+      "ecom_emailRequired": "Please enter your email address",
+      "ecom_emptyCart": "Your cart is empty",
+      "ecom_enterCode": "Enter the code sent to your email",
+      "ecom_enterCouponCode": "Enter coupon code",
+      "ecom_enterEmail": "Enter your email and we'll send you a login code",
+      "ecom_errorLoading": "Error loading options",
+      "ecom_featured": "Featured",
+      "ecom_featuredCategories": "Shop by Category",
+      "ecom_featuredProducts": "Featured Products",
+      "ecom_free": "FREE",
+      "ecom_freeAbove": "Free above",
       "ecom_frequentlyBoughtTogether": "Frequently bought together",
       "ecom_frequentlyBoughtTogetherSubtitle": "Save time and get everything you need",
-      "ecom_bundleTotal": "Bundle total",
-      "ecom_addBundleToCart": "Add {count} items to cart",
-      "ecom_upsellFree": "Free",
+      "ecom_fullName": "Full Name",
+      "ecom_haveCouponCode": "I have a coupon code",
       "ecom_home": "Home",
-      "ecom_products": "Products",
-      "ecom_productDetails": "Product Details",
-      "ecom_specifications": "Specifications",
-      "ecom_storeNote": "Additional Information",
-      "ecom_relatedProducts": "Related Products",
-      "ecom_color": "Color",
-      "ecom_size": "Size",
-      "ecom_material": "Material",
-      "ecom_style": "Style",
-      "ecom_weight": "Weight",
-      "ecom_capacity": "Capacity",
+      "ecom_inStock": "In Stock",
+      "ecom_inquiryAbout": "Inquiry about",
+      "ecom_invalidCoupon": "Invalid coupon code",
+      "ecom_items": "Items",
       "ecom_length": "Length",
+      "ecom_linkCopied": "Link copied!",
+      "ecom_loadingOrder": "Loading order details...",
+      "ecom_loadingPayment": "Loading payment options...",
+      "ecom_loadingProducts": "Loading products...",
+      "ecom_loadingShipping": "Loading shipping methods...",
+      "ecom_loggedInAs": "Logged in as:",
+      "ecom_login": "Login",
+      "ecom_loginHere": "Login here",
+      "ecom_loginToFavorite": "Log in to save favorites",
+      "ecom_logout": "Logout",
+      "ecom_material": "Material",
+      "ecom_mobileNumber": "Mobile Number",
+      "ecom_myAccount": "My Account",
+      "ecom_myFavorites": "My Favorites",
+      "ecom_name": "Name",
+      "ecom_nameRequired": "Please enter your full name",
+      "ecom_new": "New",
+      "ecom_next": "Next",
+      "ecom_noAddresses": "No saved addresses",
+      "ecom_noFavorites": "No favorites yet",
+      "ecom_noFeaturedProducts": "No featured products yet. Check out all our products!",
+      "ecom_noOrders": "No orders yet",
+      "ecom_noProducts": "No products to display",
       "ecom_noShippingMethods": "No shipping options available",
-      "ecom_free": "FREE",
-      "ecom_days": "days",
-      "ecom_freeAbove": "Free above",
-      "ecom_errorLoading": "Error loading options",
-      "ecom_vatIncluded": "Including VAT",
+      "ecom_notLoggedIn": "Not Logged In",
+      "ecom_orderConfirmation": "A confirmation email has been sent to you",
+      "ecom_orderDate": "Date",
+      "ecom_orderDetails": "Order Details",
+      "ecom_orderItems": "Order Items",
+      "ecom_orderNotFound": "Order not found",
+      "ecom_orderNumber": "Order Number",
+      "ecom_orderProcessing": "Your order is being processed. We'll notify you when it ships.",
+      "ecom_orderStatus": "Status",
+      "ecom_orderSuccess": "Order Received!",
+      "ecom_orderSummary": "Order Summary",
+      "ecom_orderTotal": "Total",
+      "ecom_other": "Other",
+      "ecom_ourProducts": "Our Products",
+      "ecom_outOfStock": "Out of Stock",
+      "ecom_paidAmount": "Amount Paid",
+      "ecom_payment": "Payment",
+      "ecom_paymentMethod": "Payment Method",
+      "ecom_paymentNotConfigured": "Online payment not configured",
+      "ecom_personalDetails": "Personal Details",
+      "ecom_phone": "Phone",
+      "ecom_phoneRequired": "Please enter your phone number",
+      "ecom_placeOrder": "Place Order",
+      "ecom_pleaseAcceptTerms": "Please accept the terms and conditions",
+      "ecom_pleaseLogin": "Please login to view your account",
+      "ecom_pleaseSelect": "Please select",
+      "ecom_proceedToCheckout": "Proceed to Checkout",
+      "ecom_productDetails": "Product Details",
+      "ecom_productNotFound": "Product not found",
+      "ecom_products": "Products",
+      "ecom_profileUpdated": "Profile updated successfully",
+      "ecom_quantity": "Quantity",
+      "ecom_relatedProducts": "Related Products",
+      "ecom_remove": "Remove",
+      "ecom_removeCoupon": "Remove",
+      "ecom_removeFromFavorites": "Remove from Favorites",
+      "ecom_removedFromFavorites": "Removed from favorites",
+      "ecom_returnPolicy": "Return Policy",
+      "ecom_sale": "Sale",
+      "ecom_saveAddressForNextTime": "Save this address for next time",
+      "ecom_saveChanges": "Save Changes",
+      "ecom_saveToFavorites": "Save to Favorites",
+      "ecom_saving": "Saving...",
+      "ecom_searchProducts": "Search products",
+      "ecom_selectVariant": "Select option",
+      "ecom_sendCode": "Send Code",
+      "ecom_sendInquiry": "Send Inquiry",
+      "ecom_setAsDefault": "Set as Default",
+      "ecom_shareProduct": "Share Product",
       "ecom_shipping": "Shipping",
-      "ecom_discount": "Discount",
+      "ecom_shippingAddress": "Shipping Address",
+      "ecom_shippingMethod": "Shipping Method",
+      "ecom_shippingRequired": "Please select a shipping method",
+      "ecom_signInHere": "Sign in here",
+      "ecom_size": "Size",
+      "ecom_sku": "SKU",
+      "ecom_specifications": "Specifications",
+      "ecom_startingAt": "Starting at",
+      "ecom_stateProvince": "State / Province",
+      "ecom_stateRequired": "Please select a state / province",
+      "ecom_statusCancelled": "Cancelled",
+      "ecom_statusDelivered": "Delivered",
+      "ecom_statusPaid": "Paid",
+      "ecom_statusPending": "Pending Payment",
+      "ecom_statusProcessing": "Processing",
+      "ecom_statusShipped": "Shipped",
+      "ecom_storeNote": "Additional Information",
+      "ecom_street": "Street Address",
+      "ecom_streetAndNumber": "Street and Number",
+      "ecom_streetRequired": "Please enter your street address",
+      "ecom_style": "Style",
+      "ecom_subtotal": "Subtotal",
+      "ecom_termsAndConditions": "Terms and Conditions",
+      "ecom_thankYouOrder": "Thank you for your order",
+      "ecom_total": "Total",
       "ecom_totalToPay": "Total to Pay",
+      "ecom_transactionDate": "Transaction Date",
+      "ecom_upsellFree": "Free",
+      "ecom_variantUnavailable": "Unavailable",
+      "ecom_vat": "VAT",
+      "ecom_vatIncluded": "Including VAT",
+      "ecom_verificationCode": "Verification Code",
+      "ecom_verify": "Verify",
+      "ecom_viewAllResults": "View all results",
+      "ecom_viewDetails": "View Details",
+      "ecom_viewOrder": "View Order",
+      "ecom_weight": "Weight",
+      "ecom_work": "Work",
+      "ecom_yourCart": "Your Cart",
+      "ecom_yourOrders": "Your Orders",
+      "ecom_zip": "ZIP Code",
+      "ecom_zipPostal": "Zip / Postal Code",
       "cart_p_6": "We're here for all your dog's needs — from responsible breeding to equipment store.",
       "cart_p_7": "© 2026 Puppies in the Village. All rights reserved.",
       "cart_h1_1": "Your Shopping Cart",
@@ -4538,9 +4810,7 @@ html[dir="rtl"] body {
       "home_h3_9": "Pet supply store and licensed breeding facility – everything in one place, with a big heart and genuine care.",
       "home_p_20": "At Puppies in the Village you'll find everything under one roof - a family dog breeding facility where puppies grow up in a rural atmosphere with proper exposure that contributes to their physical and mental health. We provide warm and loving care, a safe living environment, a large yard for energy release, and quality nutrition alongside routine veterinary care. Additionally, on-site pet supply store with quality products personally tailored for all types of dogs,\n\nincluding convenient home delivery service.",
       "home_p_21": "Quality food, accessories, toys, collars and leashes — everything carefully selected for your dog. A dog supply store close to you, with professional knowledge and personalized service.",
-      "home_p_22": "To our store &gt;&nbsp;",
       "home_p_23": "Puppies raised in a peaceful rural environment, with professional guidance throughout the journey. A dog breeding facility that believes in transparency, health and true love for the breed.",
-      "home_p_24": "Our puppies &gt;&nbsp;",
       "home_p_25": "Our Standard",
       "home_p_26": "<b>A</b><strong>t Puppies in the Village</strong>, we believe that every dog deserves the same care you would want for a family member. Our standards aren't just slogans — they are part of the daily routine in our dog family.&nbsp;\nOur breeding home is family-oriented in nature, the dogs grow up in a unique rural atmosphere with a huge yard for walks and energy release. The proper exposure and natural environment contribute to the physical and mental health of the puppies",
       "home_p_27": "Every dog in our boarding facility receives personal attention throughout the day with walks, feeding at regular hours, and warm human contact that reduces separation anxiety, while maintaining their overall health. We ensure healthy and quality nutrition, routine veterinary care such as vaccinations and deworming, and of course availability for emergency treatments.",
@@ -4856,7 +5126,6 @@ html[dir="rtl"] body {
       "terms_li_108": "Non-enforcement of a right will not be considered a waiver of it",
       "terms_li_109": "The terms of use constitute the entire agreement between the parties",
       "terms_li_110": "Company: Gurimbakfar",
-      "terms_li_111": "Email: gurimbakfar@gmail.com",
       "terms_li_112": "Phone: 052-6662922",
       "terms_li_113": "Address: HaTe'ena 9, Beit Shikma, Israel",
       "terms_li_114": "\"The Company\" - Gurim BaKfar",
@@ -4879,7 +5148,6 @@ html[dir="rtl"] body {
       "terms_li_131": "Non-enforcement of a right will not be considered a waiver of it",
       "terms_li_132": "The terms of use constitute the complete agreement between the parties",
       "terms_li_133": "Company: Gurim BaKfar",
-      "terms_li_134": "Email: gurimbakfar@gmail.com",
       "terms_li_135": "Phone: 052-6662922",
       "terms_li_136": "Address: HaTe'ena 9, Beit Shikma, Israel",
       "terms_li_137": "Our Puppies",
@@ -4964,14 +5232,14 @@ html[dir="rtl"] body {
       "our_cubs_h3_6": "Find your new best friend - healthy, vaccinated puppies full of love\nEvery puppy grows up at home, surrounded by warmth and love. We breed selected breeds to the highest standards of health, socialization and care\nbecause every dog deserves the best start in life.",
       "our_cubs_h3_7": "Shih Tzu",
       "our_cubs_h3_8": "Poodle",
-      "our_cubs_h3_9": "Pomeranian",
+      "our_cubs_h3_9": "Labrador Retriever",
       "our_cubs_p_24": "We specialize in responsible and loving breeding of quality puppies. All our puppies grow up in the best conditions with close veterinary supervision, emphasizing early socialization and genetic health.",
       "our_cubs_p_25": "Small and friendly breed",
       "our_cubs_p_26": "A gentle and loving dog, ideal for apartment living and families with children. Friendly, happy and full of love — bonds quickly with everyone.",
       "our_cubs_p_27": "Smart and elegant breed",
       "our_cubs_p_28": "One of the smartest breeds in the world. Learns quickly, loyal and exciting to train. Suitable for allergy sufferers — their coat hardly sheds and requires minimal grooming.",
-      "our_cubs_p_29": "Small and energetic breed",
-      "our_cubs_p_30": "A small dog with a giant personality! Curious, happy and full of life. Suitable for apartments and loves people. Brings smiles wherever it goes.",
+      "our_cubs_p_29": "A loving and loyal breed",
+      "our_cubs_p_30": "A loyal and cheerful family dog, known for its quick learning ability and love for humans. Suitable for families with children, loves water and outdoor activities. One of the most popular breeds in the world.",
       "our_cubs_p_31": "Family and loving breed",
       "our_cubs_p_32": "The classic family dog — patient, loves children and feels comfortable with everyone. Loyal and cheerful, one of the most popular breeds in Israel.",
       "our_cubs_p_33": "At Gorim BaKfar, every puppy goes through a meticulous journey of care, development and learning\nso they arrive to you healthy, balanced and ready for family life",
@@ -5018,7 +5286,6 @@ html[dir="rtl"] body {
       "privacy_li_95": "Right to object to information processing for marketing purposes",
       "privacy_li_96": "Right to file a complaint with the Data Protection Authority",
       "privacy_li_97": "Company: גורים בכפר",
-      "privacy_li_98": "Email: gurimbakfar@gmail.com",
       "privacy_li_99": "Phone: 052-6662922",
       "products_h1_1": "Our Products",
       "products_h2_2": "Your Shopping Cart",
@@ -5154,7 +5421,6 @@ html[dir="rtl"] body {
       "privacy_li_115": "Right to object to information processing for marketing purposes",
       "privacy_li_116": "Right to file a complaint with the Data Protection Authority",
       "privacy_li_117": "Company: גורים בכפר",
-      "privacy_li_118": "Email: gurimbakfar@gmail.com",
       "privacy_li_119": "Phone: 052-6662922",
       "privacy_li_120": "Address: Hateena 9, Beit Shikma, Israel",
       "privacy_li_121": "Our Puppies",
@@ -5370,7 +5636,6 @@ html[dir="rtl"] body {
       "contact_label_84": "Phone",
       "contact_label_85": "Email",
       "contact_label_86": "Message",
-      "contact_label_87": "<input type=\"checkbox\" name=\"privacy_consent\" class=\"privacy-consent-checkbox\" required />\n          <span>I have read and agree to the <a href=\"/terms\" target=\"_blank\">Terms of Use</a><span class=\"separator\">|</span>\n            <a href=\"/return-policy\" aria-label=\"Return Policy\">Return Policy</a> and <a href=\"/privacy\" target=\"_blank\">Privacy Policy</a></span>",
       "legal_terms_h1_1": "Terms of Use",
       "legal_terms_h1_2": "Terms of Use",
       "legal_terms_h2_3": "1 Definitions",
@@ -5418,7 +5683,7 @@ html[dir="rtl"] body {
       "our_cubs_div_110": "100%\n          vaccinated and checked",
       "our_cubs_div_111": "🏠 Apartment suitable\n            ❤️ Friendly",
       "our_cubs_div_112": "🧠 Smart and loyal\n            🌿 Hypoallergenic",
-      "our_cubs_div_113": "✨ Huge personality\n            🏠 Apartment suitable",
+      "our_cubs_div_113": "🐾 Loves water\n            👨‍👩‍👧 Suitable for families",
       "our_cubs_div_114": "👨‍👩‍👧 Loves children\n            🌟 Leading breed",
       "our_cubs_link_76": "View our puppies",
       "our_cubs_link_77": "Contact us",
@@ -5635,7 +5900,6 @@ html[dir="rtl"] body {
       "legal_terms_li_108": "Non-enforcement of a right will not be considered a waiver of it",
       "legal_terms_li_109": "The terms of use constitute the entire agreement between the parties",
       "legal_terms_li_110": "Company: גורים בכפר",
-      "legal_terms_li_111": "Email: gurimbakfar@gmail.com",
       "legal_terms_li_112": "Phone: 052-6662922",
       "legal_terms_li_113": "Address: HaTe'ena 9, Beit Shikma, Israel",
       "legal_terms_li_114": "\"The Company\" - גורים בכפר",
@@ -5658,7 +5922,6 @@ html[dir="rtl"] body {
       "legal_terms_li_131": "Non-enforcement of a right will not be considered a waiver of it",
       "legal_terms_li_132": "The terms of use constitute the entire agreement between the parties",
       "legal_terms_li_133": "Company: גורים בכפר",
-      "legal_terms_li_134": "Email: gurimbakfar@gmail.com",
       "legal_terms_li_135": "Phone: 052-6662922",
       "legal_terms_li_136": "Address: HaTe'ena 9, Beit Shikma, Israel",
       "legal_terms_li_137": "Our Puppies",
@@ -5751,7 +6014,6 @@ html[dir="rtl"] body {
       "accessibility_li_96": "Color contrast testing",
       "accessibility_li_97": "Testing with users with disabilities",
       "accessibility_li_98": "Company: Gurim BaKfar",
-      "accessibility_li_99": "Email: gurimbakfar@gmail.com",
       "cart_aria_label_104": "Menu",
       "cart_aria_label_105": "Call",
       "cart_aria_label_106": "Facebook",
@@ -5807,7 +6069,6 @@ html[dir="rtl"] body {
       "legal_privacy_li_95": "Right to object to information processing for marketing purposes",
       "legal_privacy_li_96": "Right to file a complaint with the Data Protection Authority",
       "legal_privacy_li_97": "Company: גורים בכפר",
-      "legal_privacy_li_98": "Email: gurimbakfar@gmail.com",
       "legal_privacy_li_99": "Phone: 052-6662922",
       "legal_terms_alt_162": "Puppies in the Village",
       "legal_terms_alt_186": "Puppies in the Village",
@@ -5876,7 +6137,6 @@ html[dir="rtl"] body {
       "return_policy_li_59": "Products specially made to order",
       "return_policy_li_60": "Opened software and CDs",
       "return_policy_li_61": "Opened personal hygiene products",
-      "return_policy_li_62": "Email: gurimbakfar@gmail.com",
       "return_policy_li_63": "Phone: 052-6662922",
       "return_policy_li_64": "Address: HaTe'ena 9, Beit Shikma, Israel",
       "return_policy_li_65": "Our Puppies",
@@ -5917,7 +6177,6 @@ html[dir="rtl"] body {
       "accessibility_li_122": "Color contrast testing",
       "accessibility_li_123": "Testing with users with disabilities",
       "accessibility_li_124": "Company: גורים בכפר",
-      "accessibility_li_125": "Email: gurimbakfar@gmail.com",
       "accessibility_li_126": "Phone: 052-6662922",
       "accessibility_li_127": "Our Puppies",
       "accessibility_li_128": "The Store",
@@ -5971,7 +6230,6 @@ html[dir="rtl"] body {
       "legal_privacy_li_115": "Right to object to information processing for marketing purposes",
       "legal_privacy_li_116": "Right to file a complaint with the Data Protection Authority",
       "legal_privacy_li_117": "Company: גורים בכפר",
-      "legal_privacy_li_118": "Email: gurimbakfar@gmail.com",
       "legal_privacy_li_119": "Phone: 052-6662922",
       "legal_privacy_li_120": "Address: התאנה 9, בית שקמה, ישראל",
       "legal_privacy_li_121": "Our Puppies",
@@ -6522,7 +6780,6 @@ html[dir="rtl"] body {
       "legal_accessibility_li_96": "Color contrast testing",
       "legal_accessibility_li_97": "Testing with users with disabilities",
       "legal_accessibility_li_98": "Company: גורים בכפר",
-      "legal_accessibility_li_99": "Email: gurimbakfar@gmail.com",
       "new_resident_guide_li_100": "Nutritional supplements for bone and joint support",
       "new_resident_guide_li_101": "Healthy, low-calorie training treats",
       "new_resident_guide_li_102": "Personal consultation from experienced team for choosing the right food",
@@ -6579,7 +6836,6 @@ html[dir="rtl"] body {
       "legal_accessibility_li_122": "Color contrast testing",
       "legal_accessibility_li_123": "Testing with users with disabilities",
       "legal_accessibility_li_124": "Company: גורים בכפר",
-      "legal_accessibility_li_125": "Email: gurimbakfar@gmail.com",
       "legal_accessibility_li_126": "Phone: 052-6662922",
       "legal_accessibility_li_127": "Our Puppies",
       "legal_accessibility_li_128": "The Store",
@@ -6805,75 +7061,213 @@ html[dir="rtl"] body {
       "legal_accessibility_meta_description": "Our accessibility statement - our commitment to digital accessibility",
       "new_resident_guide_seo_twitter_title": "New Puppy Care Guide",
       "new_resident_guide_seo_og_description": "Puppies in the Village - New Puppy Care Guide",
-      "new_resident_guide_seo_twitter_description": "Puppies in the Village - New Puppy Care Guide"
+      "new_resident_guide_seo_twitter_description": "Puppies in the Village - New Puppy Care Guide",
+      "home_text_22_1": "&nbsp;",
+      "home_text_24_1": "&nbsp;",
+      "return_text_62_0": "Email: ",
+      "privacy_text_98_0": "Email: ",
+      "privacy_text_118_0": "Email: ",
+      "accessibility_text_99_0": "Email: ",
+      "accessibility_text_125_0": "Email: ",
+      "terms_text_111_0": "Email: ",
+      "terms_text_134_0": "Email: ",
+      "contact_text_87_0": "<input type=\"checkbox\" name=\"privacy_consent\" class=\"privacy-consent-checkbox\" required />\n          <span>I have read and agree to the <a href=\"/terms\" target=\"_blank\">",
+      "contact_text_87_2": "\">Return Policy</a> and <a href=\"/privacy\" target=\"_blank\">",
+      "legal_text_111_0": "Email: ",
+      "legal_text_134_0": "Email: ",
+      "legal_text_98_0": "Email: ",
+      "legal_text_118_0": "Email: ",
+      "legal_text_99_0": "Email: ",
+      "legal_text_125_0": "Email: "
     }
   },
   "ru": {
     "translation": {
+      "ecom_accountWelcome": "Welcome",
+      "ecom_addAddress": "Add Address",
+      "ecom_addBundleToCart": "Добавить {count} товаров в корзину",
       "ecom_addToCart": "В корзину",
-      "ecom_startingAt": "От",
-      "ecom_all": "Все",
-      "ecom_featured": "Рекомендуемые",
-      "ecom_new": "Новинки",
-      "ecom_sale": "Распродажа",
-      "ecom_total": "Итого",
-      "ecom_subtotal": "Подытог",
-      "ecom_yourCart": "Ваша корзина",
-      "ecom_emptyCart": "Корзина пуста",
-      "ecom_checkout": "Оформить заказ",
-      "ecom_remove": "Удалить",
-      "ecom_quantity": "Количество",
-      "ecom_viewDetails": "Подробнее",
-      "ecom_inStock": "В наличии",
-      "ecom_outOfStock": "Нет в наличии",
-      "ecom_sku": "Артикул",
-      "ecom_proceedToCheckout": "Перейти к оплате",
-      "ecom_continueShopping": "Продолжить покупки",
+      "ecom_addedToCart": "Product added to cart!",
+      "ecom_addedToFavorites": "Added to favorites",
+      "ecom_addressDeleted": "Address deleted",
+      "ecom_addressLabel": "Address Label",
+      "ecom_addressSaved": "Address saved successfully",
+      "ecom_addresses": "Addresses",
       "ecom_agreeToTerms": "Я соглашаюсь с",
-      "ecom_termsAndConditions": "Условиями использования",
-      "ecom_pleaseAcceptTerms": "Пожалуйста, примите условия использования",
-      "ecom_nameRequired": "Пожалуйста, введите ваше полное имя",
-      "ecom_emailRequired": "Пожалуйста, введите ваш email",
-      "ecom_emailInvalid": "Пожалуйста, введите корректный email",
-      "ecom_phoneRequired": "Пожалуйста, введите номер телефона",
-      "ecom_shippingRequired": "Пожалуйста, выберите способ доставки",
-      "ecom_streetRequired": "Пожалуйста, введите адрес",
-      "ecom_cityRequired": "Пожалуйста, введите город",
-      "ecom_city": "Город",
-      "ecom_saveAddressForNextTime": "Сохранить этот адрес на будущее",
-      "ecom_countryRegion": "Страна / Регион",
-      "ecom_stateProvince": "Штат / Область",
-      "ecom_stateRequired": "Пожалуйста, выберите штат / область",
-      "ecom_streetAndNumber": "Улица и номер",
+      "ecom_all": "Все",
+      "ecom_alreadyHaveAccount": "Already have an account?",
+      "ecom_apartment": "Apt, Floor, Unit",
       "ecom_apartmentExt": "Кв., этаж, код дома, заметки и т.д.",
-      "ecom_zipPostal": "Почтовый индекс",
+      "ecom_applyCoupon": "Apply",
+      "ecom_backToProducts": "Back to Products",
+      "ecom_browseFavorites": "Discover all our products",
+      "ecom_bundleTotal": "Итого набор",
+      "ecom_callNow": "Call Now",
+      "ecom_cancel": "Cancel",
+      "ecom_capacity": "Объем",
+      "ecom_cart": "Cart",
+      "ecom_category": "Category",
+      "ecom_checkout": "Оформить заказ",
+      "ecom_city": "Город",
+      "ecom_cityRequired": "Пожалуйста, введите город",
+      "ecom_color": "Цвет",
+      "ecom_confirmDelete": "Are you sure you want to delete?",
+      "ecom_contactInformation": "Contact Information",
+      "ecom_continueShopping": "Продолжить покупки",
+      "ecom_continueToHomePage": "Continue to Home Page",
+      "ecom_countryRegion": "Страна / Регион",
+      "ecom_couponApplied": "Coupon applied successfully!",
+      "ecom_couponCode": "Coupon Code",
+      "ecom_couponExpired": "Coupon has expired",
+      "ecom_couponMinOrder": "Minimum order amount",
+      "ecom_customerInfo": "Customer Info",
+      "ecom_customerLogin": "Customer Login",
+      "ecom_days": "дней",
+      "ecom_defaultAddress": "Default Address",
+      "ecom_deleteAddress": "Delete Address",
+      "ecom_discount": "Скидка",
+      "ecom_editAddress": "Edit Address",
+      "ecom_editProfile": "Edit Profile",
+      "ecom_email": "Email",
+      "ecom_emailAddress": "Email Address",
+      "ecom_emailInvalid": "Пожалуйста, введите корректный email",
+      "ecom_emailRequired": "Пожалуйста, введите ваш email",
+      "ecom_emptyCart": "Корзина пуста",
+      "ecom_enterCode": "Enter the code sent to your email",
+      "ecom_enterCouponCode": "Enter coupon code",
+      "ecom_enterEmail": "Enter your email and we'll send you a login code",
+      "ecom_errorLoading": "Ошибка загрузки вариантов",
+      "ecom_featured": "Рекомендуемые",
+      "ecom_featuredCategories": "Shop by Category",
+      "ecom_featuredProducts": "Featured Products",
+      "ecom_free": "БЕСПЛАТНО",
+      "ecom_freeAbove": "Бесплатно от",
       "ecom_frequentlyBoughtTogether": "Часто покупают вместе",
       "ecom_frequentlyBoughtTogetherSubtitle": "Экономьте время и получите все необходимое",
-      "ecom_bundleTotal": "Итого набор",
-      "ecom_addBundleToCart": "Добавить {count} товаров в корзину",
-      "ecom_upsellFree": "Бесплатно",
+      "ecom_fullName": "Full Name",
+      "ecom_haveCouponCode": "I have a coupon code",
       "ecom_home": "Главная",
-      "ecom_products": "Товары",
-      "ecom_productDetails": "Описание товара",
-      "ecom_specifications": "Характеристики",
-      "ecom_storeNote": "Дополнительная информация",
-      "ecom_relatedProducts": "Похожие товары",
-      "ecom_color": "Цвет",
-      "ecom_size": "Размер",
-      "ecom_material": "Материал",
-      "ecom_style": "Стиль",
-      "ecom_weight": "Вес",
-      "ecom_capacity": "Объем",
+      "ecom_inStock": "В наличии",
+      "ecom_inquiryAbout": "Inquiry about",
+      "ecom_invalidCoupon": "Invalid coupon code",
+      "ecom_items": "Items",
       "ecom_length": "Длина",
+      "ecom_linkCopied": "Link copied!",
+      "ecom_loadingOrder": "Loading order details...",
+      "ecom_loadingPayment": "Loading payment options...",
+      "ecom_loadingProducts": "Loading products...",
+      "ecom_loadingShipping": "Loading shipping methods...",
+      "ecom_loggedInAs": "Logged in as:",
+      "ecom_login": "Login",
+      "ecom_loginHere": "Login here",
+      "ecom_loginToFavorite": "Log in to save favorites",
+      "ecom_logout": "Logout",
+      "ecom_material": "Материал",
+      "ecom_mobileNumber": "Mobile Number",
+      "ecom_myAccount": "My Account",
+      "ecom_myFavorites": "My Favorites",
+      "ecom_name": "Name",
+      "ecom_nameRequired": "Пожалуйста, введите ваше полное имя",
+      "ecom_new": "Новинки",
+      "ecom_next": "Next",
+      "ecom_noAddresses": "No saved addresses",
+      "ecom_noFavorites": "No favorites yet",
+      "ecom_noFeaturedProducts": "No featured products yet. Check out all our products!",
+      "ecom_noOrders": "No orders yet",
+      "ecom_noProducts": "No products to display",
       "ecom_noShippingMethods": "Варианты доставки недоступны",
-      "ecom_free": "БЕСПЛАТНО",
-      "ecom_days": "дней",
-      "ecom_freeAbove": "Бесплатно от",
-      "ecom_errorLoading": "Ошибка загрузки вариантов",
-      "ecom_vatIncluded": "Включая НДС",
+      "ecom_notLoggedIn": "Not Logged In",
+      "ecom_orderConfirmation": "A confirmation email has been sent to you",
+      "ecom_orderDate": "Date",
+      "ecom_orderDetails": "Order Details",
+      "ecom_orderItems": "Order Items",
+      "ecom_orderNotFound": "Order not found",
+      "ecom_orderNumber": "Order Number",
+      "ecom_orderProcessing": "Your order is being processed. We'll notify you when it ships.",
+      "ecom_orderStatus": "Status",
+      "ecom_orderSuccess": "Order Received!",
+      "ecom_orderSummary": "Order Summary",
+      "ecom_orderTotal": "Total",
+      "ecom_other": "Other",
+      "ecom_ourProducts": "Our Products",
+      "ecom_outOfStock": "Нет в наличии",
+      "ecom_paidAmount": "Amount Paid",
+      "ecom_payment": "Payment",
+      "ecom_paymentMethod": "Payment Method",
+      "ecom_paymentNotConfigured": "Online payment not configured",
+      "ecom_personalDetails": "Personal Details",
+      "ecom_phone": "Phone",
+      "ecom_phoneRequired": "Пожалуйста, введите номер телефона",
+      "ecom_placeOrder": "Place Order",
+      "ecom_pleaseAcceptTerms": "Пожалуйста, примите условия использования",
+      "ecom_pleaseLogin": "Please login to view your account",
+      "ecom_pleaseSelect": "Please select",
+      "ecom_proceedToCheckout": "Перейти к оплате",
+      "ecom_productDetails": "Описание товара",
+      "ecom_productNotFound": "Product not found",
+      "ecom_products": "Товары",
+      "ecom_profileUpdated": "Profile updated successfully",
+      "ecom_quantity": "Количество",
+      "ecom_relatedProducts": "Похожие товары",
+      "ecom_remove": "Удалить",
+      "ecom_removeCoupon": "Remove",
+      "ecom_removeFromFavorites": "Remove from Favorites",
+      "ecom_removedFromFavorites": "Removed from favorites",
+      "ecom_returnPolicy": "Return Policy",
+      "ecom_sale": "Распродажа",
+      "ecom_saveAddressForNextTime": "Сохранить этот адрес на будущее",
+      "ecom_saveChanges": "Save Changes",
+      "ecom_saveToFavorites": "Save to Favorites",
+      "ecom_saving": "Saving...",
+      "ecom_searchProducts": "Search products",
+      "ecom_selectVariant": "Select option",
+      "ecom_sendCode": "Send Code",
+      "ecom_sendInquiry": "Send Inquiry",
+      "ecom_setAsDefault": "Set as Default",
+      "ecom_shareProduct": "Share Product",
       "ecom_shipping": "Доставка",
-      "ecom_discount": "Скидка",
+      "ecom_shippingAddress": "Shipping Address",
+      "ecom_shippingMethod": "Shipping Method",
+      "ecom_shippingRequired": "Пожалуйста, выберите способ доставки",
+      "ecom_signInHere": "Sign in here",
+      "ecom_size": "Размер",
+      "ecom_sku": "Артикул",
+      "ecom_specifications": "Характеристики",
+      "ecom_startingAt": "От",
+      "ecom_stateProvince": "Штат / Область",
+      "ecom_stateRequired": "Пожалуйста, выберите штат / область",
+      "ecom_statusCancelled": "Cancelled",
+      "ecom_statusDelivered": "Delivered",
+      "ecom_statusPaid": "Paid",
+      "ecom_statusPending": "Pending Payment",
+      "ecom_statusProcessing": "Processing",
+      "ecom_statusShipped": "Shipped",
+      "ecom_storeNote": "Дополнительная информация",
+      "ecom_street": "Street Address",
+      "ecom_streetAndNumber": "Улица и номер",
+      "ecom_streetRequired": "Пожалуйста, введите адрес",
+      "ecom_style": "Стиль",
+      "ecom_subtotal": "Подытог",
+      "ecom_termsAndConditions": "Условиями использования",
+      "ecom_thankYouOrder": "Thank you for your order",
+      "ecom_total": "Итого",
       "ecom_totalToPay": "Итого к оплате",
+      "ecom_transactionDate": "Transaction Date",
+      "ecom_upsellFree": "Бесплатно",
+      "ecom_variantUnavailable": "Unavailable",
+      "ecom_vat": "VAT",
+      "ecom_vatIncluded": "Включая НДС",
+      "ecom_verificationCode": "Verification Code",
+      "ecom_verify": "Verify",
+      "ecom_viewAllResults": "View all results",
+      "ecom_viewDetails": "Подробнее",
+      "ecom_viewOrder": "View Order",
+      "ecom_weight": "Вес",
+      "ecom_work": "Work",
+      "ecom_yourCart": "Ваша корзина",
+      "ecom_yourOrders": "Your Orders",
+      "ecom_zip": "ZIP Code",
+      "ecom_zipPostal": "Почтовый индекс",
       "cart_p_6": "Мы здесь для всех потребностей вашей собаки — от ответственного разведения до магазина товаров.",
       "cart_p_7": "© 2026 גורים בכפר. Все права защищены.",
       "cart_h1_1": "Ваша корзина",
@@ -6892,9 +7286,7 @@ html[dir="rtl"] body {
       "home_h3_9": "Магазин товаров и лицензированный питомник — всё в одном месте, с большим сердцем и настоящей заботой.",
       "home_p_20": "В גורים בכפר вы найдёте всё под одной крышей - семейный питомник для собак, где щенки растут в деревенской атмосфере с правильной социализацией, способствующей их физическому и психическому здоровью. Мы обеспечиваем тёплое и любящее отношение, безопасную среду обитания, большой двор для выплеска энергии, и качественное питание наряду с регулярным ветеринарным уходом. Кроме того, на месте находится магазин товаров для животных с качественными продуктами, индивидуально подобранными для всех типов собак, \n\nвключая удобную службу доставки на дом.",
       "home_p_21": "Качественный корм, аксессуары, игрушки, ошейники и поводки — всё тщательно отобрано для вашей собаки. Магазин товаров для собак рядом с вами, с профессиональными знаниями и персонализированным сервисом.",
-      "home_p_22": "В наш магазин &gt;&nbsp;",
       "home_p_23": "Щенки, выращенные в спокойной деревенской среде, с профессиональным сопровождением на протяжении всего пути. Питомник собак, который верит в прозрачность, здоровье и настоящую любовь к породе.",
-      "home_p_24": "Наши щенки &gt;&nbsp;",
       "home_p_25": "Наш стандарт",
       "home_p_26": "<b>В</b><strong>גורים בכפר</strong>, мы верим, что каждая собака заслуживает того же внимания, которого вы бы хотели для члена семьи. Наши стандарты — это не просто лозунги, они являются частью повседневной жизни нашей собачьей семьи.&nbsp;\nНаш питомник имеет семейный характер, собаки растут в уникальной сельской атмосфере с огромным двором для прогулок и выплеска энергии. Правильная социализация и естественная среда способствуют физическому и психическому здоровью щенков",
       "home_p_27": "Каждая собака в нашем пансионе получает индивидуальное внимание в течение всего дня: прогулки, кормление в установленные часы и теплый человеческий контакт, который снижает тревогу разлуки, при этом мы заботимся об общем состоянии здоровья. Мы обеспечиваем здоровое и качественное питание, регулярные ветеринарные процедуры, такие как вакцинация и дегельминтизация, и, конечно же, доступность для экстренного лечения.",
@@ -7210,7 +7602,6 @@ html[dir="rtl"] body {
       "terms_li_108": "Неприменение права не считается отказом от него",
       "terms_li_109": "Условия использования составляют полное соглашение между сторонами",
       "terms_li_110": "Компания: Гурим Бакфар",
-      "terms_li_111": "Email: gurimbakfar@gmail.com",
       "terms_li_112": "Телефон: 052-6662922",
       "terms_li_113": "Адрес: Хатаана 9, Бейт Шкема, Израиль",
       "terms_li_114": "\"Компания\" - Гурим Бакфар",
@@ -7233,7 +7624,6 @@ html[dir="rtl"] body {
       "terms_li_131": "Неисполнение права не считается отказом от него",
       "terms_li_132": "Условия использования составляют полное соглашение между сторонами",
       "terms_li_133": "Компания: גורים בכפר",
-      "terms_li_134": "Email: gurimbakfar@gmail.com",
       "terms_li_135": "Телефон: 052-6662922",
       "terms_li_136": "Адрес: התאנה 9, בית שקמה, ישראל",
       "terms_li_137": "Наши щенки",
@@ -7318,14 +7708,14 @@ html[dir="rtl"] body {
       "our_cubs_h3_6": "Найдите своего нового лучшего друга здоровые, привитые и полные любви щенки\nКаждый щенок растет в доме, окруженный теплом и любовью. Мы разводим отборные породы по самым высоким стандартам здоровья, социализации и ухода\nпотому что каждая собака заслуживает лучшего старта в жизни.",
       "our_cubs_h3_7": "Ши-тцу",
       "our_cubs_h3_8": "Пудель",
-      "our_cubs_h3_9": "Померанский шпиц",
+      "our_cubs_h3_9": "Лабрадор ретривер",
       "our_cubs_p_24": "Мы специализируемся на ответственном и любящем разведении качественных щенков. Все наши щенки растут в лучших условиях с постоянным ветеринарным сопровождением, с акцентом на раннюю социализацию и генетическое здоровье.",
       "our_cubs_p_25": "Маленькая и дружелюбная порода",
       "our_cubs_p_26": "Нежная и любящая собака, идеальная для квартирной жизни и семей с детьми. Дружелюбная, веселая и полная любви — быстро привязывается ко всем.",
       "our_cubs_p_27": "Умная и элегантная порода",
       "our_cubs_p_28": "Одна из самых умных пород в мире. Быстро учится, верная и легко поддается дрессировке. Подходит для аллергиков — шерсть почти не линяет и требует минимального ухода.",
-      "our_cubs_p_29": "Маленькая и энергичная порода",
-      "our_cubs_p_30": "Маленькая собака с огромной личностью! Любопытная, веселая и полная жизни. Подходит для квартир и любит людей. Вызывает улыбки везде, куда идет.",
+      "our_cubs_p_29": "Любящая и преданная порода",
+      "our_cubs_p_30": "Верная и веселая семейная собака, известная способностью к быстрому обучению и любовью к людям. Подходит для семей с детьми, любит воду и активный отдых. Одна из самых популярных пород в мире.",
       "our_cubs_p_31": "Семейная и любящая порода",
       "our_cubs_p_32": "Классическая семейная собака — терпеливая, любит детей и комфортно чувствует себя со всеми. Верная и веселая, одна из самых популярных пород в Израиле.",
       "our_cubs_p_33": "В Гурим ба-кфар каждый щенок проходит тщательный путь ухода, развития и обучения\nчтобы прийти к вам здоровым, уравновешенным и готовым к семейной жизни",
@@ -7372,7 +7762,6 @@ html[dir="rtl"] body {
       "privacy_li_95": "Право возражать против обработки информации в маркетинговых целях",
       "privacy_li_96": "Право подать жалобу регистратору баз данных",
       "privacy_li_97": "Компания: גורים בכפר",
-      "privacy_li_98": "Email: gurimbakfar@gmail.com",
       "privacy_li_99": "Телефон: 052-6662922",
       "products_h1_1": "Наши продукты",
       "products_h2_2": "Ваша корзина покупок",
@@ -7508,7 +7897,6 @@ html[dir="rtl"] body {
       "privacy_li_115": "Право возражать против обработки информации в маркетинговых целях",
       "privacy_li_116": "Право подать жалобу регистратору баз данных",
       "privacy_li_117": "Компания: גורים בכפר",
-      "privacy_li_118": "Email: gurimbakfar@gmail.com",
       "privacy_li_119": "Телефон: 052-6662922",
       "privacy_li_120": "Адрес: התאנה 9, בית שקמה, ישראל",
       "privacy_li_121": "Наши щенки",
@@ -7724,7 +8112,6 @@ html[dir="rtl"] body {
       "contact_label_84": "Телефон",
       "contact_label_85": "Электронная почта",
       "contact_label_86": "Сообщение",
-      "contact_label_87": "<input type=\"checkbox\" name=\"privacy_consent\" class=\"privacy-consent-checkbox\" required />\n          <span>Я прочитал(а) и согласен(на) с <a href=\"/terms\" target=\"_blank\">условиями использования</a><span class=\"separator\">|</span>\n            <a href=\"/return-policy\" aria-label=\"Политика возврата\">политикой возврата</a> и <a href=\"/privacy\" target=\"_blank\">политикой конфиденциальности</a></span>",
       "legal_terms_h1_1": "Условия использования",
       "legal_terms_h1_2": "Условия использования",
       "legal_terms_h2_3": "1 Определения",
@@ -7772,7 +8159,7 @@ html[dir="rtl"] body {
       "our_cubs_div_110": "100%\n          привиты и проверены",
       "our_cubs_div_111": "🏠 Подходит для квартиры\n            ❤️ Дружелюбный",
       "our_cubs_div_112": "🧠 Умный и верный\n            🌿 Гипоаллергенный",
-      "our_cubs_div_113": "✨ Огромная личность\n            🏠 Подходит для квартиры",
+      "our_cubs_div_113": "🐾 Любит воду\n            👨‍👩‍👧 Подходит для семей",
       "our_cubs_div_114": "👨‍👩‍👧 Любит детей\n            🌟 Ведущая порода",
       "our_cubs_link_76": "Посмотрите наших щенков",
       "our_cubs_link_77": "Свяжитесь с нами",
@@ -7989,7 +8376,6 @@ html[dir="rtl"] body {
       "legal_terms_li_108": "Неприменение права не будет считаться отказом от него",
       "legal_terms_li_109": "Условия использования составляют полное соглашение между сторонами",
       "legal_terms_li_110": "Компания: Щенки в деревне",
-      "legal_terms_li_111": "Email: gurimbakfar@gmail.com",
       "legal_terms_li_112": "Телефон: 052-6662922",
       "legal_terms_li_113": "Адрес: Атаена 9, Бейт Шкема, Израиль",
       "legal_terms_li_114": "\"Компания\" - Щенки в деревне",
@@ -8012,7 +8398,6 @@ html[dir="rtl"] body {
       "legal_terms_li_131": "Неисполнение права не будет считаться отказом от него",
       "legal_terms_li_132": "Условия использования составляют полное соглашение между сторонами",
       "legal_terms_li_133": "Компания: Щенки в деревне",
-      "legal_terms_li_134": "Email: gurimbakfar@gmail.com",
       "legal_terms_li_135": "Телефон: 052-6662922",
       "legal_terms_li_136": "Адрес: Атаена 9, Бейт Шкема, Израиль",
       "legal_terms_li_137": "Наши щенки",
@@ -8105,7 +8490,6 @@ html[dir="rtl"] body {
       "accessibility_li_96": "Проверка цветового контраста",
       "accessibility_li_97": "Тестирование с пользователями с ограниченными возможностями",
       "accessibility_li_98": "Компания: גורים בכפר",
-      "accessibility_li_99": "Email: gurimbakfar@gmail.com",
       "cart_aria_label_104": "Меню",
       "cart_aria_label_105": "Звонок",
       "cart_aria_label_106": "Facebook",
@@ -8161,7 +8545,6 @@ html[dir="rtl"] body {
       "legal_privacy_li_95": "Право возражать против обработки информации в маркетинговых целях",
       "legal_privacy_li_96": "Право подать жалобу регистратору баз данных",
       "legal_privacy_li_97": "Компания: גורים בכפר",
-      "legal_privacy_li_98": "Email: gurimbakfar@gmail.com",
       "legal_privacy_li_99": "Телефон: 052-6662922",
       "legal_terms_alt_162": "גורים בכפר",
       "legal_terms_alt_186": "Щенки в деревне",
@@ -8230,7 +8613,6 @@ html[dir="rtl"] body {
       "return_policy_li_59": "Товары, изготовленные специально по заказу",
       "return_policy_li_60": "Открытые программы и диски",
       "return_policy_li_61": "Открытые товары личной гигиены",
-      "return_policy_li_62": "Email: gurimbakfar@gmail.com",
       "return_policy_li_63": "Телефон: 052-6662922",
       "return_policy_li_64": "Адрес: התאנה 9, בית שקמה, ישראל",
       "return_policy_li_65": "Наши щенки",
@@ -8271,7 +8653,6 @@ html[dir="rtl"] body {
       "accessibility_li_122": "Проверка цветовой контрастности",
       "accessibility_li_123": "Тестирование с пользователями с ограниченными возможностями",
       "accessibility_li_124": "Компания: גורים בכפר",
-      "accessibility_li_125": "Email: gurimbakfar@gmail.com",
       "accessibility_li_126": "Телефон: 052-6662922",
       "accessibility_li_127": "Наши щенки",
       "accessibility_li_128": "Магазин",
@@ -8325,7 +8706,6 @@ html[dir="rtl"] body {
       "legal_privacy_li_115": "Право возражать против обработки информации в маркетинговых целях",
       "legal_privacy_li_116": "Право подать жалобу регистратору баз данных",
       "legal_privacy_li_117": "Компания: גורים בכפר",
-      "legal_privacy_li_118": "Email: gurimbakfar@gmail.com",
       "legal_privacy_li_119": "Телефон: 052-6662922",
       "legal_privacy_li_120": "Адрес: Атаана 9, Бейт Шкема, Израиль",
       "legal_privacy_li_121": "Наши щенки",
@@ -8876,7 +9256,6 @@ html[dir="rtl"] body {
       "legal_accessibility_li_96": "Проверка цветового контраста",
       "legal_accessibility_li_97": "Тестирование с пользователями с ограниченными возможностями",
       "legal_accessibility_li_98": "Компания: Щенки в деревне",
-      "legal_accessibility_li_99": "Email: gurimbakfar@gmail.com",
       "new_resident_guide_li_100": "Пищевые добавки для поддержки костей и суставов",
       "new_resident_guide_li_101": "Здоровые низкокалорийные лакомства для дрессировки",
       "new_resident_guide_li_102": "Персональные консультации от опытной команды по выбору правильного корма",
@@ -8933,7 +9312,6 @@ html[dir="rtl"] body {
       "legal_accessibility_li_122": "Проверка цветовой контрастности",
       "legal_accessibility_li_123": "Тестирование с пользователями с ограниченными возможностями",
       "legal_accessibility_li_124": "Компания: גורים בכפר",
-      "legal_accessibility_li_125": "Email: gurimbakfar@gmail.com",
       "legal_accessibility_li_126": "Телефон: 052-6662922",
       "legal_accessibility_li_127": "Наши щенки",
       "legal_accessibility_li_128": "Магазин",
@@ -9159,7 +9537,24 @@ html[dir="rtl"] body {
       "legal_accessibility_meta_description": "Наша декларация доступности - наша приверженность цифровой доступности",
       "new_resident_guide_seo_twitter_title": "Руководство по уходу за новым щенком",
       "new_resident_guide_seo_og_description": "Щенки в деревне - Руководство по уходу за новым щенком",
-      "new_resident_guide_seo_twitter_description": "Щенки в деревне - Руководство по уходу за новым щенком"
+      "new_resident_guide_seo_twitter_description": "Щенки в деревне - Руководство по уходу за новым щенком",
+      "home_text_22_1": "&nbsp;",
+      "home_text_24_1": "&nbsp;",
+      "return_text_62_0": "Email: ",
+      "privacy_text_98_0": "Email: ",
+      "privacy_text_118_0": "Email: ",
+      "accessibility_text_99_0": "Email: ",
+      "accessibility_text_125_0": "Email: ",
+      "terms_text_111_0": "Email: ",
+      "terms_text_134_0": "Email: ",
+      "contact_text_87_0": "קראתי ואני מסכים/ה ל",
+      "contact_text_87_2": "ול",
+      "legal_text_111_0": "Email: ",
+      "legal_text_134_0": "Email: ",
+      "legal_text_98_0": "Email: ",
+      "legal_text_118_0": "Email: ",
+      "legal_text_99_0": "Email: ",
+      "legal_text_125_0": "Email: "
     }
   }
 };
@@ -9218,6 +9613,29 @@ html[dir="rtl"] body {
     try { localStorage.setItem('zappy_lang', targetLang); } catch (e) {}
 
     var path = window.location.pathname || '/';
+
+    // PREVIEW MODE: when the page is loaded inside the dashboard preview
+    // iframe the pathname is the API route itself
+    // (/api/website/preview/:id or /api/website/preview-fullscreen/:id) and
+    // the in-site path lives in ?page=. Prepending /<lang>/ to that pathname
+    // would produce /en/api/website/preview-fullscreen/... — a 404 with no
+    // matching Express route. Instead we keep the iframe URL and toggle only
+    // the ?lang= query param. The preview-fullscreen route already treats
+    // ?lang= as the highest-priority language source (overrides path/locale
+    // detection) and re-renders the page with the correct chrome on reload,
+    // which is exactly what the published /<lang>/ navigation would have
+    // delivered on a real domain.
+    if (path.indexOf('/api/website/preview') === 0) {
+      var previewUrl = new URL(window.location.href);
+      if (targetLang === 'he') {
+        previewUrl.searchParams.delete('lang');
+      } else {
+        previewUrl.searchParams.set('lang', targetLang);
+      }
+      window.location.assign(previewUrl.pathname + previewUrl.search + previewUrl.hash);
+      return;
+    }
+
     var prefixMatch = path.match(/^\/([a-z]{2})(?=\/|$)/i);
     if (prefixMatch && availableLanguages.includes(prefixMatch[1].toLowerCase())) {
       path = path.slice(prefixMatch[0].length) || '/';
@@ -9382,9 +9800,18 @@ html[dir="rtl"] body {
         }
       }
 
-      // Pure text element (or wrapper like <font>text</font>) — use innerHTML
-      // when the translation or existing markup contains line breaks / inline
-      // formatting so <br> and inline tags survive the swap.
+      // Carry over inline formatting from the source element when the translation
+      // is plain text. E.g., source: <font color="#fff">Hebrew</font>,
+      // translation: "English" → wrap as <font color="#fff">English</font>.
+      var fontChild = el.querySelector('font[color], font[face], font[size]');
+      if (fontChild && !inlineFormatPattern.test(translation)) {
+        var fontTag = '<font';
+        for (var ai = 0; ai < fontChild.attributes.length; ai++) {
+          fontTag += ' ' + fontChild.attributes[ai].name + '="' + fontChild.attributes[ai].value.replace(/"/g, '&quot;') + '"';
+        }
+        translation = fontTag + '>' + translation + '</font>';
+      }
+
       var hasNewlines = translation.indexOf(newlineChar) !== -1;
       var hasInlineFormat = inlineFormatPattern.test(translation);
       var hasEntities = /&[a-zA-Z]+;|&#\d+;|&#x[0-9a-fA-F]+;/.test(translation);
@@ -9405,7 +9832,7 @@ html[dir="rtl"] body {
         el.setAttribute('placeholder', translation);
       }
     });
-    
+
     // Update alt attributes
     document.querySelectorAll('[data-i18n-alt]').forEach(function(el) {
       const key = el.getAttribute('data-i18n-alt');
@@ -9414,7 +9841,7 @@ html[dir="rtl"] body {
         el.setAttribute('alt', translation);
       }
     });
-    
+
     // Update title attributes
     document.querySelectorAll('[data-i18n-title]').forEach(function(el) {
       const key = el.getAttribute('data-i18n-title');
@@ -9423,7 +9850,7 @@ html[dir="rtl"] body {
         el.setAttribute('title', translation);
       }
     });
-    
+
     // Update meta description / og:* / twitter:* / keywords / author
     document.querySelectorAll('[data-i18n-content]').forEach(function(el) {
       const key = el.getAttribute('data-i18n-content');
@@ -9527,10 +9954,12 @@ html[dir="rtl"] body {
     });
     
     // Swap inline text-align on content elements when direction changes.
-    // RTL-primary sites have text-align:right baked into inline styles;
-    // these must become text-align:left when viewing in LTR, and vice versa.
-    var defaultIsRTL = rtlLanguages.includes('he');
-    var needsSwap = isRTL !== defaultIsRTL;
+    // The HTML was generated with a specific direction (captured as
+    // __generatedDir at script start, before any runtime changes).
+    // When the active language's direction differs from the generation
+    // direction, inline text-align values must be mirrored.
+    var generatedIsRTL = __generatedDir === 'rtl';
+    var needsSwap = isRTL !== generatedIsRTL;
     document.querySelectorAll('[style]').forEach(function(el) {
       if (el.closest('header') || el.closest('nav') || el.closest('.navbar') || el.closest('.lang-switcher')) return;
       if (el.closest('.legal-content') || el.closest('.terms-content') || el.closest('.privacy-content')) return;
@@ -9547,38 +9976,70 @@ html[dir="rtl"] body {
       }
     });
 
-    // Swap text-align in CSS stylesheet rules when direction changes.
-    // CSS rules with text-align:right (from RTL-primary generation) must become
-    // text-align:left when viewing in LTR, and vice versa.
-    if (!window.__zappyOrigTA) window.__zappyOrigTA = new WeakMap();
-    var origTAMap = window.__zappyOrigTA;
+    // Swap directional CSS properties in stylesheet rules when direction changes.
+    // Handles text-align (right↔left) and — for flex-direction:column rules only
+    // — align-items (flex-end↔flex-start).  Recurses into @media/@supports so
+    // responsive rules are also mirrored.  Uses setProperty() to preserve the
+    // original !important priority.
+    if (!window.__zappyOrigCSS) window.__zappyOrigCSS = new WeakMap();
+    var origCSSMap = window.__zappyOrigCSS;
+    function swapCSSRule(cssRule) {
+      if (cssRule.cssRules && cssRule.cssRules.length) {
+        for (var ci = 0; ci < cssRule.cssRules.length; ci++) swapCSSRule(cssRule.cssRules[ci]);
+        return;
+      }
+      if (!cssRule.style || !cssRule.selectorText) return;
+      if (cssRule.selectorText.indexOf('[dir=') !== -1) return;
+      if (cssRule.style.direction) return;
+      if (/^(html|body)\s*,?\s*(html|body)?\s*$/.test(cssRule.selectorText.trim())) return;
+      if (/\.(lang-option|lang-switcher|mobile-lang)/.test(cssRule.selectorText)) return;
+      if (!origCSSMap.has(cssRule)) {
+        origCSSMap.set(cssRule, {
+          ta: cssRule.style.textAlign || '',
+          taPri: cssRule.style.getPropertyPriority('text-align'),
+          ai: cssRule.style.alignItems || '',
+          aiPri: cssRule.style.getPropertyPriority('align-items'),
+          fd: cssRule.style.flexDirection || ''
+        });
+      }
+      var orig = origCSSMap.get(cssRule);
+      var rta = orig.ta;
+      if (rta && rta !== 'center' && rta !== 'justify' && rta !== 'start' && rta !== 'end') {
+        var newTA = needsSwap ? (rta === 'right' ? 'left' : 'right') : rta;
+        cssRule.style.setProperty('text-align', newTA, orig.taPri);
+      }
+      var rai = orig.ai;
+      if ((rai === 'flex-end' || rai === 'flex-start') && orig.fd === 'column') {
+        var newAI = needsSwap ? (rai === 'flex-end' ? 'flex-start' : 'flex-end') : rai;
+        cssRule.style.setProperty('align-items', newAI, orig.aiPri);
+      }
+    }
     for (var si = 0; si < document.styleSheets.length; si++) {
       try {
         var sheetRules = document.styleSheets[si].cssRules;
-        for (var ri = 0; ri < sheetRules.length; ri++) {
-          var cssRule = sheetRules[ri];
-          if (!cssRule.style || !cssRule.selectorText) continue;
-          var rta = cssRule.style.textAlign;
-          if (!rta || rta === 'center' || rta === 'justify' || rta === 'start' || rta === 'end') continue;
-          if (cssRule.selectorText.indexOf('[dir=') !== -1) continue;
-          if (/direction\s*:/i.test(cssRule.cssText)) continue;
-          if (/^(html|body)\s*,?\s*(html|body)?\s*$/.test(cssRule.selectorText.trim())) continue;
-          if (/\.(lang-option|lang-switcher|mobile-lang)/.test(cssRule.selectorText)) continue;
-          if (!origTAMap.has(cssRule)) {
-            origTAMap.set(cssRule, rta);
-          }
-          var origRTA = origTAMap.get(cssRule);
-          if (needsSwap) {
-            cssRule.style.textAlign = origRTA === 'right' ? 'left' : 'right';
-          } else {
-            cssRule.style.textAlign = origRTA;
-          }
-        }
+        for (var ri = 0; ri < sheetRules.length; ri++) swapCSSRule(sheetRules[ri]);
       } catch(e) {}
     }
 
+    // Swap align-items on inline-styled flex-direction:column containers
+    document.querySelectorAll('[style]').forEach(function(el) {
+      if (el.closest('header') || el.closest('nav') || el.closest('.navbar') || el.closest('.lang-switcher')) return;
+      if (el.closest('.legal-content') || el.closest('.terms-content') || el.closest('.privacy-content')) return;
+      var ai = el.style.alignItems;
+      if (ai !== 'flex-end' && ai !== 'flex-start') return;
+      if (el.style.flexDirection !== 'column') return;
+      if (!el.hasAttribute('data-ai-orig')) {
+        el.setAttribute('data-ai-orig', ai);
+      }
+      var origAI = el.getAttribute('data-ai-orig');
+      if (needsSwap) {
+        el.style.alignItems = origAI === 'flex-end' ? 'flex-start' : 'flex-end';
+      } else {
+        el.style.alignItems = origAI;
+      }
+    });
+
     // Update catalog menu RTL class to match current direction
-    // This is critical for e-commerce sites with category navigation
     document.querySelectorAll('.zappy-catalog-menu').forEach(function(el) {
       if (isRTL) {
         el.classList.add('rtl');

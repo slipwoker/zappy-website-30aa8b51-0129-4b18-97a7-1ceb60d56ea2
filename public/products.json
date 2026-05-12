@@ -1,0 +1,93 @@
+{
+  "@context": "https://schema.org",
+  "generated_at": "2026-05-12T18:53:44.375Z",
+  "base_url": "https://gurimbakfar.co.il",
+  "currency": "ILS",
+  "count": 3,
+  "products": [
+    {
+      "id": "3a88afdf-ad09-4260-b8c6-4f756ea0a9cb",
+      "slug": "rtsvah-td9392",
+      "name": "רצועה",
+      "name_translations": {
+        "en": "Leash",
+        "he": "רצועה",
+        "ru": "Поводок"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/image-product-image-1777452899918-d58srp.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/rtsvah-td9392",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-04-30T09:00:00.682Z"
+    },
+    {
+      "id": "b7e0734c-d89d-4c33-ac64-bea825e78114",
+      "slug": "kvlr-ke21bi",
+      "name": "קולר",
+      "name_translations": {
+        "en": "Collar",
+        "he": "קולר",
+        "ru": "Ошейник"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 100,
+      "base_price": 100,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/image-product-image-1777452489356-xpps0a.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/kvlr-ke21bi",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-04-30T09:00:00.683Z"
+    },
+    {
+      "id": "ab021ef5-41b4-4ea6-93ce-64ef6618ad73",
+      "slug": "styspkshn-rgvlr-lklb-bvgr-mgza-ktn-15-kylvgrm-j3x104",
+      "name": "סטיספקשן רגולר לכלב בוגר מגזע קטן 15 קילוגרם",
+      "name_translations": {
+        "en": "Satisfaction Regular for Adult Small Breed Dog 15 Kilograms",
+        "he": "סטיספקשן רגולר לכלב בוגר מגזע קטן 15 קילוגרם",
+        "ru": "Satisfaction Regular для взрослых собак мелких пород 15 килограмм"
+      },
+      "description": "",
+      "short_description": "כך וכך וכך",
+      "sku": null,
+      "brand": null,
+      "price": 300,
+      "base_price": 350,
+      "sale_price": 300,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/image-product-image-1777375508231-jvyimp.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/styspkshn-rgvlr-lklb-bvgr-mgza-ktn-15-kylvgrm-j3x104",
+      "categories": [
+        "מזון"
+      ],
+      "updated_at": "2026-04-30T09:00:00.685Z"
+    }
+  ]
+}
