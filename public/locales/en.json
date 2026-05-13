@@ -2271,7 +2271,7 @@
   "new_resident_guide_seo_twitter_description": "Puppies in the Village - New Puppy Care Guide",
   "home_text_22_1": "&nbsp;",
   "home_text_24_1": "&nbsp;",
-  "home_text_96_0": "📧\n              ",
+  "home_text_96_0": "<span>📧</span>\n              <a href=\"mailto:",
   "return_text_62_0": "Email: ",
   "privacy_text_98_0": "Email: ",
   "privacy_text_118_0": "Email: ",
