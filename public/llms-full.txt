@@ -6094,8 +6094,8 @@ gurimbakfar@gmail.com
 
 
 
-קראתי ואני מסכים/ה ל  תנאי השימוש  |
-מדיניות החזרות   ול  מדיניות הפרטיות
+קראתי ואני מסכים/ה ל תנאי השימוש  |
+מדיניות החזרות  ול מדיניות הפרטיות
 
 
 
@@ -6282,9 +6282,9 @@ gurimbakfar@gmail.com
 ## Product Catalog
 
 ### רצועה
-URL: https://gurimbakfar.co.il/product/rtsvah-td9392
+URL: https://gurimbakfar.co.il/product/rtsvah-54b8y2
 Price: 50.00 ILS
-Availability: In stock
+Availability: Out of stock
 
 ---
 

@@ -75,9 +75,9 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 3**
 
 ### רצועה
-https://gurimbakfar.co.il/product/rtsvah-td9392
+https://gurimbakfar.co.il/product/rtsvah-54b8y2
 - Price: 50.00 ILS
-- Availability: In stock
+- Availability: Out of stock
 - Category: קולרים ורצועות
 - Image: https://gurimbakfar.co.il/assets/image-product-image-1777452899918-d58srp.webp
 
