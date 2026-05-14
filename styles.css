@@ -7579,8 +7579,7 @@ nav.navbar .sub-menu li a:hover { color: #C98E5B !important; background-color: r
   padding: 8px !important;
   text-decoration: none !important;
   z-index: 10000 !important;
-  border-radius: 4px !important;
-}
+  border-radius: 4px !important; transform: none; }
 
 /* Enhanced focus indicators */
 *:focus {
