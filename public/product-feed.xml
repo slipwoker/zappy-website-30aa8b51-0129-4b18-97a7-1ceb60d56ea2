@@ -4,7 +4,7 @@
     <title>גורים בכפר</title>
     <link>https://gurimbakfar.co.il</link>
     <description>Product feed for גורים בכפר</description>
-    <lastBuildDate>Thu, 14 May 2026 10:05:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 18:12:57 GMT</lastBuildDate>
     <item>
       <g:id>3a88afdf-ad09-4260-b8c6-4f756ea0a9cb</g:id>
       <g:title>רצועה</g:title>
@@ -32,13 +32,44 @@
       <g:product_type>קולרים ורצועות</g:product_type>
     </item>
     <item>
-      <g:id>ab021ef5-41b4-4ea6-93ce-64ef6618ad73</g:id>
-      <g:title>סטיספקשן רגולר לכלב בוגר מגזע קטן 15 קילוגרם</g:title>
+      <g:id>ab021ef5-41b4-4ea6-93ce-64ef6618ad73__16cfb347-d083-4f2c-9433-6118ebfd3d3a</g:id>
+      <g:title>סטיספקשן רגולר לכלב בוגר מגזע קטן 15 קילוגרם - 3K</g:title>
       <g:description>כך וכך וכך</g:description>
       <g:link>https://gurimbakfar.co.il/product/styspkshn-rgvlr-lklb-bvgr-mgza-ktn-15-kylvgrm-j3x104</g:link>
+      <g:item_group_id>ab021ef5-41b4-4ea6-93ce-64ef6618ad73</g:item_group_id>
       <g:image_link>https://gurimbakfar.co.il/assets/image-product-image-1777375508231-jvyimp.webp</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>300.00 ILS</g:price>
+      <g:price>350.00 ILS</g:price>
+      <g:sale_price>300.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>מזון</g:product_type>
+    </item>
+    <item>
+      <g:id>ab021ef5-41b4-4ea6-93ce-64ef6618ad73__542f9a89-b9cc-4772-8116-3160d2a00e5f</g:id>
+      <g:title>סטיספקשן רגולר לכלב בוגר מגזע קטן 15 קילוגרם - 6K</g:title>
+      <g:description>כך וכך וכך</g:description>
+      <g:link>https://gurimbakfar.co.il/product/styspkshn-rgvlr-lklb-bvgr-mgza-ktn-15-kylvgrm-j3x104</g:link>
+      <g:item_group_id>ab021ef5-41b4-4ea6-93ce-64ef6618ad73</g:item_group_id>
+      <g:image_link>https://gurimbakfar.co.il/assets/image-product-image-1777375508231-jvyimp.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>350.00 ILS</g:price>
+      <g:sale_price>300.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>מזון</g:product_type>
+    </item>
+    <item>
+      <g:id>ab021ef5-41b4-4ea6-93ce-64ef6618ad73__6f0d7750-c84d-4150-8249-9d6751871021</g:id>
+      <g:title>סטיספקשן רגולר לכלב בוגר מגזע קטן 15 קילוגרם - 12K</g:title>
+      <g:description>כך וכך וכך</g:description>
+      <g:link>https://gurimbakfar.co.il/product/styspkshn-rgvlr-lklb-bvgr-mgza-ktn-15-kylvgrm-j3x104</g:link>
+      <g:item_group_id>ab021ef5-41b4-4ea6-93ce-64ef6618ad73</g:item_group_id>
+      <g:image_link>https://gurimbakfar.co.il/assets/image-product-image-1777375508231-jvyimp.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>350.00 ILS</g:price>
       <g:sale_price>300.00 ILS</g:sale_price>
       <g:condition>new</g:condition>
       <g:brand>גורים בכפר</g:brand>
