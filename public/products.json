@@ -1,8 +1,33 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-24T18:18:17.225Z",
+  "generated_at": "2026-05-24T19:03:42.617Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "51136a10-3347-4c46-ac5d-247c7e54d99c",
+      "slug": "brvvvz-am-tsptsph-tsatsva-lklb-mgza-ktnbynvny-7qqe6c",
+      "name": "ברוווז עם צפצפה - צעצוע לכלב מגזע קטן\\בינוני",
+      "name_translations": {
+        "en": "Duck with Squeaker - Dog Toy for Small\\Medium Breed",
+        "he": "ברוווז עם צפצפה - צעצוע לכלב מגזע קטן\\בינוני",
+        "ru": "Утка с пищалкой - игрушка для собак мелких\\средних пород"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/brvvvz-am-tsptsph-tsatsva-lklb-mgza-ktnbynvny-7qqe6c",
+      "categories": [],
+      "updated_at": "2026-05-24T19:03:38.715Z"
+    }
+  ]
 }
