@@ -6075,8 +6075,8 @@ gurimbakfar@gmail.com
 
 
 
-קראתי ואני מסכים/ה ל  תנאי השימוש  |
-מדיניות החזרות   ול  מדיניות הפרטיות
+קראתי ואני מסכים/ה ל תנאי השימוש  |
+מדיניות החזרות  ול מדיניות הפרטיות
 
 
 
@@ -6257,29 +6257,6 @@ gurimbakfar@gmail.com
 נגישות
 |
 נוצר באמצעות emma-ds
-
----
-
-## Product Catalog
-
-### רצועה
-URL: https://gurimbakfar.co.il/product/rtsvah-54b8y2
-Price: 50.00 ILS
-Availability: Out of stock
-
----
-
-### קולר
-URL: https://gurimbakfar.co.il/product/kvlr-ke21bi
-Price: 100.00 ILS
-Availability: In stock
-
----
-
-### סטיספקשן רגולר לכלב בוגר מגזע קטן 15 קילוגרם
-URL: https://gurimbakfar.co.il/product/styspkshn-rgvlr-lklb-bvgr-mgza-ktn-15-kylvgrm-j3x104
-Price: 300.00 ILS (sale, was 350.00 ILS)
-Availability: In stock
 
 ---
 
