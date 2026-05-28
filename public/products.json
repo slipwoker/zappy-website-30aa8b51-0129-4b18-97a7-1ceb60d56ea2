@@ -1,19 +1,37 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T12:37:40.240Z",
+  "generated_at": "2026-05-28T12:52:41.296Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 1,
+  "count": 10,
   "products": [
     {
-      "id": "51136a10-3347-4c46-ac5d-247c7e54d99c",
-      "slug": "brvvvz-am-tsptsph-tsatsva-lklb-mgza-ktnbynvny-7qqe6c",
-      "name": "ברוווז עם צפצפה - צעצוע לכלב מגזע קטן\\בינוני",
-      "name_translations": {
-        "en": "Duck with Squeaker - Dog Toy for Small\\Medium Breed",
-        "he": "ברוווז עם צפצפה - צעצוע לכלב מגזע קטן\\בינוני",
-        "ru": "Утка с пищалкой - игрушка для собак мелких\\средних пород"
-      },
+      "id": "75c8455d-0a10-47b4-aa20-da2c4354c585",
+      "slug": "tsatsva-ktyph-zchl-lchtvlklb-w46rh1",
+      "name": "צעצוע קטיפה זחל  לחתול/כלב ",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 25,
+      "base_price": 25,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-ktyph-zchl-lchtvlklb-w46rh1",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-05-28T12:52:40.704Z"
+    },
+    {
+      "id": "aaa84ee8-40aa-4dd3-a4d1-ced34b9a8ec5",
+      "slug": "mshchk-lklb-skyny-aryh-6h234s",
+      "name": "משחק לכלב סקיני אריה",
+      "name_translations": {},
       "description": "",
       "short_description": null,
       "sku": null,
@@ -25,9 +43,187 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/brvvvz-am-tsptsph-tsatsva-lklb-mgza-ktnbynvny-7qqe6c",
-      "categories": [],
-      "updated_at": "2026-05-24T19:03:44.863Z"
+      "url": "https://gurimbakfar.co.il/product/mshchk-lklb-skyny-aryh-6h234s",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-05-28T12:52:40.702Z"
+    },
+    {
+      "id": "6c2ef9b9-1e7d-4c7c-ac0e-df0115aa510c",
+      "slug": "bvbvt-lklbym-tsvvar-chbl-klb-z41gdz",
+      "name": "בובות לכלבים צוואר חבל - כלב",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-klb-z41gdz",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-05-28T12:52:40.701Z"
+    },
+    {
+      "id": "5847530f-0c53-4cb0-9642-0d1bed5df60b",
+      "slug": "bvbvt-lklbym-tsvvar-chbl-chmvr-s-zh5d6f",
+      "name": "בובות לכלבים צוואר חבל - חמור S",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-chmvr-s-zh5d6f",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-05-28T12:52:40.535Z"
+    },
+    {
+      "id": "d7d0ed0b-3b28-4603-a6a5-86864fea190c",
+      "slug": "bvbvt-lklbym-tsvvar-chbl-prh-ihzdxp",
+      "name": "בובות לכלבים צוואר חבל - פרה",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-prh-ihzdxp",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-05-28T12:52:40.533Z"
+    },
+    {
+      "id": "3aed4c22-4738-4de8-ba2d-ed3a8a9c20a2",
+      "slug": "bvbvt-lklbym-tsvvar-chbl-chmvr-m-8wop64",
+      "name": "בובות לכלבים צוואר חבל - חמור M",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-chmvr-m-8wop64",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-05-28T12:52:40.506Z"
+    },
+    {
+      "id": "9df7e021-8df1-4974-89af-eb990874db3f",
+      "slug": "tsatsva-tmnvn-mrshrsh-am-tsptsph-tklt-euxz03",
+      "name": "צעצוע תמנון  מרשרש עם צפצפה - תכלת",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-tmnvn-mrshrsh-am-tsptsph-tklt-euxz03",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-05-28T12:52:40.504Z"
+    },
+    {
+      "id": "36552859-c38b-46b0-b2d8-5361affa92ad",
+      "slug": "tsatsva-avvz-mtsptsp-9odtl7",
+      "name": "צעצוע אווז מצפצף",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-avvz-mtsptsp-9odtl7",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-05-28T12:52:40.503Z"
+    },
+    {
+      "id": "5ab1c4cc-205b-49b4-8d07-e3f2020419c2",
+      "slug": "tsatsva-tmnvn-ktyph-mrshrsh-am-tsptsph-dib9um",
+      "name": "צעצוע תמנון קטיפה  מרשרש עם צפצפה",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-tmnvn-ktyph-mrshrsh-am-tsptsph-dib9um",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-05-28T12:52:40.503Z"
+    },
+    {
+      "id": "04a7d259-f0c7-410a-a869-cf455a6b9069",
+      "slug": "tsatsva-tmnvn-mrshrsh-am-tsptsph-sgvl-mf500h",
+      "name": "צעצוע תמנון מרשרש עם צפצפה - סגול",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-tmnvn-mrshrsh-am-tsptsph-sgvl-mf500h",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-05-28T12:52:40.475Z"
     }
   ]
 }

@@ -72,12 +72,67 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 1**
+**Total active products: 10**
 
-### ברוווז עם צפצפה - צעצוע לכלב מגזע קטן\בינוני
-https://gurimbakfar.co.il/product/brvvvz-am-tsptsph-tsatsva-lklb-mgza-ktnbynvny-7qqe6c
+### צעצוע קטיפה זחל  לחתול/כלב 
+https://gurimbakfar.co.il/product/tsatsva-ktyph-zchl-lchtvlklb-w46rh1
+- Price: 25.00 ILS
+- Availability: In stock
+- Category: צעצועים
+
+### משחק לכלב סקיני אריה
+https://gurimbakfar.co.il/product/mshchk-lklb-skyny-aryh-6h234s
 - Price: 35.00 ILS
 - Availability: In stock
+- Category: צעצועים
+
+### בובות לכלבים צוואר חבל - כלב
+https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-klb-z41gdz
+- Price: 35.00 ILS
+- Availability: In stock
+- Category: צעצועים
+
+### בובות לכלבים צוואר חבל - חמור S
+https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-chmvr-s-zh5d6f
+- Price: 35.00 ILS
+- Availability: In stock
+- Category: צעצועים
+
+### בובות לכלבים צוואר חבל - פרה
+https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-prh-ihzdxp
+- Price: 35.00 ILS
+- Availability: In stock
+- Category: צעצועים
+
+### בובות לכלבים צוואר חבל - חמור M
+https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-chmvr-m-8wop64
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: צעצועים
+
+### צעצוע תמנון  מרשרש עם צפצפה - תכלת
+https://gurimbakfar.co.il/product/tsatsva-tmnvn-mrshrsh-am-tsptsph-tklt-euxz03
+- Price: 35.00 ILS
+- Availability: In stock
+- Category: צעצועים
+
+### צעצוע אווז מצפצף
+https://gurimbakfar.co.il/product/tsatsva-avvz-mtsptsp-9odtl7
+- Price: 35.00 ILS
+- Availability: In stock
+- Category: צעצועים
+
+### צעצוע תמנון קטיפה  מרשרש עם צפצפה
+https://gurimbakfar.co.il/product/tsatsva-tmnvn-ktyph-mrshrsh-am-tsptsph-dib9um
+- Price: 35.00 ILS
+- Availability: In stock
+- Category: צעצועים
+
+### צעצוע תמנון מרשרש עם צפצפה - סגול
+https://gurimbakfar.co.il/product/tsatsva-tmnvn-mrshrsh-am-tsptsph-sgvl-mf500h
+- Price: 35.00 ILS
+- Availability: In stock
+- Category: צעצועים
 
 ---
 
