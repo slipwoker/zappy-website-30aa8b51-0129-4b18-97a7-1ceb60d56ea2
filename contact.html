@@ -1358,19 +1358,7 @@ html[dir="rtl"] body {
       <a href="/" class="logo-link">
         <img src="/assets/logo-1777381672577-5dslx7.webp?v=1777381673053-5irsx2" alt="גורים בכפר" class="logo" data-i18n-alt="home_alt_121">
       </a>
-    </div><ul class="nav-menu" id="navMenu"><li><a href="/" data-i18n="nav-home" style="color: #FFFFFF !important;">בית</a></li><li><a href="/our-cubs" style="color: #FFFFFF !important;" data-i18n="home_nav_113">הגורים שלנו</a></li><li class="menu-item-has-children zappy-products-dropdown">
-      <a href="/products" style="color: #FFFFFF !important;" data-i18n="home_nav_114">
-        חוויית החנות
-        
-        <svg class="dropdown-arrow" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <path d="M6 9l6 6 6-6"></path>
-        </svg>
-      </a>
-      <ul class="sub-menu" id="zappy-nav-category-links">
-        <li><a href="/products" data-i18n="home_nav_115">כל המוצרים</a></li>
-        <!-- Categories will be loaded dynamically -->
-      </ul>
-    </li><li><a href="/new-resident-guide" class="nav-link" style="color: #FFFFFF !important;" data-i18n="home_nav_116">מדריך לגור החדש</a></li><li><a href="/contact" style="color: #FFFFFF !important;" data-i18n="home_nav_117">צור קשר</a></li></ul><div class="nav-ecommerce-icons nav-icons-left"><a href="/login" class="login-link nav-login" title="התחברות"><svg class="login-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg></a><a href="#cart" class="cart-link nav-cart" id="cart-drawer-toggle" title="עגלת קניות"><svg class="cart-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg><span class="cart-count">0</span></a><div class="nav-search-box">
+    </div><ul class="nav-menu" id="navMenu"><li><a href="/" data-i18n="nav-home" style="color: #FFFFFF !important;">בית</a></li><li><a href="/our-cubs" style="color: #FFFFFF !important;" data-i18n="home_nav_113">הגורים שלנו</a></li><li><a href="/new-resident-guide" class="nav-link" style="color: #FFFFFF !important;" data-i18n="home_nav_116">מדריך לגור החדש</a></li><li><a href="/contact" style="color: #FFFFFF !important;" data-i18n="home_nav_117">צור קשר</a></li></ul><div class="nav-ecommerce-icons nav-icons-left"><a href="/login" class="login-link nav-login" title="התחברות"><svg class="login-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg></a><a href="#cart" class="cart-link nav-cart" id="cart-drawer-toggle" title="עגלת קניות"><svg class="cart-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg><span class="cart-count">0</span></a><div class="nav-search-box">
     <input type="text" class="nav-search-input" id="nav-search-input" placeholder="חיפוש מוצרים..." autocomplete="off">
     <button class="nav-search-btn" id="nav-search-btn" title="חיפוש">
       <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg>
@@ -2038,7 +2026,20 @@ html[dir="rtl"] body {
           <ul class="footer-nav">
             
             <li data-i18n="home_li_92"><a href="/our-cubs" data-i18n="home_link_71">הגורים שלנו</a></li>
-            <li data-i18n="home_li_93"><a href="/products" data-i18n="home_link_72">החנות</a></li>
+            
+    <li class="menu-item-has-children zappy-products-dropdown">
+      <a href="/products">
+        מוצרים
+        <svg class="dropdown-arrow" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M6 9l6 6 6-6"></path>
+        </svg>
+      </a>
+      <ul class="sub-menu" id="zappy-nav-category-links">
+        <li><a href="/products" data-i18n="ecom_products">מוצרים</a></li>
+        <!-- Categories will be loaded dynamically -->
+      </ul>
+    </li>
+  
             <li data-i18n="home_li_94"><a href="/new-resident-guide" data-i18n="home_link_73">מדריך לגור החדש</a></li>
             <li data-i18n="home_li_95"><a href="/contact" data-i18n="home_link_74">צור קשר</a></li>
           </ul>
@@ -2193,6 +2194,7 @@ html[dir="rtl"] body {
       "ecom_coursesDetailEnroll": "הוסף לעגלה",
       "ecom_coursesDetailResume": "המשך ללמוד",
       "ecom_coursesDigitalDelivery": "גישה דיגיטלית מקוונת",
+      "ecom_coursesLessonCompleted": "הושלם",
       "ecom_coursesLessonLoading": "טוען שיעור…",
       "ecom_coursesLessonMarkComplete": "סימון כהושלם",
       "ecom_coursesLessonNext": "הבא",
@@ -2208,6 +2210,11 @@ html[dir="rtl"] body {
       "ecom_coursesCertIssued": "הונפק",
       "ecom_coursesCertStudent": "תלמיד",
       "ecom_coursesCertValid": "מאומת",
+      "ecom_coursesCertIssuer": "הונפק על ידי",
+      "ecom_coursesCertCode": "קוד אימות",
+      "ecom_coursesViewCertificate": "צפייה בתעודה",
+      "ecom_coursesCertEarnedTitle": "הקורס הושלם!",
+      "ecom_coursesCertEarnedBody": "התעודה שלך מוכנה.",
       "ecom_coursesCurriculumEmpty": "תכנית הלימודים תגיע בקרוב.",
       "ecom_coursesFree": "חינם",
       "ecom_coursesJoinLive": "הצטרף בשידור חי",
@@ -2679,8 +2686,8 @@ html[dir="rtl"] body {
       "home_link_65": "הגורים שלנו",
       "home_link_66": "צרו קשר",
       "home_link_67": "צפה בכל המוצרים →",
-      "home_link_68": "לחנות שלנו &gt;",
-      "home_link_69": "הגורים שלנו &gt;",
+      "home_link_68": "לחנות שלנו >",
+      "home_link_69": "הגורים שלנו >",
       "home_link_70": "צרו קשר עכשיו",
       "home_link_71": "הגורים שלנו",
       "home_link_72": "החנות",
@@ -2859,7 +2866,7 @@ html[dir="rtl"] body {
       "login_link_43": "נגישות",
       "login_link_44": "נוצר באמצעות emma-ds",
       "login_link_45": "המשך לתשלום",
-      "new_label_314": "<input type=\"checkbox\" name=\"privacy_consent\" class=\"privacy-consent-checkbox\" required />\n          <span><span>\n          קראתי ואני מסכים/ה ל</span><a href=\"/terms\" target=\"_blank\">תנאי השימוש</a><span class=\"separator\">|</span>\n            <a href=\"/return-policy\" aria-label=\"מדיניות החזרות\">מדיניות החזרות</a> <span>\"&gt;מדיניות החזרות ול<a href=\"/privacy\" target=\"_blank\"></a></span><a href=\"/privacy\" target=\"_blank\">מדיניות הפרטיות</a></span>",
+      "new_label_314": "<input type=\"checkbox\" name=\"privacy_consent\" class=\"privacy-consent-checkbox\" required />\n          <span><span>\n          קראתי ואני מסכים/ה ל</span><a href=\"/terms\" target=\"_blank\">תנאי השימוש</a><span class=\"separator\">|</span>\n            <a href=\"/return-policy\" aria-label=\"מדיניות החזרות\">מדיניות החזרות</a> <span>\">מדיניות החזרות ול<a href=\"/privacy\" target=\"_blank\"></a></span><a href=\"/privacy\" target=\"_blank\">מדיניות הפרטיות</a></span>",
       "new_label_315": "<input type=\"checkbox\" name=\"privacy_consent\" class=\"privacy-consent-checkbox is-valid\" required aria-invalid=\"false\" />\n          <span style><span style>\n          קראתי ואני מסכים/ה ל</span><a href=\"/terms\" target=\"_blank\">תנאי השימוש</a><span class=\"separator\">|</span>\n            <a href=\"/return-policy\" aria-label=\"מדיניות החזרות\">מדיניות החזרות</a> <span style>מדיניות החזרות ול<a href=\"/privacy\" target=\"_blank\"></a></span><a href=\"/privacy\" target=\"_blank\">מדיניות הפרטיות</a></span>",
       "our_cubs_h1_1": "בית גידול אחראי ואוהב",
       "our_cubs_h2_2": "הגורים שלנו",
@@ -4704,11 +4711,11 @@ html[dir="rtl"] body {
       "new_resident_guide_seo_twitter_description": "גורים בכפר - מדריך לטיפול בגור חדש",
       "home_text_22_1": "</a><span>&nbsp;</span>",
       "home_text_24_1": "</a><span>&nbsp;</span>",
-      "terms_text_111_0": "אימייל: ",
       "privacy_text_98_0": "אימייל: ",
       "privacy_text_118_0": "אימייל: ",
       "accessibility_text_99_0": "אימייל: ",
       "accessibility_text_125_0": "אימייל: ",
+      "terms_text_111_0": "אימייל: ",
       "terms_text_134_0": "אימייל: ",
       "new_text_316_0": "<input type=\"checkbox\" name=\"privacy_consent\" class=\"privacy-consent-checkbox is-valid\" required aria-invalid=\"false\" />\n          <span style><span style>\n          קראתי ואני מסכים/ה ל</span><a href=\"/terms\" target=\"_blank\">",
       "new_text_316_2": "\">מדיניות החזרות</a> <span style>&nbsp;ול<a href=\"/privacy\" target=\"_blank\"></a></span><a href=\"/privacy\" target=\"_blank\">",
@@ -4768,6 +4775,7 @@ html[dir="rtl"] body {
       "ecom_coursesDetailEnroll": "Add to Cart",
       "ecom_coursesDetailResume": "Resume learning",
       "ecom_coursesDigitalDelivery": "Digital online access",
+      "ecom_coursesLessonCompleted": "Completed",
       "ecom_coursesLessonLoading": "Loading lesson…",
       "ecom_coursesLessonMarkComplete": "Mark complete",
       "ecom_coursesLessonNext": "Next",
@@ -4783,6 +4791,11 @@ html[dir="rtl"] body {
       "ecom_coursesCertIssued": "Issued",
       "ecom_coursesCertStudent": "Student",
       "ecom_coursesCertValid": "Verified",
+      "ecom_coursesCertIssuer": "Issued by",
+      "ecom_coursesCertCode": "Verification code",
+      "ecom_coursesViewCertificate": "View certificate",
+      "ecom_coursesCertEarnedTitle": "Course complete!",
+      "ecom_coursesCertEarnedBody": "Your certificate is ready.",
       "ecom_coursesCurriculumEmpty": "Curriculum coming soon.",
       "ecom_coursesFree": "Free",
       "ecom_coursesJoinLive": "Join live",
@@ -5254,8 +5267,8 @@ html[dir="rtl"] body {
       "home_link_65": "Our Puppies",
       "home_link_66": "Contact Us",
       "home_link_67": "View All Products →",
-      "home_link_68": "To our store &gt;",
-      "home_link_69": "Our puppies &gt;",
+      "home_link_68": "To our store >",
+      "home_link_69": "Our puppies >",
       "home_link_70": "Contact Us Now",
       "home_link_71": "Our Puppies",
       "home_link_72": "The Store",
@@ -5434,7 +5447,7 @@ html[dir="rtl"] body {
       "login_link_43": "Accessibility",
       "login_link_44": "Created with emma-ds",
       "login_link_45": "Continue to Checkout",
-      "new_label_314": "<input type=\"checkbox\" name=\"privacy_consent\" class=\"privacy-consent-checkbox\" required />\n          <span><span>\n          I have read and agree to the </span><a href=\"/terms\" target=\"_blank\">Terms of Use</a><span class=\"separator\">|</span>\n            <a href=\"/return-policy\" aria-label=\"Return Policy\">Return Policy</a> <span>\"&gt;Return Policy and <a href=\"/privacy\" target=\"_blank\"></a></span><a href=\"/privacy\" target=\"_blank\">Privacy Policy</a></span>",
+      "new_label_314": "<input type=\"checkbox\" name=\"privacy_consent\" class=\"privacy-consent-checkbox\" required />\n          <span><span>\n          I have read and agree to the </span><a href=\"/terms\" target=\"_blank\">Terms of Use</a><span class=\"separator\">|</span>\n            <a href=\"/return-policy\" aria-label=\"Return Policy\">Return Policy</a> <span>\">Return Policy and <a href=\"/privacy\" target=\"_blank\"></a></span><a href=\"/privacy\" target=\"_blank\">Privacy Policy</a></span>",
       "new_label_315": "<input type=\"checkbox\" name=\"privacy_consent\" class=\"privacy-consent-checkbox is-valid\" required aria-invalid=\"false\" />\n          <span style><span style>\n          I have read and agree to the </span><a href=\"/terms\" target=\"_blank\">Terms of Use</a><span class=\"separator\">|</span>\n            <a href=\"/return-policy\" aria-label=\"Return Policy\">Return Policy</a> <span style>Return Policy and </span><a href=\"/privacy\" target=\"_blank\">Privacy Policy</a></span>",
       "our_cubs_h1_1": "A Responsible and Loving Breeding Home",
       "our_cubs_h2_2": "Our Puppies",
@@ -7279,11 +7292,11 @@ html[dir="rtl"] body {
       "new_resident_guide_seo_twitter_description": "Puppies in the Village - New Puppy Care Guide",
       "home_text_22_1": "&nbsp;",
       "home_text_24_1": "&nbsp;",
-      "terms_text_111_0": "Email: ",
       "privacy_text_98_0": "Email: ",
       "privacy_text_118_0": "Email: ",
       "accessibility_text_99_0": "Email: ",
       "accessibility_text_125_0": "Email: ",
+      "terms_text_111_0": "Email: ",
       "terms_text_134_0": "Email: ",
       "new_text_316_0": "<input type=\"checkbox\" name=\"privacy_consent\" class=\"privacy-consent-checkbox is-valid\" required aria-invalid=\"false\" />\n          <span style><span style>\n          I have read and agree to the </span><a href=\"/terms\" target=\"_blank\">",
       "new_text_316_2": "\">Return Policy</a> <span style>&nbsp;and to<a href=\"/privacy\" target=\"_blank\"></a></span><a href=\"/privacy\" target=\"_blank\">",
@@ -7343,6 +7356,7 @@ html[dir="rtl"] body {
       "ecom_coursesDetailEnroll": "В корзину",
       "ecom_coursesDetailResume": "Продолжить обучение",
       "ecom_coursesDigitalDelivery": "Цифровой онлайн-доступ",
+      "ecom_coursesLessonCompleted": "Завершено",
       "ecom_coursesLessonLoading": "Загрузка урока…",
       "ecom_coursesLessonMarkComplete": "Отметить как завершенный",
       "ecom_coursesLessonNext": "Далее",
@@ -7358,6 +7372,11 @@ html[dir="rtl"] body {
       "ecom_coursesCertIssued": "Выдан",
       "ecom_coursesCertStudent": "Студент",
       "ecom_coursesCertValid": "Проверен",
+      "ecom_coursesCertIssuer": "Выдано",
+      "ecom_coursesCertCode": "Код проверки",
+      "ecom_coursesViewCertificate": "Посмотреть сертификат",
+      "ecom_coursesCertEarnedTitle": "Курс завершён!",
+      "ecom_coursesCertEarnedBody": "Ваш сертификат готов.",
       "ecom_coursesCurriculumEmpty": "Программа курса скоро появится.",
       "ecom_coursesFree": "Бесплатно",
       "ecom_coursesJoinLive": "Присоединиться к прямому эфиру",
@@ -7829,8 +7848,8 @@ html[dir="rtl"] body {
       "home_link_65": "Наши щенки",
       "home_link_66": "Свяжитесь с нами",
       "home_link_67": "Посмотреть все товары →",
-      "home_link_68": "В наш магазин &gt;",
-      "home_link_69": "Наши щенки &gt;",
+      "home_link_68": "В наш магазин >",
+      "home_link_69": "Наши щенки >",
       "home_link_70": "Свяжитесь с нами сейчас",
       "home_link_71": "Наши щенки",
       "home_link_72": "Магазин",
@@ -8009,7 +8028,7 @@ html[dir="rtl"] body {
       "login_link_43": "Доступность",
       "login_link_44": "Создано с помощью emma-ds",
       "login_link_45": "Перейти к оплате",
-      "new_label_314": "<input type=\"checkbox\" name=\"privacy_consent\" class=\"privacy-consent-checkbox\" required />\n          <span><span>\n          Я прочитал(а) и согласен(на) с </span><a href=\"/terms\" target=\"_blank\">условиями использования</a><span class=\"separator\">|</span>\n            <a href=\"/return-policy\" aria-label=\"политика возврата\">политика возврата</a> <span>\"&gt;политикой возврата и <a href=\"/privacy\" target=\"_blank\"></a></span><a href=\"/privacy\" target=\"_blank\">политикой конфиденциальности</a></span>",
+      "new_label_314": "<input type=\"checkbox\" name=\"privacy_consent\" class=\"privacy-consent-checkbox\" required />\n          <span><span>\n          Я прочитал(а) и согласен(на) с </span><a href=\"/terms\" target=\"_blank\">условиями использования</a><span class=\"separator\">|</span>\n            <a href=\"/return-policy\" aria-label=\"политика возврата\">политика возврата</a> <span>\">политикой возврата и <a href=\"/privacy\" target=\"_blank\"></a></span><a href=\"/privacy\" target=\"_blank\">политикой конфиденциальности</a></span>",
       "new_label_315": "<input type=\"checkbox\" name=\"privacy_consent\" class=\"privacy-consent-checkbox is-valid\" required aria-invalid=\"false\" />\n          <span style><span style>\n          Я прочитал(а) и соглашаюсь с</span><a href=\"/terms\" target=\"_blank\">условиями использования</a><span class=\"separator\">|</span>\n            <a href=\"/return-policy\" aria-label=\"Политика возврата\">политикой возврата</a> <span style>политикой возврата и с<a href=\"/privacy\" target=\"_blank\"></a></span><a href=\"/privacy\" target=\"_blank\">политикой конфиденциальности</a></span>",
       "our_cubs_h1_1": "Ответственный и любящий питомник",
       "our_cubs_h2_2": "Наши щенки",
@@ -9854,11 +9873,11 @@ html[dir="rtl"] body {
       "new_resident_guide_seo_twitter_description": "Щенки в деревне - Руководство по уходу за новым щенком",
       "home_text_22_1": "&nbsp;",
       "home_text_24_1": "&nbsp;",
-      "terms_text_111_0": "Email: ",
       "privacy_text_98_0": "Email: ",
       "privacy_text_118_0": "Email: ",
       "accessibility_text_99_0": "Email: ",
       "accessibility_text_125_0": "Email: ",
+      "terms_text_111_0": "Email: ",
       "terms_text_134_0": "Email: ",
       "new_text_316_0": "קראתי ואני מסכים/ה ל",
       "new_text_316_2": "&nbsp;ול",

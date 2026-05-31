@@ -10197,7 +10197,7 @@ a, button {
 .view-btn.active { background: var(--accent); color: #fff; opacity: 1; }
 .view-btn:hover:not(.active) { background: rgba(0,0,0,0.05); }
 
-.product-grid:not(.view-list) .product-card .product-tags { display: none !important; }
+/* product tag badges visible on grid (legacy hide removed) */
 /* Sidebar */
 .product-sidebar { width: 240px; flex-shrink: 0; position: sticky; top: calc(var(--total-header-height, 120px) + 20px); max-height: calc(100vh - var(--total-header-height, 120px) - 40px); overflow-y: auto; align-self: flex-start; }
 .product-sidebar .sidebar-section { margin-bottom: 20px; }
@@ -10746,13 +10746,21 @@ a, button {
   padding-top: 0;
 }
 .checkout-order-details .order-totals-row {
-  display: flex;
-  justify-content: space-between;
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: baseline !important;
+  gap: 12px !important;
   padding: 6px 0;
   font-size: 16px;
   color: var(--text-dark);
 }
+.checkout-order-details .order-totals-row span:first-child {
+  flex: 1 1 auto;
+  min-width: 0;
+}
 .checkout-order-details .order-totals-row span:last-child {
+  flex: 0 0 auto;
+  text-align: end;
   font-weight: 600;
 }
 .checkout-order-details .order-totals-row.vat-row {
@@ -10791,6 +10799,28 @@ a, button {
   cursor: not-allowed;
   opacity: 0.7;
 }
+
+/* Minimum order amount banner */
+.minimum-order-banner {
+  display: none;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 14px;
+  margin-top: 12px;
+  border-radius: 8px;
+  background: #fef3c7;
+  border: 1px solid #fbbf24;
+  color: #92400e !important;
+  font-size: 13px;
+  line-height: 1.4;
+}
+.minimum-order-banner.minimum-order-banner-ok {
+  background: #ecfdf5;
+  border-color: #a7f3d0;
+  color: #047857;
+}
+.minimum-order-banner svg { color: #d97706; }
+.minimum-order-banner.minimum-order-banner-ok svg { color: #059669; }
 
 /* Validation error overrides (prevent theme color inheritance) */
 .field-error {
@@ -11858,7 +11888,7 @@ a, button {
   transition: transform 0.3s ease;
   box-shadow: -4px 0 20px rgba(0,0,0,0.15);
   box-sizing: border-box;
-}
+}#cart-drawer.cart-drawer.ltr{right: 0 !important;left: auto !important;transform: translateX(100%);}html[dir="ltr"] #cart-drawer.cart-drawer.ltr{direction: ltr;}#cart-drawer.cart-drawer.rtl{left: 0 !important;right: auto !important;transform: translateX(-100%);}html[dir="rtl"] #cart-drawer.cart-drawer.rtl{direction: rtl;}
 @supports (height: 100dvh) { .cart-drawer { height: 100dvh; } }
 .cart-drawer.active {
   transform: translateX(0);
@@ -12385,7 +12415,10 @@ html[lang="ar"] .mobile-search-panel .search-wrapper,
   .nav-menu.active,
   .nav-menu.nav-menu-active,
   #navMenu.active {
+    top: var(--zappy-mobile-menu-top, var(--total-header-height, var(--zappy-navbar-bottom, 70px))) !important;
+    bottom: 0 !important;
     max-height: calc(100dvh - 70px) !important;
+    max-height: calc(100dvh - var(--zappy-mobile-menu-top, var(--total-header-height, var(--zappy-navbar-bottom, 70px)))) !important;
     overflow-y: auto !important;
   }
 
@@ -12860,6 +12893,72 @@ body.zappy-focused-page .zappy-announcement-bar {
   visibility: hidden !important;
 }
 
+/* Hide cookie consent while cart drawer is open; reappears when drawer closes if still needed *//* Checkout focus: hide cookie bar so it does not compete with payment UI *//* Checkout focus: minimal navbar (logo + cart) and compact footer */
+body.zappy-checkout-page nav.navbar:not(.zappy-catalog-menu) .nav-menu,
+body.zappy-checkout-page nav.navbar:not(.zappy-catalog-menu) .nav-links,
+body.zappy-checkout-page nav.navbar:not(.zappy-catalog-menu) .nav-cta,
+body.zappy-checkout-page nav.navbar:not(.zappy-catalog-menu) .nav-right-group .nav-menu,
+body.zappy-checkout-page .lang-switcher,
+body.zappy-checkout-page .nav-icons-right,
+body.zappy-checkout-page .nav-search-box,
+body.zappy-checkout-page .nav-search-toggle,
+body.zappy-checkout-page #mobile-search-toggle,
+body.zappy-checkout-page .mobile-search-panel,
+body.zappy-checkout-page .login-link.nav-login,
+body.zappy-checkout-page .nav-ecommerce-icons > *:not(.cart-link),
+body.zappy-checkout-page .mobile-hamburger-btn,
+body.zappy-checkout-page .mobile-toggle,
+body.zappy-checkout-page .hamburger,
+body.zappy-checkout-page .menu-toggle,
+body.zappy-checkout-page #mobileToggle,
+body.zappy-checkout-page nav.navbar:not(.zappy-catalog-menu) .phone-header-btn,
+body.zappy-checkout-page nav.navbar:not(.zappy-catalog-menu) .mobile-close-btn {
+  display: none !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+}
+body.zappy-checkout-page nav.navbar:not(.zappy-catalog-menu) .nav-container {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  width: 100% !important;
+}
+body.zappy-checkout-page .nav-brand,
+body.zappy-checkout-page .cart-link.nav-cart,
+body.zappy-checkout-page #cart-drawer-toggle {
+  display: flex !important;
+  visibility: visible !important;
+  pointer-events: auto !important;
+}
+body.zappy-checkout-page .nav-ecommerce-icons {
+  display: inline-flex !important;
+  align-items: center !important;
+  margin-inline-start: auto !important;
+}
+@media (max-width: 768px) {
+  body.zappy-checkout-page nav.navbar:not(.zappy-catalog-menu) .nav-menu,
+  body.zappy-checkout-page nav.navbar:not(.zappy-catalog-menu) .nav-menu.active,
+  body.zappy-checkout-page nav.navbar:not(.zappy-catalog-menu) .nav-menu.open {
+    display: none !important;
+    visibility: hidden !important;
+  }
+}
+/* Footer: keep footer-bottom only; hide whole footer when structure unknown */
+body.zappy-checkout-page .site-footer > *:not(.footer-bottom),
+body.zappy-checkout-page footer.site-footer > *:not(.footer-bottom) {
+  display: none !important;
+  visibility: hidden !important;
+}
+body.zappy-checkout-page .site-footer .footer-bottom,
+body.zappy-checkout-page footer.site-footer .footer-bottom {
+  display: block !important;
+  visibility: visible !important;
+}
+body.zappy-checkout-page .site-footer:not(:has(.footer-bottom)),
+body.zappy-checkout-page footer.site-footer:not(:has(.footer-bottom)) {
+  display: none !important;
+}
+
 /* Catalog menu (secondary navigation) - desktop only */
 /* NOTE: Mobile visibility is handled via @media (max-width: 768px) { .zappy-catalog-menu { display: none !important; } } */
 /* Catalog menu always inherits navbar colors, NOT ecommerce pages bg */
@@ -12904,7 +13003,22 @@ body.zappy-focused-page .zappy-announcement-bar {
 .catalog-menu-all:hover {
   color: var(--nav-text-hover, var(--accent)) !important;
   background: rgba(128,128,128,0.1);
-}.catalog-menu-categories{display: flex;align-items: center;gap: 8px;flex-wrap: wrap;justify-content: center !important;}html[dir="rtl"] .catalog-menu-categories{direction: rtl !important;}
+}
+.catalog-menu-categories {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  flex-wrap: wrap;
+  justify-content: center !important;
+}
+.zappy-catalog-menu[dir="ltr"] .catalog-menu-categories,
+.zappy-catalog-menu.ltr .catalog-menu-categories {
+  direction: ltr !important;
+}
+.zappy-catalog-menu[dir="rtl"] .catalog-menu-categories,
+.zappy-catalog-menu.rtl .catalog-menu-categories {
+  direction: rtl !important;
+}
 
 /* Catalog menu parent dropdowns (categories with children) */
 .catalog-menu-parent {
@@ -12931,7 +13045,9 @@ body.zappy-focused-page .zappy-announcement-bar {
   top: 100% !important;
   right: 0 !important;
   min-width: 200px !important;
+  max-width: min(280px, calc(100vw - 32px)) !important;
   max-height: calc(100vh - 200px) !important;
+  overflow-x: hidden !important;
   overflow-y: auto !important;
   background: var(--bg-light, #fff) !important;
   border-radius: 8px !important;
@@ -12966,10 +13082,13 @@ body.zappy-focused-page .zappy-announcement-bar {
 }
 .catalog-menu-parent > .sub-menu .catalog-menu-item {
   width: 100%;
+  box-sizing: border-box;
   justify-content: flex-start;
   border-radius: 6px;
   padding: 8px 14px;
   white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
   display: block;
   color: var(--text-color, var(--text, #333));
   text-decoration: none;
@@ -12988,7 +13107,9 @@ body.zappy-focused-page .zappy-announcement-bar {
     top: 100%;
     right: 0;
     min-width: 200px;
+    max-width: min(280px, calc(100vw - 32px));
     max-height: calc(100vh - 150px) !important;
+    overflow-x: hidden !important;
     overflow-y: auto !important;
     background: var(--bg-light, #fff) !important;
     border-radius: 8px;
@@ -13024,6 +13145,9 @@ body.zappy-focused-page .zappy-announcement-bar {
     color: var(--text-dark, #1a1a1a);
     text-decoration: none;
     border-radius: 6px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
     transition: background-color 0.2s ease;
   }
   .zappy-products-dropdown .sub-menu a:hover {
@@ -14381,7 +14505,6 @@ a, button {
 .view-btn.active { background: var(--accent); color: #fff; opacity: 1; }
 .view-btn:hover:not(.active) { background: rgba(0,0,0,0.05); }
 
-.product-grid:not(.view-list) .product-card .product-tags { display: none !important; }
 /* Sidebar */
 .product-sidebar { width: 240px; flex-shrink: 0; position: sticky; top: calc(var(--total-header-height, 120px) + 20px); max-height: calc(100vh - var(--total-header-height, 120px) - 40px); overflow-y: auto; align-self: flex-start; }
 .product-sidebar .sidebar-section { margin-bottom: 20px; }
