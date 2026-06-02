@@ -1357,7 +1357,21 @@ html[dir="rtl"] body {
       <a href="/" class="logo-link">
         <img src="/assets/logo-1777381672577-5dslx7.webp?v=1777381673053-5irsx2" alt="גורים בכפר" class="logo" data-i18n-alt="home_alt_121">
       </a>
-    </div><ul class="nav-menu" id="navMenu"><li><a href="/" data-i18n="nav-home" style="color: #FFFFFF !important;">בית</a></li><li><a href="/our-cubs" style="color: #FFFFFF !important;" data-i18n="home_nav_113">הגורים שלנו</a></li><li><a href="/new-resident-guide" class="nav-link" style="color: #FFFFFF !important;" data-i18n="home_nav_116">מדריך לגור החדש</a></li><li><a href="/contact" style="color: #FFFFFF !important;" data-i18n="home_nav_117">צור קשר</a></li></ul><div class="nav-ecommerce-icons nav-icons-left"><a href="/login" class="login-link nav-login" title="התחברות"><svg class="login-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg></a><a href="#cart" class="cart-link nav-cart" id="cart-drawer-toggle" title="עגלת קניות"><svg class="cart-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/></svg><span class="cart-count">0</span></a><div class="nav-search-box">
+    </div><ul class="nav-menu" id="navMenu">
+
+    <li class="menu-item-has-children zappy-products-dropdown">
+      <a href="/products">
+        מוצרים
+        <svg class="dropdown-arrow" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M6 9l6 6 6-6"></path>
+        </svg>
+      </a>
+      <ul class="sub-menu" id="zappy-nav-category-links">
+        <li><a href="/products" data-i18n="ecom_products">מוצרים</a></li>
+        <!-- Categories will be loaded dynamically -->
+      </ul>
+    </li>
+  <li><a href="/" data-i18n="nav-home" style="color: #FFFFFF !important;">בית</a></li><li><a href="/our-cubs" style="color: #FFFFFF !important;" data-i18n="home_nav_113">הגורים שלנו</a></li><li><a href="/new-resident-guide" class="nav-link" style="color: #FFFFFF !important;" data-i18n="home_nav_116">מדריך לגור החדש</a></li><li><a href="/contact" style="color: #FFFFFF !important;" data-i18n="home_nav_117">צור קשר</a></li></ul><div class="nav-ecommerce-icons nav-icons-left"><a href="/login" class="login-link nav-login" title="התחברות"><svg class="login-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg></a><a href="#cart" class="cart-link nav-cart" id="cart-drawer-toggle" title="עגלת קניות"><svg class="cart-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/></svg><span class="cart-count">0</span></a><div class="nav-search-box">
     <input type="text" class="nav-search-input" id="nav-search-input" placeholder="חיפוש מוצרים..." autocomplete="off">
     <button class="nav-search-btn" id="nav-search-btn" title="חיפוש">
       <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
@@ -1427,7 +1441,20 @@ html[dir="rtl"] body {
           <ul class="footer-nav">
             
             <li data-i18n="home_li_92"><a href="/our-cubs" data-i18n="home_link_71">הגורים שלנו</a></li>
-            <li data-i18n="home_li_93"><a href="/products" data-i18n="home_link_72">החנות</a></li>
+            
+    <li class="menu-item-has-children zappy-products-dropdown">
+      <a href="/products">
+        מוצרים
+        <svg class="dropdown-arrow" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M6 9l6 6 6-6"></path>
+        </svg>
+      </a>
+      <ul class="sub-menu" id="zappy-nav-category-links">
+        <li><a href="/products" data-i18n="ecom_products">מוצרים</a></li>
+        <!-- Categories will be loaded dynamically -->
+      </ul>
+    </li>
+  
             <li data-i18n="home_li_94"><a href="/new-resident-guide" data-i18n="home_link_73">מדריך לגור החדש</a></li>
             <li data-i18n="home_li_95"><a href="/contact" data-i18n="home_link_74">צור קשר</a></li>
           </ul>
@@ -1622,6 +1649,7 @@ html[dir="rtl"] body {
       "ecom_applyCoupon": "החל",
       "ecom_backToProducts": "חזרה למוצרים",
       "ecom_browseFavorites": "גלו את כל המוצרים שלנו",
+      "ecom_bundleDiscount": "הנחת חבילה",
       "ecom_bundleTotal": "סה\"כ לעגלה",
       "ecom_callNow": "התקשר עכשיו",
       "ecom_cancel": "ביטול",
@@ -1877,8 +1905,10 @@ html[dir="rtl"] body {
       "home_h3_8": "ברוכים הבאים לגורים בכפר",
       "home_h3_9": "חנות ציוד ובית גידול מוסמך - הכל במקום אחד, עם לב גדול וטיפול אמיתי.",
       "home_p_20": "בגורים בכפר תמצאו הכל תחת קורת גג אחת - בית גידול משפחתי לכלבים, בו הגורים גדלים באווירה כפרית עם חשיפה נכונה התורמת לבריאותם הפיזית והנפשית. אנו מעניקים יחס חם ואוהב, סביבת מגורים בטוחה, חצר גדולה לפריקת אנרגיה, ותזונה איכותית לצד טיפולים וטרינריים שוטפים. בנוסף, במקום חנות ציוד לחיות עם מוצרים איכותיים המותאמים אישית לכל סוגי הכלבים, \n\nכולל שירות משלוחים נוח עד הבית.",
-      "home_p_21": "מזון איכותי, אביזרים, צעצועים, קולרים ורצועות — הכל נבחר בקפידה עבור הכלב שלך. חנות ציוד לכלבים קרוב אליך, עם ידע מקצועי ושירות מותאם אישית.",
+      "home_p_21": "מזון איכותי, אביזרים, צעצועים, קולרים ורצועות - הכל נבחר בקפידה עבור הכלב שלך. חנות ציוד לכלבים קרוב אליך, עם ידע מקצועי ושירות מותאם אישית.",
+      "home_p_22": "<a href=\"/products\" class=\"index-service-card-link btn btn-ghost\" data-native-element=\"true\" data-element-id=\"btn-1777454028962-22fzjwgjf\" data-element-type=\"button\" style=\"outline: none; border-color: transparent !important; color: var(--primary-color, var(--primary, #8B0000)) !important; background-color: transparent !important; background-image: none !important;\">לחנות שלנו ></a><span>&nbsp;</span>",
       "home_p_23": "גורים מגודלים בסביבה כפרית שלווה, עם ליווי מקצועי לאורך כל הדרך. בית גידול כלבים שמאמין בשקיפות, בריאות ואהבה אמיתית לגזע.",
+      "home_p_24": "<a href=\"/our-cubs\" class=\"index-service-card-link btn btn-ghost\" data-element-id=\"zappy-drop-17p96kq5b\" data-element-type=\"button\" style=\"outline: none; background-color: transparent !important; background-image: none !important; color: rgb(47, 107, 79) !important; border-color: transparent !important;\">הגורים שלנו ></a><span>&nbsp;</span>",
       "home_p_25": "הסטנדרט שלנו",
       "home_p_26": "<b>ב</b><strong>גורים בכפר</strong>, אנחנו מאמינים שכל כלב ראוי לאותה הקפדה שהיית מבקש עבור בן משפחה. הסטנדרטים שלנו אינם סיסמאות — הם חלק מהשגרה היומיומית במשפחת הכלבים שלנו.&nbsp;\nבית הגידול שלנו הוא משפחתי באופיו, הכלבים גדלים באווירה כפרית ייחודים עם חצר ענקית לטיולים ופריקת אנרגיה. החשיפה הנכונה והסביבה הטבעית תורמים לבריאותם הפיזית והנפשית של הגורים",
       "home_p_27": "כל כלב בפנסיון שלנו מקבל מעקב אישי לאורך כל היום טיולים, האכלה בשעות קבועות ומגע אנושי חם שמפחית חרדת פרידה, תוך הקפדה על בריאותו הכוללת. אנו דואגים לתזונה בריאה ואיכותית, טיפולים וטרינריים שוטפים כמו חיסונים ותילועים, וכמובן זמינות לטיפולים בשעות חירום.",
@@ -1886,7 +1916,7 @@ html[dir="rtl"] body {
       "home_p_29": "מגורים שזה עתה נולדו ועד כלבים מבוגרים - הצוות שלנו מיומן בטיפול בצרכים משתנים, כולל כלבים עם רגישויות מיוחדות, גזעים שונים, ואופי מגוון.",
       "home_p_30": "אנחנו עוסקים בגזעים קטנים וגדולים ומציעים שירות אמין ומקצועי. בנוסף, אנו מציעים גם אופציה לשליחות עד הבית לנוחיותכם, כחלק מהשירות המותאם לצרכים שלכם.",
       "home_p_31": "מה אומרים עלינו",
-      "home_p_32": "בעלי כלבים שבחרו בגורים בכפר — לאימוץ גור ולציוד היומיומי",
+      "home_p_32": "בעלי כלבים שבחרו בגורים בכפר - לאימוץ גור ולציוד היומיומי",
       "home_p_33": "\"הזמנתי מזון וציוד לכלב דרך גורים בכפר, והמשלוח הגיע ממש מהר עד הבית. הכל נארז בצורה מסודרת, המוצרים היו בדיוק כמו שהוזמן והשירות היה נעים וזמין לכל שאלה. אין ספק שאזמין מהם שוב\"",
       "home_p_34": "\"קיבלנו את הגור שלנו מבית הגידול עם כל המסמכים, חיסונים, והדרכה מפורטת. הם ענו על כל שאלה בסבלנות, ועזרו לנו להתחיל את החיים עם הכלב הכי טוב שיש.\"",
       "home_p_35": "\"חנות ציוד לכלבים קרוב אליי שסוף סוף יש בה הכל, מאוכל איכותי ועד אביזרים שלא מצאתי בשום מקום אחר. הצוות תמיד ממליץ בדיוק מה שמתאים לגזע ולגיל של הכלב.\"",
@@ -2142,8 +2172,6 @@ html[dir="rtl"] body {
       "home_link_65": "הגורים שלנו",
       "home_link_66": "צרו קשר",
       "home_link_67": "צפה בכל המוצרים →",
-      "home_link_68": "לחנות שלנו >",
-      "home_link_69": "הגורים שלנו >",
       "home_link_70": "צרו קשר עכשיו",
       "home_link_71": "הגורים שלנו",
       "home_link_72": "החנות",
@@ -4165,8 +4193,8 @@ html[dir="rtl"] body {
       "new_resident_guide_seo_twitter_title": "מדריך לטיפול בגור חדש",
       "new_resident_guide_seo_og_description": "גורים בכפר - מדריך לטיפול בגור חדש",
       "new_resident_guide_seo_twitter_description": "גורים בכפר - מדריך לטיפול בגור חדש",
-      "home_text_22_1": "</a><span>&nbsp;</span>",
-      "home_text_24_1": "</a><span>&nbsp;</span>",
+      "home_text_68_1": "&nbsp;",
+      "home_text_69_1": "&nbsp;",
       "privacy_text_98_0": "אימייל: ",
       "privacy_text_118_0": "אימייל: ",
       "accessibility_text_99_0": "אימייל: ",
@@ -4203,6 +4231,7 @@ html[dir="rtl"] body {
       "ecom_applyCoupon": "Apply",
       "ecom_backToProducts": "Back to Products",
       "ecom_browseFavorites": "Discover all our products",
+      "ecom_bundleDiscount": "Bundle Discount",
       "ecom_bundleTotal": "Bundle total",
       "ecom_callNow": "Call Now",
       "ecom_cancel": "Cancel",
@@ -4458,8 +4487,10 @@ html[dir="rtl"] body {
       "home_h3_8": "Welcome to Puppies in the Village",
       "home_h3_9": "Licensed pet supply store and breeding facility - everything in one place, with a big heart and genuine care.",
       "home_p_20": "At Puppies in the Village you'll find everything under one roof - a family dog breeding facility where puppies grow up in a rural atmosphere with proper exposure that contributes to their physical and mental health. We provide warm and loving care, a safe living environment, a large yard for energy release, and quality nutrition alongside routine veterinary care. Additionally, on-site pet supply store with quality products personally tailored for all types of dogs,\n\nincluding convenient home delivery service.",
-      "home_p_21": "Quality food, accessories, toys, collars and leashes — everything carefully selected for your dog. A dog supply store close to you, with professional knowledge and personalized service.",
+      "home_p_21": "Quality food, accessories, toys, collars and leashes - everything carefully selected for your dog. A dog supplies store close to you, with professional knowledge and personalized service.",
+      "home_p_22": "To our store >&nbsp;",
       "home_p_23": "Puppies raised in a peaceful rural environment, with professional guidance throughout the journey. A dog breeding facility that believes in transparency, health and true love for the breed.",
+      "home_p_24": "Our puppies >&nbsp;",
       "home_p_25": "Our Standard",
       "home_p_26": "<b>A</b><strong>t Puppies in the Village</strong>, we believe that every dog deserves the same care you would want for a family member. Our standards aren't just slogans — they are part of the daily routine in our dog family.&nbsp;\nOur breeding home is family-oriented in nature, the dogs grow up in a unique rural atmosphere with a huge yard for walks and energy release. The proper exposure and natural environment contribute to the physical and mental health of the puppies",
       "home_p_27": "Every dog in our boarding facility receives personal attention throughout the day with walks, feeding at regular hours, and warm human contact that reduces separation anxiety, while maintaining their overall health. We ensure healthy and quality nutrition, routine veterinary care such as vaccinations and deworming, and of course availability for emergency treatments.",
@@ -4467,7 +4498,7 @@ html[dir="rtl"] body {
       "home_p_29": "From newborn puppies to senior dogs - our team is skilled in caring for varying needs, including dogs with special sensitivities, different breeds, and diverse temperaments.",
       "home_p_30": "We work with small and large breeds and offer reliable and professional service. Additionally, we also offer home delivery option for your convenience, as part of our service tailored to your needs.",
       "home_p_31": "What They Say About Us",
-      "home_p_32": "Dog owners who chose Puppies in the Village — for puppy adoption and daily supplies",
+      "home_p_32": "Dog owners who chose Gorim BaKfar - for puppy adoption and daily equipment",
       "home_p_33": "\"I ordered food and supplies for my dog through Gorim BaKfar, and the delivery arrived really quickly to my home. Everything was packed neatly, the products were exactly as ordered, and the service was pleasant and available for any questions. I will definitely order from them again\"",
       "home_p_34": "\"We received our puppy from the breeding facility with all the documents, vaccinations, and detailed guidance. They answered every question patiently and helped us start life with the best dog there is.\"",
       "home_p_35": "\"A dog supply store near me that finally has everything, from quality food to accessories I couldn't find anywhere else. The staff always recommends exactly what's suitable for the breed and age of the dog.\"",
@@ -4723,8 +4754,6 @@ html[dir="rtl"] body {
       "home_link_65": "Our Puppies",
       "home_link_66": "Contact Us",
       "home_link_67": "View All Products →",
-      "home_link_68": "To our store >",
-      "home_link_69": "Our puppies >",
       "home_link_70": "Contact Us Now",
       "home_link_71": "Our Puppies",
       "home_link_72": "The Store",
@@ -6746,8 +6775,8 @@ html[dir="rtl"] body {
       "new_resident_guide_seo_twitter_title": "New Puppy Care Guide",
       "new_resident_guide_seo_og_description": "Puppies in the Village - New Puppy Care Guide",
       "new_resident_guide_seo_twitter_description": "Puppies in the Village - New Puppy Care Guide",
-      "home_text_22_1": "&nbsp;",
-      "home_text_24_1": "&nbsp;",
+      "home_text_68_1": "&nbsp;",
+      "home_text_69_1": "&nbsp;",
       "privacy_text_98_0": "Email: ",
       "privacy_text_118_0": "Email: ",
       "accessibility_text_99_0": "Email: ",
@@ -6784,6 +6813,7 @@ html[dir="rtl"] body {
       "ecom_applyCoupon": "Apply",
       "ecom_backToProducts": "Back to Products",
       "ecom_browseFavorites": "Discover all our products",
+      "ecom_bundleDiscount": "Скидка за набор",
       "ecom_bundleTotal": "Итого набор",
       "ecom_callNow": "Call Now",
       "ecom_cancel": "Cancel",
@@ -7039,8 +7069,10 @@ html[dir="rtl"] body {
       "home_h3_8": "Добро пожаловать в גורים בכפר",
       "home_h3_9": "Лицензированный магазин оборудования и питомник - всё в одном месте, с большим сердцем и настоящей заботой.",
       "home_p_20": "В גורים בכפר вы найдёте всё под одной крышей - семейный питомник для собак, где щенки растут в деревенской атмосфере с правильной социализацией, способствующей их физическому и психическому здоровью. Мы обеспечиваем тёплое и любящее отношение, безопасную среду обитания, большой двор для выплеска энергии, и качественное питание наряду с регулярным ветеринарным уходом. Кроме того, на месте находится магазин товаров для животных с качественными продуктами, индивидуально подобранными для всех типов собак, \n\nвключая удобную службу доставки на дом.",
-      "home_p_21": "Качественный корм, аксессуары, игрушки, ошейники и поводки — всё тщательно отобрано для вашей собаки. Магазин товаров для собак рядом с вами, с профессиональными знаниями и персонализированным сервисом.",
+      "home_p_21": "Качественный корм, аксессуары, игрушки, ошейники и поводки - всё тщательно отобрано для вашей собаки. Магазин товаров для собак рядом с вами, с профессиональными знаниями и персонализированным обслуживанием.",
+      "home_p_22": "В наш магазин >&nbsp;",
       "home_p_23": "Щенки, выращенные в спокойной деревенской среде, с профессиональным сопровождением на протяжении всего пути. Питомник собак, который верит в прозрачность, здоровье и настоящую любовь к породе.",
+      "home_p_24": "Наши щенки >&nbsp;",
       "home_p_25": "Наш стандарт",
       "home_p_26": "<b>В</b><strong>גורים בכפר</strong>, мы верим, что каждая собака заслуживает того же внимания, которого вы бы хотели для члена семьи. Наши стандарты — это не просто лозунги, они являются частью повседневной жизни нашей собачьей семьи.&nbsp;\nНаш питомник имеет семейный характер, собаки растут в уникальной сельской атмосфере с огромным двором для прогулок и выплеска энергии. Правильная социализация и естественная среда способствуют физическому и психическому здоровью щенков",
       "home_p_27": "Каждая собака в нашем пансионе получает индивидуальное внимание в течение всего дня: прогулки, кормление в установленные часы и теплый человеческий контакт, который снижает тревогу разлуки, при этом мы заботимся об общем состоянии здоровья. Мы обеспечиваем здоровое и качественное питание, регулярные ветеринарные процедуры, такие как вакцинация и дегельминтизация, и, конечно же, доступность для экстренного лечения.",
@@ -7048,7 +7080,7 @@ html[dir="rtl"] body {
       "home_p_29": "От новорожденных щенков до взрослых собак - наша команда опытна в уходе за различными потребностями, включая собак с особыми чувствительностями, разными породами и разнообразными характерами.",
       "home_p_30": "Мы занимаемся мелкими и крупными породами и предлагаем надёжный и профессиональный сервис. Кроме того, мы также предлагаем опцию доставки на дом для вашего удобства, как часть сервиса, адаптированного под ваши потребности.",
       "home_p_31": "Что говорят о нас",
-      "home_p_32": "Владельцы собак, которые выбрали גורים בכפר — для усыновления щенка и ежедневных товаров",
+      "home_p_32": "Владельцы собак, которые выбрали Горим Бакфар - для усыновления щенка и повседневного оборудования",
       "home_p_33": "\"Я заказал корм и товары для собаки через גורים בכפר, и доставка пришла очень быстро прямо домой. Всё было аккуратно упаковано, товары были точно такими, как заказывал, а сервис был приятным и доступным для любых вопросов. Без сомнения буду заказывать у них снова\"",
       "home_p_34": "\"Мы получили нашего щенка из питомника со всеми документами, прививками и подробными инструкциями. Они терпеливо отвечали на все вопросы и помогли нам начать жизнь с лучшей собакой на свете.\"",
       "home_p_35": "\"Зоомагазин рядом со мной, в котором наконец-то есть всё - от качественного корма до аксессуаров, которые я не мог найти больше нигде. Персонал всегда рекомендует именно то, что подходит породе и возрасту собаки.\"",
@@ -7304,8 +7336,6 @@ html[dir="rtl"] body {
       "home_link_65": "Наши щенки",
       "home_link_66": "Свяжитесь с нами",
       "home_link_67": "Посмотреть все товары →",
-      "home_link_68": "В наш магазин >",
-      "home_link_69": "Наши щенки >",
       "home_link_70": "Свяжитесь с нами сейчас",
       "home_link_71": "Наши щенки",
       "home_link_72": "Магазин",
@@ -9327,8 +9357,8 @@ html[dir="rtl"] body {
       "new_resident_guide_seo_twitter_title": "Руководство по уходу за новым щенком",
       "new_resident_guide_seo_og_description": "Щенки в деревне - Руководство по уходу за новым щенком",
       "new_resident_guide_seo_twitter_description": "Щенки в деревне - Руководство по уходу за новым щенком",
-      "home_text_22_1": "&nbsp;",
-      "home_text_24_1": "&nbsp;",
+      "home_text_68_1": "&nbsp;",
+      "home_text_69_1": "&nbsp;",
       "privacy_text_98_0": "Email: ",
       "privacy_text_118_0": "Email: ",
       "accessibility_text_99_0": "Email: ",
