@@ -1,8 +1,4565 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-07T19:28:41.085Z",
+  "generated_at": "2026-06-07T19:32:19.761Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 175,
+  "products": [
+    {
+      "id": "cb0d8aa0-9ffb-408e-9dd3-efc11748e9b5",
+      "slug": "trsys-mrkk-lla-shtyph-myvad-laydvd-tsmycht-prvvh-tauro-mx70iz",
+      "name": "תרסיס מרכך ללא שטיפה מיועד לעידוד צמיחת פרווה TAURO",
+      "name_translations": {
+        "en": "TAURO No-Rinse Softening Spray for Encouraging Fur Growth",
+        "he": "תרסיס מרכך ללא שטיפה מיועד לעידוד צמיחת פרווה TAURO",
+        "ru": "Спрей-кондиционер без смывания для стимуляции роста шерсти TAURO"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 95,
+      "base_price": 95,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/trsys-mrkk-lla-shtyph-myvad-laydvd-tsmycht-prvvh-tauro-mx70iz",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:48.659Z"
+    },
+    {
+      "id": "4fef1902-4603-4247-ba81-97339a47d2ae",
+      "slug": "trsys-mrkk-lla-shtyph-lshykvm-vtsmychh-shl-hprvvh-tauro-7b2du2",
+      "name": "תרסיס מרכך ללא שטיפה לשיקום וצמיחה של הפרווה TAURO",
+      "name_translations": {
+        "en": "TAURO No-Rinse Conditioning Spray for Coat Restoration and Growth",
+        "he": "תרסיס מרכך ללא שטיפה לשיקום וצמיחה של הפרווה TAURO",
+        "ru": "Спрей-кондиционер без смывания для восстановления и роста шерсти TAURO"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 125,
+      "base_price": 125,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/trsys-mrkk-lla-shtyph-lshykvm-vtsmychh-shl-hprvvh-tauro-7b2du2",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:47.371Z"
+    },
+    {
+      "id": "836e5f38-df1b-4533-8a1f-9ffddbc4f78c",
+      "slug": "shrshrt-mptslt-l-2-klbym-50-sm-0kaw60",
+      "name": "שרשרת מפצלת ל 2 כלבים 50 ס\"מ",
+      "name_translations": {
+        "en": "2-Dog Splitter Chain 50 cm",
+        "he": "שרשרת מפצלת ל 2 כלבים 50 ס\"מ",
+        "ru": "Поводок-рогатка для 2 собак 50 см"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 60,
+      "base_price": 60,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/shrshrt-mptslt-l-2-klbym-50-sm-0kaw60",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:46.902Z"
+    },
+    {
+      "id": "fcccfb2c-3275-47a0-b8af-4738d4723010",
+      "slug": "shrshrt-kvtsym-laylvp-nykl-50-sm-avby-3-mm-p79hsv",
+      "name": "שרשרת קוצים לאילוף - ניקל- 50 ס\"מ עובי 3 מ\"מ",
+      "name_translations": {
+        "en": "Prong Training Chain - Nickel - 50 cm Thickness 3 mm",
+        "he": "שרשרת קוצים לאילוף - ניקל- 50 ס\"מ עובי 3 מ\"מ",
+        "ru": "Строгий ошейник для дрессировки - никель - 50 см толщина 3 мм"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/shrshrt-kvtsym-laylvp-nykl-50-sm-avby-3-mm-p79hsv",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:46.662Z"
+    },
+    {
+      "id": "68568027-8bd0-41f6-b63a-c907fae1a591",
+      "slug": "shrshrt-kvtsym-laylvp-nykl-60-sm-avby-4-mm-rtcdsd",
+      "name": "שרשרת קוצים לאילוף - ניקל- 60 ס\"מ עובי 4 מ\"מ",
+      "name_translations": {
+        "en": "Prong Training Collar - Nickel - 60 cm Thickness 4 mm",
+        "he": "שרשרת קוצים לאילוף - ניקל- 60 ס\"מ עובי 4 מ\"מ",
+        "ru": "Строгий ошейник для дрессировки - никель - 60 см толщина 4 мм"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 55,
+      "base_price": 55,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/shrshrt-kvtsym-laylvp-nykl-60-sm-avby-4-mm-rtcdsd",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:47.315Z"
+    },
+    {
+      "id": "959a08b2-6b02-45f4-ba8b-d76e18623e15",
+      "slug": "shrshrt-kvtsym-laylvp-shchvr-50-sm-avby-4-mm-h6evd3",
+      "name": "שרשרת קוצים לאילוף - שחור- 50 ס\"מ , עובי 4 מ\"מ",
+      "name_translations": {
+        "en": "Training Prong Collar - Black - 50 cm, 4 mm Thickness",
+        "he": "שרשרת קוצים לאילוף - שחור- 50 ס\"מ , עובי 4 מ\"מ",
+        "ru": "Строгий ошейник для дрессировки - черный - 50 см, толщина 4 мм"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 55,
+      "base_price": 55,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/shrshrt-kvtsym-laylvp-shchvr-50-sm-avby-4-mm-h6evd3",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:45.874Z"
+    },
+    {
+      "id": "3e9061e2-ceec-4fa3-816a-bb1007b2995b",
+      "slug": "shrshrt-aylvp-55-sm-avby-25-mm-l5tx2t",
+      "name": "שרשרת אילוף 55 ס\"מ עובי 2.5 מ\"מ",
+      "name_translations": {
+        "en": "Training Chain 55 cm Thickness 2.5 mm",
+        "he": "שרשרת אילוף 55 ס\"מ עובי 2.5 מ\"מ",
+        "ru": "Дрессировочная цепочка 55 см толщина 2.5 мм"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 65,
+      "base_price": 65,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/shrshrt-aylvp-55-sm-avby-25-mm-l5tx2t",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:45.240Z"
+    },
+    {
+      "id": "6ee8af45-c8d6-4c50-bc29-85447c6c1523",
+      "slug": "shrshrt-aylvp-65-sm-avby-35-mm-vzf1th",
+      "name": "שרשרת אילוף 65 ס\"מ עובי 3.5 מ\"מ",
+      "name_translations": {
+        "en": "Training Chain 65 cm Thickness 3.5 mm",
+        "he": "שרשרת אילוף 65 ס\"מ עובי 3.5 מ\"מ",
+        "ru": "Цепь для дрессировки 65 см толщина 3.5 мм"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 75,
+      "base_price": 75,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/shrshrt-aylvp-65-sm-avby-35-mm-vzf1th",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:46.412Z"
+    },
+    {
+      "id": "bfa09a8d-ca91-4b0d-8d36-da20ca9143cf",
+      "slug": "shrshrt-aylvp-60-sm-avby-3-mm-0ld6q9",
+      "name": "שרשרת אילוף 60 ס\"מ עובי 3 מ\"מ ",
+      "name_translations": {
+        "en": "Training Chain 60 cm Thickness 3 mm",
+        "he": "שרשרת אילוף 60 ס\"מ עובי 3 מ\"מ ",
+        "ru": "Цепочка для дрессировки 60 см толщина 3 мм"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 75,
+      "base_price": 75,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/shrshrt-aylvp-60-sm-avby-3-mm-0ld6q9",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:45.236Z"
+    },
+    {
+      "id": "e65ce7da-ce0f-4965-9d79-cca2c5af3433",
+      "slug": "rtsvah-12520-sm-tsba-bz-chvm-69a4f6",
+      "name": "רצועה 125*20 ס\"מ צבע בז'-חום",
+      "name_translations": {
+        "en": "Leash 125*20 cm Beige-Brown Color",
+        "he": "רצועה 125*20 ס\"מ צבע בז'-חום",
+        "ru": "Поводок 125*20 см цвет бежево-коричневый"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 25,
+      "base_price": 25,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/rtsvah-12520-sm-tsba-bz-chvm-69a4f6",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:43.893Z"
+    },
+    {
+      "id": "503ee7ab-b339-48f2-85d1-2ccf0fc4a615",
+      "slug": "rtsvah-12520-sm-tsba-shchvr-advm-c0jii6",
+      "name": "רצועה 125*20 ס\"מ צבע שחור-אדום",
+      "name_translations": {
+        "en": "Leash 125*20 cm Black-Red Color",
+        "he": "רצועה 125*20 ס\"מ צבע שחור-אדום",
+        "ru": "Поводок 125*20 см цвет черно-красный"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 25,
+      "base_price": 25,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/rtsvah-12520-sm-tsba-shchvr-advm-c0jii6",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:44.719Z"
+    },
+    {
+      "id": "af0d2603-0b9c-4539-a7d9-c9e2f944d264",
+      "slug": "kbl-kshyrh-lklb-am-kpyts-petsproject-avby-5-mm-avrk-3-mtr-vvy1ez",
+      "name": "כבל קשירה לכלב עם קפיץ petsproject עובי 5 מ\"מ , אורך 3 מטר",
+      "name_translations": {
+        "en": "Dog tie cable with spring petsproject 5mm thickness, 3 meter length",
+        "he": "כבל קשירה לכלב עם קפיץ petsproject עובי 5 מ\"מ , אורך 3 מטר",
+        "ru": "Поводок для собаки с пружиной petsproject толщина 5 мм, длина 3 метра"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 55,
+      "base_price": 55,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/kbl-kshyrh-lklb-am-kpyts-petsproject-avby-5-mm-avrk-3-mtr-vvy1ez",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:45.132Z"
+    },
+    {
+      "id": "411c587a-8a8e-4910-b693-d2b74428f2c2",
+      "slug": "kbl-kshyrh-lklb-petsproject-avby-5-mm-avrk-9-mtr-jrforj",
+      "name": "כבל קשירה לכלב petsproject עובי 5 ממ אורך 9 מטר",
+      "name_translations": {
+        "en": "Dog tie-out cable petsproject 5mm thickness 9 meter length",
+        "he": "כבל קשירה לכלב petsproject עובי 5 ממ אורך 9 מטר",
+        "ru": "Поводок для собак petsproject толщина 5 мм длина 9 метров"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 75,
+      "base_price": 75,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/kbl-kshyrh-lklb-petsproject-avby-5-mm-avrk-9-mtr-jrforj",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:45.613Z"
+    },
+    {
+      "id": "a31edaa3-4eb0-4999-81d9-820dc79f8c58",
+      "slug": "kbl-kshyrh-lklb-am-kpyts-petsproject-avby-5-mm-avrk-45-mtr-9yyf9x",
+      "name": "כבל קשירה לכלב עם קפיץ petsproject עובי 5 מ\"מ , אורך 4.5 מטר",
+      "name_translations": {
+        "en": "Dog tie-out cable with spring petsproject 5mm thickness, 4.5 meter length",
+        "he": "כבל קשירה לכלב עם קפיץ petsproject עובי 5 מ\"מ , אורך 4.5 מטר",
+        "ru": "Поводок для собаки с пружиной petsproject толщина 5 мм, длина 4.5 метра"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 65,
+      "base_price": 65,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/kbl-kshyrh-lklb-am-kpyts-petsproject-avby-5-mm-avrk-45-mtr-9yyf9x",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:46.008Z"
+    },
+    {
+      "id": "34a235b2-bda4-49fe-8dcd-9956e1199b4c",
+      "slug": "kbl-kshyrh-lklb-petsproject-avby-5-mm-avrk-3-mtr-yx11ar",
+      "name": "כבל קשירה לכלב petsproject עובי 5 מ\"מ , אורך 3 מטר",
+      "name_translations": {
+        "en": "Dog tie cable petsproject 5mm thick, 3 meter length",
+        "he": "כבל קשירה לכלב petsproject עובי 5 מ\"מ , אורך 3 מטר",
+        "ru": "Поводок для собаки petsproject толщина 5 мм, длина 3 метра"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 55,
+      "base_price": 55,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/kbl-kshyrh-lklb-petsproject-avby-5-mm-avrk-3-mtr-yx11ar",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:44.028Z"
+    },
+    {
+      "id": "e78999d5-2370-48b2-b1d5-ce0b35744db2",
+      "slug": "chtyp-syybr-dvg-lklb-btam-brvvz-omd53k",
+      "name": "חטיף סייבר דוג לכלב בטעם ברווז",
+      "name_translations": {
+        "en": "Cyber Dog Duck Flavor Dog Treat",
+        "he": "חטיף סייבר דוג לכלב בטעם ברווז",
+        "ru": "Лакомство Cyber Dog для собак со вкусом утки"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 8,
+      "base_price": 8,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/chtyp-syybr-dvg-lklb-btam-brvvz-omd53k",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:43.549Z"
+    },
+    {
+      "id": "04dbe20f-0383-4e14-8ee7-c088a77b1d0b",
+      "slug": "chtyp-syybr-dvg-lklb-btam-slmvn-afq82d",
+      "name": "חטיף סייבר דוג לכלב בטעם סלמון",
+      "name_translations": {
+        "en": "Cyber Dog Salmon Flavored Dog Treat",
+        "he": "חטיף סייבר דוג לכלב בטעם סלמון",
+        "ru": "Лакомство Cyber Dog для собак со вкусом лосося"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 8,
+      "base_price": 8,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/chtyp-syybr-dvg-lklb-btam-slmvn-afq82d",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:43.542Z"
+    },
+    {
+      "id": "ec89e4a2-8413-47db-accf-731db4654712",
+      "slug": "chtyp-syybr-dvg-lklb-btam-arnbt-q75doz",
+      "name": "חטיף סייבר דוג לכלב בטעם ארנבת",
+      "name_translations": {
+        "en": "Cyber Dog rabbit flavored dog treat",
+        "he": "חטיף סייבר דוג לכלב בטעם ארנבת",
+        "ru": "Лакомство Cyber Dog для собак со вкусом кролика"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 8,
+      "base_price": 8,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/chtyp-syybr-dvg-lklb-btam-arnbt-q75doz",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:42.141Z"
+    },
+    {
+      "id": "820f524d-a64c-4220-887b-d312863d1f7a",
+      "slug": "st-kvlrrtsvah-hdpsym-shvnym-l-kvlr-6338-sm-rtsvah-15025-sm-p8wmsa",
+      "name": "סט קולר+רצועה הדפסים שונים L (קולר 63*38 ס\"מ - רצועה 150*25 ס\"מ)",
+      "name_translations": {
+        "en": "Collar + Leash Set Various Prints L (Collar 63*38 cm - Leash 150*25 cm)",
+        "he": "סט קולר+רצועה הדפסים שונים L (קולר 63*38 ס\"מ - רצועה 150*25 ס\"מ)",
+        "ru": "Набор ошейник+поводок различные принты L (ошейник 63*38 см - поводок 150*25 см)"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 60,
+      "base_price": 60,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/st-kvlrrtsvah-hdpsym-shvnym-l-kvlr-6338-sm-rtsvah-15025-sm-p8wmsa",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:41.709Z"
+    },
+    {
+      "id": "76969d00-3f0b-4a12-b8ec-b60562cdf348",
+      "slug": "st-kvlrrtsvah-hdpsym-shvnym-m-kvlr-4227-sm-rtsvah-15020-sm-d4epyy",
+      "name": "סט קולר+רצועה הדפסים שונים M (קולר 42*27 ס\"מ - רצועה 150*20 ס\"מ)",
+      "name_translations": {
+        "en": "Collar + Leash Set Various Prints M (Collar 42*27 cm - Leash 150*20 cm)",
+        "he": "סט קולר+רצועה הדפסים שונים M (קולר 42*27 ס\"מ - רצועה 150*20 ס\"מ)",
+        "ru": "Набор ошейник+поводок различные принты M (ошейник 42*27 см - поводок 150*20 см)"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 60,
+      "base_price": 60,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/st-kvlrrtsvah-hdpsym-shvnym-m-kvlr-4227-sm-rtsvah-15020-sm-d4epyy",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:41.665Z"
+    },
+    {
+      "id": "fc4e1ce3-58bc-47a4-9065-b39b8698c3ec",
+      "slug": "st-kvlrpamvnrtsvah-12010-sm-tvrkyz-yrvk-zvhr-tshvb-sgvl-viy3bu",
+      "name": "סט קולר+פעמון+רצועה 120*10 ס\"מ טורקיז, ירוק זוהר, צהוב, סגול",
+      "name_translations": {
+        "en": "Collar + Bell + Leash Set 120*10 cm Turquoise, Bright Green, Yellow, Purple",
+        "he": "סט קולר+פעמון+רצועה 120*10 ס\"מ טורקיז, ירוק זוהר, צהוב, סגול",
+        "ru": "Набор ошейник+колокольчик+поводок 120*10 см бирюзовый, ярко-зеленый, желтый, фиолетовый"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 20,
+      "base_price": 20,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/st-kvlrpamvnrtsvah-12010-sm-tvrkyz-yrvk-zvhr-tshvb-sgvl-viy3bu",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:43.438Z"
+    },
+    {
+      "id": "bad8310f-72e4-4f9f-a543-1656dd4ae268",
+      "slug": "rtsvah-nyylvn-prydvg-m-20120-yrvk-advm-shchvr-bvrdv-jtwi8g",
+      "name": "רצועה ניילון פרידוג M 20*120 ירוק, אדום, שחור, בורדו ",
+      "name_translations": {
+        "en": "Freedog Nylon Leash M 20*120 Green, Red, Black, Burgundy",
+        "he": "רצועה ניילון פרידוג M 20*120 ירוק, אדום, שחור, בורדו ",
+        "ru": "Поводок нейлоновый Freedog M 20*120 зеленый, красный, черный, бордовый"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 33,
+      "base_price": 33,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/rtsvah-nyylvn-prydvg-m-20120-yrvk-advm-shchvr-bvrdv-jtwi8g",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:43.575Z"
+    },
+    {
+      "id": "296d4164-9020-4aaf-92ff-92c71ef24e14",
+      "slug": "rtsvah-nyylvn-prydvg-s15120-bvrdv-tvskj1",
+      "name": "רצועה ניילון פרידוג S15*120 בורדו",
+      "name_translations": {
+        "en": "Nylon Leash Freedog S15*120 Burgundy",
+        "he": "רצועה ניילון פרידוג S15*120 בורדו",
+        "ru": "Поводок нейлоновый Freedog S15*120 бордовый"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 30,
+      "base_price": 30,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/rtsvah-nyylvn-prydvg-s15120-bvrdv-tvskj1",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:43.308Z"
+    },
+    {
+      "id": "dab772b6-afae-4de3-96f3-26e3d4b0f36a",
+      "slug": "rtsvah-nyylvn-prydvg-xs-10120-vrvd-shchvr-kchvl-yrvk-advm-unwzuu",
+      "name": "רצועה ניילון פרידוג XS 10*120 ורוד, שחור, כחול, ירוק, אדום",
+      "name_translations": {
+        "en": "Freedog Nylon Leash XS 10*120 Pink, Black, Blue, Green, Red",
+        "he": "רצועה ניילון פרידוג XS 10*120 ורוד, שחור, כחול, ירוק, אדום",
+        "ru": "Поводок нейлоновый Freedog XS 10*120 розовый, черный, синий, зеленый, красный"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 20,
+      "base_price": 20,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/rtsvah-nyylvn-prydvg-xs-10120-vrvd-shchvr-kchvl-yrvk-advm-unwzuu",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:42.369Z"
+    },
+    {
+      "id": "c18b94dc-acce-48bd-83b8-3f40ea13db4f",
+      "slug": "gdr-aylvp-121-sm-0gc5mn",
+      "name": "גדר אילוף 121 ס\"מ",
+      "name_translations": {
+        "en": "Training Fence 121 cm",
+        "he": "גדר אילוף 121 ס\"מ",
+        "ru": "Ограждение для дрессировки 121 см"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/gdr-aylvp-121-sm-0gc5mn",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:41.369Z"
+    },
+    {
+      "id": "70517f4b-8fda-47c6-8ca9-e3e30391a955",
+      "slug": "gdr-aylvp-107-sm-qp6yjr",
+      "name": "גדר אילוף 107 ס\"מ",
+      "name_translations": {
+        "en": "Training Fence 107 cm",
+        "he": "גדר אילוף 107 ס\"מ",
+        "ru": "Ограждение для дрессировки 107 см"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/gdr-aylvp-107-sm-qp6yjr",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:40.555Z"
+    },
+    {
+      "id": "39ab409e-5a47-4232-9e65-79c076459859",
+      "slug": "gdr-aylvp-91-sm-cs7iqf",
+      "name": "גדר אילוף 91 ס\"מ",
+      "name_translations": {
+        "en": "Training Fence 91 cm",
+        "he": "גדר אילוף 91 ס\"מ",
+        "ru": "Ограждение для дрессировки 91 см"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/gdr-aylvp-91-sm-cs7iqf",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:40.838Z"
+    },
+    {
+      "id": "02e70798-3ad4-435f-88e9-26117c576293",
+      "slug": "gdr-aylvp-76-sm-dcdnc3",
+      "name": "גדר אילוף 76 ס\"מ",
+      "name_translations": {
+        "en": "Training Fence 76 cm",
+        "he": "גדר אילוף 76 ס\"מ",
+        "ru": "Ограждение для дрессировки 76 см"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/gdr-aylvp-76-sm-dcdnc3",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:40.442Z"
+    },
+    {
+      "id": "1e2a6b17-55f1-4005-a673-e07bfa8eea6d",
+      "slug": "gdr-aylvp-61-sm-6m5is3",
+      "name": "גדר אילוף 61 ס\"מ",
+      "name_translations": {
+        "en": "Training Fence 61 cm",
+        "he": "גדר אילוף 61 ס\"מ",
+        "ru": "Ограждение для дрессировки 61 см"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/gdr-aylvp-61-sm-6m5is3",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:39.697Z"
+    },
+    {
+      "id": "fb07ac07-a1d4-42ac-89c6-99530274796a",
+      "slug": "klvb-aylvp-121-sm-p697xo",
+      "name": "כלוב אילוף 121 ס\"מ",
+      "name_translations": {
+        "en": "Training Cage 121 cm",
+        "he": "כלוב אילוף 121 ס\"מ",
+        "ru": "Клетка для дрессировки 121 см"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/klvb-aylvp-121-sm-p697xo",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:43.284Z"
+    },
+    {
+      "id": "6247cbe3-f5ee-4a15-bf9e-2f4d3e729a33",
+      "slug": "klvb-aylvp-107-sm-t6h5rd",
+      "name": "כלוב אילוף 107 ס\"מ",
+      "name_translations": {
+        "en": "Training Cage 107 cm",
+        "he": "כלוב אילוף 107 ס\"מ",
+        "ru": "Клетка для дрессировки 107 см"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/klvb-aylvp-107-sm-t6h5rd",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:39.440Z"
+    },
+    {
+      "id": "9f66829a-ece8-4209-ac4f-9ae0958f2051",
+      "slug": "klvb-aylvp-91-sm-bamnpr",
+      "name": "כלוב אילוף 91 ס\"מ",
+      "name_translations": {
+        "en": "Training Cage 91 cm",
+        "he": "כלוב אילוף 91 ס\"מ",
+        "ru": "Клетка для дрессировки 91 см"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/klvb-aylvp-91-sm-bamnpr",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:39.687Z"
+    },
+    {
+      "id": "316dc9f4-8a4c-4abf-8ad7-ee05bda5e13e",
+      "slug": "klvb-aylvp-76-sm-moty1i",
+      "name": "כלוב אילוף 76 ס\"מ",
+      "name_translations": {
+        "en": "Training Cage 76 cm",
+        "he": "כלוב אילוף 76 ס\"מ",
+        "ru": "Клетка для дрессировки 76 см"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/klvb-aylvp-76-sm-moty1i",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:39.298Z"
+    },
+    {
+      "id": "8c537842-c017-49d6-bfda-13ace78d77b4",
+      "slug": "klvb-aylvp-61-sm-crc3dg",
+      "name": "כלוב אילוף 61 ס\"מ",
+      "name_translations": {
+        "en": "Training Cage 61 cm",
+        "he": "כלוב אילוף 61 ס\"מ",
+        "ru": "Клетка для дрессировки 61 см"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/klvb-aylvp-61-sm-crc3dg",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:39.155Z"
+    },
+    {
+      "id": "2f8dee24-f97b-4532-b09c-21a45d4466f2",
+      "slug": "hnrys-chmat-bvtnym-tbayt-qkid62",
+      "name": "הנריס חמאת בוטנים טבעית",
+      "name_translations": {
+        "en": "Harris Natural Peanut Butter",
+        "he": "הנריס חמאת בוטנים טבעית",
+        "ru": "Натуральное арахисовое масло Henries"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/hnrys-chmat-bvtnym-tbayt-qkid62",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:41.512Z"
+    },
+    {
+      "id": "b91d8b66-5179-44d7-b395-c0304740c348",
+      "slug": "pdym-laymvn-gvrym-50-ych-b7ygth",
+      "name": "פדים לאימון גורים 50 יח'",
+      "name_translations": {
+        "en": "Puppy Training Pads 50 pcs",
+        "he": "פדים לאימון גורים 50 יח'",
+        "ru": "Пеленки для дрессировки щенков 50 шт."
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/pdym-laymvn-gvrym-50-ych-b7ygth",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:39.053Z"
+    },
+    {
+      "id": "447fab47-9cc0-4030-8739-5e96038026ed",
+      "slug": "pdym-laymvn-gvrym-100-ych-55q2ni",
+      "name": "פדים לאימון גורים 100 יח'",
+      "name_translations": {
+        "en": "Puppy Training Pads 100 pcs",
+        "he": "פדים לאימון גורים 100 יח'",
+        "ru": "Пеленки для приучения щенков 100 шт."
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 100,
+      "base_price": 100,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/pdym-laymvn-gvrym-100-ych-55q2ni",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:37.532Z"
+    },
+    {
+      "id": "3bec29b2-3fbd-4306-b3fe-06d39ef7544b",
+      "slug": "pdym-laymvn-gvrym-am-pchm-payl-30-ych-jlrpod",
+      "name": "פדים לאימון גורים עם פחם פעיל 30 יח'",
+      "name_translations": {
+        "en": "Puppy Training Pads with Active Carbon 30 pcs",
+        "he": "פדים לאימון גורים עם פחם פעיל 30 יח'",
+        "ru": "Пеленки для приучения щенков с активированным углем 30 шт."
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 40,
+      "base_price": 40,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/pdym-laymvn-gvrym-am-pchm-payl-30-ych-jlrpod",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:39.195Z"
+    },
+    {
+      "id": "84164ebf-87c6-4f24-93dd-bd628ee44fa4",
+      "slug": "krn-ayyl-advm-75-150-gr-m-ga3bdi",
+      "name": "קרן אייל אדום 75-150 גר' M",
+      "name_translations": {
+        "en": "Red Deer Antler 75-150g M",
+        "he": "קרן אייל אדום 75-150 גר' M",
+        "ru": "Рог благородного оленя 75-150 гр M"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 65,
+      "base_price": 65,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/krn-ayyl-advm-75-150-gr-m-ga3bdi",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:37.789Z"
+    },
+    {
+      "id": "88fa3533-c80e-4fe7-bcdb-1c2b649a6d43",
+      "slug": "krn-ayyl-advm-50-75-gr-s-tlq0l4",
+      "name": "קרן אייל אדום 50-75 גר' S",
+      "name_translations": {
+        "en": "Red Deer Antler 50-75g S",
+        "he": "קרן אייל אדום 50-75 גר' S",
+        "ru": "Рог благородного оленя 50-75 гр S"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 45,
+      "base_price": 45,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/krn-ayyl-advm-50-75-gr-s-tlq0l4",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:37.747Z"
+    },
+    {
+      "id": "59e1e321-3617-4846-8e71-a0ab62800357",
+      "slug": "shymvry-frendi-btam-bkr-400-gr-yt9dob",
+      "name": "שימורי Frendi בטעם בקר 400 ג\"ר",
+      "name_translations": {
+        "en": "Frendi Beef Flavored Canned Food 400g",
+        "he": "שימורי Frendi בטעם בקר 400 ג\"ר",
+        "ru": "Консервы Frendi со вкусом говядины 400 г"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 8,
+      "base_price": 8,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/shymvry-frendi-btam-bkr-400-gr-yt9dob",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:37.398Z"
+    },
+    {
+      "id": "bd837874-797b-4f73-b68a-0766c8136658",
+      "slug": "shymvry-frendi-btam-avp-400-gr-uddyu5",
+      "name": "שימורי Frendi בטעם עוף 400 ג\"ר",
+      "name_translations": {
+        "en": "Frendi Chicken Flavor Canned Food 400g",
+        "he": "שימורי Frendi בטעם עוף 400 ג\"ר",
+        "ru": "Консервы Frendi со вкусом курицы 400 г"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 8,
+      "base_price": 8,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/shymvry-frendi-btam-avp-400-gr-uddyu5",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:38.578Z"
+    },
+    {
+      "id": "5f7c76a6-76a6-49d6-9134-9abd3800dfe6",
+      "slug": "shymvry-nvabv-lklb-btam-avp-400-gr-mb6ctv",
+      "name": "שימורי נואבו לכלב בטעם עוף 400 ג\"ר",
+      "name_translations": {
+        "en": "Nuevo Canned Dog Food Chicken Flavor 400g",
+        "he": "שימורי נואבו לכלב בטעם עוף 400 ג\"ר",
+        "ru": "Консервы Nuevo для собак со вкусом курицы 400 г"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 15,
+      "base_price": 15,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/shymvry-nvabv-lklb-btam-avp-400-gr-mb6ctv",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:37.708Z"
+    },
+    {
+      "id": "7ea6bf7a-384c-4387-b833-ab222d7fff5c",
+      "slug": "shymvry-nvabv-lgvry-klbym-btam-avp-vbkr-400-gr-a587vc",
+      "name": "שימורי נואבו לגורי כלבים בטעם עוף ובקר 400 ג\"ר",
+      "name_translations": {
+        "en": "Nuevo canned food for puppies with chicken and beef flavor 400g",
+        "he": "שימורי נואבו לגורי כלבים בטעם עוף ובקר 400 ג\"ר",
+        "ru": "Консервы Нуэво для щенков со вкусом курицы и говядины 400 г"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 15,
+      "base_price": 15,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/shymvry-nvabv-lgvry-klbym-btam-avp-vbkr-400-gr-a587vc",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:36.866Z"
+    },
+    {
+      "id": "04bf369e-57ed-4e2e-bdac-41911877ae24",
+      "slug": "shymvrym-lklbym-dogeat-375-gr-tj7f1y",
+      "name": "שימורים לכלבים dogeat 375 גר'",
+      "name_translations": {
+        "en": "Dog canned food dogeat 375g",
+        "he": "שימורים לכלבים dogeat 375 גר'",
+        "ru": "Консервы для собак dogeat 375 г"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 5,
+      "base_price": 5,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/shymvrym-lklbym-dogeat-375-gr-tj7f1y",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:36.932Z"
+    },
+    {
+      "id": "ff0d7bb4-31c9-4e21-830b-aabbdcc8eeed",
+      "slug": "tsatsva-mshykh-kdvr-kshyrh-kpvl-am-chbl-ggf88v",
+      "name": "צעצוע משיכה- כדור קשירה כפול עם חבל",
+      "name_translations": {
+        "en": "Pull Toy - Double Knot Ball with Rope",
+        "he": "צעצוע משיכה- כדור קשירה כפול עם חבל",
+        "ru": "Игрушка-тягалка - двойной узловой мяч с веревкой"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-mshykh-kdvr-kshyrh-kpvl-am-chbl-ggf88v",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:31:37.915Z"
+    },
+    {
+      "id": "625decc9-008b-43c2-bb50-b655f370e2ce",
+      "slug": "gl-dntly-lshynyym-histotree-btam-vnyl-xhxw81",
+      "name": "ג'ל דנטלי לשיניים Histotree בטעם וניל",
+      "name_translations": {
+        "en": "Histotree Dental Gel for Teeth in Vanilla Flavor",
+        "he": "ג'ל דנטלי לשיניים Histotree בטעם וניל",
+        "ru": "Зубной гель Histotree со вкусом ванили"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 30,
+      "base_price": 30,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/gl-dntly-lshynyym-histotree-btam-vnyl-xhxw81",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:31:35.648Z"
+    },
+    {
+      "id": "01120475-9f69-4aff-b4a9-70f1839c1694",
+      "slug": "nvzl-lnykvy-aznyymaynyym-petglow-ytzq5a",
+      "name": "נוזל לניקוי אזניים/עיניים  petglow",
+      "name_translations": {
+        "en": "Ear/Eye Cleaning Solution petglow",
+        "he": "נוזל לניקוי אזניים/עיניים  petglow",
+        "ru": "Жидкость для чистки ушей/глаз petglow"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/nvzl-lnykvy-aznyymaynyym-petglow-ytzq5a",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:31:35.702Z"
+    },
+    {
+      "id": "0cad4651-bf03-4759-8816-f66613a3e040",
+      "slug": "mrkk-prydvg-o64oqc",
+      "name": "מרכך פרידוג",
+      "name_translations": {
+        "en": "Freedog Softener",
+        "he": "מרכך פרידוג",
+        "ru": "Кондиционер Фридог"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 54,
+      "base_price": 54,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mrkk-prydvg-o64oqc",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:31:35.895Z"
+    },
+    {
+      "id": "2bbc01cf-aba5-4ebc-a12d-6fa445c1a86c",
+      "slug": "atsbavn-tschtsvch-shynyym-zvg-88q3m6",
+      "name": "אצבעון צחצוח שיניים זוג ",
+      "name_translations": {
+        "en": "Finger Toothbrush Pair",
+        "he": "אצבעון צחצוח שיניים זוג ",
+        "ru": "Напальчник для чистки зубов пара"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 20,
+      "base_price": 20,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/atsbavn-tschtsvch-shynyym-zvg-88q3m6",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:31:34.865Z"
+    },
+    {
+      "id": "7e37f0e1-8d29-406c-8037-61aceaef56a9",
+      "slug": "shmpv-prydvg-yuof2c",
+      "name": "שמפו פרידוג",
+      "name_translations": {
+        "en": "Freedog Shampoo",
+        "he": "שמפו פרידוג",
+        "ru": "Шампунь Фридог"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 54,
+      "base_price": 54,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/shmpv-prydvg-yuof2c",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:31:36.113Z"
+    },
+    {
+      "id": "8d99598d-c701-4a2f-b271-50c38a46c443",
+      "slug": "mntrl-rychvt-shtn-vmnkh-ktmym-lmshtch-hklb-mq3hdr",
+      "name": "מנטרל ריחות שתן ומנקה כתמים למשטח הכלב",
+      "name_translations": {
+        "en": "Urine odor neutralizer and stain cleaner for dog surfaces",
+        "he": "מנטרל ריחות שתן ומנקה כתמים למשטח הכלב",
+        "ru": "Нейтрализатор запаха мочи и очиститель пятен для собачьей подстилки"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 86,
+      "base_price": 86,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mntrl-rychvt-shtn-vmnkh-ktmym-lmshtch-hklb-mq3hdr",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:31:35.981Z"
+    },
+    {
+      "id": "baa24113-df1a-4144-8402-45a5c54e012f",
+      "slug": "chtypy-bvsh-lklbym-btam-avp-vmngv-200-gr-ryz74b",
+      "name": "חטיפי בוש לכלבים בטעם עוף ומנגו 200 ג\"ר",
+      "name_translations": {
+        "en": "Bush Dog Treats Chicken and Mango Flavor 200g",
+        "he": "חטיפי בוש לכלבים בטעם עוף ומנגו 200 ג\"ר",
+        "ru": "Лакомства Bosh для собак со вкусом курицы и манго 200 г"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 25,
+      "base_price": 25,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/chtypy-bvsh-lklbym-btam-avp-vmngv-200-gr-ryz74b",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:34.361Z"
+    },
+    {
+      "id": "2056a37f-9f4d-4473-b16d-7a3dc14bdebe",
+      "slug": "klvb-nshyah-ptch-kdmy-563735-apvr-kchvl-zy4bph",
+      "name": "כלוב נשיאה פתח קדמי 56*37*35 (אפור, כחול)",
+      "name_translations": {
+        "en": "Front Opening Carrier Cage 56*37*35 (Gray, Blue)",
+        "he": "כלוב נשיאה פתח קדמי 56*37*35 (אפור, כחול)",
+        "ru": "Переноска с передним входом 56*37*35 (серая, синяя)"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 180,
+      "base_price": 180,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/klvb-nshyah-ptch-kdmy-563735-apvr-kchvl-zy4bph",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:34.283Z"
+    },
+    {
+      "id": "cb2e80be-53fe-4647-aac5-2b740e2eab12",
+      "slug": "mshtch-lykvk-15-sm-stiu08",
+      "name": "משטח ליקוק 15 ס\"מ",
+      "name_translations": {
+        "en": "Licking Mat 15 cm",
+        "he": "משטח ליקוק 15 ס\"מ",
+        "ru": "Коврик для лизания 15 см"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 18,
+      "base_price": 18,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mshtch-lykvk-15-sm-stiu08",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:34.932Z"
+    },
+    {
+      "id": "b27416dc-632a-48e3-8db1-90dd1818d9ce",
+      "slug": "kvlr-nyylvn-byysyk-352415-sm-advm-kchvl-shchvr-sgvl-cg2baw",
+      "name": "קולר ניילון בייסיק 35*24*15 ס\"מ אדום, כחול, שחור, סגול",
+      "name_translations": {
+        "en": "Basic Nylon Collar 35*24*15 cm Red, Blue, Black, Purple",
+        "he": "קולר ניילון בייסיק 35*24*15 ס\"מ אדום, כחול, שחור, סגול",
+        "ru": "Ошейник нейлоновый базовый 35*24*15 см красный, синий, черный, фиолетовый"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 17,
+      "base_price": 17,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/kvlr-nyylvn-byysyk-352415-sm-advm-kchvl-shchvr-sgvl-cg2baw",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-07T19:31:33.896Z"
+    },
+    {
+      "id": "cfd5d156-967a-482e-b933-8f60853f6282",
+      "slug": "prydvg-kvlr-nyylvn-byysyk-663825-shchvr-advmkchvl-bvrdv-yrvk-z72ck9",
+      "name": "פרידוג קולר ניילון בייסיק 66*38*25 שחור, אדום,כחול, בורדו, ירוק",
+      "name_translations": {
+        "en": "Freedog Nylon Basic Collar 66*38*25 Black, Red, Blue, Burgundy, Green",
+        "he": "פרידוג קולר ניילון בייסיק 66*38*25 שחור, אדום,כחול, בורדו, ירוק",
+        "ru": "Ошейник для собак нейлоновый базовый 66*38*25 черный, красный, синий, бордовый, зеленый"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 30,
+      "base_price": 30,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/prydvg-kvlr-nyylvn-byysyk-663825-shchvr-advmkchvl-bvrdv-yrvk-z72ck9",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-07T19:31:33.308Z"
+    },
+    {
+      "id": "c99ebfb9-048a-4f5d-aaee-774e052ee741",
+      "slug": "petsproject-kvlr-nyylvn-l-yrvk-zvhr-advm-tklt-sgvl-kchvl-ehjz4q",
+      "name": "petsproject קולר ניילון L ירוק זוהר, אדום, תכלת, סגול, כחול",
+      "name_translations": {
+        "en": "petsproject Nylon Collar L Fluorescent Green, Red, Turquoise, Purple, Blue",
+        "he": "petsproject קולר ניילון L ירוק זוהר, אדום, תכלת, סגול, כחול",
+        "ru": "petsproject ошейник нейлоновый L светло-зеленый, красный, голубой, фиолетовый, синий"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/petsproject-kvlr-nyylvn-l-yrvk-zvhr-advm-tklt-sgvl-kchvl-ehjz4q",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-07T19:31:36.137Z"
+    },
+    {
+      "id": "ac515e17-da73-4cae-a7d5-1f6cc6c4e65f",
+      "slug": "petsproject-kvlr-nyylvn-m-vrvd-bbcuvg",
+      "name": "petsproject קולר ניילון M ורוד",
+      "name_translations": {
+        "en": "petsproject Nylon Collar M Pink",
+        "he": "petsproject קולר ניילון M ורוד",
+        "ru": "petsproject ошейник нейлоновый M розовый"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 30,
+      "base_price": 30,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/petsproject-kvlr-nyylvn-m-vrvd-bbcuvg",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-07T19:31:31.749Z"
+    },
+    {
+      "id": "8ec55e1e-aa8a-4f54-ab54-4c57139f060b",
+      "slug": "prydvg-kvlr-nyylvn-byysyk-503515-shchvr-kchvl-advm-bvrdv-viklc4",
+      "name": "פרידוג קולר ניילון בייסיק 50*35*15 שחור, כחול, אדום, בורדו",
+      "name_translations": {
+        "en": "Freedog Nylon Basic Collar 50*35*15 Black, Blue, Red, Burgundy",
+        "he": "פרידוג קולר ניילון בייסיק 50*35*15 שחור, כחול, אדום, בורדו",
+        "ru": "Ошейник Freedog нейлоновый базовый 50*35*15 черный, синий, красный, бордовый"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 25,
+      "base_price": 25,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/prydvg-kvlr-nyylvn-byysyk-503515-shchvr-kchvl-advm-bvrdv-viklc4",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-07T19:31:33.443Z"
+    },
+    {
+      "id": "b73a1e35-1066-44ed-a123-1ad98c8899b6",
+      "slug": "prydvg-kvlr-nyylvn-byysyk-352010-advm-shchvr-kchvl-yrvk-kr4ot2",
+      "name": "פרידוג קולר ניילון בייסיק 35*20*10 אדום, שחור, כחול, ירוק",
+      "name_translations": {
+        "en": "Freedog Nylon Basic Collar 35*20*10 Red, Black, Blue, Green",
+        "he": "פרידוג קולר ניילון בייסיק 35*20*10 אדום, שחור, כחול, ירוק",
+        "ru": "Ошейник Freedog нейлоновый базовый 35*20*10 красный, черный, синий, зеленый"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 18,
+      "base_price": 18,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/prydvg-kvlr-nyylvn-byysyk-352010-advm-shchvr-kchvl-yrvk-kr4ot2",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-07T19:31:32.250Z"
+    },
+    {
+      "id": "604f3931-a025-4ecd-89f2-bcb9d7c148ae",
+      "slug": "prydvg-kvlr-nyylvn-byysyk-603520-yrvk-advm-y66zru",
+      "name": "פרידוג קולר ניילון בייסיק 60*35*20 ירוק, אדום",
+      "name_translations": {
+        "en": "Freedog Nylon Basic Collar 60*35*20 Green, Red",
+        "he": "פרידוג קולר ניילון בייסיק 60*35*20 ירוק, אדום",
+        "ru": "Ошейник Freedog нейлоновый базовый 60*35*20 зеленый, красный"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 28,
+      "base_price": 28,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/prydvg-kvlr-nyylvn-byysyk-603520-yrvk-advm-y66zru",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-07T19:31:33.729Z"
+    },
+    {
+      "id": "d1591a03-7671-4c01-84b5-e90eb5dcd851",
+      "slug": "mzrn-avtvpdy-bvnv-knl-slkt-11974-sm-tsba-apvr-k9zlxd",
+      "name": "מזרן אותופדי בונו קנל סלקט 119*74 ס\"מ צבע אפור",
+      "name_translations": {
+        "en": "Bono Canal Select Orthopedic Mattress 119*74 cm Gray Color",
+        "he": "מזרן אותופדי בונו קנל סלקט 119*74 ס\"מ צבע אפור",
+        "ru": "Ортопедический матрас Bono Kennel Select 119*74 см серый цвет"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 250,
+      "base_price": 250,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mzrn-avtvpdy-bvnv-knl-slkt-11974-sm-tsba-apvr-k9zlxd",
+      "categories": [
+        "מיטות ומזרונים"
+      ],
+      "updated_at": "2026-06-07T19:31:36.251Z"
+    },
+    {
+      "id": "76124c28-7ded-46a3-b58c-1d8cb1e4b630",
+      "slug": "mzrn-avtvpdy-bvnv-knl-slkt-9156-sm-tsba-kchvl-win9jn",
+      "name": "מזרן אותופדי בונו קנל סלקט 91*56 ס\"מ צבע כחול",
+      "name_translations": {
+        "en": "Bono Canal Select Orthopedic Mattress 91*56 cm Blue Color",
+        "he": "מזרן אותופדי בונו קנל סלקט 91*56 ס\"מ צבע כחול",
+        "ru": "Ортопедический матрас Bono Kennel Select 91*56 см синий цвет"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 220,
+      "base_price": 220,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mzrn-avtvpdy-bvnv-knl-slkt-9156-sm-tsba-kchvl-win9jn",
+      "categories": [
+        "מיטות ומזרונים"
+      ],
+      "updated_at": "2026-06-07T19:31:31.375Z"
+    },
+    {
+      "id": "a95d4a20-9f75-4607-afc6-8e581b323104",
+      "slug": "klvb-nshyah-ptch-alyvn-vptch-kdmy-32332-sm-32ls5s",
+      "name": "כלוב נשיאה פתח עליון ופתח קדמי 32*33.2 ס\"מ ",
+      "name_translations": {
+        "en": "Top and Front Opening Carrier Cage 32*33.2 cm",
+        "he": "כלוב נשיאה פתח עליון ופתח קדמי 32*33.2 ס\"מ ",
+        "ru": "Переноска с верхним и передним входом 32*33.2 см"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 210,
+      "base_price": 210,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/klvb-nshyah-ptch-alyvn-vptch-kdmy-32332-sm-32ls5s",
+      "categories": [],
+      "updated_at": "2026-06-07T19:31:31.465Z"
+    },
+    {
+      "id": "1b1b0dc7-f0f3-4764-a9cd-13e97f0e7047",
+      "slug": "myth-lklbym-petsproject-serenity-mydh-s-kvtr-61-sm-ufbdj7",
+      "name": "מיטה לכלבים PetsProject serenity מידה S קוטר 61 ס\"מ",
+      "name_translations": {
+        "en": "PetsProject Serenity Dog Bed Size S Diameter 61 cm",
+        "he": "מיטה לכלבים PetsProject serenity מידה S קוטר 61 ס\"מ",
+        "ru": "Лежанка для собак PetsProject serenity размер S диаметр 61 см"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 179,
+      "base_price": 179,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/myth-lklbym-petsproject-serenity-mydh-s-kvtr-61-sm-ufbdj7",
+      "categories": [
+        "מיטות ומזרונים"
+      ],
+      "updated_at": "2026-06-07T19:31:29.510Z"
+    },
+    {
+      "id": "c0cad2d5-eb4f-478f-88c2-d900afd9ad5e",
+      "slug": "myth-lklbym-petsproject-serenity-mydh-m-kvtr-71-sm-8d30pv",
+      "name": "מיטה לכלבים PetsProject serenity מידה M קוטר 71 ס\"מ",
+      "name_translations": {
+        "en": "PetsProject Serenity Dog Bed Size M Diameter 71 cm",
+        "he": "מיטה לכלבים PetsProject serenity מידה M קוטר 71 ס\"מ",
+        "ru": "Лежанка для собак PetsProject serenity размер M диаметр 71 см"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 249,
+      "base_price": 249,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/myth-lklbym-petsproject-serenity-mydh-m-kvtr-71-sm-8d30pv",
+      "categories": [
+        "מיטות ומזרונים"
+      ],
+      "updated_at": "2026-06-07T19:31:31.770Z"
+    },
+    {
+      "id": "8cca5252-ec10-47e0-8c62-e5d491eda489",
+      "slug": "myth-plapy-lklbym-vchtvlym-knl-slkt-dgm-lvlh-m-chvm-aiz3ne",
+      "name": "מיטה פלאפי לכלבים וחתולים קנל סלקט דגם לולה M חום",
+      "name_translations": {
+        "en": "Fluffy Bed for Dogs and Cats Kennel Select Lola Model M Brown",
+        "he": "מיטה פלאפי לכלבים וחתולים קנל סלקט דגם לולה M חום",
+        "ru": "Кровать Флаффи для собак и кошек Kennel Select модель Лола M коричневая"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 250,
+      "base_price": 250,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/myth-plapy-lklbym-vchtvlym-knl-slkt-dgm-lvlh-m-chvm-aiz3ne",
+      "categories": [
+        "מיטות ומזרונים"
+      ],
+      "updated_at": "2026-06-07T19:31:32.263Z"
+    },
+    {
+      "id": "de9e4c5b-2fb2-45ef-931c-7acfa4a6f0c8",
+      "slug": "myth-lklbym-petsproject-mydh-s-ashvy-mbd-amyd-dvchh-mym-vkysvy-nshlp-ytx8z8",
+      "name": "מיטה לכלבים PetsProject מידה S עשוי מבד עמיד דוחה מים וכיסוי נשלף",
+      "name_translations": {
+        "en": "PetsProject Dog Bed Size S Made of Durable Water-Repellent Fabric with Removable Cover",
+        "he": "מיטה לכלבים PetsProject מידה S עשוי מבד עמיד דוחה מים וכיסוי נשלף",
+        "ru": "Лежанка для собак PetsProject размер S из прочной водоотталкивающей ткани со съемным чехлом"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 189,
+      "base_price": 189,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/myth-lklbym-petsproject-mydh-s-ashvy-mbd-amyd-dvchh-mym-vkysvy-nshlp-ytx8z8",
+      "categories": [
+        "מיטות ומזרונים"
+      ],
+      "updated_at": "2026-06-07T19:31:32.069Z"
+    },
+    {
+      "id": "4b347e0c-39c9-4764-a3e0-740537f0684a",
+      "slug": "nature-wild-nyytsr-bvgr-bkr-vdg-12-kg-x3kkva",
+      "name": "Nature Wild נייצ'ר בוגר בקר ודג 12 ק\"ג",
+      "name_translations": {
+        "en": "Nature Wild Adult Beef & Fish 12 kg",
+        "he": "Nature Wild נייצ'ר בוגר בקר ודג 12 ק\"ג",
+        "ru": "Nature Wild нейчер для взрослых говядина и рыба 12 кг"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 339,
+      "base_price": 339,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/nature-wild-nyytsr-bvgr-bkr-vdg-12-kg-x3kkva",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-06-07T19:31:29.595Z"
+    },
+    {
+      "id": "704cd86f-cdff-43f8-bbf4-e9b978611ac8",
+      "slug": "nature-wild-nyytsr-gvr-btam-brvvz-vhvdv-12-kg-8h3n6n",
+      "name": "Nature Wild נייצ'ר גור בטעם ברווז והודו 12 ק\"ג",
+      "name_translations": {
+        "en": "Nature Wild Nature Puppy Duck and Turkey Flavor 12 kg",
+        "he": "Nature Wild נייצ'ר גור בטעם ברווז והודו 12 ק\"ג",
+        "ru": "Nature Wild нейчер корм со вкусом утки и индейки 12 кг"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 349,
+      "base_price": 349,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/nature-wild-nyytsr-gvr-btam-brvvz-vhvdv-12-kg-8h3n6n",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-06-07T19:31:48.087Z"
+    },
+    {
+      "id": "327168a0-2b6b-46d9-98e6-93c186ebc23d",
+      "slug": "myth-plapy-lklbym-vchtvlym-knl-slkt-dgm-lvlh-s-apvr-tvsfd8",
+      "name": "מיטה פלאפי לכלבים וחתולים קנל סלקט דגם לולה S אפור",
+      "name_translations": {
+        "en": "Fluffy Bed for Dogs and Cats Kennel Select Lola Model S Gray",
+        "he": "מיטה פלאפי לכלבים וחתולים קנל סלקט דגם לולה S אפור",
+        "ru": "Кровать Флаффи для собак и кошек Kennel Select модель Лола S серая"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 180,
+      "base_price": 180,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/myth-plapy-lklbym-vchtvlym-knl-slkt-dgm-lvlh-s-apvr-tvsfd8",
+      "categories": [
+        "מיטות ומזרונים"
+      ],
+      "updated_at": "2026-06-07T19:31:30.234Z"
+    },
+    {
+      "id": "07470946-bb5f-4ddc-9ad3-4751d05e322e",
+      "slug": "styspkshyyn-lgvrym-mkl-hgzaym-vklbvt-bsvp-hhryvn-vbmhlk-hhnkh-avp-20-kg-vk38da",
+      "name": "סטיספקשיין לגורים מכל הגזעים וכלבות בסוף ההריון ובמהלך ההנקה עוף 20 ק\"ג",
+      "name_translations": {
+        "en": "Satisfaction for puppies of all breeds and pregnant/nursing female dogs chicken 20 kg",
+        "he": "סטיספקשיין לגורים מכל הגזעים וכלבות בסוף ההריון ובמהלך ההנקה עוף 20 ק\"ג",
+        "ru": "Сэтисфэкшн для щенков всех пород и сук в конце беременности и в период лактации курица 20 кг"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 379,
+      "base_price": 379,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/styspkshyyn-lgvrym-mkl-hgzaym-vklbvt-bsvp-hhryvn-vbmhlk-hhnkh-avp-20-kg-vk38da",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-06-07T19:31:30.386Z"
+    },
+    {
+      "id": "63fd653c-3c98-4c5c-840e-554f417d478e",
+      "slug": "nature-wild-nyytsr-bvgr-btam-brvvz-vdg-12-kg-t9oyla",
+      "name": "Nature Wild נייצ'ר בוגר בטעם ברווז ודג 12 ק\"ג",
+      "name_translations": {
+        "en": "Nature Wild Adult Duck & Fish Flavor 12 kg",
+        "he": "Nature Wild נייצ'ר בוגר בטעם ברווז ודג 12 ק\"ג",
+        "ru": "Nature Wild нейчер для взрослых со вкусом утки и рыбы 12 кг"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 339,
+      "base_price": 339,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/nature-wild-nyytsr-bvgr-btam-brvvz-vdg-12-kg-t9oyla",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-06-07T19:31:31.374Z"
+    },
+    {
+      "id": "00dffc6f-01bc-4e51-b369-4cd5461a4f1a",
+      "slug": "nature-nyytsr-slmvn-70-bshr-12-kg-mv76ya",
+      "name": "Nature  נייצ'ר סלמון 70% בשר 12 ק\"ג",
+      "name_translations": {
+        "en": "Nature Salmon 70% Meat 12 kg",
+        "he": "Nature  נייצ'ר סלמון 70% בשר 12 ק\"ג",
+        "ru": "Nature Нейчер лосось 70% мясо 12 кг"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 339,
+      "base_price": 339,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/nature-nyytsr-slmvn-70-bshr-12-kg-mv76ya",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-06-07T19:31:29.934Z"
+    },
+    {
+      "id": "989835b1-57b1-4701-a9bf-299ed1387a41",
+      "slug": "styspkshyyn-bvgr-gza-gdvl-avp-20-kg-0khy97",
+      "name": "סטיספקשיין בוגר גזע גדול עוף 20 ק\"ג",
+      "name_translations": {
+        "en": "Satisfaction Adult Large Breed Chicken 20 kg",
+        "he": "סטיספקשיין בוגר גזע גדול עוף 20 ק\"ג",
+        "ru": "Satisfaction для взрослых собак крупных пород с курицей 20 кг"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 369,
+      "base_price": 369,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/styspkshyyn-bvgr-gza-gdvl-avp-20-kg-0khy97",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-06-07T19:31:29.216Z"
+    },
+    {
+      "id": "cfcbe0d8-c030-4741-aa07-6467b384f0c1",
+      "slug": "styspkshyyn-gvrym-gza-gdvl-avp-20-kg-wgi9mo",
+      "name": "סטיספקשיין גורים גזע גדול עוף 20 ק\"ג",
+      "name_translations": {
+        "en": "Satisfaction Large Breed Puppies Chicken 20 kg",
+        "he": "סטיספקשיין גורים גזע גדול עוף 20 ק\"ג",
+        "ru": "Сэтисфэкшн для щенков крупных пород с курицей 20 кг"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 379,
+      "base_price": 379,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/styspkshyyn-gvrym-gza-gdvl-avp-20-kg-wgi9mo",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-06-07T19:31:29.595Z"
+    },
+    {
+      "id": "5db5f8ee-b761-4340-a8d7-79e4f8150727",
+      "slug": "styspkshyyn-bvgr-gza-ktn-avp-3-kg-l8i3hi",
+      "name": "סטיספקשיין בוגר גזע קטן עוף 3 ק\"ג",
+      "name_translations": {
+        "en": "Satisfaction Adult Small Breed Chicken 3 kg",
+        "he": "סטיספקשיין בוגר גזע קטן עוף 3 ק\"ג",
+        "ru": "Сэтисфэкшн для взрослых собак мелких пород с курицей 3 кг"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 109,
+      "base_price": 109,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/styspkshyyn-bvgr-gza-ktn-avp-3-kg-l8i3hi",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-06-07T19:31:28.100Z"
+    },
+    {
+      "id": "83370db5-72e3-4764-bbe4-9a0ba4ead358",
+      "slug": "styspkshyyn-gvrym-gza-ktn-avp-3-kg-ihvwz8",
+      "name": "סטיספקשיין גורים גזע קטן עוף 3 ק\"ג",
+      "name_translations": {
+        "en": "Satisfaction Small Breed Puppies Chicken 3 kg",
+        "he": "סטיספקשיין גורים גזע קטן עוף 3 ק\"ג",
+        "ru": "Сатисфакшн для щенков мелких пород курица 3 кг"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 109,
+      "base_price": 109,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/styspkshyyn-gvrym-gza-ktn-avp-3-kg-ihvwz8",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-06-07T19:31:26.478Z"
+    },
+    {
+      "id": "7cbef393-9f02-4398-a517-62c32db78c27",
+      "slug": "kart-nyrvsth-26-sm-6rakzo",
+      "name": "קערת נירוסטה 26 ס\"מ ",
+      "name_translations": {
+        "en": "Stainless Steel Bowl 26 cm",
+        "he": "קערת נירוסטה 26 ס\"מ ",
+        "ru": "Миска из нержавеющей стали 26 см"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 30,
+      "base_price": 30,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/kart-nyrvsth-26-sm-6rakzo",
+      "categories": [
+        "כלי אוכל ושתייה"
+      ],
+      "updated_at": "2026-06-07T19:31:27.363Z"
+    },
+    {
+      "id": "d85797dd-8552-4873-8205-359734b5b1a0",
+      "slug": "styspkshyyn-bvgr-gza-bynvny-avp-20-kg-zaatfl",
+      "name": "סטיספקשיין בוגר גזע בינוני עוף 20 ק\"ג",
+      "name_translations": {
+        "en": "Satisfaction Adult Medium Breed Chicken 20 kg",
+        "he": "סטיספקשיין בוגר גזע בינוני עוף 20 ק\"ג",
+        "ru": "Сэтисфэкшн для взрослых собак средних пород с курицей 20 кг"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 369,
+      "base_price": 369,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/styspkshyyn-bvgr-gza-bynvny-avp-20-kg-zaatfl",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-06-07T19:31:27.798Z"
+    },
+    {
+      "id": "53ecbfd6-f12e-4e51-a495-f473224efbe1",
+      "slug": "styspkshyyn-slmvn-vavrz-klbym-bvgrym-12-kg-vjeouf",
+      "name": "סטיספקשיין סלמון ואורז כלבים בוגרים 12 ק\"ג",
+      "name_translations": {
+        "en": "Satisfaction Salmon and Rice Adult Dogs 12 kg",
+        "he": "סטיספקשיין סלמון ואורז כלבים בוגרים 12 ק\"ג",
+        "ru": "Satisfaction лосось и рис для взрослых собак 12 кг"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 296,
+      "base_price": 296,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/styspkshyyn-slmvn-vavrz-klbym-bvgrym-12-kg-vjeouf",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-06-07T19:31:28.063Z"
+    },
+    {
+      "id": "1c0599f9-0ceb-4a0f-ab8d-eeb2f86baca9",
+      "slug": "styspkshyyn-slmvn-vavrz-klbym-bvgrym-3-kg-a78xwn",
+      "name": "סטיספקשיין סלמון ואורז כלבים בוגרים 3 ק\"ג",
+      "name_translations": {
+        "en": "Satisfaction Salmon and Rice Adult Dogs 3 kg",
+        "he": "סטיספקשיין סלמון ואורז כלבים בוגרים 3 ק\"ג",
+        "ru": "Satisfaction лосось и рис для взрослых собак 3 кг"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 125,
+      "base_price": 125,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/styspkshyyn-slmvn-vavrz-klbym-bvgrym-3-kg-a78xwn",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-06-07T19:31:28.049Z"
+    },
+    {
+      "id": "7628f4b9-fb37-4b23-85e1-3003f152d73f",
+      "slug": "styspkshyyn-slmvn-vavrz-gvrym-3-kg-0c632i",
+      "name": "סטיספקשיין סלמון ואורז גורים 3 ק\"ג",
+      "name_translations": {
+        "en": "Satisfaction Salmon and Rice Puppies 3 kg",
+        "he": "סטיספקשיין סלמון ואורז גורים 3 ק\"ג",
+        "ru": "Сэтисфэкшн лосось и рис для щенков 3 кг"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 125,
+      "base_price": 125,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/styspkshyyn-slmvn-vavrz-gvrym-3-kg-0c632i",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-06-07T19:31:27.593Z"
+    },
+    {
+      "id": "452bb3af-9e30-4194-8b73-529c72ad42cb",
+      "slug": "styspkshyyn-slmvn-vavrz-gvrym-12-kg-zifhru",
+      "name": "סטיספקשיין סלמון ואורז גורים 12 ק\"ג",
+      "name_translations": {
+        "en": "Satisfaction Salmon and Rice Puppies 12 kg",
+        "he": "סטיספקשיין סלמון ואורז גורים 12 ק\"ג",
+        "ru": "Satisfaction лосось и рис для щенков 12 кг"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 296,
+      "base_price": 296,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/styspkshyyn-slmvn-vavrz-gvrym-12-kg-zifhru",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-06-07T19:31:26.504Z"
+    },
+    {
+      "id": "f5a21ca2-30b3-4d07-9529-ad8334fc078f",
+      "slug": "karvt-nyrvsth-ps-gvmy-26-sm-8klerf",
+      "name": "קערות נירוסטה פס גומי 26 ס\"מ",
+      "name_translations": {
+        "en": "Stainless Steel Bowls with Rubber Strip 26 cm",
+        "he": "קערות נירוסטה פס גומי 26 ס\"מ",
+        "ru": "Миски из нержавеющей стали с резиновой полосой 26 см"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 30,
+      "base_price": 30,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/karvt-nyrvsth-ps-gvmy-26-sm-8klerf",
+      "categories": [
+        "כלי אוכל ושתייה"
+      ],
+      "updated_at": "2026-06-07T19:31:25.751Z"
+    },
+    {
+      "id": "ade7646d-7a78-4c07-99e0-987b9a54425f",
+      "slug": "karvt-nyrvsth-ps-gvmy-22-sm-d77rjh",
+      "name": "קערות נירוסטה פס גומי 22 ס\"מ",
+      "name_translations": {
+        "en": "Stainless Steel Bowls with Rubber Strip 22 cm",
+        "he": "קערות נירוסטה פס גומי 22 ס\"מ",
+        "ru": "Миски из нержавеющей стали с резиновой полосой 22 см"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 25,
+      "base_price": 25,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/karvt-nyrvsth-ps-gvmy-22-sm-d77rjh",
+      "categories": [
+        "כלי אוכל ושתייה"
+      ],
+      "updated_at": "2026-06-07T19:31:25.884Z"
+    },
+    {
+      "id": "da2e1336-76a9-41e3-9e74-15b21931ea53",
+      "slug": "karvt-nyrvsth-ps-gvmy-18-sm-0ut1or",
+      "name": "קערות נירוסטה פס גומי 18 ס\"מ",
+      "name_translations": {
+        "en": "Stainless Steel Bowls with Rubber Strip 18 cm",
+        "he": "קערות נירוסטה פס גומי 18 ס\"מ",
+        "ru": "Миски из нержавеющей стали с резиновой полосой 18 см"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 15,
+      "base_price": 15,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/karvt-nyrvsth-ps-gvmy-18-sm-0ut1or",
+      "categories": [
+        "כלי אוכל ושתייה"
+      ],
+      "updated_at": "2026-06-07T19:31:26.317Z"
+    },
+    {
+      "id": "de6fceaa-2f25-4f6c-aed7-135c53b90e28",
+      "slug": "karvt-nyrvsth-ps-gvmy-21-sm-v5qr0t",
+      "name": "קערות נירוסטה פס גומי 21 ס\"מ",
+      "name_translations": {
+        "en": "Stainless Steel Bowls with Rubber Strip 21 cm",
+        "he": "קערות נירוסטה פס גומי 21 ס\"מ",
+        "ru": "Миски из нержавеющей стали с резиновой полосой 21 см"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 20,
+      "base_price": 20,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/karvt-nyrvsth-ps-gvmy-21-sm-v5qr0t",
+      "categories": [
+        "כלי אוכל ושתייה"
+      ],
+      "updated_at": "2026-06-07T19:31:26.197Z"
+    },
+    {
+      "id": "598a46f3-7842-4367-b958-34c110855a3a",
+      "slug": "stnd-2-karvt-avkl-mym-15-sm-zkecow",
+      "name": "סטנד+ 2 קערות אוכל מים 15 ס\"מ ",
+      "name_translations": {
+        "en": "Stand + 2 Food Water Bowls 15 cm",
+        "he": "סטנד+ 2 קערות אוכל מים 15 ס\"מ ",
+        "ru": "Подставка + 2 миски для еды и воды 15 см"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 45,
+      "base_price": 45,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/stnd-2-karvt-avkl-mym-15-sm-zkecow",
+      "categories": [
+        "כלי אוכל ושתייה"
+      ],
+      "updated_at": "2026-06-07T19:31:24.345Z"
+    },
+    {
+      "id": "f8ca561d-c822-4e94-8b7a-0ade6f7ff8ce",
+      "slug": "kvpst-achsvn-akrylyt-18-l-m75mgw",
+      "name": "קופסת אחסון אקרילית 1.8 L",
+      "name_translations": {
+        "en": "Acrylic Storage Box 1.8 L",
+        "he": "קופסת אחסון אקרילית 1.8 L",
+        "ru": "Акриловый контейнер для хранения 1.8 л"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 34,
+      "base_price": 34,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/kvpst-achsvn-akrylyt-18-l-m75mgw",
+      "categories": [
+        "כלי אוכל ושתייה"
+      ],
+      "updated_at": "2026-06-07T19:31:25.348Z"
+    },
+    {
+      "id": "b6d93d0f-a352-400e-8ed5-6bac746958ae",
+      "slug": "mtkn-mshvlb-lmymmzvn-15-lytr-viola-3uxd1b",
+      "name": "מתקן משולב למים/מזון 1.5 ליטר VIOLA",
+      "name_translations": {
+        "en": "VIOLA Combined Water/Food Dispenser 1.5 Liter",
+        "he": "מתקן משולב למים/מזון 1.5 ליטר VIOLA",
+        "ru": "Комбинированная поилка/кормушка 1.5 литра VIOLA"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 55,
+      "base_price": 55,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mtkn-mshvlb-lmymmzvn-15-lytr-viola-3uxd1b",
+      "categories": [
+        "כלי אוכל ושתייה"
+      ],
+      "updated_at": "2026-06-07T19:31:24.195Z"
+    },
+    {
+      "id": "8327af8e-8aae-47eb-b698-99466cc7fe9c",
+      "slug": "mtkn-avkl-lvhiam",
+      "name": "מתקן אוכל ",
+      "name_translations": {
+        "en": "Food Dispenser",
+        "he": "מתקן אוכל ",
+        "ru": "Кормушка "
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mtkn-avkl-lvhiam",
+      "categories": [
+        "כלי אוכל ושתייה"
+      ],
+      "updated_at": "2026-06-07T19:31:24.738Z"
+    },
+    {
+      "id": "8c01a5f1-bc1a-4ade-bad6-0c073ef420f0",
+      "slug": "stnd-2-karvt-avkl-mym-19-sm-koufjv",
+      "name": "סטנד+ 2 קערות אוכל מים 19 ס\"מ ",
+      "name_translations": {
+        "en": "Stand + 2 Food Water Bowls 19 cm",
+        "he": "סטנד+ 2 קערות אוכל מים 19 ס\"מ ",
+        "ru": "Подставка + 2 миски для еды и воды 19 см"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 65,
+      "base_price": 65,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/stnd-2-karvt-avkl-mym-19-sm-koufjv",
+      "categories": [
+        "כלי אוכל ושתייה"
+      ],
+      "updated_at": "2026-06-07T19:31:24.640Z"
+    },
+    {
+      "id": "4756fed5-7bd6-49de-ba46-63116270f3e9",
+      "slug": "mtkn-mym-avtvmty-lmnyat-rtybvt-hprvvh-1-l-tkb9v8",
+      "name": "מתקן מים אוטומטי למניעת רטיבות הפרווה 1 L",
+      "name_translations": {
+        "en": "Automatic Water Dispenser to Prevent Fur Wetness 1 L",
+        "he": "מתקן מים אוטומטי למניעת רטיבות הפרווה 1 L",
+        "ru": "Автоматическая поилка для предотвращения намокания шерсти 1 л"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 100,
+      "base_price": 100,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mtkn-mym-avtvmty-lmnyat-rtybvt-hprvvh-1-l-tkb9v8",
+      "categories": [
+        "כלי אוכל ושתייה"
+      ],
+      "updated_at": "2026-06-07T19:31:24.062Z"
+    },
+    {
+      "id": "deaa0e70-f389-47c1-bf36-53cb3100a14e",
+      "slug": "msrk-apvr-bry-kyng-u2wvbn",
+      "name": "מסרק אפור ברי קינג",
+      "name_translations": {
+        "en": "Gray Berry King Comb",
+        "he": "מסרק אפור ברי קינג",
+        "ru": "Расческа серая Бери Кинг"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 45,
+      "base_price": 45,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/msrk-apvr-bry-kyng-u2wvbn",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:31:23.614Z"
+    },
+    {
+      "id": "7c56ea43-f0e6-4f0a-8845-440da95ce83e",
+      "slug": "shrshrt-chnk-65-sm-shchvr-ch9egq",
+      "name": "שרשרת חנק 65 ס\"מ שחור",
+      "name_translations": {
+        "en": "Choke Chain 65 cm Black",
+        "he": "שרשרת חנק 65 ס\"מ שחור",
+        "ru": "Удавка 65 см черная"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 70,
+      "base_price": 70,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/shrshrt-chnk-65-sm-shchvr-ch9egq",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-07T19:31:22.905Z"
+    },
+    {
+      "id": "70b82793-842a-426c-9119-4de05b97c5f9",
+      "slug": "hnrys-azny-baplv-chtvkvt-g9gjrr",
+      "name": "הנריס אזני באפלו חתוכות",
+      "name_translations": {
+        "en": "Harris Buffalo Ear Cuts",
+        "he": "הנריס אזני באפלו חתוכות",
+        "ru": "Уши буйвола Henries нарезанные"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 26,
+      "base_price": 26,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/hnrys-azny-baplv-chtvkvt-g9gjrr",
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-06-07T19:31:25.286Z"
+    },
+    {
+      "id": "adc02516-30ac-4190-a8cf-1b1744924ced",
+      "slug": "hnrys-kvbyvt-avp-am-blvbry-cggeou",
+      "name": "הנריס קוביות עוף עם בלוברי",
+      "name_translations": {
+        "en": "Harris Chicken Cubes with Blueberry",
+        "he": "הנריס קוביות עוף עם בלוברי",
+        "ru": "Харрис кубики курицы с черникой"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 21,
+      "base_price": 21,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/hnrys-kvbyvt-avp-am-blvbry-cggeou",
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-06-07T19:31:22.363Z"
+    },
+    {
+      "id": "0f1542d2-e77b-412e-91e9-f6f8624d087d",
+      "slug": "msrk-prmyntvr-m-y254cv",
+      "name": "מסרק פרמינטור M",
+      "name_translations": {
+        "en": "FURminator M Comb",
+        "he": "מסרק פרמינטור M",
+        "ru": "Расческа Фурминатор M"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 85,
+      "base_price": 85,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/msrk-prmyntvr-m-y254cv",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:31:23.347Z"
+    },
+    {
+      "id": "3ae37028-e2f5-4fe2-940b-53a5bf3c8305",
+      "slug": "mshtch-lykvk-177163-sm-freedog-un5ujm",
+      "name": "משטח ליקוק 17.7*16.3 ס\"מ freedog",
+      "name_translations": {
+        "en": "Licking mat 17.7*16.3 cm freedog",
+        "he": "משטח ליקוק 17.7*16.3 ס\"מ freedog",
+        "ru": "Коврик для лизания 17.7*16.3 см freedog"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mshtch-lykvk-177163-sm-freedog-un5ujm",
+      "categories": [
+        "כלי אוכל ושתייה"
+      ],
+      "updated_at": "2026-06-07T19:31:22.905Z"
+    },
+    {
+      "id": "85ed2463-8df4-4e3d-891f-35e213b9eac3",
+      "slug": "mshtch-lykvk-2020-sm-freedog-fy1c0q",
+      "name": "משטח ליקוק 20*20 ס\"מ freedog",
+      "name_translations": {
+        "en": "Licking mat 20*20 cm freedog",
+        "he": "משטח ליקוק 20*20 ס\"מ freedog",
+        "ru": "Коврик для лизания 20*20 см freedog"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mshtch-lykvk-2020-sm-freedog-fy1c0q",
+      "categories": [
+        "כלי אוכל ושתייה"
+      ],
+      "updated_at": "2026-06-07T19:31:22.593Z"
+    },
+    {
+      "id": "cddaf0f1-b326-467b-a1ec-6ffcbce0d10a",
+      "slug": "papy-rvl-4530-sm-8lnkza",
+      "name": "פאפי רול 45/30 ס\"מ",
+      "name_translations": {
+        "en": "Puppy Roll 45/30 cm",
+        "he": "פאפי רול 45/30 ס\"מ",
+        "ru": "Паппи ролл 45/30 см"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/papy-rvl-4530-sm-8lnkza",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:31:22.642Z"
+    },
+    {
+      "id": "576ae0e2-4b9b-4a7c-b6c9-5f32449276cd",
+      "slug": "tsatsva-laysh-tsmyg-chbl-10j8cn",
+      "name": "צעצוע לעיסה צמיג חבל",
+      "name_translations": {
+        "en": "Durable Rope Chew Toy",
+        "he": "צעצוע לעיסה צמיג חבל",
+        "ru": "Игрушка для жевания веревочная шина"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-laysh-tsmyg-chbl-10j8cn",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:31:22.479Z"
+    },
+    {
+      "id": "16b52d0b-f13d-4891-b5db-25a7ecbd95f0",
+      "slug": "kart-haklh-aytyt-lklbym-1818-sm-freedog-r1d4l9",
+      "name": "קערת האכלה איטית לכלבים 18*18 ס\"מ freedog",
+      "name_translations": {
+        "en": "Slow feeding bowl for dogs 18*18 cm freedog",
+        "he": "קערת האכלה איטית לכלבים 18*18 ס\"מ freedog",
+        "ru": "Миска для медленного кормления собак 18*18 см freedog"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 60,
+      "base_price": 60,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/kart-haklh-aytyt-lklbym-1818-sm-freedog-r1d4l9",
+      "categories": [
+        "כלי אוכל ושתייה"
+      ],
+      "updated_at": "2026-06-07T19:31:21.991Z"
+    },
+    {
+      "id": "ea389654-1af7-4582-b09c-c3fbfd7140a6",
+      "slug": "mshchk-chbl-kdvr-7-sm-s5288f",
+      "name": "משחק חבל כדור 7 ס\"מ",
+      "name_translations": {
+        "en": "Rope Ball Toy 7 cm",
+        "he": "משחק חבל כדור 7 ס\"מ",
+        "ru": "Игрушка веревочный мяч 7 см"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 30,
+      "base_price": 30,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mshchk-chbl-kdvr-7-sm-s5288f",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:31:17.509Z"
+    },
+    {
+      "id": "d53b30ab-6ac6-4905-b79c-8fb0de64dbf6",
+      "slug": "trngvl-ltks-mtsptsp-dmbldg",
+      "name": "תרנגול לטקס מצפצף",
+      "name_translations": {
+        "en": "Squeaky Latex Rooster",
+        "he": "תרנגול לטקס מצפצף",
+        "ru": "Петух латексный пищащий"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/trngvl-ltks-mtsptsp-dmbldg",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:31:14.709Z"
+    },
+    {
+      "id": "fa7d254f-588b-46d6-9d02-9f0fa08a286c",
+      "slug": "kdvr-chtypym-75sm-pvm5bj",
+      "name": "כדור חטיפים 7.5ס\"מ",
+      "name_translations": {
+        "en": "Treat Ball 7.5cm",
+        "he": "כדור חטיפים 7.5ס\"מ",
+        "ru": "Мяч для лакомств 7.5см"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/kdvr-chtypym-75sm-pvm5bj",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:31:18.686Z"
+    },
+    {
+      "id": "6edab3f4-dfdb-4f99-bd5a-cc2748107cf8",
+      "slug": "kdvr-chtypym-65-sm-mf0twl",
+      "name": "כדור חטיפים 6.5 ס\"מ",
+      "name_translations": {
+        "en": "Treat Ball 6.5 cm",
+        "he": "כדור חטיפים 6.5 ס\"מ",
+        "ru": "Мяч для лакомств 6.5 см"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 40,
+      "base_price": 40,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/kdvr-chtypym-65-sm-mf0twl",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:31:19.481Z"
+    },
+    {
+      "id": "2ee7497c-53a0-4109-859f-4d7fa1deae29",
+      "slug": "bkbvk-shtyyh-nyyd-400-ml-freedog-7asq61",
+      "name": "בקבוק שתייה נייד 400 מ\"ל freedog",
+      "name_translations": {
+        "en": "Portable Water Bottle 400ml freedog",
+        "he": "בקבוק שתייה נייד 400 מ\"ל freedog",
+        "ru": "Портативная поилка 400 мл freedog"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 45,
+      "base_price": 45,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/bkbvk-shtyyh-nyyd-400-ml-freedog-7asq61",
+      "categories": [
+        "כלי אוכל ושתייה"
+      ],
+      "updated_at": "2026-06-07T19:31:17.376Z"
+    },
+    {
+      "id": "55e09981-6cb6-4434-ba5b-254aed9ca7d1",
+      "slug": "bvbvt-lklbym-tsvvar-chbl-chmvr-s-w3rsdn",
+      "name": "בובות לכלבים צוואר חבל - חמור S",
+      "name_translations": {
+        "en": "Dog Rope Neck Toys - Donkey S",
+        "he": "בובות לכלבים צוואר חבל - חמור S",
+        "ru": "Игрушки для собак на веревке - осел S"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-chmvr-s-w3rsdn",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:31:17.058Z"
+    },
+    {
+      "id": "afdad789-bfde-4869-bb66-3513d321899f",
+      "slug": "tsatsva-ktyph-zchl-lchtvlklb-2h70j6",
+      "name": "צעצוע קטיפה זחל  לחתול/כלב ",
+      "name_translations": {
+        "en": "Plush Caterpillar Toy for Cat/Dog",
+        "he": "צעצוע קטיפה זחל  לחתול/כלב ",
+        "ru": "Плюшевая игрушка гусеница для кошки/собаки"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 25,
+      "base_price": 25,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-ktyph-zchl-lchtvlklb-2h70j6",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:31:20.744Z"
+    },
+    {
+      "id": "891de7ed-14ec-4b55-a0de-b08e8da1bb26",
+      "slug": "tsatsva-tmnvn-mrshrsh-am-tsptsph-tklt-0vxw5m",
+      "name": "צעצוע תמנון  מרשרש עם צפצפה - תכלת",
+      "name_translations": {
+        "en": "Octopus Rattle Toy with Squeaker - Turquoise",
+        "he": "צעצוע תמנון  מרשרש עם צפצפה - תכלת",
+        "ru": "Игрушка осьминог шуршащий со свистком - голубой"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-tmnvn-mrshrsh-am-tsptsph-tklt-0vxw5m",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:31:15.404Z"
+    },
+    {
+      "id": "0921a46a-a2fd-4622-95b9-26ac07c2dbe5",
+      "slug": "tsatsva-tmnvn-mrshrsh-am-tsptsph-sgvl-tl47fz",
+      "name": "צעצוע תמנון מרשרש עם צפצפה - סגול",
+      "name_translations": {
+        "en": "Octopus Rattle Toy with Squeaker - Purple",
+        "he": "צעצוע תמנון מרשרש עם צפצפה - סגול",
+        "ru": "Игрушка осьминог с шуршанием и пищалкой - фиолетовый"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-tmnvn-mrshrsh-am-tsptsph-sgvl-tl47fz",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:31:12.851Z"
+    },
+    {
+      "id": "5316a6f6-f351-45d5-9573-aff5ea30a761",
+      "slug": "bvbvt-lklbym-tsvvar-chbl-klb-i52pjt",
+      "name": "בובות לכלבים צוואר חבל - כלב",
+      "name_translations": {
+        "en": "Dog Rope Neck Toys - Dog",
+        "he": "בובות לכלבים צוואר חבל - כלב",
+        "ru": "Игрушки для собак веревка на шею - собака"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-klb-i52pjt",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:31:12.641Z"
+    },
+    {
+      "id": "143ceb5e-1783-4378-bff7-b050f06e404c",
+      "slug": "bvbvt-lklbym-tsvvar-chbl-prh-n9j1t1",
+      "name": "בובות לכלבים צוואר חבל - פרה",
+      "name_translations": {
+        "en": "Dog Rope Neck Toys - Cow",
+        "he": "בובות לכלבים צוואר חבל - פרה",
+        "ru": "Игрушки для собак веревка на шею - корова"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860641488-ncg868.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-prh-n9j1t1",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:31:09.732Z"
+    },
+    {
+      "id": "cb07cd49-f9b9-4232-9459-86cc86a8a08d",
+      "slug": "hnrys-gydy-baplv-uf8ifz",
+      "name": "הנריס גידי באפלו",
+      "name_translations": {
+        "en": "Harris Goat Buffalo",
+        "he": "הנריס גידי באפלו",
+        "ru": "Харрис козлята буйвола"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 26,
+      "base_price": 26,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860641488-q9of7o.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/hnrys-gydy-baplv-uf8ifz",
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-06-07T19:31:07.349Z"
+    },
+    {
+      "id": "c87b4cd6-439b-44fc-9ea5-95651f44005c",
+      "slug": "bkbvk-shtyyh-500-ml-8jei6r",
+      "name": "בקבוק שתייה 500 ml ",
+      "name_translations": {
+        "en": "Drinking Bottle 500 ml",
+        "he": "בקבוק שתייה 500 ml ",
+        "ru": "Бутылка для питья 500 ml"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 20,
+      "base_price": 20,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860640612-pidggx.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/bkbvk-shtyyh-500-ml-8jei6r",
+      "categories": [
+        "כלי אוכל ושתיה"
+      ],
+      "updated_at": "2026-06-07T19:31:08.699Z"
+    },
+    {
+      "id": "f6983313-7135-4f99-a320-bcbdcaf3a64a",
+      "slug": "mshcht-shynyym-dzdxy1",
+      "name": "משחת שיניים",
+      "name_translations": {
+        "en": "Toothpaste",
+        "he": "משחת שיניים",
+        "ru": "Зубная паста"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 30,
+      "base_price": 30,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860640675-be7yq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mshcht-shynyym-dzdxy1",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:31:07.095Z"
+    },
+    {
+      "id": "d9ff6b09-6fff-466a-9135-750efeda7c46",
+      "slug": "arkt-tschtsvch-shynyym-lklbym-kvll-mshchh-btam-chlb-mbrsht-vatsbavn-dr0bzn",
+      "name": "ערכת צחצוח שיניים לכלבים כולל משחה בטעם חלב, מברשת ואצבעון",
+      "name_translations": {
+        "en": "Dog teeth cleaning kit including milk-flavored toothpaste, brush and finger brush",
+        "he": "ערכת צחצוח שיניים לכלבים כולל משחה בטעם חלב, מברשת ואצבעון",
+        "ru": "Набор для чистки зубов для собак, включая пасту со вкусом молока, щетку и напальчник"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860640493-tv8f8d.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/arkt-tschtsvch-shynyym-lklbym-kvll-mshchh-btam-chlb-mbrsht-vatsbavn-dr0bzn",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:31:10.749Z"
+    },
+    {
+      "id": "ef29a865-5e7a-46ed-a085-99bc4a1e5e12",
+      "slug": "shmpv-petglow-20ptlr",
+      "name": "שמפו PETGLOW ",
+      "name_translations": {
+        "en": "PETGLOW Shampoo",
+        "he": "שמפו PETGLOW ",
+        "ru": "Шампунь PETGLOW"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860640519-sd8w8y.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/shmpv-petglow-20ptlr",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:31:03.785Z"
+    },
+    {
+      "id": "b4344933-f562-4eba-98b2-45781e574206",
+      "slug": "kdvr-dntly-am-chbl-j93mtc",
+      "name": "כדור דנטלי עם חבל",
+      "name_translations": {
+        "en": "Dental Ball with Rope",
+        "he": "כדור דנטלי עם חבל",
+        "ru": "Дентальный мяч с веревкой"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/kdvr-dntly-am-chbl-j93mtc",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:31:00.652Z"
+    },
+    {
+      "id": "9bfbad74-da13-4019-949a-f32efe8f200c",
+      "slug": "hnrys-grvnvt-avp-jmcbx8",
+      "name": "הנריס גרונות עוף",
+      "name_translations": {
+        "en": "Harris Chicken Necks",
+        "he": "הנריס גרונות עוף",
+        "ru": "Харрис куриные шейки"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 26,
+      "base_price": 26,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/hnrys-grvnvt-avp-jmcbx8",
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-06-07T19:31:01.677Z"
+    },
+    {
+      "id": "3911b74b-8974-47e2-b1e3-8fb25c95d663",
+      "slug": "mbrsht-avblyt-gdvlh-rkvrd-7i7t5a",
+      "name": "מברשת אובלית גדולה רקורד",
+      "name_translations": {
+        "en": "Large Oval Record Brush",
+        "he": "מברשת אובלית גדולה רקורד",
+        "ru": "Большая овальная щетка Рекорд"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 65,
+      "base_price": 65,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mbrsht-avblyt-gdvlh-rkvrd-7i7t5a",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:31:00.944Z"
+    },
+    {
+      "id": "cebb3215-c70c-41cd-b40b-e0bba4b097cc",
+      "slug": "tsatsva-pryzby-lklbym-tsbay-pstl-sgvltshvbyrvktklt-fawtf6",
+      "name": "צעצוע פריזבי לכלבים צבעי פסטל סגול/צהוב/ירוק/תכלת",
+      "name_translations": {
+        "en": "Dog Frisbee Toy Pastel Colors Purple/Yellow/Green/Turquoise",
+        "he": "צעצוע פריזבי לכלבים צבעי פסטל סגול/צהוב/ירוק/תכלת",
+        "ru": "Игрушка фрисби для собак пастельных цветов фиолетовый/желтый/зеленый/голубой"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 30,
+      "base_price": 30,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-pryzby-lklbym-tsbay-pstl-sgvltshvbyrvktklt-fawtf6",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:31:00.339Z"
+    },
+    {
+      "id": "6e7f2bea-1f23-458e-adb4-beaed83468f6",
+      "slug": "arkt-tschtsvch-shynyym-lklbym-kvll-mshchh-mbrsht-vatsbavn-ahpb3y",
+      "name": "ערכת צחצוח שיניים לכלבים כולל משחה, מברשת ואצבעון",
+      "name_translations": {
+        "en": "Dog teeth cleaning kit including toothpaste, brush and finger brush",
+        "he": "ערכת צחצוח שיניים לכלבים כולל משחה, מברשת ואצבעון",
+        "ru": "Набор для чистки зубов для собак включает пасту, щетку и напальчник"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860637172-n8ofim.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/arkt-tschtsvch-shynyym-lklbym-kvll-mshchh-mbrsht-vatsbavn-ahpb3y",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:30:58.269Z"
+    },
+    {
+      "id": "b23a78ad-2d12-49cb-a6b5-bef1d56b0f6a",
+      "slug": "st-tsatsvay-laysh-lklb-4-chlkym-tsba-vrvd-7kbqp4",
+      "name": "סט צעצועי לעיסה לכלב 4 חלקים צבע ורוד",
+      "name_translations": {
+        "en": "4-Piece Pink Dog Chew Toy Set",
+        "he": "סט צעצועי לעיסה לכלב 4 חלקים צבע ורוד",
+        "ru": "Набор жевательных игрушек для собак 4 части розового цвета"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 30,
+      "base_price": 30,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860637173-ipmphg.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/st-tsatsvay-laysh-lklb-4-chlkym-tsba-vrvd-7kbqp4",
+      "categories": [],
+      "updated_at": "2026-06-07T19:30:55.319Z"
+    },
+    {
+      "id": "2a9f1cb9-048b-4175-b2f2-af0b4f8da1b0",
+      "slug": "mzrkt-mym-chytsvnyt-14-lytr-petstar-vedgqf",
+      "name": "מזרקת מים חיצונית 1.4 ליטר Petstar",
+      "name_translations": {
+        "en": "Petstar 1.4 Liter Outdoor Water Fountain",
+        "he": "מזרקת מים חיצונית 1.4 ליטר Petstar",
+        "ru": "Наружный водный фонтан 1.4 литра Petstar"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 85,
+      "base_price": 85,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860637172-cc5vzb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mzrkt-mym-chytsvnyt-14-lytr-petstar-vedgqf",
+      "categories": [
+        "כלי אוכל ושתייה"
+      ],
+      "updated_at": "2026-06-07T19:30:58.370Z"
+    },
+    {
+      "id": "f6bedaf8-2b0a-4bcb-9133-c0f3dddbf18f",
+      "slug": "mbrsht-avnybrslyt-kshh-advmh-sci8nr",
+      "name": "מברשת אוניברסלית קשה אדומה",
+      "name_translations": {
+        "en": "Universal Hard Brush Red",
+        "he": "מברשת אוניברסלית קשה אדומה",
+        "ru": "Универсальная жесткая щетка красная"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 65,
+      "base_price": 65,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860637171-85xc9h.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mbrsht-avnybrslyt-kshh-advmh-sci8nr",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:30:52.658Z"
+    },
+    {
+      "id": "1d715d41-4809-4c5e-a304-39c4cce97e63",
+      "slug": "mbrsht-freedog-8lsz1h",
+      "name": "מברשת freedog",
+      "name_translations": {
+        "en": "freedog brush",
+        "he": "מברשת freedog",
+        "ru": "Щетка freedog"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 55,
+      "base_price": 55,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860637171-62wf4a.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mbrsht-freedog-8lsz1h",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:30:52.616Z"
+    },
+    {
+      "id": "afeee588-1a73-43f0-85ab-e00127be2349",
+      "slug": "kdvr-mshchk-alsty-77wwbq",
+      "name": "כדור משחק אלסטי",
+      "name_translations": {
+        "en": "Elastic Play Ball",
+        "he": "כדור משחק אלסטי",
+        "ru": "Эластичный игровой мяч"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 30,
+      "base_price": 30,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860637171-2dg248.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/kdvr-mshchk-alsty-77wwbq",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:30:50.256Z"
+    },
+    {
+      "id": "2bec6b43-e054-4315-950d-7f9ae606c7e0",
+      "slug": "mshcht-shynyym-bioline-z9tzy1",
+      "name": "משחת שיניים bioline",
+      "name_translations": {
+        "en": "bioline toothpaste",
+        "he": "משחת שיניים bioline",
+        "ru": "Зубная паста bioline"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 30,
+      "base_price": 30,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860636318-9q0jzs.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mshcht-shynyym-bioline-z9tzy1",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:30:55.254Z"
+    },
+    {
+      "id": "08e5bd94-8228-47b4-a526-20813848acf4",
+      "slug": "kdvr-dntly-ktn-shhnqg",
+      "name": "כדור דנטלי קטן ",
+      "name_translations": {
+        "en": "Small Dental Ball",
+        "he": "כדור דנטלי קטן ",
+        "ru": "Маленький зубной мячик"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 25,
+      "base_price": 25,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860636296-r5ie18.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/kdvr-dntly-ktn-shhnqg",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:30:53.618Z"
+    },
+    {
+      "id": "f305aaf7-5950-473d-8988-0de281dc6f17",
+      "slug": "arkt-tschtsvch-shynyym-lklbym-btam-bkr-s8c9w9",
+      "name": "ערכת צחצוח שיניים לכלבים בטעם בקר",
+      "name_translations": {
+        "en": "Dog Teeth Brushing Kit with Beef Flavor",
+        "he": "ערכת צחצוח שיניים לכלבים בטעם בקר",
+        "ru": "Набор для чистки зубов для собак со вкусом говядины"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860636240-bm2op5.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/arkt-tschtsvch-shynyym-lklbym-btam-bkr-s8c9w9",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:30:51.095Z"
+    },
+    {
+      "id": "be43c046-de82-44d5-a2e3-ab7ed24550a2",
+      "slug": "rvlr-dbk-60-dpym-5ox7t7",
+      "name": "רולר דבק 60 דפים",
+      "name_translations": {
+        "en": "Sticky Roller 60 Sheets",
+        "he": "רולר דבק 60 דפים",
+        "ru": "Ролик клейкий 60 листов"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 25,
+      "base_price": 25,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860636255-42eba.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/rvlr-dbk-60-dpym-5ox7t7",
+      "categories": [],
+      "updated_at": "2026-06-07T19:30:48.603Z"
+    },
+    {
+      "id": "3e83c55b-43e2-4db3-ae20-44a0358bbb65",
+      "slug": "mbrsht-shynyym-dv-tsddy-4unjaf",
+      "name": "מברשת שיניים דו צדדי",
+      "name_translations": {
+        "en": "Double-Sided Toothbrush",
+        "he": "מברשת שיניים דו צדדי",
+        "ru": "Двусторонняя зубная щетка"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 17,
+      "base_price": 17,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860633156-kn0vho.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mbrsht-shynyym-dv-tsddy-4unjaf",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:30:48.597Z"
+    },
+    {
+      "id": "3f2b36b9-4f14-4ddb-9011-7e21e02cd7e5",
+      "slug": "rtsvavt-plksy-sxm2s4",
+      "name": "רצועות פלקסי",
+      "name_translations": {
+        "en": "Flexi Leashes",
+        "he": "רצועות פלקסי",
+        "ru": "Поводки-рулетки"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 30,
+      "base_price": 30,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860632459-6d8bl.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/rtsvavt-plksy-sxm2s4",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-07T19:30:49.448Z"
+    },
+    {
+      "id": "b4729ddc-e6c0-4ec8-a823-3937df5ad714",
+      "slug": "chgvrt-btychvt-lklb-record-nr4ep2",
+      "name": "חגורת בטיחות לכלב Record",
+      "name_translations": {
+        "en": "Record Dog Safety Harness",
+        "he": "חגורת בטיחות לכלב Record",
+        "ru": "Ремень безопасности для собак Record"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860632061-5g1op8.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/chgvrt-btychvt-lklb-record-nr4ep2",
+      "categories": [
+        "אביזרים"
+      ],
+      "updated_at": "2026-06-07T19:30:46.640Z"
+    },
+    {
+      "id": "e818e169-d325-41ed-916e-7e65f86facd1",
+      "slug": "shmn-byshvm-lbaly-chyym-petglow-qpj50b",
+      "name": "שמן בישום לבעלי חיים petglow",
+      "name_translations": {
+        "en": "Scented oil for pets petglow",
+        "he": "שמן בישום לבעלי חיים petglow",
+        "ru": "Ароматическое масло для животных petglow"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860632060-dyrsix.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/shmn-byshvm-lbaly-chyym-petglow-qpj50b",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:30:47.589Z"
+    },
+    {
+      "id": "ed32df85-0cf6-44d0-b020-81fe5010e5ae",
+      "slug": "shmn-byshvm-lbaly-chyym-pure-sokvo8",
+      "name": "שמן בישום לבעלי חיים PURE",
+      "name_translations": {
+        "en": "PURE Scented Oil for Pets",
+        "he": "שמן בישום לבעלי חיים PURE",
+        "ru": "Ароматическое масло для животных PURE"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860632061-kqlbps.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/shmn-byshvm-lbaly-chyym-pure-sokvo8",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:30:47.591Z"
+    },
+    {
+      "id": "ef1cdd40-7b42-4d0c-83df-7620f3e651b5",
+      "slug": "kvtsts-tsypvrnyym-petsproject-99465x",
+      "name": "קוצץ ציפורניים Petsproject",
+      "name_translations": {
+        "en": "Petsproject Nail Clippers",
+        "he": "קוצץ ציפורניים Petsproject",
+        "ru": "Кусачки для ногтей Petsproject"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 79,
+      "base_price": 79,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860632091-ag90o4j.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/kvtsts-tsypvrnyym-petsproject-99465x",
+      "categories": [],
+      "updated_at": "2026-06-07T19:30:43.452Z"
+    },
+    {
+      "id": "07fa6317-bfa8-4939-aed7-f8aa6fd0f104",
+      "slug": "tbat-laymvn-klbym-ekj06d",
+      "name": "טבעת לאימון כלבים",
+      "name_translations": {
+        "en": "Dog Training Ring",
+        "he": "טבעת לאימון כלבים",
+        "ru": "Кольцо для дрессировки собак"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 25,
+      "base_price": 25,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860631721-ti59r.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/tbat-laymvn-klbym-ekj06d",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:30:41.871Z"
+    },
+    {
+      "id": "1895a3a9-0487-4a66-a781-37b414e77f79",
+      "slug": "mshkvlt-gvmy-dntlyt-33mkht",
+      "name": "משקולת גומי דנטלית",
+      "name_translations": {
+        "en": "Rubber Dental Weight",
+        "he": "משקולת גומי דנטלית",
+        "ru": "Резиновая зубная гантель"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 25,
+      "base_price": 25,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860631777-5zfndc.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mshkvlt-gvmy-dntlyt-33mkht",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:30:41.873Z"
+    },
+    {
+      "id": "6f96dbb2-0aff-4568-b6d4-99c82ebb1c60",
+      "slug": "tsatsva-tmnvn-ktyph-mrshrsh-am-tsptsph-8p5jn8",
+      "name": "צעצוע תמנון קטיפה מרשרש עם צפצפה",
+      "name_translations": {
+        "en": "Plush Octopus Toy with Rattle and Squeaker",
+        "he": "צעצוע תמנון קטיפה מרשרש עם צפצפה",
+        "ru": "Игрушка осьминог плюшевый шуршащий со свистком"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860631721-ewchzd.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-tmnvn-ktyph-mrshrsh-am-tsptsph-8p5jn8",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:30:42.149Z"
+    },
+    {
+      "id": "c9b23a8d-b209-481f-99c0-0c8eb8e1221d",
+      "slug": "kysvy-mvshb-achvry-lklb-v70yuy",
+      "name": "כיסוי מושב אחורי לכלב",
+      "name_translations": {
+        "en": "Rear Seat Cover for Dogs",
+        "he": "כיסוי מושב אחורי לכלב",
+        "ru": "Чехол на заднее сиденье для собак"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 180,
+      "base_price": 180,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860631624-oa086.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/kysvy-mvshb-achvry-lklb-v70yuy",
+      "categories": [
+        "אביזרים"
+      ],
+      "updated_at": "2026-06-07T19:30:45.709Z"
+    },
+    {
+      "id": "5bb64a4e-4169-4bed-bcc1-5c5d8a439aca",
+      "slug": "shmpv-lgvrym-bioline-0dy2bc",
+      "name": "שמפו לגורים bioline",
+      "name_translations": {
+        "en": "Puppy shampoo bioline",
+        "he": "שמפו לגורים bioline",
+        "ru": "Шампунь для щенков bioline"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 40,
+      "base_price": 40,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860628460-1xzjot.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/shmpv-lgvrym-bioline-0dy2bc",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:30:38.888Z"
+    },
+    {
+      "id": "51fb2023-c622-4610-83b8-133ab9f6daef",
+      "slug": "chbl-xs-djfwg4",
+      "name": "חבל XS",
+      "name_translations": {
+        "en": "XS Rope",
+        "he": "חבל XS",
+        "ru": "Поводок XS"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 5,
+      "base_price": 5,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860628455-4vt8h.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/chbl-xs-djfwg4",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:30:41.508Z"
+    },
+    {
+      "id": "5e25814e-213d-4d25-a117-4bc3ed2b9a4a",
+      "slug": "kdvr-dntly-ktn-rk-s4gn1b",
+      "name": "כדור דנטלי קטן רך",
+      "name_translations": {
+        "en": "Small Soft Dental Ball",
+        "he": "כדור דנטלי קטן רך",
+        "ru": "Маленький мягкий дентальный мячик"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 10,
+      "base_price": 10,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860628460-88mkjr4.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/kdvr-dntly-ktn-rk-s4gn1b",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:30:40.285Z"
+    },
+    {
+      "id": "edaeb3d7-a15d-49c6-9c12-2df079674da0",
+      "slug": "mshchk-haklh-mtglgl-z992o2",
+      "name": "משחק האכלה מתגלגל",
+      "name_translations": {
+        "en": "Rolling Feeding Game",
+        "he": "משחק האכלה מתגלגל",
+        "ru": "Катающаяся игрушка-кормушка"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 55,
+      "base_price": 55,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860627838-svu9el.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mshchk-haklh-mtglgl-z992o2",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:30:37.193Z"
+    },
+    {
+      "id": "b0755a5f-ef0d-488f-970d-9356e416bbc4",
+      "slug": "trsys-byshvm-petglow-ngmdz6",
+      "name": "תרסיס בישום petglow",
+      "name_translations": {
+        "en": "petglow perfume spray",
+        "he": "תרסיס בישום petglow",
+        "ru": "Спрей-дезодорант petglow"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860628460-0hvejn.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/trsys-byshvm-petglow-ngmdz6",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:30:42.813Z"
+    },
+    {
+      "id": "8b0fe407-42ed-4b53-9c9f-3d2f751189f0",
+      "slug": "mtkn-avkl-shkvp-o5086w",
+      "name": "מתקן אוכל שקוף",
+      "name_translations": {
+        "en": "Transparent Food Dispenser",
+        "he": "מתקן אוכל שקוף",
+        "ru": "Прозрачная кормушка"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860627858-nip9k.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mtkn-avkl-shkvp-o5086w",
+      "categories": [
+        "כלי אוכל ושתייה"
+      ],
+      "updated_at": "2026-06-07T19:30:38.683Z"
+    },
+    {
+      "id": "ba5aa8fc-ac76-4f0f-b354-27e48fb3793d",
+      "slug": "mbrsht-avblyt-ktnh-rkvrd-in47qc",
+      "name": "מברשת אובלית קטנה רקורד",
+      "name_translations": {
+        "en": "Record Small Oval Brush",
+        "he": "מברשת אובלית קטנה רקורד",
+        "ru": "Маленькая овальная щетка Рекорд"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 65,
+      "base_price": 65,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860628459-llpbw.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mbrsht-avblyt-ktnh-rkvrd-in47qc",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:30:37.194Z"
+    },
+    {
+      "id": "ae83648a-20cd-4e87-a129-0b2adc505923",
+      "slug": "hnrys-bvly-styk-iha8s1",
+      "name": "הנריס בולי סטיק",
+      "name_translations": {
+        "en": "Harris Bully Stick",
+        "he": "הנריס בולי סטיק",
+        "ru": "Хэррис Булли Стик"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 39,
+      "base_price": 39,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860628455-qb7uxl.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/hnrys-bvly-styk-iha8s1",
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-06-07T19:30:36.098Z"
+    },
+    {
+      "id": "9e1967bb-86cc-4d4c-90c6-767e9e0c5d91",
+      "slug": "bvbvt-lklbym-tsvvar-chbl-chmvr-m-lthu8f",
+      "name": "בובות לכלבים צוואר חבל - חמור M",
+      "name_translations": {
+        "en": "Dog Rope Neck Toys - Donkey M",
+        "he": "בובות לכלבים צוואר חבל - חמור M",
+        "ru": "Игрушки для собак на веревке - осел M"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860627745-8b478.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-chmvr-m-lthu8f",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:30:36.231Z"
+    },
+    {
+      "id": "44683ae0-d9f7-4718-84ce-d2282b3cda10",
+      "slug": "hnrys-dgym-shlmym-loxnnh",
+      "name": "הנריס דגים שלמים",
+      "name_translations": {
+        "en": "Harris Whole Fish",
+        "he": "הנריס דגים שלמים",
+        "ru": "Харрис цельная рыба"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 26,
+      "base_price": 26,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860627819-ja7epo.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/hnrys-dgym-shlmym-loxnnh",
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-06-07T19:30:35.005Z"
+    },
+    {
+      "id": "df1532c4-011b-43a1-bc4d-9493fb8979bb",
+      "slug": "tsatsva-laysh-dntly-rg1zng",
+      "name": "צעצוע לעיסה דנטלי",
+      "name_translations": {
+        "en": "Dental Chew Toy",
+        "he": "צעצוע לעיסה דנטלי",
+        "ru": "Игрушка для жевания стоматологическая"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 25,
+      "base_price": 25,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860624362-7eevd9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-laysh-dntly-rg1zng",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:30:37.193Z"
+    },
+    {
+      "id": "6a5df1cd-2053-4544-a02f-cdc1101566cf",
+      "slug": "arkt-tschtsvch-shynyym-lklbym-btam-avp-1adlrz",
+      "name": "ערכת צחצוח שיניים לכלבים בטעם עוף",
+      "name_translations": {
+        "en": "Dog Teeth Brushing Kit with Chicken Flavor",
+        "he": "ערכת צחצוח שיניים לכלבים בטעם עוף",
+        "ru": "Набор для чистки зубов для собак со вкусом курицы"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 42,
+      "base_price": 42,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860624361-q0gsv.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/arkt-tschtsvch-shynyym-lklbym-btam-avp-1adlrz",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:30:33.473Z"
+    },
+    {
+      "id": "20e89147-a177-4a46-9b6a-5ee905601f16",
+      "slug": "chbl-s-f7ddm1",
+      "name": "חבל S",
+      "name_translations": {
+        "en": "S Rope",
+        "he": "חבל S",
+        "ru": "Веревка S"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 7,
+      "base_price": 7,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860624361-j2vxh.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/chbl-s-f7ddm1",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:30:33.469Z"
+    },
+    {
+      "id": "65c1428a-deae-46ed-89ec-e92b8b046df8",
+      "slug": "brvvz-mtsptsp-m-s3fii0",
+      "name": "ברווז מצפצף M",
+      "name_translations": {
+        "en": "Squeaky Duck M",
+        "he": "ברווז מצפצף M",
+        "ru": "Утка пищащая M"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 40,
+      "base_price": 40,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860624362-62hv6k.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/brvvz-mtsptsp-m-s3fii0",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:30:31.285Z"
+    },
+    {
+      "id": "71fdf555-348e-48df-82fe-b7a8ea399a15",
+      "slug": "mgsh-pdym-laylvp-klbym-6o6b6c",
+      "name": "מגש פדים לאילוף כלבים",
+      "name_translations": {
+        "en": "Dog Training Pad Tray",
+        "he": "מגש פדים לאילוף כלבים",
+        "ru": "Лоток с пеленками для дрессировки собак"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 100,
+      "base_price": 100,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860624361-i5eiwl.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mgsh-pdym-laylvp-klbym-6o6b6c",
+      "categories": [
+        "אביזרים"
+      ],
+      "updated_at": "2026-06-07T19:30:31.429Z"
+    },
+    {
+      "id": "07c0de94-5bbd-4b82-b34b-d37e294899db",
+      "slug": "tsatsva-mshykh-q3tqkk",
+      "name": "צעצוע משיכה",
+      "name_translations": {
+        "en": "Pull Toy",
+        "he": "צעצוע משיכה",
+        "ru": "Игрушка-тягалка"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 25,
+      "base_price": 25,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860623550-kzznzb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-mshykh-q3tqkk",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:30:33.466Z"
+    },
+    {
+      "id": "b201f23a-1ba4-4177-8145-6bd05dfc7562",
+      "slug": "tsatsva-avvz-mtsptsp-29pq6q",
+      "name": "צעצוע אווז מצפצף",
+      "name_translations": {
+        "en": "Squeaky Goose Toy",
+        "he": "צעצוע אווז מצפצף",
+        "ru": "Игрушка пищащий гусь"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860623610-z8mgn.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-avvz-mtsptsp-29pq6q",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:30:32.177Z"
+    },
+    {
+      "id": "c663dce8-7e6e-4070-afc9-4402d426a535",
+      "slug": "hnrys-prsvt-baplv-nqmmmb",
+      "name": "הנריס פרסות באפלו",
+      "name_translations": {
+        "en": "Harris Buffalo Hooves",
+        "he": "הנריס פרסות באפלו",
+        "ru": "Харрис копыта буйвола"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 26,
+      "base_price": 26,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860623611-f2o277.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/hnrys-prsvt-baplv-nqmmmb",
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-06-07T19:30:31.498Z"
+    },
+    {
+      "id": "951cd501-b239-4ecc-827b-334e6e3ec787",
+      "slug": "msrk-gbhym-mshtnym-rkvrd-aevtrt",
+      "name": "מסרק גבהים משתנים רקורד",
+      "name_translations": {
+        "en": "Variable Height Comb Record",
+        "he": "מסרק גבהים משתנים רקורד",
+        "ru": "Расческа с изменяемой высотой зубцов Рекорд"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 48,
+      "base_price": 48,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860623551-z1xrg.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/msrk-gbhym-mshtnym-rkvrd-aevtrt",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:30:31.779Z"
+    },
+    {
+      "id": "ae011526-b18b-45d6-9252-d510568233d1",
+      "slug": "hnrys-bvly-styk-tsmh-ro1db4",
+      "name": "הנריס בולי סטיק צמה",
+      "name_translations": {
+        "en": "Harris Bully Stick Braid",
+        "he": "הנריס בולי סטיק צמה",
+        "ru": "Henris Bully Stick коса"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 60,
+      "base_price": 60,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860623573-zre9x.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/hnrys-bvly-styk-tsmh-ro1db4",
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-06-07T19:30:31.137Z"
+    },
+    {
+      "id": "2f74cf6f-922f-4bf6-9e3b-781ba52ab28f",
+      "slug": "kvtsts-tsypvrnyym-vptsyrh-jqruk2",
+      "name": "קוצץ ציפורניים ופצירה",
+      "name_translations": {
+        "en": "Nail Clipper and File",
+        "he": "קוצץ ציפורניים ופצירה",
+        "ru": "Кусачки для ногтей и пилочка"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 25,
+      "base_price": 25,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860620281-igkob.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/kvtsts-tsypvrnyym-vptsyrh-jqruk2",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:30:29.801Z"
+    },
+    {
+      "id": "8c43f715-55eb-4ecb-9e9b-c7944a59b627",
+      "slug": "msrk-tspvp-rkvrd-rhg6ws",
+      "name": "מסרק צפוף רקורד",
+      "name_translations": {
+        "en": "Record Fine Comb",
+        "he": "מסרק צפוף רקורד",
+        "ru": "Гребень густой Рекорд"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860620281-76j7za.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/msrk-tspvp-rkvrd-rhg6ws",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:30:27.670Z"
+    },
+    {
+      "id": "c4ab5756-68b2-4f07-9938-39c2a44cd47b",
+      "slug": "tmnvn-zrvavt-msvlslvt-am-tsptsph-zzuj96",
+      "name": "תמנון זרועות מסולסלות עם צפצפה",
+      "name_translations": {
+        "en": "Octopus with Curly Arms and Squeaker",
+        "he": "תמנון זרועות מסולסלות עם צפצפה",
+        "ru": "Осьминог с вьющимися щупальцами со свистком"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860620281-8qb53n.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/tmnvn-zrvavt-msvlslvt-am-tsptsph-zzuj96",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:30:28.482Z"
+    },
+    {
+      "id": "6f3d8244-352e-47f3-a868-e6122798ddd3",
+      "slug": "mshgr-kdvr-tnys-freedog-3294e6",
+      "name": "משגר כדור טניס freedog",
+      "name_translations": {
+        "en": "freedog tennis ball launcher",
+        "he": "משגר כדור טניס freedog",
+        "ru": "Метатель теннисного мяча freedog"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 57,
+      "base_price": 57,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860619761-5gpgv.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mshgr-kdvr-tnys-freedog-3294e6",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:30:29.798Z"
+    },
+    {
+      "id": "cf3757f2-c465-48d3-b4a7-ba4fa6063a35",
+      "slug": "brvvz-mtsptsp-s-j9adln",
+      "name": "ברווז מצפצף S",
+      "name_translations": {
+        "en": "Squeaky Duck S",
+        "he": "ברווז מצפצף S",
+        "ru": "Утка пищащая S"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860620281-u3yupd.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/brvvz-mtsptsp-s-j9adln",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:30:26.170Z"
+    },
+    {
+      "id": "a57b0f41-2e09-476e-963f-41c8e16bfae4",
+      "slug": "hnrys-knh-nshymh-psphhc",
+      "name": "הנריס קנה נשימה",
+      "name_translations": {
+        "en": "Harris Breathing Reed",
+        "he": "הנריס קנה נשימה",
+        "ru": "Харрис тростник для дыхания"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 25,
+      "base_price": 25,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860620281-z2ixnk.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/hnrys-knh-nshymh-psphhc",
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-06-07T19:30:26.177Z"
+    },
+    {
+      "id": "0678fd0f-7144-46d9-827a-d36a55c55330",
+      "slug": "mshchk-lklb-skyny-aryh-8prkv2",
+      "name": "משחק לכלב סקיני אריה",
+      "name_translations": {
+        "en": "Skinny Lion Dog Toy",
+        "he": "משחק לכלב סקיני אריה",
+        "ru": "Игрушка для собак Скинни Лев"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860620281-3rei36.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mshchk-lklb-skyny-aryh-8prkv2",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-07T19:30:26.176Z"
+    },
+    {
+      "id": "ab5c3104-ec2c-4557-8910-cb9dc17dcd9c",
+      "slug": "shmn-byshvm-lchyvt-mchmd-animaux-cno36f",
+      "name": "שמן בישום לחיות מחמד ANIMAUX",
+      "name_translations": {
+        "en": "ANIMAUX Scented Oil for Pets",
+        "he": "שמן בישום לחיות מחמד ANIMAUX",
+        "ru": "Ароматическое масло для домашних животных ANIMAUX"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860619715-m1ah7.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/shmn-byshvm-lchyvt-mchmd-animaux-cno36f",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-07T19:30:26.173Z"
+    },
+    {
+      "id": "7292bb9f-63ed-42a4-9ffe-f331a94c8e05",
+      "slug": "hnrys-kvbyvt-slmvn-hbj9sp",
+      "name": "הנריס קוביות סלמון",
+      "name_translations": {
+        "en": "Harris Salmon Cubes",
+        "he": "הנריס קוביות סלמון",
+        "ru": "Харрис кубики лосося"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 21,
+      "base_price": 21,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860619716-1lkjtw.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/hnrys-kvbyvt-slmvn-hbj9sp",
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-06-07T19:30:26.206Z"
+    },
+    {
+      "id": "735cafa9-ff65-4972-9912-0bfb59a5ab07",
+      "slug": "trsys-mrkk-lla-shtyph-lhtrt-kshrym-tauro-s8lljq",
+      "name": "תרסיס מרכך ללא שטיפה להתרת קשרים TAURO",
+      "name_translations": {
+        "en": "TAURO No-Rinse Detangling Spray for Knot Removal",
+        "he": "תרסיס מרכך ללא שטיפה להתרת קשרים TAURO",
+        "ru": "Спрей-кондиционер несмываемый для распутывания колтунов TAURO"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 70,
+      "base_price": 70,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1780860619725-49q36l.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/trsys-mrkk-lla-shtyph-lhtrt-kshrym-tauro-s8lljq",
+      "categories": [],
+      "updated_at": "2026-06-07T19:30:26.282Z"
+    }
+  ]
 }
