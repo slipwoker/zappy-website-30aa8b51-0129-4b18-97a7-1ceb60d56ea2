@@ -733,7 +733,6 @@ https://gurimbakfar.co.il/product/hnrys-gydy-baplv-uf8ifz
 https://gurimbakfar.co.il/product/bkbvk-shtyyh-500-ml-8jei6r
 - Price: 20.00 ILS
 - Availability: In stock
-- Category: כלי אוכל ושתיה
 - Image: https://gurimbakfar.co.il/assets/product-1780860640612-pidggx.webp
 
 ### משחת שיניים
@@ -1108,11 +1107,11 @@ https://gurimbakfar.co.il/product/mshchk-lklb-skyny-aryh-8prkv2
 - Image: https://gurimbakfar.co.il/assets/product-1780860620281-3rei36.webp
 
 ### שמן בישום לחיות מחמד ANIMAUX
-https://gurimbakfar.co.il/product/shmn-byshvm-lchyvt-mchmd-animaux-cno36f
+https://gurimbakfar.co.il/product/shmn-byshvm-lchyvt-mchmd-animaux-6znshc
 - Price: 35.00 ILS
 - Availability: In stock
 - Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-1780860619715-m1ah7.webp
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1780860736565-6sbsyh.webp
 
 ### הנריס קוביות סלמון
 https://gurimbakfar.co.il/product/hnrys-kvbyvt-slmvn-hbj9sp

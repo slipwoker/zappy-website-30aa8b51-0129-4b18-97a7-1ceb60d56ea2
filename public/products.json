@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-07T19:32:19.761Z",
+  "generated_at": "2026-06-07T19:33:05.880Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 175,
@@ -2976,9 +2976,7 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/bkbvk-shtyyh-500-ml-8jei6r",
-      "categories": [
-        "כלי אוכל ושתיה"
-      ],
+      "categories": [],
       "updated_at": "2026-06-07T19:31:08.699Z"
     },
     {
@@ -4481,7 +4479,7 @@
     },
     {
       "id": "ab5c3104-ec2c-4557-8910-cb9dc17dcd9c",
-      "slug": "shmn-byshvm-lchyvt-mchmd-animaux-cno36f",
+      "slug": "shmn-byshvm-lchyvt-mchmd-animaux-6znshc",
       "name": "שמן בישום לחיות מחמד ANIMAUX",
       "name_translations": {
         "en": "ANIMAUX Scented Oil for Pets",
@@ -4497,15 +4495,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860619715-m1ah7.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1780860736565-6sbsyh.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/shmn-byshvm-lchyvt-mchmd-animaux-cno36f",
+      "url": "https://gurimbakfar.co.il/product/shmn-byshvm-lchyvt-mchmd-animaux-6znshc",
       "categories": [
         "מוצרי טיפוח"
       ],
-      "updated_at": "2026-06-07T19:30:26.173Z"
+      "updated_at": "2026-06-07T19:32:34.833Z"
     },
     {
       "id": "7292bb9f-63ed-42a4-9ffe-f331a94c8e05",
