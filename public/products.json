@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-08T06:03:00.590Z",
+  "generated_at": "2026-06-08T06:03:51.268Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 175,
@@ -4395,12 +4395,12 @@
     },
     {
       "id": "cf3757f2-c465-48d3-b4a7-ba4fa6063a35",
-      "slug": "brvvz-mtsptsp-s-j9adln",
+      "slug": "brvvz-mtsptsp-s-1kvaah",
       "name": "ברווז מצפצף S",
       "name_translations": {
         "en": "Squeaky Duck S",
         "he": "ברווז מצפצף S",
-        "ru": "Утка пищащая S"
+        "ru": "Пищащая уточка S"
       },
       "description": "",
       "short_description": null,
@@ -4411,15 +4411,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860620281-u3yupd.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1780898587530-blf32.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/brvvz-mtsptsp-s-j9adln",
+      "url": "https://gurimbakfar.co.il/product/brvvz-mtsptsp-s-1kvaah",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-07T19:30:26.170Z"
+      "updated_at": "2026-06-08T06:03:19.944Z"
     },
     {
       "id": "a57b0f41-2e09-476e-963f-41c8e16bfae4",
