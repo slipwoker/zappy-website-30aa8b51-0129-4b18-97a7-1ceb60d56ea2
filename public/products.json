@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-08T05:58:34.720Z",
+  "generated_at": "2026-06-08T06:03:00.590Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 175,
@@ -3473,7 +3473,7 @@
     },
     {
       "id": "3f2b36b9-4f14-4ddb-9011-7e21e02cd7e5",
-      "slug": "rtsvavt-plksy-sxm2s4",
+      "slug": "rtsvavt-plksy-jnoo9p",
       "name": "רצועות פלקסי",
       "name_translations": {
         "en": "Flexi Leashes",
@@ -3489,15 +3489,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860632459-6d8bl.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1780898526650-2onagi.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rtsvavt-plksy-sxm2s4",
+      "url": "https://gurimbakfar.co.il/product/rtsvavt-plksy-jnoo9p",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-06-07T19:30:49.448Z"
+      "updated_at": "2026-06-08T06:02:29.187Z"
     },
     {
       "id": "b4729ddc-e6c0-4ec8-a823-3937df5ad714",
