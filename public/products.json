@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-07T19:38:22.623Z",
+  "generated_at": "2026-06-08T05:58:34.720Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 175,
@@ -3037,7 +3037,7 @@
     },
     {
       "id": "ef29a865-5e7a-46ed-a085-99bc4a1e5e12",
-      "slug": "shmpv-petglow-20ptlr",
+      "slug": "shmpv-petglow-f4ozj3",
       "name": "שמפו PETGLOW ",
       "name_translations": {
         "en": "PETGLOW Shampoo",
@@ -3053,15 +3053,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860640519-sd8w8y.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1780898271084-4ekxi.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/shmpv-petglow-20ptlr",
+      "url": "https://gurimbakfar.co.il/product/shmpv-petglow-f4ozj3",
       "categories": [
         "מוצרי טיפוח"
       ],
-      "updated_at": "2026-06-07T19:31:03.785Z"
+      "updated_at": "2026-06-08T05:58:03.502Z"
     },
     {
       "id": "b4344933-f562-4eba-98b2-45781e574206",
