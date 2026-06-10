@@ -4,7 +4,7 @@
     <title>גורים בכפר</title>
     <link>https://gurimbakfar.co.il</link>
     <description>Product feed for גורים בכפר</description>
-    <lastBuildDate>Wed, 10 Jun 2026 07:31:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 18:53:01 GMT</lastBuildDate>
     <item>
       <g:id>cb0d8aa0-9ffb-408e-9dd3-efc11748e9b5</g:id>
       <g:title>תרסיס מרכך ללא שטיפה מיועד לעידוד צמיחת פרווה TAURO</g:title>
@@ -1277,18 +1277,6 @@
       <g:product_type>כלי אוכל ושתייה</g:product_type>
     </item>
     <item>
-      <g:id>55e09981-6cb6-4434-ba5b-254aed9ca7d1</g:id>
-      <g:title>בובות לכלבים צוואר חבל - חמור S</g:title>
-      <g:description>בובות לכלבים צוואר חבל - חמור S</g:description>
-      <g:link>https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-chmvr-s-w3rsdn</g:link>
-      <g:availability>in_stock</g:availability>
-      <g:price>35.00 ILS</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>גורים בכפר</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:product_type>צעצועים</g:product_type>
-    </item>
-    <item>
       <g:id>afdad789-bfde-4869-bb66-3513d321899f</g:id>
       <g:title>צעצוע קטיפה זחל  לחתול/כלב </g:title>
       <g:description>צעצוע קטיפה זחל לחתול/כלב</g:description>
@@ -1850,10 +1838,25 @@
       <g:product_type>חטיפים</g:product_type>
     </item>
     <item>
-      <g:id>9e1967bb-86cc-4d4c-90c6-767e9e0c5d91</g:id>
-      <g:title>בובות לכלבים צוואר חבל - חמור M</g:title>
+      <g:id>9e1967bb-86cc-4d4c-90c6-767e9e0c5d91__9127979e-b54c-4412-b04e-0cf26f79477d</g:id>
+      <g:title>בובות לכלבים צוואר חבל - חמור M - M</g:title>
       <g:description>בובות לכלבים צוואר חבל - חמור M</g:description>
       <g:link>https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-chmvr-m-lthu8f</g:link>
+      <g:item_group_id>9e1967bb-86cc-4d4c-90c6-767e9e0c5d91</g:item_group_id>
+      <g:image_link>https://gurimbakfar.co.il/assets/product-1780860627745-8b478.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>0.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>צעצועים</g:product_type>
+    </item>
+    <item>
+      <g:id>9e1967bb-86cc-4d4c-90c6-767e9e0c5d91__22dc19f8-48a4-4926-a0b7-b9ce1cea05b4</g:id>
+      <g:title>בובות לכלבים צוואר חבל - חמור M - S</g:title>
+      <g:description>בובות לכלבים צוואר חבל - חמור M</g:description>
+      <g:link>https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-chmvr-m-lthu8f</g:link>
+      <g:item_group_id>9e1967bb-86cc-4d4c-90c6-767e9e0c5d91</g:item_group_id>
       <g:image_link>https://gurimbakfar.co.il/assets/product-1780860627745-8b478.webp</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>0.00 ILS</g:price>

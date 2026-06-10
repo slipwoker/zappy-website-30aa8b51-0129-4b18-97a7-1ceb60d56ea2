@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-10T07:31:27.114Z",
+  "generated_at": "2026-06-10T18:53:01.715Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 175,
+  "count": 174,
   "products": [
     {
       "id": "cb0d8aa0-9ffb-408e-9dd3-efc11748e9b5",
@@ -2768,32 +2768,6 @@
       "updated_at": "2026-06-07T19:31:17.376Z"
     },
     {
-      "id": "55e09981-6cb6-4434-ba5b-254aed9ca7d1",
-      "slug": "bvbvt-lklbym-tsvvar-chbl-chmvr-s-w3rsdn",
-      "name": "בובות לכלבים צוואר חבל - חמור S",
-      "name_translations": {
-        "en": "Dog Rope Neck Toys - Donkey S",
-        "he": "בובות לכלבים צוואר חבל - חמור S",
-        "ru": "Игрушки для собак на веревке - осел S"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 35,
-      "base_price": 35,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-chmvr-s-w3rsdn",
-      "categories": [
-        "צעצועים"
-      ],
-      "updated_at": "2026-06-07T19:31:17.058Z"
-    },
-    {
       "id": "afdad789-bfde-4869-bb66-3513d321899f",
       "slug": "tsatsva-ktyph-zchl-lchtvlklb-2h70j6",
       "name": "צעצוע קטיפה זחל  לחתול/כלב ",
@@ -3971,7 +3945,7 @@
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-07T19:30:36.231Z"
+      "updated_at": "2026-06-10T18:52:38.049Z"
     },
     {
       "id": "44683ae0-d9f7-4718-84ce-d2282b3cda10",
