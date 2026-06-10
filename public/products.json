@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-10T19:17:43.957Z",
+  "generated_at": "2026-06-10T19:18:33.946Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 174,
@@ -3921,12 +3921,12 @@
     },
     {
       "id": "9e1967bb-86cc-4d4c-90c6-767e9e0c5d91",
-      "slug": "bvbvt-lklbym-tsvvar-chbl-chyvt-2ml1cp",
+      "slug": "bvbvt-lklbym-tsvvar-chbl-chyvt-2akabn",
       "name": "בובות לכלבים צוואר חבל חיות",
       "name_translations": {
-        "en": "Dog Rope Neck Puppets Animals",
+        "en": "Dog Rope Neck Toy Animals",
         "he": "בובות לכלבים צוואר חבל חיות",
-        "ru": "Игрушки для собак веревочный ошейник животные"
+        "ru": "Игрушки для собак веревочный ошейник для животных"
       },
       "description": "",
       "short_description": null,
@@ -3939,15 +3939,16 @@
       "images": [
         "https://gurimbakfar.co.il/assets/product-enhanced-1781118838806-1c9mj7.webp",
         "https://gurimbakfar.co.il/assets/product-enhanced-1781118867686-xc51v.webp",
-        "https://gurimbakfar.co.il/assets/product-enhanced-1781119000049-xj60ti.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781119000049-xj60ti.webp",
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781119067904-7w0poq.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-chyvt-2ml1cp",
+      "url": "https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-chyvt-2akabn",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-10T19:17:12.890Z"
+      "updated_at": "2026-06-10T19:18:02.705Z"
     },
     {
       "id": "44683ae0-d9f7-4718-84ce-d2282b3cda10",
