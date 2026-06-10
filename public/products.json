@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-10T19:23:21.344Z",
+  "generated_at": "2026-06-10T19:42:58.714Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 174,
@@ -2983,10 +2983,10 @@
     },
     {
       "id": "d9ff6b09-6fff-466a-9135-750efeda7c46",
-      "slug": "arkt-tschtsvch-shynyym-lklbym-kvll-mshchh-btam-chlb-mbrsht-vatsbavn-dr0bzn",
+      "slug": "arkt-tschtsvch-shynyym-lklbym-kvll-mshchh-btam-chlb-mbrsht-vatsbavn-f3w03b",
       "name": "ערכת צחצוח שיניים לכלבים כולל משחה בטעם חלב, מברשת ואצבעון",
       "name_translations": {
-        "en": "Dog teeth cleaning kit including milk-flavored toothpaste, brush and finger brush",
+        "en": "Dog teeth cleaning kit including milk-flavored toothpaste, brush and finger toothbrush",
         "he": "ערכת צחצוח שיניים לכלבים כולל משחה בטעם חלב, מברשת ואצבעון",
         "ru": "Набор для чистки зубов для собак, включая пасту со вкусом молока, щетку и напальчник"
       },
@@ -3003,11 +3003,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/arkt-tschtsvch-shynyym-lklbym-kvll-mshchh-btam-chlb-mbrsht-vatsbavn-dr0bzn",
+      "url": "https://gurimbakfar.co.il/product/arkt-tschtsvch-shynyym-lklbym-kvll-mshchh-btam-chlb-mbrsht-vatsbavn-f3w03b",
       "categories": [
         "מוצרי טיפוח"
       ],
-      "updated_at": "2026-06-07T19:31:10.749Z"
+      "updated_at": "2026-06-10T19:42:27.560Z"
     },
     {
       "id": "ef29a865-5e7a-46ed-a085-99bc4a1e5e12",
