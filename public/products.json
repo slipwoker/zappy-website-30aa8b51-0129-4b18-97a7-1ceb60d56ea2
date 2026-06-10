@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-10T07:30:01.890Z",
+  "generated_at": "2026-06-10T07:30:45.218Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 175,
@@ -2955,7 +2955,7 @@
     },
     {
       "id": "c87b4cd6-439b-44fc-9ea5-95651f44005c",
-      "slug": "bkbvk-shtyyh-500-ml-8jei6r",
+      "slug": "bkbvk-shtyyh-500-ml-kh6o8i",
       "name": "בקבוק שתייה 500 ml ",
       "name_translations": {
         "en": "Drinking Bottle 500 ml",
@@ -2971,13 +2971,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860640612-pidggx.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781076602587-p4yobp.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/bkbvk-shtyyh-500-ml-8jei6r",
+      "url": "https://gurimbakfar.co.il/product/bkbvk-shtyyh-500-ml-kh6o8i",
       "categories": [],
-      "updated_at": "2026-06-07T19:31:08.699Z"
+      "updated_at": "2026-06-10T07:30:14.333Z"
     },
     {
       "id": "f6983313-7135-4f99-a320-bcbdcaf3a64a",
