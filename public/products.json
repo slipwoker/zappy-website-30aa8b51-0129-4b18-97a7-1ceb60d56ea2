@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T15:30:59.388Z",
+  "generated_at": "2026-06-14T15:31:45.764Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 173,
@@ -3725,7 +3725,7 @@
     },
     {
       "id": "5e25814e-213d-4d25-a117-4bc3ed2b9a4a",
-      "slug": "kdvr-dntly-ktn-rk-s4gn1b",
+      "slug": "kdvr-dntly-ktn-rk-9tv9b5",
       "name": "כדור דנטלי קטן רך",
       "name_translations": {
         "en": "Small Soft Dental Ball",
@@ -3741,15 +3741,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860628460-88mkjr4.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781451063928-biucx.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kdvr-dntly-ktn-rk-s4gn1b",
+      "url": "https://gurimbakfar.co.il/product/kdvr-dntly-ktn-rk-9tv9b5",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-07T19:30:40.285Z"
+      "updated_at": "2026-06-14T15:31:14.782Z"
     },
     {
       "id": "edaeb3d7-a15d-49c6-9c12-2df079674da0",
