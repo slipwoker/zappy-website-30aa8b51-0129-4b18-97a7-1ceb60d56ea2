@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T10:40:00.768Z",
+  "generated_at": "2026-06-14T10:40:37.460Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 174,
@@ -4288,12 +4288,12 @@
     },
     {
       "id": "8c43f715-55eb-4ecb-9e9b-c7944a59b627",
-      "slug": "msrk-tspvp-rkvrd-rhg6ws",
+      "slug": "msrk-tspvp-rkvrd-5m6pep",
       "name": "מסרק צפוף רקורד",
       "name_translations": {
         "en": "Record Fine Comb",
         "he": "מסרק צפוף רקורד",
-        "ru": "Гребень густой Рекорд"
+        "ru": "Густая расческа Рекорд"
       },
       "description": "",
       "short_description": null,
@@ -4304,24 +4304,24 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860620281-76j7za.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781433627090-dkgrn.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/msrk-tspvp-rkvrd-rhg6ws",
+      "url": "https://gurimbakfar.co.il/product/msrk-tspvp-rkvrd-5m6pep",
       "categories": [
         "מוצרי טיפוח"
       ],
-      "updated_at": "2026-06-07T19:30:27.670Z"
+      "updated_at": "2026-06-14T10:40:36.670Z"
     },
     {
       "id": "c4ab5756-68b2-4f07-9938-39c2a44cd47b",
-      "slug": "tmnvn-zrvavt-msvlslvt-am-tsptsph-zzuj96",
+      "slug": "tmnvn-zrvavt-msvlslvt-am-tsptsph-slx0ja",
       "name": "תמנון זרועות מסולסלות עם צפצפה",
       "name_translations": {
         "en": "Octopus with Curly Arms and Squeaker",
         "he": "תמנון זרועות מסולסלות עם צפצפה",
-        "ru": "Осьминог с вьющимися щупальцами со свистком"
+        "ru": "Осьминог с вьющимися щупальцами и пищалкой"
       },
       "description": "",
       "short_description": null,
@@ -4332,15 +4332,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860620281-8qb53n.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781433595354-h2fba.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/tmnvn-zrvavt-msvlslvt-am-tsptsph-zzuj96",
+      "url": "https://gurimbakfar.co.il/product/tmnvn-zrvavt-msvlslvt-am-tsptsph-slx0ja",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-07T19:30:28.482Z"
+      "updated_at": "2026-06-14T10:40:06.518Z"
     },
     {
       "id": "6f3d8244-352e-47f3-a868-e6122798ddd3",
