@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T15:51:20.112Z",
+  "generated_at": "2026-06-14T15:52:43.394Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 173,
@@ -74,8 +74,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/shrshrt-mptslt-l-2-klbym-50-sm-0kaw60",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:46.902Z"
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-14T15:52:11.170Z"
     },
     {
       "id": "fcccfb2c-3275-47a0-b8af-4738d4723010",
@@ -98,8 +100,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/shrshrt-kvtsym-laylvp-nykl-50-sm-avby-3-mm-p79hsv",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:46.662Z"
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-14T15:52:11.977Z"
     },
     {
       "id": "68568027-8bd0-41f6-b63a-c907fae1a591",
@@ -122,8 +126,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/shrshrt-kvtsym-laylvp-nykl-60-sm-avby-4-mm-rtcdsd",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:47.315Z"
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-14T15:52:10.465Z"
     },
     {
       "id": "959a08b2-6b02-45f4-ba8b-d76e18623e15",
@@ -146,8 +152,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/shrshrt-kvtsym-laylvp-shchvr-50-sm-avby-4-mm-h6evd3",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:45.874Z"
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-14T15:52:11.864Z"
     },
     {
       "id": "3e9061e2-ceec-4fa3-816a-bb1007b2995b",
@@ -170,8 +178,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/shrshrt-aylvp-55-sm-avby-25-mm-l5tx2t",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:45.240Z"
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-14T15:52:10.819Z"
     },
     {
       "id": "6ee8af45-c8d6-4c50-bc29-85447c6c1523",
@@ -194,8 +204,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/shrshrt-aylvp-65-sm-avby-35-mm-vzf1th",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:46.412Z"
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-14T15:52:10.116Z"
     },
     {
       "id": "bfa09a8d-ca91-4b0d-8d36-da20ca9143cf",
@@ -218,8 +230,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/shrshrt-aylvp-60-sm-avby-3-mm-0ld6q9",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:45.236Z"
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-14T15:52:12.092Z"
     },
     {
       "id": "e65ce7da-ce0f-4965-9d79-cca2c5af3433",
@@ -244,8 +258,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/rtsvah-12520-sm-tsba-bz-chvm-7myf18",
-      "categories": [],
-      "updated_at": "2026-06-14T15:44:31.492Z"
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-14T15:52:11.053Z"
     },
     {
       "id": "503ee7ab-b339-48f2-85d1-2ccf0fc4a615",
@@ -270,8 +286,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/rtsvah-12520-sm-tsba-shchvr-advm-94kft0",
-      "categories": [],
-      "updated_at": "2026-06-14T15:45:13.425Z"
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-14T15:52:10.232Z"
     },
     {
       "id": "af0d2603-0b9c-4539-a7d9-c9e2f944d264",
@@ -299,7 +317,7 @@
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-06-14T15:50:48.913Z"
+      "updated_at": "2026-06-14T15:52:12.207Z"
     },
     {
       "id": "411c587a-8a8e-4910-b693-d2b74428f2c2",
@@ -322,8 +340,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/kbl-kshyrh-lklb-petsproject-avby-5-mm-avrk-9-mtr-jrforj",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:45.613Z"
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-14T15:52:10.937Z"
     },
     {
       "id": "a31edaa3-4eb0-4999-81d9-820dc79f8c58",
@@ -346,8 +366,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/kbl-kshyrh-lklb-am-kpyts-petsproject-avby-5-mm-avrk-45-mtr-9yyf9x",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:46.008Z"
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-14T15:52:10.346Z"
     },
     {
       "id": "34a235b2-bda4-49fe-8dcd-9956e1199b4c",
@@ -370,8 +392,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/kbl-kshyrh-lklb-petsproject-avby-5-mm-avrk-3-mtr-yx11ar",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:44.028Z"
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-14T15:52:11.399Z"
     },
     {
       "id": "e78999d5-2370-48b2-b1d5-ce0b35744db2",
@@ -466,8 +490,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/st-kvlrrtsvah-hdpsym-shvnym-l-kvlr-6338-sm-rtsvah-15025-sm-p8wmsa",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:41.709Z"
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-14T15:52:11.516Z"
     },
     {
       "id": "76969d00-3f0b-4a12-b8ec-b60562cdf348",
@@ -490,8 +516,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/st-kvlrrtsvah-hdpsym-shvnym-m-kvlr-4227-sm-rtsvah-15020-sm-d4epyy",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:41.665Z"
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-14T15:52:11.630Z"
     },
     {
       "id": "fc4e1ce3-58bc-47a4-9065-b39b8698c3ec",
@@ -514,8 +542,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/st-kvlrpamvnrtsvah-12010-sm-tvrkyz-yrvk-zvhr-tshvb-sgvl-viy3bu",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:43.438Z"
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-14T15:52:10.701Z"
     },
     {
       "id": "bad8310f-72e4-4f9f-a543-1656dd4ae268",
@@ -538,8 +568,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/rtsvah-nyylvn-prydvg-m-20120-yrvk-advm-shchvr-bvrdv-jtwi8g",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:43.575Z"
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-14T15:52:11.285Z"
     },
     {
       "id": "296d4164-9020-4aaf-92ff-92c71ef24e14",
@@ -562,8 +594,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/rtsvah-nyylvn-prydvg-s15120-bvrdv-tvskj1",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:43.308Z"
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-14T15:52:10.585Z"
     },
     {
       "id": "dab772b6-afae-4de3-96f3-26e3d4b0f36a",
@@ -586,8 +620,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/rtsvah-nyylvn-prydvg-xs-10120-vrvd-shchvr-kchvl-yrvk-advm-unwzuu",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:42.369Z"
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-14T15:52:11.746Z"
     },
     {
       "id": "c18b94dc-acce-48bd-83b8-3f40ea13db4f",

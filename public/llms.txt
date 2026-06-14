@@ -88,47 +88,56 @@ https://gurimbakfar.co.il/product/trsys-mrkk-lla-shtyph-lshykvm-vtsmychh-shl-hpr
 https://gurimbakfar.co.il/product/shrshrt-mptslt-l-2-klbym-50-sm-0kaw60
 - Price: 60.00 ILS
 - Availability: In stock
+- Category: קולרים ורצועות
 
 ### שרשרת קוצים לאילוף - ניקל- 50 ס"מ עובי 3 מ"מ
 https://gurimbakfar.co.il/product/shrshrt-kvtsym-laylvp-nykl-50-sm-avby-3-mm-p79hsv
 - Price: 50.00 ILS
 - Availability: In stock
+- Category: קולרים ורצועות
 
 ### שרשרת קוצים לאילוף - ניקל- 60 ס"מ עובי 4 מ"מ
 https://gurimbakfar.co.il/product/shrshrt-kvtsym-laylvp-nykl-60-sm-avby-4-mm-rtcdsd
 - Price: 55.00 ILS
 - Availability: In stock
+- Category: קולרים ורצועות
 
 ### שרשרת קוצים לאילוף - שחור- 50 ס"מ , עובי 4 מ"מ
 https://gurimbakfar.co.il/product/shrshrt-kvtsym-laylvp-shchvr-50-sm-avby-4-mm-h6evd3
 - Price: 55.00 ILS
 - Availability: In stock
+- Category: קולרים ורצועות
 
 ### שרשרת אילוף 55 ס"מ עובי 2.5 מ"מ
 https://gurimbakfar.co.il/product/shrshrt-aylvp-55-sm-avby-25-mm-l5tx2t
 - Price: 65.00 ILS
 - Availability: In stock
+- Category: קולרים ורצועות
 
 ### שרשרת אילוף 65 ס"מ עובי 3.5 מ"מ
 https://gurimbakfar.co.il/product/shrshrt-aylvp-65-sm-avby-35-mm-vzf1th
 - Price: 75.00 ILS
 - Availability: In stock
+- Category: קולרים ורצועות
 
 ### שרשרת אילוף 60 ס"מ עובי 3 מ"מ 
 https://gurimbakfar.co.il/product/shrshrt-aylvp-60-sm-avby-3-mm-0ld6q9
 - Price: 75.00 ILS
 - Availability: In stock
+- Category: קולרים ורצועות
 
 ### רצועה 125*20 ס"מ צבע בז'-חום
 https://gurimbakfar.co.il/product/rtsvah-12520-sm-tsba-bz-chvm-7myf18
 - Price: 25.00 ILS
 - Availability: In stock
+- Category: קולרים ורצועות
 - Image: https://gurimbakfar.co.il/assets/product-1781451859226-99x4mp.webp
 
 ### רצועה 125*20 ס"מ צבע שחור-אדום
 https://gurimbakfar.co.il/product/rtsvah-12520-sm-tsba-shchvr-advm-94kft0
 - Price: 25.00 ILS
 - Availability: In stock
+- Category: קולרים ורצועות
 - Image: https://gurimbakfar.co.il/assets/product-1781451901796-pntllt.webp
 
 ### כבל קשירה לכלב עם קפיץ petsproject עובי 5 מ"מ , אורך 3 מטר
@@ -142,16 +151,19 @@ https://gurimbakfar.co.il/product/kbl-kshyrh-lklb-am-kpyts-petsproject-avby-5-mm
 https://gurimbakfar.co.il/product/kbl-kshyrh-lklb-petsproject-avby-5-mm-avrk-9-mtr-jrforj
 - Price: 75.00 ILS
 - Availability: In stock
+- Category: קולרים ורצועות
 
 ### כבל קשירה לכלב עם קפיץ petsproject עובי 5 מ"מ , אורך 4.5 מטר
 https://gurimbakfar.co.il/product/kbl-kshyrh-lklb-am-kpyts-petsproject-avby-5-mm-avrk-45-mtr-9yyf9x
 - Price: 65.00 ILS
 - Availability: In stock
+- Category: קולרים ורצועות
 
 ### כבל קשירה לכלב petsproject עובי 5 מ"מ , אורך 3 מטר
 https://gurimbakfar.co.il/product/kbl-kshyrh-lklb-petsproject-avby-5-mm-avrk-3-mtr-yx11ar
 - Price: 55.00 ILS
 - Availability: In stock
+- Category: קולרים ורצועות
 
 ### חטיף סייבר דוג לכלב בטעם ברווז
 https://gurimbakfar.co.il/product/chtyp-syybr-dvg-lklb-btam-brvvz-omd53k
@@ -172,31 +184,37 @@ https://gurimbakfar.co.il/product/chtyp-syybr-dvg-lklb-btam-arnbt-q75doz
 https://gurimbakfar.co.il/product/st-kvlrrtsvah-hdpsym-shvnym-l-kvlr-6338-sm-rtsvah-15025-sm-p8wmsa
 - Price: 60.00 ILS
 - Availability: In stock
+- Category: קולרים ורצועות
 
 ### סט קולר+רצועה הדפסים שונים M (קולר 42*27 ס"מ - רצועה 150*20 ס"מ)
 https://gurimbakfar.co.il/product/st-kvlrrtsvah-hdpsym-shvnym-m-kvlr-4227-sm-rtsvah-15020-sm-d4epyy
 - Price: 60.00 ILS
 - Availability: In stock
+- Category: קולרים ורצועות
 
 ### סט קולר+פעמון+רצועה 120*10 ס"מ טורקיז, ירוק זוהר, צהוב, סגול
 https://gurimbakfar.co.il/product/st-kvlrpamvnrtsvah-12010-sm-tvrkyz-yrvk-zvhr-tshvb-sgvl-viy3bu
 - Price: 20.00 ILS
 - Availability: In stock
+- Category: קולרים ורצועות
 
 ### רצועה ניילון פרידוג M 20*120 ירוק, אדום, שחור, בורדו 
 https://gurimbakfar.co.il/product/rtsvah-nyylvn-prydvg-m-20120-yrvk-advm-shchvr-bvrdv-jtwi8g
 - Price: 33.00 ILS
 - Availability: In stock
+- Category: קולרים ורצועות
 
 ### רצועה ניילון פרידוג S15*120 בורדו
 https://gurimbakfar.co.il/product/rtsvah-nyylvn-prydvg-s15120-bvrdv-tvskj1
 - Price: 30.00 ILS
 - Availability: In stock
+- Category: קולרים ורצועות
 
 ### רצועה ניילון פרידוג XS 10*120 ורוד, שחור, כחול, ירוק, אדום
 https://gurimbakfar.co.il/product/rtsvah-nyylvn-prydvg-xs-10120-vrvd-shchvr-kchvl-yrvk-advm-unwzuu
 - Price: 20.00 ILS
 - Availability: In stock
+- Category: קולרים ורצועות
 
 ### גדר אילוף 121 ס"מ
 https://gurimbakfar.co.il/product/gdr-aylvp-121-sm-0gc5mn
