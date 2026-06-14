@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T10:36:24.397Z",
+  "generated_at": "2026-06-14T10:40:00.768Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 174,
@@ -4344,12 +4344,12 @@
     },
     {
       "id": "6f3d8244-352e-47f3-a868-e6122798ddd3",
-      "slug": "mshgr-kdvr-tnys-freedog-3294e6",
+      "slug": "mshgr-kdvr-tnys-freedog-swsjeh",
       "name": "משגר כדור טניס freedog",
       "name_translations": {
         "en": "freedog tennis ball launcher",
         "he": "משגר כדור טניס freedog",
-        "ru": "Метатель теннисного мяча freedog"
+        "ru": "Метатель теннисных мячей freedog"
       },
       "description": "",
       "short_description": null,
@@ -4360,15 +4360,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860619761-5gpgv.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781433553180-62mwhf.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mshgr-kdvr-tnys-freedog-3294e6",
+      "url": "https://gurimbakfar.co.il/product/mshgr-kdvr-tnys-freedog-swsjeh",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-07T19:30:29.798Z"
+      "updated_at": "2026-06-14T10:39:29.696Z"
     },
     {
       "id": "cf3757f2-c465-48d3-b4a7-ba4fa6063a35",
