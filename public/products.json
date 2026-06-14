@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T15:01:19.456Z",
+  "generated_at": "2026-06-14T15:02:37.742Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 173,
@@ -3225,7 +3225,7 @@
     },
     {
       "id": "1d715d41-4809-4c5e-a304-39c4cce97e63",
-      "slug": "mbrsht-freedog-8lsz1h",
+      "slug": "mbrsht-freedog-ip8x9x",
       "name": "מברשת freedog",
       "name_translations": {
         "en": "freedog brush",
@@ -3241,15 +3241,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860637171-62wf4a.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781449317230-uuzxmq.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mbrsht-freedog-8lsz1h",
+      "url": "https://gurimbakfar.co.il/product/mbrsht-freedog-ip8x9x",
       "categories": [
         "מוצרי טיפוח"
       ],
-      "updated_at": "2026-06-07T19:30:52.616Z"
+      "updated_at": "2026-06-14T15:02:06.732Z"
     },
     {
       "id": "afeee588-1a73-43f0-85ab-e00127be2349",
