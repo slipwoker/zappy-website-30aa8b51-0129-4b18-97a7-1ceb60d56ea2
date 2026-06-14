@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T15:57:08.359Z",
+  "generated_at": "2026-06-14T15:59:07.966Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 173,
@@ -325,12 +325,12 @@
     },
     {
       "id": "411c587a-8a8e-4910-b693-d2b74428f2c2",
-      "slug": "kbl-kshyrh-lklb-petsproject-avby-5-mm-avrk-9-mtr-jrforj",
+      "slug": "kbl-kshyrh-lklb-petsproject-avby-5-mm-avrk-9-mtr-3bufdb",
       "name": "כבל קשירה לכלב petsproject עובי 5 ממ אורך 9 מטר",
       "name_translations": {
-        "en": "Dog tie-out cable petsproject 5mm thickness 9 meter length",
+        "en": "Dog tie-out cable petsproject 5mm thick 9 meter length",
         "he": "כבל קשירה לכלב petsproject עובי 5 ממ אורך 9 מטר",
-        "ru": "Поводок для собак petsproject толщина 5 мм длина 9 метров"
+        "ru": "Поводок для собак petsproject толщиной 5 мм длиной 9 метров"
       },
       "description": "",
       "short_description": null,
@@ -340,14 +340,16 @@
       "base_price": 75,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781452681353-x7i6vv.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kbl-kshyrh-lklb-petsproject-avby-5-mm-avrk-9-mtr-jrforj",
+      "url": "https://gurimbakfar.co.il/product/kbl-kshyrh-lklb-petsproject-avby-5-mm-avrk-9-mtr-3bufdb",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-06-14T15:52:10.937Z"
+      "updated_at": "2026-06-14T15:58:59.765Z"
     },
     {
       "id": "a31edaa3-4eb0-4999-81d9-820dc79f8c58",
