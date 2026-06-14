@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T10:42:21.528Z",
+  "generated_at": "2026-06-14T10:42:56.616Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 174,
@@ -4204,12 +4204,12 @@
     },
     {
       "id": "951cd501-b239-4ecc-827b-334e6e3ec787",
-      "slug": "msrk-gbhym-mshtnym-rkvrd-aevtrt",
+      "slug": "msrk-gbhym-mshtnym-rkvrd-yemjg2",
       "name": "מסרק גבהים משתנים רקורד",
       "name_translations": {
         "en": "Variable Height Comb Record",
         "he": "מסרק גבהים משתנים רקורד",
-        "ru": "Расческа с изменяемой высотой зубцов Рекорд"
+        "ru": "Расческа с регулируемой высотой зубцов Рекорд"
       },
       "description": "",
       "short_description": null,
@@ -4220,15 +4220,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860623551-z1xrg.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781433733854-rfiul.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/msrk-gbhym-mshtnym-rkvrd-aevtrt",
+      "url": "https://gurimbakfar.co.il/product/msrk-gbhym-mshtnym-rkvrd-yemjg2",
       "categories": [
         "מוצרי טיפוח"
       ],
-      "updated_at": "2026-06-07T19:30:31.779Z"
+      "updated_at": "2026-06-14T10:42:25.527Z"
     },
     {
       "id": "ae011526-b18b-45d6-9252-d510568233d1",
