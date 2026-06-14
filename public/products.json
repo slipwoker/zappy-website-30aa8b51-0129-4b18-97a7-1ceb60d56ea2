@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T10:47:39.581Z",
+  "generated_at": "2026-06-14T10:48:32.588Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 174,
@@ -4008,7 +4008,7 @@
     },
     {
       "id": "6a5df1cd-2053-4544-a02f-cdc1101566cf",
-      "slug": "arkt-tschtsvch-shynyym-lklbym-btam-avp-1adlrz",
+      "slug": "arkt-tschtsvch-shynyym-lklbym-btam-avp-jqa7h1",
       "name": "ערכת צחצוח שיניים לכלבים בטעם עוף",
       "name_translations": {
         "en": "Dog Teeth Brushing Kit with Chicken Flavor",
@@ -4024,15 +4024,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860624361-q0gsv.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781434062728-mt2u4b.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/arkt-tschtsvch-shynyym-lklbym-btam-avp-1adlrz",
+      "url": "https://gurimbakfar.co.il/product/arkt-tschtsvch-shynyym-lklbym-btam-avp-jqa7h1",
       "categories": [
         "מוצרי טיפוח"
       ],
-      "updated_at": "2026-06-07T19:30:33.473Z"
+      "updated_at": "2026-06-14T10:48:00.333Z"
     },
     {
       "id": "20e89147-a177-4a46-9b6a-5ee905601f16",
