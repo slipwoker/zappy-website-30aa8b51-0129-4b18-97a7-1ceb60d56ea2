@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T15:14:27.008Z",
+  "generated_at": "2026-06-14T15:16:19.661Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 173,
@@ -3503,7 +3503,7 @@
     },
     {
       "id": "ed32df85-0cf6-44d0-b020-81fe5010e5ae",
-      "slug": "shmn-byshvm-lbaly-chyym-pure-nc2r5e",
+      "slug": "shmn-byshvm-lbaly-chyym-pure-dkdfjf",
       "name": "שמן בישום לבעלי חיים PURE",
       "name_translations": {
         "en": "PURE Scented Oil for Pets",
@@ -3523,11 +3523,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/shmn-byshvm-lbaly-chyym-pure-nc2r5e",
+      "url": "https://gurimbakfar.co.il/product/shmn-byshvm-lbaly-chyym-pure-dkdfjf",
       "categories": [
         "מוצרי טיפוח"
       ],
-      "updated_at": "2026-06-14T15:13:56.023Z"
+      "updated_at": "2026-06-14T15:15:47.404Z"
     },
     {
       "id": "ef1cdd40-7b42-4d0c-83df-7620f3e651b5",
