@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T15:28:33.158Z",
+  "generated_at": "2026-06-14T15:30:59.388Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 173,
@@ -3697,7 +3697,7 @@
     },
     {
       "id": "51fb2023-c622-4610-83b8-133ab9f6daef",
-      "slug": "chbl-xs-djfwg4",
+      "slug": "chbl-xs-fxzwb0",
       "name": "חבל XS",
       "name_translations": {
         "en": "XS Rope",
@@ -3713,15 +3713,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860628455-4vt8h.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781450912224-7i6kmq.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chbl-xs-djfwg4",
+      "url": "https://gurimbakfar.co.il/product/chbl-xs-fxzwb0",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-07T19:30:41.508Z"
+      "updated_at": "2026-06-14T15:30:28.352Z"
     },
     {
       "id": "5e25814e-213d-4d25-a117-4bc3ed2b9a4a",
