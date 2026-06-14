@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T10:43:36.443Z",
+  "generated_at": "2026-06-14T10:44:11.984Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 174,
@@ -4148,7 +4148,7 @@
     },
     {
       "id": "b201f23a-1ba4-4177-8145-6bd05dfc7562",
-      "slug": "tsatsva-avvz-mtsptsp-29pq6q",
+      "slug": "tsatsva-avvz-mtsptsp-qha35i",
       "name": "צעצוע אווז מצפצף",
       "name_translations": {
         "en": "Squeaky Goose Toy",
@@ -4164,15 +4164,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860623610-z8mgn.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781433811828-8zq6op.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/tsatsva-avvz-mtsptsp-29pq6q",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-avvz-mtsptsp-qha35i",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-07T19:30:32.177Z"
+      "updated_at": "2026-06-14T10:43:41.055Z"
     },
     {
       "id": "c663dce8-7e6e-4070-afc9-4402d426a535",
