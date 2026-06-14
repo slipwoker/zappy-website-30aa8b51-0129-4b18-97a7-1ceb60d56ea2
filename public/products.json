@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T10:46:53.652Z",
+  "generated_at": "2026-06-14T10:47:39.581Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 174,
@@ -4036,12 +4036,12 @@
     },
     {
       "id": "20e89147-a177-4a46-9b6a-5ee905601f16",
-      "slug": "chbl-s-f7ddm1",
+      "slug": "chbl-s-vx7dpr",
       "name": "חבל S",
       "name_translations": {
         "en": "S Rope",
         "he": "חבל S",
-        "ru": "Веревка S"
+        "ru": "Канат S"
       },
       "description": "",
       "short_description": null,
@@ -4052,15 +4052,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860624361-j2vxh.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781434018395-zc2gy.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chbl-s-f7ddm1",
+      "url": "https://gurimbakfar.co.il/product/chbl-s-vx7dpr",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-07T19:30:33.469Z"
+      "updated_at": "2026-06-14T10:47:08.638Z"
     },
     {
       "id": "65c1428a-deae-46ed-89ec-e92b8b046df8",
