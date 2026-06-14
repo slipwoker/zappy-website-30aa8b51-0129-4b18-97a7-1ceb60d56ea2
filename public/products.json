@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T12:42:45.415Z",
+  "generated_at": "2026-06-14T12:44:17.802Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 174,
@@ -2901,7 +2901,7 @@
     },
     {
       "id": "cb07cd49-f9b9-4232-9459-86cc86a8a08d",
-      "slug": "hnrys-gydy-baplv-uf8ifz",
+      "slug": "hnrys-gydy-baplv-d1ih0e",
       "name": "הנריס גידי באפלו",
       "name_translations": {
         "en": "Harris Goat Buffalo",
@@ -2917,15 +2917,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860641488-q9of7o.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781440962153-7zaog1.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/hnrys-gydy-baplv-uf8ifz",
+      "url": "https://gurimbakfar.co.il/product/hnrys-gydy-baplv-d1ih0e",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-06-07T19:31:07.349Z"
+      "updated_at": "2026-06-14T12:43:13.653Z"
     },
     {
       "id": "c87b4cd6-439b-44fc-9ea5-95651f44005c",
