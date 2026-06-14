@@ -72,7 +72,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 174**
+**Total active products: 173**
 
 ### תרסיס מרכך ללא שטיפה מיועד לעידוד צמיחת פרווה TAURO
 https://gurimbakfar.co.il/product/trsys-mrkk-lla-shtyph-myvad-laydvd-tsmycht-prvvh-tauro-mx70iz
@@ -709,13 +709,6 @@ https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-klb-i52pjt
 - Availability: In stock
 - Category: צעצועים
 
-### בובות לכלבים צוואר חבל - פרה
-https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-prh-n9j1t1
-- Price: 35.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-1780860641488-ncg868.webp
-
 ### הנריס גידי באפלו
 https://gurimbakfar.co.il/product/hnrys-gydy-baplv-d1ih0e
 - Price: 26.00 ILS
@@ -961,11 +954,11 @@ https://gurimbakfar.co.il/product/mbrsht-avblyt-ktnh-rkvrd-in47qc
 - Image: https://gurimbakfar.co.il/assets/product-1780860628459-llpbw.webp
 
 ### הנריס בולי סטיק
-https://gurimbakfar.co.il/product/hnrys-bvly-styk-iha8s1
+https://gurimbakfar.co.il/product/hnrys-bvly-styk-vp0jgi
 - Price: 39.00 ILS
 - Availability: In stock
 - Category: חטיפים
-- Image: https://gurimbakfar.co.il/assets/product-1780860628455-qb7uxl.webp
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449138802-xuj7sa.webp
 
 ### בובות לכלבים צוואר חבל חיות
 https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-chyvt-2akabn

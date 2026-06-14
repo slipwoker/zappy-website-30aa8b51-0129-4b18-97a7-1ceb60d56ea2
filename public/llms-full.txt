@@ -7554,13 +7554,6 @@ Availability: In stock
 
 ---
 
-### בובות לכלבים צוואר חבל - פרה
-URL: https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-prh-n9j1t1
-Price: 35.00 ILS
-Availability: In stock
-
----
-
 ### הנריס גידי באפלו
 URL: https://gurimbakfar.co.il/product/hnrys-gydy-baplv-d1ih0e
 Price: 26.00 ILS
@@ -7814,7 +7807,7 @@ Availability: In stock
 ---
 
 ### הנריס בולי סטיק
-URL: https://gurimbakfar.co.il/product/hnrys-bvly-styk-iha8s1
+URL: https://gurimbakfar.co.il/product/hnrys-bvly-styk-vp0jgi
 Price: 39.00 ILS
 Availability: In stock
 
