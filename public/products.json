@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T15:31:45.764Z",
+  "generated_at": "2026-06-14T15:32:29.061Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 173,
@@ -3753,10 +3753,10 @@
     },
     {
       "id": "edaeb3d7-a15d-49c6-9c12-2df079674da0",
-      "slug": "mshchk-haklh-mtglgl-z992o2",
+      "slug": "mshchk-haklh-mtglgl-4izint",
       "name": "משחק האכלה מתגלגל",
       "name_translations": {
-        "en": "Rolling Feeding Game",
+        "en": "Rolling Feeding Toy",
         "he": "משחק האכלה מתגלגל",
         "ru": "Катающаяся игрушка-кормушка"
       },
@@ -3769,15 +3769,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860627838-svu9el.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781451109152-gbvitw.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mshchk-haklh-mtglgl-z992o2",
+      "url": "https://gurimbakfar.co.il/product/mshchk-haklh-mtglgl-4izint",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-07T19:30:37.193Z"
+      "updated_at": "2026-06-14T15:31:58.015Z"
     },
     {
       "id": "b0755a5f-ef0d-488f-970d-9356e416bbc4",
