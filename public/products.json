@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T10:46:15.199Z",
+  "generated_at": "2026-06-14T10:46:53.652Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 174,
@@ -4064,7 +4064,7 @@
     },
     {
       "id": "65c1428a-deae-46ed-89ec-e92b8b046df8",
-      "slug": "brvvz-mtsptsp-m-s3fii0",
+      "slug": "brvvz-mtsptsp-m-o4vroa",
       "name": "ברווז מצפצף M",
       "name_translations": {
         "en": "Squeaky Duck M",
@@ -4080,15 +4080,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860624362-62hv6k.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781433973805-es62mg.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/brvvz-mtsptsp-m-s3fii0",
+      "url": "https://gurimbakfar.co.il/product/brvvz-mtsptsp-m-o4vroa",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-07T19:30:31.285Z"
+      "updated_at": "2026-06-14T10:46:22.604Z"
     },
     {
       "id": "71fdf555-348e-48df-82fe-b7a8ea399a15",
