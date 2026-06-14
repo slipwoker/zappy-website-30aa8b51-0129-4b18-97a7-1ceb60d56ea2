@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T15:53:15.059Z",
+  "generated_at": "2026-06-14T15:54:35.505Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 173,
@@ -422,8 +422,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-syybr-dvg-lklb-btam-brvvz-omd53k",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:43.549Z"
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-06-14T15:54:04.430Z"
     },
     {
       "id": "04dbe20f-0383-4e14-8ee7-c088a77b1d0b",
@@ -446,8 +448,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-syybr-dvg-lklb-btam-slmvn-afq82d",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:43.542Z"
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-06-14T15:54:04.538Z"
     },
     {
       "id": "ec89e4a2-8413-47db-accf-731db4654712",
@@ -470,8 +474,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-syybr-dvg-lklb-btam-arnbt-q75doz",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:42.141Z"
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-06-14T15:54:04.320Z"
     },
     {
       "id": "820f524d-a64c-4220-887b-d312863d1f7a",
@@ -890,8 +896,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/hnrys-chmat-bvtnym-tbayt-qkid62",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:41.512Z"
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-06-14T15:54:04.211Z"
     },
     {
       "id": "b91d8b66-5179-44d7-b395-c0304740c348",
@@ -1336,8 +1344,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtypy-bvsh-lklbym-btam-avp-vmngv-200-gr-ryz74b",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:34.361Z"
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-06-14T15:54:04.103Z"
     },
     {
       "id": "2056a37f-9f4d-4473-b16d-7a3dc14bdebe",
