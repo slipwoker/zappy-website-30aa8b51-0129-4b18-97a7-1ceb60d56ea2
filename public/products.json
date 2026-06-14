@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T10:44:11.984Z",
+  "generated_at": "2026-06-14T10:45:00.298Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 174,
@@ -4120,7 +4120,7 @@
     },
     {
       "id": "07c0de94-5bbd-4b82-b34b-d37e294899db",
-      "slug": "tsatsva-mshykh-q3tqkk",
+      "slug": "tsatsva-mshykh-09d80q",
       "name": "צעצוע משיכה",
       "name_translations": {
         "en": "Pull Toy",
@@ -4136,15 +4136,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860623550-kzznzb.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781433846516-n8ksvk.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/tsatsva-mshykh-q3tqkk",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-mshykh-09d80q",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-07T19:30:33.466Z"
+      "updated_at": "2026-06-14T10:44:29.295Z"
     },
     {
       "id": "b201f23a-1ba4-4177-8145-6bd05dfc7562",
