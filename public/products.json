@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T15:52:43.394Z",
+  "generated_at": "2026-06-14T15:53:15.059Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 173,
@@ -26,8 +26,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/trsys-mrkk-lla-shtyph-myvad-laydvd-tsmycht-prvvh-tauro-mx70iz",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:48.659Z"
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-14T15:52:43.262Z"
     },
     {
       "id": "4fef1902-4603-4247-ba81-97339a47d2ae",
@@ -50,8 +52,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/trsys-mrkk-lla-shtyph-lshykvm-vtsmychh-shl-hprvvh-tauro-7b2du2",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:47.371Z"
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-14T15:52:43.154Z"
     },
     {
       "id": "836e5f38-df1b-4533-8a1f-9ffddbc4f78c",
