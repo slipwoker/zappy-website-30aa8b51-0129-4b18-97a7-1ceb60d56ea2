@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T15:38:43.029Z",
+  "generated_at": "2026-06-14T15:39:27.312Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 173,
@@ -3924,7 +3924,7 @@
     },
     {
       "id": "44683ae0-d9f7-4718-84ce-d2282b3cda10",
-      "slug": "hnrys-dgym-shlmym-loxnnh",
+      "slug": "hnrys-dgym-shlmym-jc6752",
       "name": "הנריס דגים שלמים",
       "name_translations": {
         "en": "Harris Whole Fish",
@@ -3940,15 +3940,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860627819-ja7epo.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781451525050-euhnz.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/hnrys-dgym-shlmym-loxnnh",
+      "url": "https://gurimbakfar.co.il/product/hnrys-dgym-shlmym-jc6752",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-06-07T19:30:35.005Z"
+      "updated_at": "2026-06-14T15:38:56.315Z"
     },
     {
       "id": "df1532c4-011b-43a1-bc4d-9493fb8979bb",
