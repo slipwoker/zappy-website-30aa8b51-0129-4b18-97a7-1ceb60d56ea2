@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T15:45:44.325Z",
+  "generated_at": "2026-06-14T15:51:20.112Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 173,
@@ -275,12 +275,12 @@
     },
     {
       "id": "af0d2603-0b9c-4539-a7d9-c9e2f944d264",
-      "slug": "kbl-kshyrh-lklb-am-kpyts-petsproject-avby-5-mm-avrk-3-mtr-vvy1ez",
+      "slug": "kbl-kshyrh-lklb-am-kpyts-petsproject-avby-5-mm-avrk-3-mtr-3ae80s",
       "name": "כבל קשירה לכלב עם קפיץ petsproject עובי 5 מ\"מ , אורך 3 מטר",
       "name_translations": {
-        "en": "Dog tie cable with spring petsproject 5mm thickness, 3 meter length",
+        "en": "Dog tie cable with spring petsproject thickness 5 mm, length 3 meters",
         "he": "כבל קשירה לכלב עם קפיץ petsproject עובי 5 מ\"מ , אורך 3 מטר",
-        "ru": "Поводок для собаки с пружиной petsproject толщина 5 мм, длина 3 метра"
+        "ru": "Поводок для собак с пружиной petsproject толщина 5 мм, длина 3 метра"
       },
       "description": "",
       "short_description": null,
@@ -290,12 +290,16 @@
       "base_price": 55,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781452222261-so4quj.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kbl-kshyrh-lklb-am-kpyts-petsproject-avby-5-mm-avrk-3-mtr-vvy1ez",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:45.132Z"
+      "url": "https://gurimbakfar.co.il/product/kbl-kshyrh-lklb-am-kpyts-petsproject-avby-5-mm-avrk-3-mtr-3ae80s",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-06-14T15:50:48.913Z"
     },
     {
       "id": "411c587a-8a8e-4910-b693-d2b74428f2c2",
