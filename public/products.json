@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T15:32:29.061Z",
+  "generated_at": "2026-06-14T15:37:25.823Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 173,
@@ -3781,7 +3781,7 @@
     },
     {
       "id": "b0755a5f-ef0d-488f-970d-9356e416bbc4",
-      "slug": "trsys-byshvm-petglow-ngmdz6",
+      "slug": "trsys-byshvm-petglow-8o1uv3",
       "name": "תרסיס בישום petglow",
       "name_translations": {
         "en": "petglow perfume spray",
@@ -3797,15 +3797,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860628460-0hvejn.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781451149225-d25pcr.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/trsys-byshvm-petglow-ngmdz6",
+      "url": "https://gurimbakfar.co.il/product/trsys-byshvm-petglow-8o1uv3",
       "categories": [
         "מוצרי טיפוח"
       ],
-      "updated_at": "2026-06-07T19:30:42.813Z"
+      "updated_at": "2026-06-14T15:36:54.907Z"
     },
     {
       "id": "8b0fe407-42ed-4b53-9c9f-3d2f751189f0",
