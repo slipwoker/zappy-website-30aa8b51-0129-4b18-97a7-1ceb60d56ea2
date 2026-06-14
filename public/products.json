@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T14:59:54.991Z",
+  "generated_at": "2026-06-14T15:00:39.529Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 173,
@@ -3837,7 +3837,7 @@
     },
     {
       "id": "ba5aa8fc-ac76-4f0f-b354-27e48fb3793d",
-      "slug": "mbrsht-avblyt-ktnh-rkvrd-in47qc",
+      "slug": "mbrsht-avblyt-ktnh-rkvrd-4q0chf",
       "name": "מברשת אובלית קטנה רקורד",
       "name_translations": {
         "en": "Record Small Oval Brush",
@@ -3853,15 +3853,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860628459-llpbw.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781449198949-fg4h4.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mbrsht-avblyt-ktnh-rkvrd-in47qc",
+      "url": "https://gurimbakfar.co.il/product/mbrsht-avblyt-ktnh-rkvrd-4q0chf",
       "categories": [
         "מוצרי טיפוח"
       ],
-      "updated_at": "2026-06-07T19:30:37.194Z"
+      "updated_at": "2026-06-14T15:00:08.345Z"
     },
     {
       "id": "ae83648a-20cd-4e87-a129-0b2adc505923",
