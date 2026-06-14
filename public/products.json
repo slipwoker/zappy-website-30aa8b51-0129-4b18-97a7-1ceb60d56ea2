@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T15:02:37.742Z",
+  "generated_at": "2026-06-14T15:03:25.039Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 173,
@@ -3197,7 +3197,7 @@
     },
     {
       "id": "f6bedaf8-2b0a-4bcb-9133-c0f3dddbf18f",
-      "slug": "mbrsht-avnybrslyt-kshh-advmh-sci8nr",
+      "slug": "mbrsht-avnybrslyt-kshh-advmh-hylkbr",
       "name": "מברשת אוניברסלית קשה אדומה",
       "name_translations": {
         "en": "Universal Hard Brush Red",
@@ -3213,15 +3213,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860637171-85xc9h.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781449364410-36grpk.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mbrsht-avnybrslyt-kshh-advmh-sci8nr",
+      "url": "https://gurimbakfar.co.il/product/mbrsht-avnybrslyt-kshh-advmh-hylkbr",
       "categories": [
         "מוצרי טיפוח"
       ],
-      "updated_at": "2026-06-07T19:30:52.658Z"
+      "updated_at": "2026-06-14T15:02:53.848Z"
     },
     {
       "id": "1d715d41-4809-4c5e-a304-39c4cce97e63",
