@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T15:19:42.851Z",
+  "generated_at": "2026-06-14T15:23:53.352Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 173,
@@ -3557,7 +3557,7 @@
     },
     {
       "id": "07fa6317-bfa8-4939-aed7-f8aa6fd0f104",
-      "slug": "tbat-laymvn-klbym-ekj06d",
+      "slug": "tbat-laymvn-klbym-4g5jxq",
       "name": "טבעת לאימון כלבים",
       "name_translations": {
         "en": "Dog Training Ring",
@@ -3573,15 +3573,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860631721-ti59r.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781450589408-99unfi.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/tbat-laymvn-klbym-ekj06d",
+      "url": "https://gurimbakfar.co.il/product/tbat-laymvn-klbym-4g5jxq",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-07T19:30:41.871Z"
+      "updated_at": "2026-06-14T15:23:22.191Z"
     },
     {
       "id": "1895a3a9-0487-4a66-a781-37b414e77f79",
