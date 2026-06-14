@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T15:25:22.839Z",
+  "generated_at": "2026-06-14T15:28:33.158Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 173,
@@ -3613,12 +3613,12 @@
     },
     {
       "id": "6f96dbb2-0aff-4568-b6d4-99c82ebb1c60",
-      "slug": "tsatsva-tmnvn-ktyph-mrshrsh-am-tsptsph-8p5jn8",
+      "slug": "tsatsva-tmnvn-ktyph-mrshrsh-am-tsptsph-osq2dp",
       "name": "צעצוע תמנון קטיפה מרשרש עם צפצפה",
       "name_translations": {
         "en": "Plush Octopus Toy with Rattle and Squeaker",
         "he": "צעצוע תמנון קטיפה מרשרש עם צפצפה",
-        "ru": "Игрушка осьминог плюшевый шуршащий со свистком"
+        "ru": "Игрушка осьминог из плюша шуршащий со свистком"
       },
       "description": "",
       "short_description": null,
@@ -3629,15 +3629,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860631721-ewchzd.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781450720393-qzfqi8.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/tsatsva-tmnvn-ktyph-mrshrsh-am-tsptsph-8p5jn8",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-tmnvn-ktyph-mrshrsh-am-tsptsph-osq2dp",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-07T19:30:42.149Z"
+      "updated_at": "2026-06-14T15:28:02.019Z"
     },
     {
       "id": "c9b23a8d-b209-481f-99c0-0c8eb8e1221d",
