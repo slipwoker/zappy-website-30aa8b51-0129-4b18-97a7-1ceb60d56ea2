@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T10:41:07.720Z",
+  "generated_at": "2026-06-14T10:41:46.627Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 174,
@@ -4260,7 +4260,7 @@
     },
     {
       "id": "2f74cf6f-922f-4bf6-9e3b-781ba52ab28f",
-      "slug": "kvtsts-tsypvrnyym-vptsyrh-jqruk2",
+      "slug": "kvtsts-tsypvrnyym-vptsyrh-866o1z",
       "name": "קוצץ ציפורניים ופצירה",
       "name_translations": {
         "en": "Nail Clipper and File",
@@ -4276,15 +4276,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860620281-igkob.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781433663869-9f8vdj.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kvtsts-tsypvrnyym-vptsyrh-jqruk2",
+      "url": "https://gurimbakfar.co.il/product/kvtsts-tsypvrnyym-vptsyrh-866o1z",
       "categories": [
         "מוצרי טיפוח"
       ],
-      "updated_at": "2026-06-07T19:30:29.801Z"
+      "updated_at": "2026-06-14T10:41:15.626Z"
     },
     {
       "id": "8c43f715-55eb-4ecb-9e9b-c7944a59b627",
