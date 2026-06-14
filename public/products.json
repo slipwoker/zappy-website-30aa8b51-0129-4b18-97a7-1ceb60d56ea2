@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T15:23:53.352Z",
+  "generated_at": "2026-06-14T15:25:22.839Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 173,
@@ -3585,7 +3585,7 @@
     },
     {
       "id": "1895a3a9-0487-4a66-a781-37b414e77f79",
-      "slug": "mshkvlt-gvmy-dntlyt-33mkht",
+      "slug": "mshkvlt-gvmy-dntlyt-i3kjv5",
       "name": "משקולת גומי דנטלית",
       "name_translations": {
         "en": "Rubber Dental Weight",
@@ -3601,15 +3601,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860631777-5zfndc.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781450631767-q4nqtm.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mshkvlt-gvmy-dntlyt-33mkht",
+      "url": "https://gurimbakfar.co.il/product/mshkvlt-gvmy-dntlyt-i3kjv5",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-07T19:30:41.873Z"
+      "updated_at": "2026-06-14T15:24:51.942Z"
     },
     {
       "id": "6f96dbb2-0aff-4568-b6d4-99c82ebb1c60",
