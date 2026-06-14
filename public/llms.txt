@@ -72,7 +72,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 173**
+**Total active products: 172**
 
 ### תרסיס מרכך ללא שטיפה מיועד לעידוד צמיחת פרווה TAURO
 https://gurimbakfar.co.il/product/trsys-mrkk-lla-shtyph-myvad-laydvd-tsmycht-prvvh-tauro-mx70iz
@@ -159,12 +159,6 @@ https://gurimbakfar.co.il/product/kbl-kshyrh-lklb-petsproject-avby-5-mm-avrk-9-m
 ### כבל קשירה לכלב עם קפיץ petsproject עובי 5 מ"מ , אורך 4.5 מטר
 https://gurimbakfar.co.il/product/kbl-kshyrh-lklb-am-kpyts-petsproject-avby-5-mm-avrk-45-mtr-9yyf9x
 - Price: 65.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
-
-### כבל קשירה לכלב petsproject עובי 5 מ"מ , אורך 3 מטר
-https://gurimbakfar.co.il/product/kbl-kshyrh-lklb-petsproject-avby-5-mm-avrk-3-mtr-yx11ar
-- Price: 55.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 
