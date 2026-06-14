@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T15:00:39.529Z",
+  "generated_at": "2026-06-14T15:01:19.456Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 173,
@@ -3115,7 +3115,7 @@
     },
     {
       "id": "6e7f2bea-1f23-458e-adb4-beaed83468f6",
-      "slug": "arkt-tschtsvch-shynyym-lklbym-kvll-mshchh-mbrsht-vatsbavn-ahpb3y",
+      "slug": "arkt-tschtsvch-shynyym-lklbym-kvll-mshchh-mbrsht-vatsbavn-q70cyp",
       "name": "ערכת צחצוח שיניים לכלבים כולל משחה, מברשת ואצבעון",
       "name_translations": {
         "en": "Dog teeth cleaning kit including toothpaste, brush and finger brush",
@@ -3131,15 +3131,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860637172-n8ofim.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781449239449-isaixh.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/arkt-tschtsvch-shynyym-lklbym-kvll-mshchh-mbrsht-vatsbavn-ahpb3y",
+      "url": "https://gurimbakfar.co.il/product/arkt-tschtsvch-shynyym-lklbym-kvll-mshchh-mbrsht-vatsbavn-q70cyp",
       "categories": [
         "מוצרי טיפוח"
       ],
-      "updated_at": "2026-06-07T19:30:58.269Z"
+      "updated_at": "2026-06-14T15:00:48.464Z"
     },
     {
       "id": "b23a78ad-2d12-49cb-a6b5-bef1d56b0f6a",
