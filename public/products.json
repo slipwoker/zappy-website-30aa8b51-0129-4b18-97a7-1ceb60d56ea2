@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T15:03:25.039Z",
+  "generated_at": "2026-06-14T15:04:07.983Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 173,
@@ -3253,7 +3253,7 @@
     },
     {
       "id": "afeee588-1a73-43f0-85ab-e00127be2349",
-      "slug": "kdvr-mshchk-alsty-77wwbq",
+      "slug": "kdvr-mshchk-alsty-gauldp",
       "name": "כדור משחק אלסטי",
       "name_translations": {
         "en": "Elastic Play Ball",
@@ -3269,15 +3269,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860637171-2dg248.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781449405837-ddn8wk.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kdvr-mshchk-alsty-77wwbq",
+      "url": "https://gurimbakfar.co.il/product/kdvr-mshchk-alsty-gauldp",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-07T19:30:50.256Z"
+      "updated_at": "2026-06-14T15:03:36.815Z"
     },
     {
       "id": "2bec6b43-e054-4315-950d-7f9ae606c7e0",
