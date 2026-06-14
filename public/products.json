@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T15:04:07.983Z",
+  "generated_at": "2026-06-14T15:07:55.430Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 173,
@@ -3281,7 +3281,7 @@
     },
     {
       "id": "2bec6b43-e054-4315-950d-7f9ae606c7e0",
-      "slug": "mshcht-shynyym-bioline-z9tzy1",
+      "slug": "mshcht-shynyym-bioline-d64o17",
       "name": "משחת שיניים bioline",
       "name_translations": {
         "en": "bioline toothpaste",
@@ -3297,15 +3297,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860636318-9q0jzs.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781449468516-kivhhc.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mshcht-shynyym-bioline-z9tzy1",
+      "url": "https://gurimbakfar.co.il/product/mshcht-shynyym-bioline-d64o17",
       "categories": [
         "מוצרי טיפוח"
       ],
-      "updated_at": "2026-06-07T19:30:55.254Z"
+      "updated_at": "2026-06-14T15:07:24.508Z"
     },
     {
       "id": "08e5bd94-8228-47b4-a526-20813848acf4",
