@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T10:45:00.298Z",
+  "generated_at": "2026-06-14T10:46:15.199Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 174,
@@ -4092,7 +4092,7 @@
     },
     {
       "id": "71fdf555-348e-48df-82fe-b7a8ea399a15",
-      "slug": "mgsh-pdym-laylvp-klbym-6o6b6c",
+      "slug": "mgsh-pdym-laylvp-klbym-nas8ox",
       "name": "מגש פדים לאילוף כלבים",
       "name_translations": {
         "en": "Dog Training Pad Tray",
@@ -4108,15 +4108,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860624361-i5eiwl.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781433928708-4ctdd3.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mgsh-pdym-laylvp-klbym-6o6b6c",
+      "url": "https://gurimbakfar.co.il/product/mgsh-pdym-laylvp-klbym-nas8ox",
       "categories": [
         "אביזרים"
       ],
-      "updated_at": "2026-06-07T19:30:31.429Z"
+      "updated_at": "2026-06-14T10:45:44.109Z"
     },
     {
       "id": "07c0de94-5bbd-4b82-b34b-d37e294899db",
