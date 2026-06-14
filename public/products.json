@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T15:10:47.022Z",
+  "generated_at": "2026-06-14T15:12:01.571Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 173,
@@ -3447,7 +3447,7 @@
     },
     {
       "id": "b4729ddc-e6c0-4ec8-a823-3937df5ad714",
-      "slug": "chgvrt-btychvt-lklb-record-nr4ep2",
+      "slug": "chgvrt-btychvt-lklb-record-wx66xy",
       "name": "חגורת בטיחות לכלב Record",
       "name_translations": {
         "en": "Record Dog Safety Harness",
@@ -3463,15 +3463,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860632061-5g1op8.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781449877512-tzjlul.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chgvrt-btychvt-lklb-record-nr4ep2",
+      "url": "https://gurimbakfar.co.il/product/chgvrt-btychvt-lklb-record-wx66xy",
       "categories": [
         "אביזרים"
       ],
-      "updated_at": "2026-06-07T19:30:46.640Z"
+      "updated_at": "2026-06-14T15:11:30.749Z"
     },
     {
       "id": "e818e169-d325-41ed-916e-7e65f86facd1",
