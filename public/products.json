@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T15:54:35.505Z",
+  "generated_at": "2026-06-14T15:55:38.832Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 173,
@@ -656,8 +656,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/gdr-aylvp-121-sm-0gc5mn",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:41.369Z"
+      "categories": [
+        "כלובים וגדרות"
+      ],
+      "updated_at": "2026-06-14T15:55:07.701Z"
     },
     {
       "id": "70517f4b-8fda-47c6-8ca9-e3e30391a955",
@@ -680,8 +682,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/gdr-aylvp-107-sm-qp6yjr",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:40.555Z"
+      "categories": [
+        "כלובים וגדרות"
+      ],
+      "updated_at": "2026-06-14T15:55:06.730Z"
     },
     {
       "id": "39ab409e-5a47-4232-9e65-79c076459859",
@@ -704,8 +708,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/gdr-aylvp-91-sm-cs7iqf",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:40.838Z"
+      "categories": [
+        "כלובים וגדרות"
+      ],
+      "updated_at": "2026-06-14T15:55:07.147Z"
     },
     {
       "id": "02e70798-3ad4-435f-88e9-26117c576293",
@@ -728,8 +734,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/gdr-aylvp-76-sm-dcdnc3",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:40.442Z"
+      "categories": [
+        "כלובים וגדרות"
+      ],
+      "updated_at": "2026-06-14T15:55:07.802Z"
     },
     {
       "id": "1e2a6b17-55f1-4005-a673-e07bfa8eea6d",
@@ -752,8 +760,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/gdr-aylvp-61-sm-6m5is3",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:39.697Z"
+      "categories": [
+        "כלובים וגדרות"
+      ],
+      "updated_at": "2026-06-14T15:55:07.383Z"
     },
     {
       "id": "fb07ac07-a1d4-42ac-89c6-99530274796a",
@@ -776,8 +786,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/klvb-aylvp-121-sm-p697xo",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:43.284Z"
+      "categories": [
+        "כלובים וגדרות"
+      ],
+      "updated_at": "2026-06-14T15:55:07.270Z"
     },
     {
       "id": "6247cbe3-f5ee-4a15-bf9e-2f4d3e729a33",
@@ -800,8 +812,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/klvb-aylvp-107-sm-t6h5rd",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:39.440Z"
+      "categories": [
+        "כלובים וגדרות"
+      ],
+      "updated_at": "2026-06-14T15:55:07.041Z"
     },
     {
       "id": "9f66829a-ece8-4209-ac4f-9ae0958f2051",
@@ -824,8 +838,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/klvb-aylvp-91-sm-bamnpr",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:39.687Z"
+      "categories": [
+        "כלובים וגדרות"
+      ],
+      "updated_at": "2026-06-14T15:55:06.938Z"
     },
     {
       "id": "316dc9f4-8a4c-4abf-8ad7-ee05bda5e13e",
@@ -848,8 +864,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/klvb-aylvp-76-sm-moty1i",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:39.298Z"
+      "categories": [
+        "כלובים וגדרות"
+      ],
+      "updated_at": "2026-06-14T15:55:07.596Z"
     },
     {
       "id": "8c537842-c017-49d6-bfda-13ace78d77b4",
@@ -872,8 +890,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/klvb-aylvp-61-sm-crc3dg",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:39.155Z"
+      "categories": [
+        "כלובים וגדרות"
+      ],
+      "updated_at": "2026-06-14T15:55:07.494Z"
     },
     {
       "id": "2f8dee24-f97b-4532-b09c-21a45d4466f2",
@@ -1370,8 +1390,10 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/klvb-nshyah-ptch-kdmy-563735-apvr-kchvl-zy4bph",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:34.283Z"
+      "categories": [
+        "כלובים וגדרות"
+      ],
+      "updated_at": "2026-06-14T15:55:06.837Z"
     },
     {
       "id": "cb2e80be-53fe-4647-aac5-2b740e2eab12",

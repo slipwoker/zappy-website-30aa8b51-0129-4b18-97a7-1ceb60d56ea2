@@ -225,51 +225,61 @@ https://gurimbakfar.co.il/product/rtsvah-nyylvn-prydvg-xs-10120-vrvd-shchvr-kchv
 https://gurimbakfar.co.il/product/gdr-aylvp-121-sm-0gc5mn
 - Price: 0.00 ILS
 - Availability: In stock
+- Category: כלובים וגדרות
 
 ### גדר אילוף 107 ס"מ
 https://gurimbakfar.co.il/product/gdr-aylvp-107-sm-qp6yjr
 - Price: 0.00 ILS
 - Availability: In stock
+- Category: כלובים וגדרות
 
 ### גדר אילוף 91 ס"מ
 https://gurimbakfar.co.il/product/gdr-aylvp-91-sm-cs7iqf
 - Price: 0.00 ILS
 - Availability: In stock
+- Category: כלובים וגדרות
 
 ### גדר אילוף 76 ס"מ
 https://gurimbakfar.co.il/product/gdr-aylvp-76-sm-dcdnc3
 - Price: 0.00 ILS
 - Availability: In stock
+- Category: כלובים וגדרות
 
 ### גדר אילוף 61 ס"מ
 https://gurimbakfar.co.il/product/gdr-aylvp-61-sm-6m5is3
 - Price: 0.00 ILS
 - Availability: In stock
+- Category: כלובים וגדרות
 
 ### כלוב אילוף 121 ס"מ
 https://gurimbakfar.co.il/product/klvb-aylvp-121-sm-p697xo
 - Price: 0.00 ILS
 - Availability: In stock
+- Category: כלובים וגדרות
 
 ### כלוב אילוף 107 ס"מ
 https://gurimbakfar.co.il/product/klvb-aylvp-107-sm-t6h5rd
 - Price: 0.00 ILS
 - Availability: In stock
+- Category: כלובים וגדרות
 
 ### כלוב אילוף 91 ס"מ
 https://gurimbakfar.co.il/product/klvb-aylvp-91-sm-bamnpr
 - Price: 0.00 ILS
 - Availability: In stock
+- Category: כלובים וגדרות
 
 ### כלוב אילוף 76 ס"מ
 https://gurimbakfar.co.il/product/klvb-aylvp-76-sm-moty1i
 - Price: 0.00 ILS
 - Availability: In stock
+- Category: כלובים וגדרות
 
 ### כלוב אילוף 61 ס"מ
 https://gurimbakfar.co.il/product/klvb-aylvp-61-sm-crc3dg
 - Price: 0.00 ILS
 - Availability: In stock
+- Category: כלובים וגדרות
 
 ### הנריס חמאת בוטנים טבעית
 https://gurimbakfar.co.il/product/hnrys-chmat-bvtnym-tbayt-qkid62
@@ -379,6 +389,7 @@ https://gurimbakfar.co.il/product/chtypy-bvsh-lklbym-btam-avp-vmngv-200-gr-ryz74
 https://gurimbakfar.co.il/product/klvb-nshyah-ptch-kdmy-563735-apvr-kchvl-zy4bph
 - Price: 180.00 ILS
 - Availability: In stock
+- Category: כלובים וגדרות
 
 ### משטח ליקוק 15 ס"מ
 https://gurimbakfar.co.il/product/mshtch-lykvk-15-sm-stiu08
