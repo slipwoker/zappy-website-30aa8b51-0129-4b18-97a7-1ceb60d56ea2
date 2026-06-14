@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T15:07:55.430Z",
+  "generated_at": "2026-06-14T15:08:51.037Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 173,
@@ -3309,12 +3309,12 @@
     },
     {
       "id": "08e5bd94-8228-47b4-a526-20813848acf4",
-      "slug": "kdvr-dntly-ktn-shhnqg",
+      "slug": "kdvr-dntly-ktn-0lrc9s",
       "name": "כדור דנטלי קטן ",
       "name_translations": {
         "en": "Small Dental Ball",
         "he": "כדור דנטלי קטן ",
-        "ru": "Маленький зубной мячик"
+        "ru": "Маленький дентальный мячик"
       },
       "description": "",
       "short_description": null,
@@ -3325,15 +3325,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860636296-r5ie18.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781449689716-lx9h3d.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kdvr-dntly-ktn-shhnqg",
+      "url": "https://gurimbakfar.co.il/product/kdvr-dntly-ktn-0lrc9s",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-07T19:30:53.618Z"
+      "updated_at": "2026-06-14T15:08:19.982Z"
     },
     {
       "id": "f305aaf7-5950-473d-8988-0de281dc6f17",
