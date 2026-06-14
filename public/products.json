@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T15:10:09.593Z",
+  "generated_at": "2026-06-14T15:10:47.022Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 173,
@@ -3391,7 +3391,7 @@
     },
     {
       "id": "3e83c55b-43e2-4db3-ae20-44a0358bbb65",
-      "slug": "mbrsht-shynyym-dv-tsddy-4unjaf",
+      "slug": "mbrsht-shynyym-dv-tsddy-k21ph9",
       "name": "מברשת שיניים דו צדדי",
       "name_translations": {
         "en": "Double-Sided Toothbrush",
@@ -3407,15 +3407,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1780860633156-kn0vho.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781449807302-moy51e.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mbrsht-shynyym-dv-tsddy-4unjaf",
+      "url": "https://gurimbakfar.co.il/product/mbrsht-shynyym-dv-tsddy-k21ph9",
       "categories": [
         "מוצרי טיפוח"
       ],
-      "updated_at": "2026-06-07T19:30:48.597Z"
+      "updated_at": "2026-06-14T15:10:16.103Z"
     },
     {
       "id": "3f2b36b9-4f14-4ddb-9011-7e21e02cd7e5",
