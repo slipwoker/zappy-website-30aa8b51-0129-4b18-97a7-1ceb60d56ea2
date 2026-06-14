@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T15:45:02.482Z",
+  "generated_at": "2026-06-14T15:45:44.325Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 173,
@@ -249,7 +249,7 @@
     },
     {
       "id": "503ee7ab-b339-48f2-85d1-2ccf0fc4a615",
-      "slug": "rtsvah-12520-sm-tsba-shchvr-advm-c0jii6",
+      "slug": "rtsvah-12520-sm-tsba-shchvr-advm-94kft0",
       "name": "רצועה 125*20 ס\"מ צבע שחור-אדום",
       "name_translations": {
         "en": "Leash 125*20 cm Black-Red Color",
@@ -264,12 +264,14 @@
       "base_price": 25,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1781451901796-pntllt.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rtsvah-12520-sm-tsba-shchvr-advm-c0jii6",
+      "url": "https://gurimbakfar.co.il/product/rtsvah-12520-sm-tsba-shchvr-advm-94kft0",
       "categories": [],
-      "updated_at": "2026-06-07T19:31:44.719Z"
+      "updated_at": "2026-06-14T15:45:13.425Z"
     },
     {
       "id": "af0d2603-0b9c-4539-a7d9-c9e2f944d264",
