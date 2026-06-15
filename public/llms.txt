@@ -548,13 +548,15 @@ https://gurimbakfar.co.il/product/kart-nyrvsth-26-sm-6rakzo
 - Category: כלי אוכל ושתייה
 
 ### סטיספקשן בוגר גזע בינוני עוף 20 ק"ג
-https://gurimbakfar.co.il/product/styspkshn-bvgr-gza-bynvny-avp-20-kg-qgpm9e
+https://gurimbakfar.co.il/product/styspkshn-bvgr-gza-bynvny-avp-20-kg-afjbzy
 - Price: 369.00 ILS
 - Availability: In stock
 - Category: מזון יבש
+- Description: חשוב מאוד שכלבים יגדלו ללא משקל עודף בכדי להימנע מהם השמנת יתר פוטנציאלית בעתיד. ל-קרניטין עוזר להמיר שומן לאנרגיה, והימנעות מכל הצטברות שומן אפשרית. הוא מכיל ביוטין (ויטמין H) כדי לשמור על פרוות הכלב שלך מבריקה ובריאה. הטאורין עוזר להבטיח לב בריא וראיה טובה. תמצית היוקה מפחיתה משמעותית את ריח צואת הכלב. הביופלבנואידים, נוגדי חמצון תאיים (ויטמינים C ו- E) המגיעים מפירות הדר, מעודד פיתוח של מערכת חיסונית חזקה ובריאה.
+- Image: https://gurimbakfar.co.il/assets/product-1781514431160-evfgpf.webp
 
-### סטיספקשיין סלמון ואורז כלבים בוגרים 12 ק"ג
-https://gurimbakfar.co.il/product/styspkshyyn-slmvn-vavrz-klbym-bvgrym-12-kg-vjeouf
+### סטיספקשן סלמון ואורז כלבים בוגרים 12 ק"ג
+https://gurimbakfar.co.il/product/styspkshn-slmvn-vavrz-klbym-bvgrym-12-kg-8lr31m
 - Price: 296.00 ILS
 - Availability: In stock
 - Category: מזון יבש
