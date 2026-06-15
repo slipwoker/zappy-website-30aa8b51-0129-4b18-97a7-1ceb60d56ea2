@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-15T10:18:49.313Z",
+  "generated_at": "2026-06-15T10:47:31.101Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 171,
@@ -2065,29 +2065,31 @@
     },
     {
       "id": "53ecbfd6-f12e-4e51-a495-f473224efbe1",
-      "slug": "styspkshn-slmvn-vavrz-klbym-bvgrym-12-kg-8lr31m",
+      "slug": "styspkshn-slmvn-vavrz-klbym-bvgrym-12-kg-fvop8s",
       "name": "סטיספקשן סלמון ואורז כלבים בוגרים 12 ק\"ג",
       "name_translations": {
         "en": "Satisfaction Salmon and Rice Adult Dogs 12 kg",
         "he": "סטיספקשן סלמון ואורז כלבים בוגרים 12 ק\"ג",
-        "ru": "Сэтисфекшн лосось и рис для взрослых собак 12 кг"
+        "ru": "Сэтисфэкшн лосось и рис для взрослых собак 12 кг"
       },
-      "description": "<p><br></p>",
-      "short_description": null,
+      "description": "<p><strong>רכיבים: </strong>סלמון טרי (20%),אורז (20%),אורז חום, חלבוני דגים מיובשים(מכיל 7% סלמון), שומן עוף, עמילן טפיוקה, חלבון תפוח אדמה, פולפ סלק (3%), שמרי בירה, חלבונים מהחי מפורקים, שמן חמניות, מינרלים תמצית הדרים- מקור לביופלבונואידים (0.15%) יוקה שידיגרה (250 מ”ג/ק”ג)</p><p><br></p><p><strong>רכיבים אנליטיים: </strong>חלבון גולמי 26%, תכולת שומן 16%, סיבים תזונתיים 1.6 אחוז , 7% חומרים מינרליים.</p><p><br></p><p><strong>תוספים:</strong>ויטמין A ויטמין D3 ויטמין E ביוטין טאורין לקרניטין יסודות קורט:ברזל נחושת אבץ מנגן,יוד</p>",
+      "short_description": "סטיספקשן סלמון מספק תזונה מלאה, מזינה ומאוזנת, התורמת להתפתחות תקינה של מסת שריר ושלד חזק ובריא",
       "sku": null,
       "brand": null,
       "price": 296,
       "base_price": 296,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1781520319312-l7h3li.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/styspkshn-slmvn-vavrz-klbym-bvgrym-12-kg-8lr31m",
+      "url": "https://gurimbakfar.co.il/product/styspkshn-slmvn-vavrz-klbym-bvgrym-12-kg-fvop8s",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-06-15T10:18:18.330Z"
+      "updated_at": "2026-06-15T10:47:27.703Z"
     },
     {
       "id": "1c0599f9-0ceb-4a0f-ab8d-eeb2f86baca9",
