@@ -517,11 +517,13 @@ https://gurimbakfar.co.il/product/styspkshyyn-bvgr-gza-gdvl-avp-20-kg-mfkoli
 - Description: פורמולת סטיספקשן Satisfaction Regular Maxi פותחה במיוחד לכלבים בוגרים (מגיל שנתיים עד 7 שנים) של גזעים גדולים (מעל 25 ק”ג בבגרות). עם בשר עוף ואורז טרי, מרכיבים הניתנים לעיכול גבוה ומעוררי תיאבון, זהו האוכל האידיאלי לתזונה בריאה ומאוזנת. הכופתיות הגדולות הם בגודל אידיאלי ללסתות של כלבים גדולים יותר.
 - Image: https://gurimbakfar.co.il/assets/product-1781513956786-o20cwl.webp
 
-### סטיספקשיין גורים גזע גדול עוף 20 ק"ג
-https://gurimbakfar.co.il/product/styspkshyyn-gvrym-gza-gdvl-avp-20-kg-wgi9mo
+### סטיספקשן גורים גזע גדול עוף 20 ק"ג
+https://gurimbakfar.co.il/product/styspkshn-gvrym-gza-gdvl-avp-20-kg-7zlc3z
 - Price: 379.00 ILS
 - Availability: In stock
 - Category: מזון יבש
+- Description: המזון מתאים במיוחד עבור כלבים גורים (1 עד 24 חודשים) מגזע גדול (מעל 25 ק”ג משקל כלב בוגר). במהלך תקופת הגדילה משתנות הדרישות התזונתיות לא רק עבור גזעים שונים אלא גם בקבוצות גיל שונות.
+- Image: https://gurimbakfar.co.il/assets/product-1781514173535-069fj.webp
 
 ### סטיספקשיין בוגר גזע קטן עוף 3 ק"ג
 https://gurimbakfar.co.il/product/styspkshyyn-bvgr-gza-ktn-avp-3-kg-l8i3hi
