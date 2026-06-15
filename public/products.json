@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-15T08:55:42.529Z",
+  "generated_at": "2026-06-15T08:56:47.570Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 172,
+  "count": 171,
   "products": [
     {
       "id": "cb0d8aa0-9ffb-408e-9dd3-efc11748e9b5",
@@ -1846,32 +1846,6 @@
       "updated_at": "2026-06-07T19:31:30.234Z"
     },
     {
-      "id": "07470946-bb5f-4ddc-9ad3-4751d05e322e",
-      "slug": "styspkshyyn-lgvrym-mkl-hgzaym-vklbvt-bsvp-hhryvn-vbmhlk-hhnkh-avp-20-kg-vk38da",
-      "name": "סטיספקשיין לגורים מכל הגזעים וכלבות בסוף ההריון ובמהלך ההנקה עוף 20 ק\"ג",
-      "name_translations": {
-        "en": "Satisfaction for puppies of all breeds and pregnant/nursing female dogs chicken 20 kg",
-        "he": "סטיספקשיין לגורים מכל הגזעים וכלבות בסוף ההריון ובמהלך ההנקה עוף 20 ק\"ג",
-        "ru": "Сэтисфэкшн для щенков всех пород и сук в конце беременности и в период лактации курица 20 кг"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 379,
-      "base_price": 379,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/styspkshyyn-lgvrym-mkl-hgzaym-vklbvt-bsvp-hhryvn-vbmhlk-hhnkh-avp-20-kg-vk38da",
-      "categories": [
-        "מזון יבש"
-      ],
-      "updated_at": "2026-06-07T19:31:30.386Z"
-    },
-    {
       "id": "63fd653c-3c98-4c5c-840e-554f417d478e",
       "slug": "nature-wild-nyytsr-bvgr-btam-brvvz-vdg-12-kg-t9oyla",
       "name": "Nature Wild נייצ'ר בוגר בטעם ברווז ודג 12 ק\"ג",
@@ -2003,7 +1977,7 @@
     },
     {
       "id": "83370db5-72e3-4764-bbe4-9a0ba4ead358",
-      "slug": "styspkshyyn-lgvrym-mkl-hgzaym-vklbvt-bsvp-hhryvn-vbmhlk-hhnkh-avp-20-kg-nys1p4",
+      "slug": "styspkshyyn-lgvrym-mkl-hgzaym-vklbvt-bsvp-hhryvn-vbmhlk-hhnkh-avp-20-kg-hfddy3",
       "name": "סטיספקשיין לגורים מכל הגזעים וכלבות בסוף ההריון ובמהלך ההנקה עוף 20 ק\"ג",
       "name_translations": {
         "en": "Satisfaction for puppies of all breeds and pregnant/nursing bitches Chicken 20 kg",
@@ -2023,11 +1997,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/styspkshyyn-lgvrym-mkl-hgzaym-vklbvt-bsvp-hhryvn-vbmhlk-hhnkh-avp-20-kg-nys1p4",
+      "url": "https://gurimbakfar.co.il/product/styspkshyyn-lgvrym-mkl-hgzaym-vklbvt-bsvp-hhryvn-vbmhlk-hhnkh-avp-20-kg-hfddy3",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-06-15T08:55:36.794Z"
+      "updated_at": "2026-06-15T08:56:16.650Z"
     },
     {
       "id": "7cbef393-9f02-4398-a517-62c32db78c27",

@@ -72,7 +72,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 172**
+**Total active products: 171**
 
 ### תרסיס מרכך ללא שטיפה מיועד לעידוד צמיחת פרווה TAURO
 https://gurimbakfar.co.il/product/trsys-mrkk-lla-shtyph-myvad-laydvd-tsmycht-prvvh-tauro-mx70iz
@@ -497,12 +497,6 @@ https://gurimbakfar.co.il/product/myth-plapy-lklbym-vchtvlym-knl-slkt-dgm-lvlh-s
 - Availability: In stock
 - Category: מיטות ומזרונים
 
-### סטיספקשיין לגורים מכל הגזעים וכלבות בסוף ההריון ובמהלך ההנקה עוף 20 ק"ג
-https://gurimbakfar.co.il/product/styspkshyyn-lgvrym-mkl-hgzaym-vklbvt-bsvp-hhryvn-vbmhlk-hhnkh-avp-20-kg-vk38da
-- Price: 379.00 ILS
-- Availability: In stock
-- Category: מזון יבש
-
 ### Nature Wild נייצ'ר בוגר בטעם ברווז ודג 12 ק"ג
 https://gurimbakfar.co.il/product/nature-wild-nyytsr-bvgr-btam-brvvz-vdg-12-kg-t9oyla
 - Price: 339.00 ILS
@@ -534,7 +528,7 @@ https://gurimbakfar.co.il/product/styspkshyyn-bvgr-gza-ktn-avp-3-kg-l8i3hi
 - Category: מזון יבש
 
 ### סטיספקשיין לגורים מכל הגזעים וכלבות בסוף ההריון ובמהלך ההנקה עוף 20 ק"ג
-https://gurimbakfar.co.il/product/styspkshyyn-lgvrym-mkl-hgzaym-vklbvt-bsvp-hhryvn-vbmhlk-hhnkh-avp-20-kg-nys1p4
+https://gurimbakfar.co.il/product/styspkshyyn-lgvrym-mkl-hgzaym-vklbvt-bsvp-hhryvn-vbmhlk-hhnkh-avp-20-kg-hfddy3
 - Price: 379.00 ILS
 - Availability: In stock
 - Category: מזון יבש
