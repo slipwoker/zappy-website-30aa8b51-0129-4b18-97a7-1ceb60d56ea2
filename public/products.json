@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-15T11:12:22.341Z",
+  "generated_at": "2026-06-15T11:59:34.343Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 169,
@@ -2065,7 +2065,7 @@
     },
     {
       "id": "53ecbfd6-f12e-4e51-a495-f473224efbe1",
-      "slug": "styspkshn-slmvn-vavrz-klbym-bvgrym-0altrp",
+      "slug": "styspkshn-slmvn-vavrz-klbym-bvgrym-yp46ly",
       "name": "סטיספקשן סלמון ואורז כלבים בוגרים",
       "name_translations": {
         "en": "Satisfaction Salmon and Rice Adult Dogs",
@@ -2081,15 +2081,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1781520319312-l7h3li.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1781524710954-wapm8b.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/styspkshn-slmvn-vavrz-klbym-bvgrym-0altrp",
+      "url": "https://gurimbakfar.co.il/product/styspkshn-slmvn-vavrz-klbym-bvgrym-yp46ly",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-06-15T11:08:28.659Z"
+      "updated_at": "2026-06-15T11:59:03.194Z"
     },
     {
       "id": "1c0599f9-0ceb-4a0f-ab8d-eeb2f86baca9",
