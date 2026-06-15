@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-14T16:00:48.677Z",
+  "generated_at": "2026-06-15T08:35:36.674Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 172,
@@ -2003,12 +2003,12 @@
     },
     {
       "id": "83370db5-72e3-4764-bbe4-9a0ba4ead358",
-      "slug": "styspkshyyn-gvrym-gza-ktn-avp-3-kg-ihvwz8",
-      "name": "סטיספקשיין גורים גזע קטן עוף 3 ק\"ג",
+      "slug": "styspkshn-gvrym-gza-ktn-avp-3-kg-jztltg",
+      "name": "סטיספקשן גורים גזע קטן עוף 3 ק\"ג",
       "name_translations": {
         "en": "Satisfaction Small Breed Puppies Chicken 3 kg",
-        "he": "סטיספקשיין גורים גזע קטן עוף 3 ק\"ג",
-        "ru": "Сатисфакшн для щенков мелких пород курица 3 кг"
+        "he": "סטיספקשן גורים גזע קטן עוף 3 ק\"ג",
+        "ru": "Satisfaction для щенков мелких пород с курицей 3 кг"
       },
       "description": "",
       "short_description": null,
@@ -2018,14 +2018,16 @@
       "base_price": 109,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1781512490625-dkojb.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/styspkshyyn-gvrym-gza-ktn-avp-3-kg-ihvwz8",
+      "url": "https://gurimbakfar.co.il/product/styspkshn-gvrym-gza-ktn-avp-3-kg-jztltg",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-06-07T19:31:26.478Z"
+      "updated_at": "2026-06-15T08:35:05.718Z"
     },
     {
       "id": "7cbef393-9f02-4398-a517-62c32db78c27",

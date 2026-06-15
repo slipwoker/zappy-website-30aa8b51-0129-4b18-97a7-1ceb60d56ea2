@@ -533,11 +533,12 @@ https://gurimbakfar.co.il/product/styspkshyyn-bvgr-gza-ktn-avp-3-kg-l8i3hi
 - Availability: In stock
 - Category: מזון יבש
 
-### סטיספקשיין גורים גזע קטן עוף 3 ק"ג
-https://gurimbakfar.co.il/product/styspkshyyn-gvrym-gza-ktn-avp-3-kg-ihvwz8
+### סטיספקשן גורים גזע קטן עוף 3 ק"ג
+https://gurimbakfar.co.il/product/styspkshn-gvrym-gza-ktn-avp-3-kg-jztltg
 - Price: 109.00 ILS
 - Availability: In stock
 - Category: מזון יבש
+- Image: https://gurimbakfar.co.il/assets/product-1781512490625-dkojb.webp
 
 ### קערת נירוסטה 26 ס"מ 
 https://gurimbakfar.co.il/product/kart-nyrvsth-26-sm-6rakzo
