@@ -525,11 +525,13 @@ https://gurimbakfar.co.il/product/styspkshn-gvrym-gza-gdvl-avp-20-kg-7zlc3z
 - Description: המזון מתאים במיוחד עבור כלבים גורים (1 עד 24 חודשים) מגזע גדול (מעל 25 ק”ג משקל כלב בוגר). במהלך תקופת הגדילה משתנות הדרישות התזונתיות לא רק עבור גזעים שונים אלא גם בקבוצות גיל שונות.
 - Image: https://gurimbakfar.co.il/assets/product-1781514173535-069fj.webp
 
-### סטיספקשיין בוגר גזע קטן עוף 3 ק"ג
-https://gurimbakfar.co.il/product/styspkshyyn-bvgr-gza-ktn-avp-3-kg-l8i3hi
+### סטיספקשן בוגר גזע קטן עוף 3 ק"ג
+https://gurimbakfar.co.il/product/styspkshn-bvgr-gza-ktn-avp-3-kg-hmsiba
 - Price: 109.00 ILS
 - Availability: In stock
 - Category: מזון יבש
+- Description: נוסחה מיוחדת מאת סטיספקשן לכלבים בוגרים של גזעים קטנים. כלבים מגזעים קטנים חיים זמן רב יותר, חשוב להקפיד במיוחד על האוכל שלהם לאורך חייהם, ולספק להם את האנרגיה הדרושה לאופי הטבעי והמאוד פעיל שלהם ולמנוע השמנת יתר אפשרית. הכופתיות לעיסה קטנות יותר ואידיאליות עבור הלסתות והפה של גזעים קטנים. אורז ובשר עוף עשיר וטרי מספק תזונה בריאה, מזינה, ומאוזנת המסייעת לשמור על השרירים והעצמות של הכלב במצב מושלם. ללא רכיבים מהונדסים גנטית GMO FREE.
+- Image: https://gurimbakfar.co.il/assets/product-1781514303749-2galm3.webp
 
 ### סטיספקשן לגורים מכל הגזעים וכלבות בסוף ההריון ובמהלך ההנקה עוף 20 ק"ג
 https://gurimbakfar.co.il/product/styspkshn-lgvrym-mkl-hgzaym-vklbvt-bsvp-hhryvn-vbmhlk-hhnkh-avp-20-kg-bs0huv
@@ -545,8 +547,8 @@ https://gurimbakfar.co.il/product/kart-nyrvsth-26-sm-6rakzo
 - Availability: In stock
 - Category: כלי אוכל ושתייה
 
-### סטיספקשיין בוגר גזע בינוני עוף 20 ק"ג
-https://gurimbakfar.co.il/product/styspkshyyn-bvgr-gza-bynvny-avp-20-kg-zaatfl
+### סטיספקשן בוגר גזע בינוני עוף 20 ק"ג
+https://gurimbakfar.co.il/product/styspkshn-bvgr-gza-bynvny-avp-20-kg-qgpm9e
 - Price: 369.00 ILS
 - Availability: In stock
 - Category: מזון יבש

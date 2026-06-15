@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-15T09:04:32.537Z",
+  "generated_at": "2026-06-15T09:07:04.869Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 171,
@@ -1955,29 +1955,31 @@
     },
     {
       "id": "5db5f8ee-b761-4340-a8d7-79e4f8150727",
-      "slug": "styspkshyyn-bvgr-gza-ktn-avp-3-kg-l8i3hi",
-      "name": "סטיספקשיין בוגר גזע קטן עוף 3 ק\"ג",
+      "slug": "styspkshn-bvgr-gza-ktn-avp-3-kg-hmsiba",
+      "name": "סטיספקשן בוגר גזע קטן עוף 3 ק\"ג",
       "name_translations": {
         "en": "Satisfaction Adult Small Breed Chicken 3 kg",
-        "he": "סטיספקשיין בוגר גזע קטן עוף 3 ק\"ג",
+        "he": "סטיספקשן בוגר גזע קטן עוף 3 ק\"ג",
         "ru": "Сэтисфэкшн для взрослых собак мелких пород с курицей 3 кг"
       },
-      "description": "",
-      "short_description": null,
+      "description": "<p><strong>רכיבים:</strong> עוף טרי ללא עצמות (20%), חלבוני עופות מיובשים, אורז (18%), תירס, אורז חום, גלוטן תירס, שומן עופות, עיסת סלק, שמרי בירה, חלבונים מהחי שעברו הידרוליזה, שמן חמניות, חומרים מינרלים, תמציות הדרים מקור לביופינואידים ( 0.15%).</p><p><br></p><p><strong>רכיבים אנליטיים:</strong> לחות: 10% ; חלבון: 27% ; שמנים ושומנים: 15% ; סיבים: 2% ; חומרים לא ; אורגניים: 6%. סידן: 1.26% ; זרחן: 1% מ”ג/ק”ג, ביוטין: E: 121 1,666 יב”ל/ק”ג. ויטמין : D יב”ל/ק”ג 18,204 , ויטמין :A</p><p><br></p><p><strong>תוספים:</strong> ויטמין 0.20 מ”ג/ק”ג, נחושת: 12.14 מ”ג/ק”ג, ברזל: 197.21 מ”ג/ק”ג, יוד: 2.43 מ”ג/ק”ג, מנגן: 90 קרניטין: 50 -L , מ”ג/ק”ג, אבץ: 167.88 מ”ג/ק”ג, סלניום: 0.27 מ”ג/ק”ג, טאורין: 998 מ”ג/ק”ג מ”ג/ק”ג. מכיל נוגדי חמצון וחומרים משמרים מאושרים ע”י האיחוד האירופי.</p>",
+      "short_description": "נוסחה מיוחדת מאת סטיספקשן לכלבים בוגרים של גזעים קטנים. כלבים מגזעים קטנים חיים זמן רב יותר, חשוב להקפיד במיוחד על האוכל שלהם לאורך חייהם, ולספק להם את האנרגיה הדרושה לאופי הטבעי והמאוד פעיל שלהם ולמנוע השמנת יתר אפשרית. הכופתיות לעיסה קטנות יותר ואידיאליות עבור הלסתות והפה של גזעים קטנים. אורז ובשר עוף עשיר וטרי מספק תזונה בריאה, מזינה, ומאוזנת המסייעת לשמור על השרירים והעצמות של הכלב במצב מושלם. ללא רכיבים מהונדסים גנטית GMO FREE.",
       "sku": null,
       "brand": null,
       "price": 109,
       "base_price": 109,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1781514303749-2galm3.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/styspkshyyn-bvgr-gza-ktn-avp-3-kg-l8i3hi",
+      "url": "https://gurimbakfar.co.il/product/styspkshn-bvgr-gza-ktn-avp-3-kg-hmsiba",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-06-07T19:31:28.100Z"
+      "updated_at": "2026-06-15T09:06:33.780Z"
     },
     {
       "id": "83370db5-72e3-4764-bbe4-9a0ba4ead358",
@@ -2035,14 +2037,14 @@
     },
     {
       "id": "d85797dd-8552-4873-8205-359734b5b1a0",
-      "slug": "styspkshyyn-bvgr-gza-bynvny-avp-20-kg-zaatfl",
-      "name": "סטיספקשיין בוגר גזע בינוני עוף 20 ק\"ג",
+      "slug": "styspkshn-bvgr-gza-bynvny-avp-20-kg-qgpm9e",
+      "name": "סטיספקשן בוגר גזע בינוני עוף 20 ק\"ג",
       "name_translations": {
         "en": "Satisfaction Adult Medium Breed Chicken 20 kg",
-        "he": "סטיספקשיין בוגר גזע בינוני עוף 20 ק\"ג",
+        "he": "סטיספקשן בוגר גזע בינוני עוף 20 ק\"ג",
         "ru": "Сэтисфэкшн для взрослых собак средних пород с курицей 20 кг"
       },
-      "description": "",
+      "description": "<p><br></p>",
       "short_description": null,
       "sku": null,
       "brand": null,
@@ -2053,11 +2055,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/styspkshyyn-bvgr-gza-bynvny-avp-20-kg-zaatfl",
+      "url": "https://gurimbakfar.co.il/product/styspkshn-bvgr-gza-bynvny-avp-20-kg-qgpm9e",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-06-07T19:31:27.798Z"
+      "updated_at": "2026-06-15T09:06:57.478Z"
     },
     {
       "id": "53ecbfd6-f12e-4e51-a495-f473224efbe1",
