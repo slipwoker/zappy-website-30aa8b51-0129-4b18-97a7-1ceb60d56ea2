@@ -7155,20 +7155,6 @@ Availability: In stock
 
 ---
 
-### סטיספקשיין סלמון ואורז גורים 3 ק"ג
-URL: https://gurimbakfar.co.il/product/styspkshyyn-slmvn-vavrz-gvrym-3-kg-0c632i
-Price: 125.00 ILS
-Availability: In stock
-
----
-
-### סטיספקשיין סלמון ואורז גורים 12 ק"ג
-URL: https://gurimbakfar.co.il/product/styspkshyyn-slmvn-vavrz-gvrym-12-kg-zifhru
-Price: 296.00 ILS
-Availability: In stock
-
----
-
 ### קערות נירוסטה פס גומי 26 ס"מ
 URL: https://gurimbakfar.co.il/product/karvt-nyrvsth-ps-gvmy-26-sm-8klerf
 Price: 30.00 ILS

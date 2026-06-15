@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-15T10:47:31.101Z",
+  "generated_at": "2026-06-15T10:48:05.489Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 171,
+  "count": 169,
   "products": [
     {
       "id": "cb0d8aa0-9ffb-408e-9dd3-efc11748e9b5",
@@ -2116,58 +2116,6 @@
         "מזון יבש"
       ],
       "updated_at": "2026-06-07T19:31:28.049Z"
-    },
-    {
-      "id": "7628f4b9-fb37-4b23-85e1-3003f152d73f",
-      "slug": "styspkshyyn-slmvn-vavrz-gvrym-3-kg-0c632i",
-      "name": "סטיספקשיין סלמון ואורז גורים 3 ק\"ג",
-      "name_translations": {
-        "en": "Satisfaction Salmon and Rice Puppies 3 kg",
-        "he": "סטיספקשיין סלמון ואורז גורים 3 ק\"ג",
-        "ru": "Сэтисфэкшн лосось и рис для щенков 3 кг"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 125,
-      "base_price": 125,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/styspkshyyn-slmvn-vavrz-gvrym-3-kg-0c632i",
-      "categories": [
-        "מזון יבש"
-      ],
-      "updated_at": "2026-06-07T19:31:27.593Z"
-    },
-    {
-      "id": "452bb3af-9e30-4194-8b73-529c72ad42cb",
-      "slug": "styspkshyyn-slmvn-vavrz-gvrym-12-kg-zifhru",
-      "name": "סטיספקשיין סלמון ואורז גורים 12 ק\"ג",
-      "name_translations": {
-        "en": "Satisfaction Salmon and Rice Puppies 12 kg",
-        "he": "סטיספקשיין סלמון ואורז גורים 12 ק\"ג",
-        "ru": "Satisfaction лосось и рис для щенков 12 кг"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 296,
-      "base_price": 296,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/styspkshyyn-slmvn-vavrz-gvrym-12-kg-zifhru",
-      "categories": [
-        "מזון יבש"
-      ],
-      "updated_at": "2026-06-07T19:31:26.504Z"
     },
     {
       "id": "f5a21ca2-30b3-4d07-9529-ad8334fc078f",
