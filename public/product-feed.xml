@@ -4,7 +4,7 @@
     <title>גורים בכפר</title>
     <link>https://gurimbakfar.co.il</link>
     <description>Product feed for גורים בכפר</description>
-    <lastBuildDate>Mon, 15 Jun 2026 08:42:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 08:48:45 GMT</lastBuildDate>
     <item>
       <g:id>cb0d8aa0-9ffb-408e-9dd3-efc11748e9b5</g:id>
       <g:title>תרסיס מרכך ללא שטיפה מיועד לעידוד צמיחת פרווה TAURO</g:title>
@@ -927,10 +927,25 @@
       <g:product_type>מזון יבש</g:product_type>
     </item>
     <item>
-      <g:id>83370db5-72e3-4764-bbe4-9a0ba4ead358</g:id>
-      <g:title>סטיספקשן גורים גזע קטן עוף 3 ק&quot;ג</g:title>
+      <g:id>83370db5-72e3-4764-bbe4-9a0ba4ead358__1a5ec5d8-a82e-4c38-9c9e-37c3f91d586c</g:id>
+      <g:title>סטיספקשן גורים גזע קטן עוף 3 ק&quot;ג - 3 ק&quot;מ</g:title>
       <g:description>מזון יבש לגורי כלבים מגזעים קטנים מומלץ במיוחד עבור גורי כלבים מגזעים קטנים (במשקל בוגר של 1.5 עד 10 ק”ג). במהלך תקופת הגדילה, הצרכים התזונתיים משתנים לא רק בהתאם לגודל הגזע, אלא גם בהתאם לגיל. לכן פיתחנו את Satisfaction Puppy Mini, המכיל: תכולת חלבון גבוהה (20% עוף טרי). מקור אנרגיה עשיר (שומן עוף ואורז). איזון נכון של סידן וזרחן. גודל הכופתיות של Puppy Mini קטן מספיק כדי להתאים ללסתות הזעירות, אך לא קטן מדי – כדי לעודד לעיסה נכונה.</g:description>
       <g:link>https://gurimbakfar.co.il/product/styspkshn-gvrym-gza-ktn-avp-3-kg-8rw7az</g:link>
+      <g:item_group_id>83370db5-72e3-4764-bbe4-9a0ba4ead358</g:item_group_id>
+      <g:image_link>https://gurimbakfar.co.il/assets/product-1781512490625-dkojb.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>109.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>מזון יבש</g:product_type>
+    </item>
+    <item>
+      <g:id>83370db5-72e3-4764-bbe4-9a0ba4ead358__66e39f58-d666-481f-b675-a5e80a14ecf8</g:id>
+      <g:title>סטיספקשן גורים גזע קטן עוף 3 ק&quot;ג - 15 ק&quot;מ</g:title>
+      <g:description>מזון יבש לגורי כלבים מגזעים קטנים מומלץ במיוחד עבור גורי כלבים מגזעים קטנים (במשקל בוגר של 1.5 עד 10 ק”ג). במהלך תקופת הגדילה, הצרכים התזונתיים משתנים לא רק בהתאם לגודל הגזע, אלא גם בהתאם לגיל. לכן פיתחנו את Satisfaction Puppy Mini, המכיל: תכולת חלבון גבוהה (20% עוף טרי). מקור אנרגיה עשיר (שומן עוף ואורז). איזון נכון של סידן וזרחן. גודל הכופתיות של Puppy Mini קטן מספיק כדי להתאים ללסתות הזעירות, אך לא קטן מדי – כדי לעודד לעיסה נכונה.</g:description>
+      <g:link>https://gurimbakfar.co.il/product/styspkshn-gvrym-gza-ktn-avp-3-kg-8rw7az</g:link>
+      <g:item_group_id>83370db5-72e3-4764-bbe4-9a0ba4ead358</g:item_group_id>
       <g:image_link>https://gurimbakfar.co.il/assets/product-1781512490625-dkojb.webp</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>109.00 ILS</g:price>
