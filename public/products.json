@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-18T08:36:35.461Z",
+  "generated_at": "2026-06-18T08:39:41.766Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 169,
@@ -543,12 +543,12 @@
     },
     {
       "id": "bad8310f-72e4-4f9f-a543-1656dd4ae268",
-      "slug": "rtsvah-nyylvn-prydvg-m-20120-yrvk-advm-shchvr-bvrdv-jtwi8g",
-      "name": "רצועה ניילון פרידוג M 20*120 ירוק, אדום, שחור, בורדו ",
+      "slug": "rtsvah-nyylvn-prydvg-mydh-m-nj1ujy",
+      "name": "רצועה ניילון פרידוג מידה M",
       "name_translations": {
-        "en": "Freedog Nylon Leash M 20*120 Green, Red, Black, Burgundy",
-        "he": "רצועה ניילון פרידוג M 20*120 ירוק, אדום, שחור, בורדו ",
-        "ru": "Поводок нейлоновый Freedog M 20*120 зеленый, красный, черный, бордовый"
+        "en": "Freedog Nylon Leash Size M",
+        "he": "רצועה ניילון פרידוג מידה M",
+        "ru": "Нейлоновый поводок Freedog размер M"
       },
       "description": "",
       "short_description": null,
@@ -558,14 +558,16 @@
       "base_price": 33,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1781771727666-z8uzk7.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rtsvah-nyylvn-prydvg-m-20120-yrvk-advm-shchvr-bvrdv-jtwi8g",
+      "url": "https://gurimbakfar.co.il/product/rtsvah-nyylvn-prydvg-mydh-m-nj1ujy",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-06-18T08:36:09.831Z"
+      "updated_at": "2026-06-18T08:39:10.739Z"
     },
     {
       "id": "296d4164-9020-4aaf-92ff-92c71ef24e14",
