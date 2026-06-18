@@ -4,7 +4,7 @@
     <title>גורים בכפר</title>
     <link>https://gurimbakfar.co.il</link>
     <description>Product feed for גורים בכפר</description>
-    <lastBuildDate>Thu, 18 Jun 2026 08:34:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 08:36:35 GMT</lastBuildDate>
     <item>
       <g:id>cb0d8aa0-9ffb-408e-9dd3-efc11748e9b5</g:id>
       <g:title>תרסיס מרכך ללא שטיפה מיועד לעידוד צמיחת פרווה TAURO</g:title>
@@ -254,10 +254,50 @@
       <g:product_type>קולרים ורצועות</g:product_type>
     </item>
     <item>
-      <g:id>bad8310f-72e4-4f9f-a543-1656dd4ae268</g:id>
-      <g:title>רצועה ניילון פרידוג M 20*120 ירוק, אדום, שחור, בורדו </g:title>
+      <g:id>bad8310f-72e4-4f9f-a543-1656dd4ae268__fdadfe72-32a4-4ab8-a618-be377e4d3ed8</g:id>
+      <g:title>רצועה ניילון פרידוג M 20*120 ירוק, אדום, שחור, בורדו  - Green</g:title>
       <g:description>רצועה ניילון פרידוג M 20*120 ירוק, אדום, שחור, בורדו</g:description>
       <g:link>https://gurimbakfar.co.il/product/rtsvah-nyylvn-prydvg-m-20120-yrvk-advm-shchvr-bvrdv-jtwi8g</g:link>
+      <g:item_group_id>bad8310f-72e4-4f9f-a543-1656dd4ae268</g:item_group_id>
+      <g:availability>in_stock</g:availability>
+      <g:price>33.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>קולרים ורצועות</g:product_type>
+    </item>
+    <item>
+      <g:id>bad8310f-72e4-4f9f-a543-1656dd4ae268__d8ba39b6-0888-4f8f-99e2-e8350193cbed</g:id>
+      <g:title>רצועה ניילון פרידוג M 20*120 ירוק, אדום, שחור, בורדו  - Red</g:title>
+      <g:description>רצועה ניילון פרידוג M 20*120 ירוק, אדום, שחור, בורדו</g:description>
+      <g:link>https://gurimbakfar.co.il/product/rtsvah-nyylvn-prydvg-m-20120-yrvk-advm-shchvr-bvrdv-jtwi8g</g:link>
+      <g:item_group_id>bad8310f-72e4-4f9f-a543-1656dd4ae268</g:item_group_id>
+      <g:availability>in_stock</g:availability>
+      <g:price>33.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>קולרים ורצועות</g:product_type>
+    </item>
+    <item>
+      <g:id>bad8310f-72e4-4f9f-a543-1656dd4ae268__7958f9c2-11be-46d3-9b58-eb28015b28fc</g:id>
+      <g:title>רצועה ניילון פרידוג M 20*120 ירוק, אדום, שחור, בורדו  - שחור</g:title>
+      <g:description>רצועה ניילון פרידוג M 20*120 ירוק, אדום, שחור, בורדו</g:description>
+      <g:link>https://gurimbakfar.co.il/product/rtsvah-nyylvn-prydvg-m-20120-yrvk-advm-shchvr-bvrdv-jtwi8g</g:link>
+      <g:item_group_id>bad8310f-72e4-4f9f-a543-1656dd4ae268</g:item_group_id>
+      <g:availability>in_stock</g:availability>
+      <g:price>33.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>קולרים ורצועות</g:product_type>
+    </item>
+    <item>
+      <g:id>bad8310f-72e4-4f9f-a543-1656dd4ae268__0b0295c3-716c-450e-ad55-da15360fd564</g:id>
+      <g:title>רצועה ניילון פרידוג M 20*120 ירוק, אדום, שחור, בורדו  - בורדו</g:title>
+      <g:description>רצועה ניילון פרידוג M 20*120 ירוק, אדום, שחור, בורדו</g:description>
+      <g:link>https://gurimbakfar.co.il/product/rtsvah-nyylvn-prydvg-m-20120-yrvk-advm-shchvr-bvrdv-jtwi8g</g:link>
+      <g:item_group_id>bad8310f-72e4-4f9f-a543-1656dd4ae268</g:item_group_id>
       <g:availability>in_stock</g:availability>
       <g:price>33.00 ILS</g:price>
       <g:condition>new</g:condition>
