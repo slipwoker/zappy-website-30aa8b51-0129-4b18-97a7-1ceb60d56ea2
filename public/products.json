@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-18T08:42:13.689Z",
+  "generated_at": "2026-06-18T08:47:36.219Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 169,
@@ -1807,15 +1807,15 @@
     },
     {
       "id": "704cd86f-cdff-43f8-bbf4-e9b978611ac8",
-      "slug": "nature-wild-nyytsr-gvr-btam-brvvz-vhvdv-12-kg-8h3n6n",
-      "name": "Nature Wild נייצ'ר גור בטעם ברווז והודו 12 ק\"ג",
+      "slug": "nature-wild-nyytsr-gvr-btam-brvvz-vhvdv-12-kg-unps7k",
+      "name": "NATURE WILD נייצר גור בטעם ברווז והודו 12 ק”ג",
       "name_translations": {
-        "en": "Nature Wild Nature Puppy Duck and Turkey Flavor 12 kg",
-        "he": "Nature Wild נייצ'ר גור בטעם ברווז והודו 12 ק\"ג",
-        "ru": "Nature Wild нейчер корм со вкусом утки и индейки 12 кг"
+        "en": "NATURE WILD Puppy Duck & Turkey Flavor 12 kg",
+        "he": "NATURE WILD נייצר גור בטעם ברווז והודו 12 ק”ג",
+        "ru": "NATURE WILD נייצר корм для щенков со вкусом утки и индейки 12 кг"
       },
-      "description": "",
-      "short_description": null,
+      "description": "<p><br></p>",
+      "short_description": "פורמולה הוליסטית ללא דגנים לגורי כלבים, בשר הודו, עוף, וברווז, הוא מתכון מובחר המספק מזון שלם ומאוזן העשוי מרכיבים טבעיים וטריים באיכות הגבוהה ביותר.\n\n25% בשר הודו טרי | 14% בשר עוף מיובש | 5% בשר ברווז מיובש | 0% דגנים\n\nחלבונים באיכות גבוהה מקדמים יצירה ותחזוקה של מסת שריר, המספקים שומנים כמקור לאנרגיה.\nבשר טעים מאוד עם פרוטאינים בעל ערך ביולוגי גבוה העוזר לשמור על משקל בריא.\nחלבון בעל רמת נעכלות גבוהה, מספק חומצות אמינו נחוצות.\nחלבון תזונתי ברמה גבוהה.",
       "sku": null,
       "brand": null,
       "price": 349,
@@ -1825,11 +1825,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/nature-wild-nyytsr-gvr-btam-brvvz-vhvdv-12-kg-8h3n6n",
+      "url": "https://gurimbakfar.co.il/product/nature-wild-nyytsr-gvr-btam-brvvz-vhvdv-12-kg-unps7k",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-06-07T19:31:48.087Z"
+      "updated_at": "2026-06-18T08:47:05.247Z"
     },
     {
       "id": "327168a0-2b6b-46d9-98e6-93c186ebc23d",
