@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-18T08:47:36.219Z",
+  "generated_at": "2026-06-18T08:48:35.368Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 169,
@@ -1807,12 +1807,12 @@
     },
     {
       "id": "704cd86f-cdff-43f8-bbf4-e9b978611ac8",
-      "slug": "nature-wild-nyytsr-gvr-btam-brvvz-vhvdv-12-kg-unps7k",
+      "slug": "nature-wild-nyytsr-gvr-btam-brvvz-vhvdv-12-kg-e30ply",
       "name": "NATURE WILD נייצר גור בטעם ברווז והודו 12 ק”ג",
       "name_translations": {
         "en": "NATURE WILD Puppy Duck & Turkey Flavor 12 kg",
         "he": "NATURE WILD נייצר גור בטעם ברווז והודו 12 ק”ג",
-        "ru": "NATURE WILD נייצר корм для щенков со вкусом утки и индейки 12 кг"
+        "ru": "NATURE WILD Натур для щенков со вкусом утки и индейки 12 кг"
       },
       "description": "<p><br></p>",
       "short_description": "פורמולה הוליסטית ללא דגנים לגורי כלבים, בשר הודו, עוף, וברווז, הוא מתכון מובחר המספק מזון שלם ומאוזן העשוי מרכיבים טבעיים וטריים באיכות הגבוהה ביותר.\n\n25% בשר הודו טרי | 14% בשר עוף מיובש | 5% בשר ברווז מיובש | 0% דגנים\n\nחלבונים באיכות גבוהה מקדמים יצירה ותחזוקה של מסת שריר, המספקים שומנים כמקור לאנרגיה.\nבשר טעים מאוד עם פרוטאינים בעל ערך ביולוגי גבוה העוזר לשמור על משקל בריא.\nחלבון בעל רמת נעכלות גבוהה, מספק חומצות אמינו נחוצות.\nחלבון תזונתי ברמה גבוהה.",
@@ -1822,14 +1822,16 @@
       "base_price": 349,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1781772447524-lxbm2f.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/nature-wild-nyytsr-gvr-btam-brvvz-vhvdv-12-kg-unps7k",
+      "url": "https://gurimbakfar.co.il/product/nature-wild-nyytsr-gvr-btam-brvvz-vhvdv-12-kg-e30ply",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-06-18T08:47:05.247Z"
+      "updated_at": "2026-06-18T08:48:26.993Z"
     },
     {
       "id": "327168a0-2b6b-46d9-98e6-93c186ebc23d",
