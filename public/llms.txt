@@ -484,11 +484,13 @@ https://gurimbakfar.co.il/product/myth-lklbym-petsproject-mydh-s-ashvy-mbd-amyd-
 - Availability: In stock
 - Category: מיטות ומזרונים
 
-### Nature Wild נייצ'ר בוגר בקר ודג 12 ק"ג
-https://gurimbakfar.co.il/product/nature-wild-nyytsr-bvgr-bkr-vdg-12-kg-x3kkva
+### NATURE WILD נייצר בוגר בטעם בקר ודג 12 ק”ג
+https://gurimbakfar.co.il/product/nature-wild-nyytsr-bvgr-btam-bkr-vdg-12-kg-sgnyei
 - Price: 339.00 ILS
 - Availability: In stock
 - Category: מזון יבש
+- Description: מרכיבים: דג לבן טרי (30%), בשר בקר מיובש (18%), אפונה (15%), תפוחי אדמה (14%), שומן עוף (10%), בשר חזיר מיובש (8%), שעועית רחבה, פשתן (2%), עיסת סלק מיובש, שמרים, קמח אצות (0,3%), פרוקטו-אוליגוסכרידים (FOS 0,2%), מוצר שמרים (MOS 0,2%), יוקה schidigera (0,03%), שורש שן הארי אבקה (Taraxacum officinale W.) (0,02%), קליפת רימון מיובשת (Punica granatum) (0,02%), גזע אננס מיובש (Ananas sativus L.) (0,02%). רכיבים תזונתיים: לחות: 8,00%; חלבון גולמי: 30,00%; סיבים גולמיים: 2,40%; שומן גולמי: 19,00%; אפר…
+- Image: https://gurimbakfar.co.il/assets/product-1781772071865-fzxw3j.webp
 
 ### Nature Wild נייצ'ר גור בטעם ברווז והודו 12 ק"ג
 https://gurimbakfar.co.il/product/nature-wild-nyytsr-gvr-btam-brvvz-vhvdv-12-kg-8h3n6n
