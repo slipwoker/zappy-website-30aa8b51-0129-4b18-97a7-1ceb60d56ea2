@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-18T08:31:51.295Z",
+  "generated_at": "2026-06-18T08:34:39.846Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 169,
@@ -437,10 +437,10 @@
     },
     {
       "id": "ec89e4a2-8413-47db-accf-731db4654712",
-      "slug": "chtyp-syybr-dvg-lklb-btam-arnbt-q75doz",
+      "slug": "chtyp-syybr-dvg-lklb-btam-arnbt-x3nacr",
       "name": "חטיף סייבר דוג לכלב בטעם ארנבת",
       "name_translations": {
-        "en": "Cyber Dog rabbit flavored dog treat",
+        "en": "Cyber Dog Rabbit Flavor Dog Treat",
         "he": "חטיף סייבר דוג לכלב בטעם ארנבת",
         "ru": "Лакомство Cyber Dog для собак со вкусом кролика"
       },
@@ -452,14 +452,16 @@
       "base_price": 8,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1781771635193-g78vbs.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-syybr-dvg-lklb-btam-arnbt-q75doz",
+      "url": "https://gurimbakfar.co.il/product/chtyp-syybr-dvg-lklb-btam-arnbt-x3nacr",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-06-14T15:54:04.320Z"
+      "updated_at": "2026-06-18T08:34:08.761Z"
     },
     {
       "id": "820f524d-a64c-4220-887b-d312863d1f7a",
