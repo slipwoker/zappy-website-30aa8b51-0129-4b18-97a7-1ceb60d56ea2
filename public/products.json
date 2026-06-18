@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-18T08:30:49.730Z",
+  "generated_at": "2026-06-18T08:31:51.295Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 169,
@@ -409,7 +409,7 @@
     },
     {
       "id": "04dbe20f-0383-4e14-8ee7-c088a77b1d0b",
-      "slug": "chtyp-syybr-dvg-lklb-btam-slmvn-afq82d",
+      "slug": "chtyp-syybr-dvg-lklb-btam-slmvn-6sr4y9",
       "name": "חטיף סייבר דוג לכלב בטעם סלמון",
       "name_translations": {
         "en": "Cyber Dog Salmon Flavored Dog Treat",
@@ -424,14 +424,16 @@
       "base_price": 8,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1781771460412-0irmqfc.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-syybr-dvg-lklb-btam-slmvn-afq82d",
+      "url": "https://gurimbakfar.co.il/product/chtyp-syybr-dvg-lklb-btam-slmvn-6sr4y9",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-06-14T15:54:04.538Z"
+      "updated_at": "2026-06-18T08:31:20.252Z"
     },
     {
       "id": "ec89e4a2-8413-47db-accf-731db4654712",
