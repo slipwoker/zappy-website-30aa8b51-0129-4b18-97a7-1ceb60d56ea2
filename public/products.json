@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-18T08:28:59.040Z",
+  "generated_at": "2026-06-18T08:30:49.730Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 169,
@@ -381,10 +381,10 @@
     },
     {
       "id": "e78999d5-2370-48b2-b1d5-ce0b35744db2",
-      "slug": "chtyp-syybr-dvg-lklb-btam-brvvz-omd53k",
+      "slug": "chtyp-syybr-dvg-lklb-btam-brvvz-yx6hxh",
       "name": "חטיף סייבר דוג לכלב בטעם ברווז",
       "name_translations": {
-        "en": "Cyber Dog Duck Flavor Dog Treat",
+        "en": "Cyber Dog Duck Flavored Dog Treat",
         "he": "חטיף סייבר דוג לכלב בטעם ברווז",
         "ru": "Лакомство Cyber Dog для собак со вкусом утки"
       },
@@ -396,14 +396,16 @@
       "base_price": 8,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1781771402259-51568.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-syybr-dvg-lklb-btam-brvvz-omd53k",
+      "url": "https://gurimbakfar.co.il/product/chtyp-syybr-dvg-lklb-btam-brvvz-yx6hxh",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-06-14T15:54:04.430Z"
+      "updated_at": "2026-06-18T08:30:18.625Z"
     },
     {
       "id": "04dbe20f-0383-4e14-8ee7-c088a77b1d0b",
