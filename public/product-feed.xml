@@ -4,7 +4,7 @@
     <title>גורים בכפר</title>
     <link>https://gurimbakfar.co.il</link>
     <description>Product feed for גורים בכפר</description>
-    <lastBuildDate>Thu, 18 Jun 2026 09:23:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 18:07:52 GMT</lastBuildDate>
     <item>
       <g:id>cb0d8aa0-9ffb-408e-9dd3-efc11748e9b5</g:id>
       <g:title>תרסיס מרכך ללא שטיפה מיועד לעידוד צמיחת פרווה TAURO</g:title>
@@ -700,10 +700,50 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>b27416dc-632a-48e3-8db1-90dd1818d9ce</g:id>
-      <g:title>קולר ניילון בייסיק 35*24*15 ס&quot;מ אדום, כחול, שחור, סגול</g:title>
-      <g:description>קולר ניילון בייסיק 35*24*15 ס&quot;מ אדום, כחול, שחור, סגול</g:description>
-      <g:link>https://gurimbakfar.co.il/product/kvlr-nyylvn-byysyk-352415-sm-advm-kchvl-shchvr-sgvl-cg2baw</g:link>
+      <g:id>b27416dc-632a-48e3-8db1-90dd1818d9ce__33902283-3efa-4b93-b899-446ef76e93b2</g:id>
+      <g:title>קולר ניילון בייסיק 35*24*15 ס&quot;מ - Red</g:title>
+      <g:description>קולר ניילון בייסיק 35*24*15 ס&quot;מ</g:description>
+      <g:link>https://gurimbakfar.co.il/product/kvlr-nyylvn-byysyk-352415-sm-jxrulq</g:link>
+      <g:item_group_id>b27416dc-632a-48e3-8db1-90dd1818d9ce</g:item_group_id>
+      <g:availability>in_stock</g:availability>
+      <g:price>17.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>קולרים ורצועות</g:product_type>
+    </item>
+    <item>
+      <g:id>b27416dc-632a-48e3-8db1-90dd1818d9ce__6427078f-90f3-4111-a486-3a2eb72cac56</g:id>
+      <g:title>קולר ניילון בייסיק 35*24*15 ס&quot;מ - Black</g:title>
+      <g:description>קולר ניילון בייסיק 35*24*15 ס&quot;מ</g:description>
+      <g:link>https://gurimbakfar.co.il/product/kvlr-nyylvn-byysyk-352415-sm-jxrulq</g:link>
+      <g:item_group_id>b27416dc-632a-48e3-8db1-90dd1818d9ce</g:item_group_id>
+      <g:availability>in_stock</g:availability>
+      <g:price>17.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>קולרים ורצועות</g:product_type>
+    </item>
+    <item>
+      <g:id>b27416dc-632a-48e3-8db1-90dd1818d9ce__42288a2e-2eaa-4a8d-bf39-0d22a9140c3e</g:id>
+      <g:title>קולר ניילון בייסיק 35*24*15 ס&quot;מ - Purple</g:title>
+      <g:description>קולר ניילון בייסיק 35*24*15 ס&quot;מ</g:description>
+      <g:link>https://gurimbakfar.co.il/product/kvlr-nyylvn-byysyk-352415-sm-jxrulq</g:link>
+      <g:item_group_id>b27416dc-632a-48e3-8db1-90dd1818d9ce</g:item_group_id>
+      <g:availability>in_stock</g:availability>
+      <g:price>17.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>קולרים ורצועות</g:product_type>
+    </item>
+    <item>
+      <g:id>b27416dc-632a-48e3-8db1-90dd1818d9ce__f55246c8-f4f9-48cb-8aeb-753183e4483c</g:id>
+      <g:title>קולר ניילון בייסיק 35*24*15 ס&quot;מ - Blue</g:title>
+      <g:description>קולר ניילון בייסיק 35*24*15 ס&quot;מ</g:description>
+      <g:link>https://gurimbakfar.co.il/product/kvlr-nyylvn-byysyk-352415-sm-jxrulq</g:link>
+      <g:item_group_id>b27416dc-632a-48e3-8db1-90dd1818d9ce</g:item_group_id>
       <g:availability>in_stock</g:availability>
       <g:price>17.00 ILS</g:price>
       <g:condition>new</g:condition>
