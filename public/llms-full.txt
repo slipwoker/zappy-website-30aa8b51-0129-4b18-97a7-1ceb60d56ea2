@@ -6731,35 +6731,7 @@ Availability: In stock
 ---
 
 ### גדר אילוף לכלבים
-URL: https://gurimbakfar.co.il/product/gdr-aylvp-lklbym-aly7ic
-Price: 0.00 ILS
-Availability: In stock
-
----
-
-### גדר אילוף 107 ס"מ
-URL: https://gurimbakfar.co.il/product/gdr-aylvp-107-sm-qp6yjr
-Price: 0.00 ILS
-Availability: In stock
-
----
-
-### גדר אילוף 91 ס"מ
-URL: https://gurimbakfar.co.il/product/gdr-aylvp-91-sm-cs7iqf
-Price: 0.00 ILS
-Availability: In stock
-
----
-
-### גדר אילוף 76 ס"מ
-URL: https://gurimbakfar.co.il/product/gdr-aylvp-76-sm-dcdnc3
-Price: 0.00 ILS
-Availability: In stock
-
----
-
-### גדר אילוף 61 ס"מ
-URL: https://gurimbakfar.co.il/product/gdr-aylvp-61-sm-6m5is3
+URL: https://gurimbakfar.co.il/product/gdr-aylvp-lklbym-l1aeyn
 Price: 0.00 ILS
 Availability: In stock
 

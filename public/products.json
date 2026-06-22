@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-22T20:26:36.247Z",
+  "generated_at": "2026-06-22T20:27:50.969Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 164,
+  "count": 160,
   "products": [
     {
       "id": "cb0d8aa0-9ffb-408e-9dd3-efc11748e9b5",
@@ -604,7 +604,7 @@
     },
     {
       "id": "c18b94dc-acce-48bd-83b8-3f40ea13db4f",
-      "slug": "gdr-aylvp-lklbym-aly7ic",
+      "slug": "gdr-aylvp-lklbym-l1aeyn",
       "name": "גדר אילוף לכלבים",
       "name_translations": {
         "en": "Dog Training Fence",
@@ -624,115 +624,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/gdr-aylvp-lklbym-aly7ic",
+      "url": "https://gurimbakfar.co.il/product/gdr-aylvp-lklbym-l1aeyn",
       "categories": [
         "כלובים וגדרות"
       ],
-      "updated_at": "2026-06-22T20:26:04.812Z"
-    },
-    {
-      "id": "70517f4b-8fda-47c6-8ca9-e3e30391a955",
-      "slug": "gdr-aylvp-107-sm-qp6yjr",
-      "name": "גדר אילוף 107 ס\"מ",
-      "name_translations": {
-        "en": "Training Fence 107 cm",
-        "he": "גדר אילוף 107 ס\"מ",
-        "ru": "Ограждение для дрессировки 107 см"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 0,
-      "base_price": 0,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/gdr-aylvp-107-sm-qp6yjr",
-      "categories": [
-        "כלובים וגדרות"
-      ],
-      "updated_at": "2026-06-14T15:55:06.730Z"
-    },
-    {
-      "id": "39ab409e-5a47-4232-9e65-79c076459859",
-      "slug": "gdr-aylvp-91-sm-cs7iqf",
-      "name": "גדר אילוף 91 ס\"מ",
-      "name_translations": {
-        "en": "Training Fence 91 cm",
-        "he": "גדר אילוף 91 ס\"מ",
-        "ru": "Ограждение для дрессировки 91 см"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 0,
-      "base_price": 0,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/gdr-aylvp-91-sm-cs7iqf",
-      "categories": [
-        "כלובים וגדרות"
-      ],
-      "updated_at": "2026-06-14T15:55:07.147Z"
-    },
-    {
-      "id": "02e70798-3ad4-435f-88e9-26117c576293",
-      "slug": "gdr-aylvp-76-sm-dcdnc3",
-      "name": "גדר אילוף 76 ס\"מ",
-      "name_translations": {
-        "en": "Training Fence 76 cm",
-        "he": "גדר אילוף 76 ס\"מ",
-        "ru": "Ограждение для дрессировки 76 см"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 0,
-      "base_price": 0,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/gdr-aylvp-76-sm-dcdnc3",
-      "categories": [
-        "כלובים וגדרות"
-      ],
-      "updated_at": "2026-06-14T15:55:07.802Z"
-    },
-    {
-      "id": "1e2a6b17-55f1-4005-a673-e07bfa8eea6d",
-      "slug": "gdr-aylvp-61-sm-6m5is3",
-      "name": "גדר אילוף 61 ס\"מ",
-      "name_translations": {
-        "en": "Training Fence 61 cm",
-        "he": "גדר אילוף 61 ס\"מ",
-        "ru": "Ограждение для дрессировки 61 см"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 0,
-      "base_price": 0,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/gdr-aylvp-61-sm-6m5is3",
-      "categories": [
-        "כלובים וגדרות"
-      ],
-      "updated_at": "2026-06-14T15:55:07.383Z"
+      "updated_at": "2026-06-22T20:27:05.240Z"
     },
     {
       "id": "9f66829a-ece8-4209-ac4f-9ae0958f2051",
