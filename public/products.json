@@ -1,16 +1,16 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-22T18:04:27.683Z",
+  "generated_at": "2026-06-22T18:16:50.734Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 169,
   "products": [
     {
       "id": "cb0d8aa0-9ffb-408e-9dd3-efc11748e9b5",
-      "slug": "trsys-mrkk-lla-shtyph-myvad-laydvd-tsmycht-prvvh-tauro-mx70iz",
+      "slug": "trsys-mrkk-lla-shtyph-myvad-laydvd-tsmycht-prvvh-tauro-b2adp3",
       "name": "תרסיס מרכך ללא שטיפה מיועד לעידוד צמיחת פרווה TAURO",
       "name_translations": {
-        "en": "TAURO No-Rinse Softening Spray for Encouraging Fur Growth",
+        "en": "TAURO Leave-In Conditioning Spray for Coat Growth Stimulation",
         "he": "תרסיס מרכך ללא שטיפה מיועד לעידוד צמיחת פרווה TAURO",
         "ru": "Спрей-кондиционер без смывания для стимуляции роста шерсти TAURO"
       },
@@ -22,14 +22,16 @@
       "base_price": 95,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782152153993-d8eg0b.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/trsys-mrkk-lla-shtyph-myvad-laydvd-tsmycht-prvvh-tauro-mx70iz",
+      "url": "https://gurimbakfar.co.il/product/trsys-mrkk-lla-shtyph-myvad-laydvd-tsmycht-prvvh-tauro-b2adp3",
       "categories": [
         "מוצרי טיפוח"
       ],
-      "updated_at": "2026-06-14T15:52:43.262Z"
+      "updated_at": "2026-06-22T18:16:19.723Z"
     },
     {
       "id": "4fef1902-4603-4247-ba81-97339a47d2ae",
