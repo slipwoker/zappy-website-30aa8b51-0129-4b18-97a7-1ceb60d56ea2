@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-22T18:35:38.280Z",
+  "generated_at": "2026-06-22T18:38:31.073Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 169,
@@ -91,12 +91,12 @@
     },
     {
       "id": "fcccfb2c-3275-47a0-b8af-4738d4723010",
-      "slug": "shrshrt-kvtsym-laylvp-nykl-50-sm-avby-3-mm-p79hsv",
-      "name": "שרשרת קוצים לאילוף - ניקל- 50 ס\"מ עובי 3 מ\"מ",
+      "slug": "kvlr-kvtsym-laylvp-50-sm-avby-3-mm-7xrz84",
+      "name": "קולר קוצים לאילוף - 50 ס\"מ עובי 3 מ\"מ",
       "name_translations": {
-        "en": "Prong Training Chain - Nickel - 50 cm Thickness 3 mm",
-        "he": "שרשרת קוצים לאילוף - ניקל- 50 ס\"מ עובי 3 מ\"מ",
-        "ru": "Строгий ошейник для дрессировки - никель - 50 см толщина 3 мм"
+        "en": "Prong Training Collar - 50 cm, 3 mm thickness",
+        "he": "קולר קוצים לאילוף - 50 ס\"מ עובי 3 מ\"מ",
+        "ru": "Ошейник-шипы для дрессировки - 50 см толщина 3 мм"
       },
       "description": "",
       "short_description": null,
@@ -106,14 +106,16 @@
       "base_price": 50,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782153446876-h993w.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/shrshrt-kvtsym-laylvp-nykl-50-sm-avby-3-mm-p79hsv",
+      "url": "https://gurimbakfar.co.il/product/kvlr-kvtsym-laylvp-50-sm-avby-3-mm-7xrz84",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-06-22T18:35:06.376Z"
+      "updated_at": "2026-06-22T18:37:59.909Z"
     },
     {
       "id": "68568027-8bd0-41f6-b63a-c907fae1a591",
