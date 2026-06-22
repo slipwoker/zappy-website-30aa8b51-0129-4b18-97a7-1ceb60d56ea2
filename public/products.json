@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-22T18:41:05.209Z",
+  "generated_at": "2026-06-22T18:42:58.234Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 169,
+  "count": 168,
   "products": [
     {
       "id": "cb0d8aa0-9ffb-408e-9dd3-efc11748e9b5",
@@ -249,10 +249,10 @@
     },
     {
       "id": "e65ce7da-ce0f-4965-9d79-cca2c5af3433",
-      "slug": "rtsvah-12520-sm-tsba-bz-chvm-7myf18",
+      "slug": "rtsvah-12520-sm-tsba-bz-chvm-k3vq58",
       "name": "רצועה 125*20 ס\"מ צבע בז'-חום",
       "name_translations": {
-        "en": "Leash 125*20 cm Beige-Brown Color",
+        "en": "Leash 125*20 cm Beige-Brown color",
         "he": "רצועה 125*20 ס\"מ צבע בז'-חום",
         "ru": "Поводок 125*20 см цвет бежево-коричневый"
       },
@@ -265,43 +265,16 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1781451859226-99x4mp.webp"
+        "https://gurimbakfar.co.il/assets/product-1781451859226-99x4mp.webp",
+        "https://gurimbakfar.co.il/assets/product-1782153725261-99czhp.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rtsvah-12520-sm-tsba-bz-chvm-7myf18",
+      "url": "https://gurimbakfar.co.il/product/rtsvah-12520-sm-tsba-bz-chvm-k3vq58",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-06-22T18:40:34.092Z"
-    },
-    {
-      "id": "503ee7ab-b339-48f2-85d1-2ccf0fc4a615",
-      "slug": "rtsvah-12520-sm-tsba-shchvr-advm-94kft0",
-      "name": "רצועה 125*20 ס\"מ צבע שחור-אדום",
-      "name_translations": {
-        "en": "Leash 125*20 cm Black-Red Color",
-        "he": "רצועה 125*20 ס\"מ צבע שחור-אדום",
-        "ru": "Поводок 125*20 см цвет черно-красный"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 25,
-      "base_price": 25,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://gurimbakfar.co.il/assets/product-1781451901796-pntllt.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rtsvah-12520-sm-tsba-shchvr-advm-94kft0",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-06-14T15:52:10.232Z"
+      "updated_at": "2026-06-22T18:42:27.147Z"
     },
     {
       "id": "af0d2603-0b9c-4539-a7d9-c9e2f944d264",
