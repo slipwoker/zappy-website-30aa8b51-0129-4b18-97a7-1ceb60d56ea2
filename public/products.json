@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-22T18:20:42.269Z",
+  "generated_at": "2026-06-22T18:23:42.998Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 169,
@@ -63,12 +63,12 @@
     },
     {
       "id": "836e5f38-df1b-4533-8a1f-9ffddbc4f78c",
-      "slug": "shrshrt-mptslt-l-2-klbym-50-sm-0kaw60",
-      "name": "שרשרת מפצלת ל 2 כלבים 50 ס\"מ",
+      "slug": "shrshrt-mptslt-l2-klbym-50-sm-jqqo58",
+      "name": "שרשרת מפצלת ל2 כלבים 50 ס\"מ",
       "name_translations": {
-        "en": "2-Dog Splitter Chain 50 cm",
-        "he": "שרשרת מפצלת ל 2 כלבים 50 ס\"מ",
-        "ru": "Поводок-рогатка для 2 собак 50 см"
+        "en": "Splitter Leash for 2 Dogs 50 cm",
+        "he": "שרשרת מפצלת ל2 כלבים 50 ס\"מ",
+        "ru": "Поводок-разветвитель для 2 собак 50 см"
       },
       "description": "",
       "short_description": null,
@@ -78,14 +78,16 @@
       "base_price": 60,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782152571075-42hzxh.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/shrshrt-mptslt-l-2-klbym-50-sm-0kaw60",
+      "url": "https://gurimbakfar.co.il/product/shrshrt-mptslt-l2-klbym-50-sm-jqqo58",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-06-14T15:52:11.170Z"
+      "updated_at": "2026-06-22T18:23:12.115Z"
     },
     {
       "id": "fcccfb2c-3275-47a0-b8af-4738d4723010",
