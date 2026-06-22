@@ -72,7 +72,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 168**
+**Total active products: 164**
 
 ### תרסיס מרכך ללא שטיפה מיועד לעידוד צמיחת פרווה TAURO
 https://gurimbakfar.co.il/product/trsys-mrkk-lla-shtyph-myvad-laydvd-tsmycht-prvvh-tauro-b2adp3
@@ -248,36 +248,12 @@ https://gurimbakfar.co.il/product/gdr-aylvp-61-sm-6m5is3
 - Availability: In stock
 - Category: כלובים וגדרות
 
-### כלוב אילוף 121 ס"מ
-https://gurimbakfar.co.il/product/klvb-aylvp-121-sm-p697xo
-- Price: 0.00 ILS
-- Availability: In stock
-- Category: כלובים וגדרות
-
-### כלוב אילוף 107 ס"מ
-https://gurimbakfar.co.il/product/klvb-aylvp-107-sm-t6h5rd
-- Price: 0.00 ILS
-- Availability: In stock
-- Category: כלובים וגדרות
-
 ### כלוב אילוף לכלבים
 https://gurimbakfar.co.il/product/klvb-aylvp-lklbym-0j2i5x
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: כלובים וגדרות
 - Image: https://gurimbakfar.co.il/assets/product-1782157508007-mvdxj.webp
-
-### כלוב אילוף 76 ס"מ
-https://gurimbakfar.co.il/product/klvb-aylvp-76-sm-moty1i
-- Price: 0.00 ILS
-- Availability: In stock
-- Category: כלובים וגדרות
-
-### כלוב אילוף 61 ס"מ
-https://gurimbakfar.co.il/product/klvb-aylvp-61-sm-crc3dg
-- Price: 0.00 ILS
-- Availability: In stock
-- Category: כלובים וגדרות
 
 ### הנריס חמאת בוטנים טבעית
 https://gurimbakfar.co.il/product/hnrys-chmat-bvtnym-tbayt-yh6a9h
