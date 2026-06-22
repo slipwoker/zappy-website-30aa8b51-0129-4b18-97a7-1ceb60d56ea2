@@ -4,7 +4,7 @@
     <title>גורים בכפר</title>
     <link>https://gurimbakfar.co.il</link>
     <description>Product feed for גורים בכפר</description>
-    <lastBuildDate>Mon, 22 Jun 2026 18:23:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 18:31:14 GMT</lastBuildDate>
     <item>
       <g:id>cb0d8aa0-9ffb-408e-9dd3-efc11748e9b5</g:id>
       <g:title>תרסיס מרכך ללא שטיפה מיועד לעידוד צמיחת פרווה TAURO</g:title>
@@ -45,10 +45,24 @@
       <g:product_type>קולרים ורצועות</g:product_type>
     </item>
     <item>
-      <g:id>fcccfb2c-3275-47a0-b8af-4738d4723010</g:id>
-      <g:title>שרשרת קוצים לאילוף - ניקל- 50 ס&quot;מ עובי 3 מ&quot;מ</g:title>
+      <g:id>fcccfb2c-3275-47a0-b8af-4738d4723010__c7198df5-a7ec-4210-9a84-6f7f95b870d0</g:id>
+      <g:title>שרשרת קוצים לאילוף - ניקל- 50 ס&quot;מ עובי 3 מ&quot;מ - Black</g:title>
       <g:description>שרשרת קוצים לאילוף - ניקל- 50 ס&quot;מ עובי 3 מ&quot;מ</g:description>
       <g:link>https://gurimbakfar.co.il/product/shrshrt-kvtsym-laylvp-nykl-50-sm-avby-3-mm-p79hsv</g:link>
+      <g:item_group_id>fcccfb2c-3275-47a0-b8af-4738d4723010</g:item_group_id>
+      <g:availability>in_stock</g:availability>
+      <g:price>50.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>קולרים ורצועות</g:product_type>
+    </item>
+    <item>
+      <g:id>fcccfb2c-3275-47a0-b8af-4738d4723010__7f69c344-5b98-4a92-8e44-74299fa60974</g:id>
+      <g:title>שרשרת קוצים לאילוף - ניקל- 50 ס&quot;מ עובי 3 מ&quot;מ - Silver</g:title>
+      <g:description>שרשרת קוצים לאילוף - ניקל- 50 ס&quot;מ עובי 3 מ&quot;מ</g:description>
+      <g:link>https://gurimbakfar.co.il/product/shrshrt-kvtsym-laylvp-nykl-50-sm-avby-3-mm-p79hsv</g:link>
+      <g:item_group_id>fcccfb2c-3275-47a0-b8af-4738d4723010</g:item_group_id>
       <g:availability>in_stock</g:availability>
       <g:price>50.00 ILS</g:price>
       <g:condition>new</g:condition>
