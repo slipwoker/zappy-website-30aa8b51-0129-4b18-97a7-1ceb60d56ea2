@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-22T19:42:16.041Z",
+  "generated_at": "2026-06-22T19:45:53.850Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 168,
@@ -786,12 +786,12 @@
     },
     {
       "id": "9f66829a-ece8-4209-ac4f-9ae0958f2051",
-      "slug": "klvb-aylvp-91-sm-bamnpr",
-      "name": "כלוב אילוף 91 ס\"מ",
+      "slug": "klvb-aylvp-lklbym-godsxp",
+      "name": "כלוב אילוף לכלבים",
       "name_translations": {
-        "en": "Training Cage 91 cm",
-        "he": "כלוב אילוף 91 ס\"מ",
-        "ru": "Клетка для дрессировки 91 см"
+        "en": "Dog Training Crate",
+        "he": "כלוב אילוף לכלבים",
+        "ru": "Клетка для дрессировки собак"
       },
       "description": "",
       "short_description": null,
@@ -801,14 +801,16 @@
       "base_price": 0,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1782157508007-mvdxj.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/klvb-aylvp-91-sm-bamnpr",
+      "url": "https://gurimbakfar.co.il/product/klvb-aylvp-lklbym-godsxp",
       "categories": [
         "כלובים וגדרות"
       ],
-      "updated_at": "2026-06-14T15:55:06.938Z"
+      "updated_at": "2026-06-22T19:45:22.839Z"
     },
     {
       "id": "316dc9f4-8a4c-4abf-8ad7-ee05bda5e13e",
