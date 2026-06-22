@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-22T18:16:50.734Z",
+  "generated_at": "2026-06-22T18:20:42.269Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 169,
@@ -35,10 +35,10 @@
     },
     {
       "id": "4fef1902-4603-4247-ba81-97339a47d2ae",
-      "slug": "trsys-mrkk-lla-shtyph-lshykvm-vtsmychh-shl-hprvvh-tauro-7b2du2",
+      "slug": "trsys-mrkk-lla-shtyph-lshykvm-vtsmychh-shl-hprvvh-tauro-6rfitj",
       "name": "תרסיס מרכך ללא שטיפה לשיקום וצמיחה של הפרווה TAURO",
       "name_translations": {
-        "en": "TAURO No-Rinse Conditioning Spray for Coat Restoration and Growth",
+        "en": "TAURO No-Rinse Softening Spray for Fur Rehabilitation and Growth",
         "he": "תרסיס מרכך ללא שטיפה לשיקום וצמיחה של הפרווה TAURO",
         "ru": "Спрей-кондиционер без смывания для восстановления и роста шерсти TAURO"
       },
@@ -50,14 +50,16 @@
       "base_price": 125,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782152315032-xecrf.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/trsys-mrkk-lla-shtyph-lshykvm-vtsmychh-shl-hprvvh-tauro-7b2du2",
+      "url": "https://gurimbakfar.co.il/product/trsys-mrkk-lla-shtyph-lshykvm-vtsmychh-shl-hprvvh-tauro-6rfitj",
       "categories": [
         "מוצרי טיפוח"
       ],
-      "updated_at": "2026-06-14T15:52:43.154Z"
+      "updated_at": "2026-06-22T18:20:11.318Z"
     },
     {
       "id": "836e5f38-df1b-4533-8a1f-9ffddbc4f78c",
