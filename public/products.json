@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-23T09:47:40.956Z",
+  "generated_at": "2026-06-23T09:49:48.904Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 158,
@@ -2594,8 +2594,8 @@
     },
     {
       "id": "0921a46a-a2fd-4622-95b9-26ac07c2dbe5",
-      "slug": "tsatsva-tmnvn-mrshrsh-am-tsptsph-sgvl-fim9p7",
-      "name": "צעצוע תמנון מרשרש עם צפצפה - סגול",
+      "slug": "tsatsva-tmnvn-mrshrsh-am-tsptsph-5lwji6",
+      "name": "צעצוע תמנון מרשרש עם צפצפה",
       "name_translations": {
         "en": "Rattling Octopus Toy with Squeaker - Purple",
         "he": "צעצוע תמנון מרשרש עם צפצפה - סגול",
@@ -2610,15 +2610,16 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1782207948650-yza3km.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782208144240-e0w6c3.webp",
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782208117778-h6pwse.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/tsatsva-tmnvn-mrshrsh-am-tsptsph-sgvl-fim9p7",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-tmnvn-mrshrsh-am-tsptsph-5lwji6",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-23T09:46:15.425Z"
+      "updated_at": "2026-06-23T09:49:40.232Z"
     },
     {
       "id": "cb07cd49-f9b9-4232-9459-86cc86a8a08d",

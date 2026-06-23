@@ -4,7 +4,7 @@
     <title>גורים בכפר</title>
     <link>https://gurimbakfar.co.il</link>
     <description>Product feed for גורים בכפר</description>
-    <lastBuildDate>Tue, 23 Jun 2026 09:47:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 09:49:48 GMT</lastBuildDate>
     <item>
       <g:id>cb0d8aa0-9ffb-408e-9dd3-efc11748e9b5</g:id>
       <g:title>תרסיס מרכך ללא שטיפה מיועד לעידוד צמיחת פרווה TAURO</g:title>
@@ -1430,11 +1430,28 @@
       <g:product_type>צעצועים</g:product_type>
     </item>
     <item>
-      <g:id>0921a46a-a2fd-4622-95b9-26ac07c2dbe5</g:id>
-      <g:title>צעצוע תמנון מרשרש עם צפצפה - סגול</g:title>
-      <g:description>צעצוע תמנון מרשרש עם צפצפה - סגול</g:description>
-      <g:link>https://gurimbakfar.co.il/product/tsatsva-tmnvn-mrshrsh-am-tsptsph-sgvl-fim9p7</g:link>
-      <g:image_link>https://gurimbakfar.co.il/assets/product-1782207948650-yza3km.webp</g:image_link>
+      <g:id>0921a46a-a2fd-4622-95b9-26ac07c2dbe5__ca61cee4-7470-4a4d-8f17-4969261a3c37</g:id>
+      <g:title>צעצוע תמנון מרשרש עם צפצפה - Purple</g:title>
+      <g:description>צעצוע תמנון מרשרש עם צפצפה</g:description>
+      <g:link>https://gurimbakfar.co.il/product/tsatsva-tmnvn-mrshrsh-am-tsptsph-5lwji6</g:link>
+      <g:item_group_id>0921a46a-a2fd-4622-95b9-26ac07c2dbe5</g:item_group_id>
+      <g:image_link>https://gurimbakfar.co.il/assets/product-enhanced-1782208144240-e0w6c3.webp</g:image_link>
+      <g:additional_image_link>https://gurimbakfar.co.il/assets/product-enhanced-1782208117778-h6pwse.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>35.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>צעצועים</g:product_type>
+    </item>
+    <item>
+      <g:id>0921a46a-a2fd-4622-95b9-26ac07c2dbe5__a8037394-eefc-44ba-9ae8-184c9cf455fd</g:id>
+      <g:title>צעצוע תמנון מרשרש עם צפצפה - תכלת</g:title>
+      <g:description>צעצוע תמנון מרשרש עם צפצפה</g:description>
+      <g:link>https://gurimbakfar.co.il/product/tsatsva-tmnvn-mrshrsh-am-tsptsph-5lwji6</g:link>
+      <g:item_group_id>0921a46a-a2fd-4622-95b9-26ac07c2dbe5</g:item_group_id>
+      <g:image_link>https://gurimbakfar.co.il/assets/product-enhanced-1782208144240-e0w6c3.webp</g:image_link>
+      <g:additional_image_link>https://gurimbakfar.co.il/assets/product-enhanced-1782208117778-h6pwse.webp</g:additional_image_link>
       <g:availability>in_stock</g:availability>
       <g:price>35.00 ILS</g:price>
       <g:condition>new</g:condition>
