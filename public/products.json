@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-23T10:02:05.398Z",
+  "generated_at": "2026-06-23T10:03:18.085Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 158,
@@ -2438,12 +2438,12 @@
     },
     {
       "id": "ea389654-1af7-4582-b09c-c3fbfd7140a6",
-      "slug": "mshchk-chbl-kdvr-7-sm-s5288f",
+      "slug": "mshchk-chbl-kdvr-7-sm-wa81nt",
       "name": "משחק חבל כדור 7 ס\"מ",
       "name_translations": {
-        "en": "Rope Ball Toy 7 cm",
+        "en": "Ball Rope Toy 7 cm",
         "he": "משחק חבל כדור 7 ס\"מ",
-        "ru": "Игрушка веревочный мяч 7 см"
+        "ru": "Игрушка канатный мяч 7 см"
       },
       "description": "",
       "short_description": null,
@@ -2453,14 +2453,16 @@
       "base_price": 30,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782208954402-u2j5e4.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mshchk-chbl-kdvr-7-sm-s5288f",
+      "url": "https://gurimbakfar.co.il/product/mshchk-chbl-kdvr-7-sm-wa81nt",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-07T19:31:17.509Z"
+      "updated_at": "2026-06-23T10:02:47.080Z"
     },
     {
       "id": "d53b30ab-6ac6-4905-b79c-8fb0de64dbf6",
