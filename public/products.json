@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-23T09:46:46.371Z",
+  "generated_at": "2026-06-23T09:47:40.956Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 159,
+  "count": 158,
   "products": [
     {
       "id": "cb0d8aa0-9ffb-408e-9dd3-efc11748e9b5",
@@ -2591,32 +2591,6 @@
         "צעצועים"
       ],
       "updated_at": "2026-06-07T19:31:20.744Z"
-    },
-    {
-      "id": "891de7ed-14ec-4b55-a0de-b08e8da1bb26",
-      "slug": "tsatsva-tmnvn-mrshrsh-am-tsptsph-tklt-0vxw5m",
-      "name": "צעצוע תמנון  מרשרש עם צפצפה - תכלת",
-      "name_translations": {
-        "en": "Octopus Rattle Toy with Squeaker - Turquoise",
-        "he": "צעצוע תמנון  מרשרש עם צפצפה - תכלת",
-        "ru": "Игрушка осьминог шуршащий со свистком - голубой"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 35,
-      "base_price": 35,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/tsatsva-tmnvn-mrshrsh-am-tsptsph-tklt-0vxw5m",
-      "categories": [
-        "צעצועים"
-      ],
-      "updated_at": "2026-06-07T19:31:15.404Z"
     },
     {
       "id": "0921a46a-a2fd-4622-95b9-26ac07c2dbe5",
