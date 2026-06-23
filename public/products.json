@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-23T10:29:24.241Z",
+  "generated_at": "2026-06-23T10:30:31.222Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 158,
@@ -2334,12 +2334,12 @@
     },
     {
       "id": "85ed2463-8df4-4e3d-891f-35e213b9eac3",
-      "slug": "mshtch-lykvk-2020-sm-freedog-fowkr9",
+      "slug": "mshtch-lykvk-2020-sm-freedog-h3rdn0",
       "name": "משטח ליקוק 20*20 ס\"מ freedog",
       "name_translations": {
         "en": "Licking Mat 20*20 cm freedog",
         "he": "משטח ליקוק 20*20 ס\"מ freedog",
-        "ru": "Коврик для лизания 20*20 см freedog"
+        "ru": "коврик для лизания 20*20 см freedog"
       },
       "description": "",
       "short_description": null,
@@ -2357,11 +2357,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mshtch-lykvk-2020-sm-freedog-fowkr9",
+      "url": "https://gurimbakfar.co.il/product/mshtch-lykvk-2020-sm-freedog-h3rdn0",
       "categories": [
         "כלי אוכל ושתייה"
       ],
-      "updated_at": "2026-06-23T10:28:56.417Z"
+      "updated_at": "2026-06-23T10:30:00.051Z"
     },
     {
       "id": "cddaf0f1-b326-467b-a1ec-6ffcbce0d10a",
