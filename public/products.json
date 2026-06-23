@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-23T09:58:16.117Z",
+  "generated_at": "2026-06-23T10:02:05.398Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 158,
@@ -2464,12 +2464,12 @@
     },
     {
       "id": "d53b30ab-6ac6-4905-b79c-8fb0de64dbf6",
-      "slug": "trngvl-ltks-mtsptsp-dmbldg",
+      "slug": "trngvl-ltks-mtsptsp-nvv5yg",
       "name": "תרנגול לטקס מצפצף",
       "name_translations": {
         "en": "Squeaky Latex Rooster",
         "he": "תרנגול לטקס מצפצף",
-        "ru": "Петух латексный пищащий"
+        "ru": "Латексный петух-пищалка"
       },
       "description": "",
       "short_description": null,
@@ -2479,14 +2479,16 @@
       "base_price": 35,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1782208881783-bklzif.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/trngvl-ltks-mtsptsp-dmbldg",
+      "url": "https://gurimbakfar.co.il/product/trngvl-ltks-mtsptsp-nvv5yg",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-07T19:31:14.709Z"
+      "updated_at": "2026-06-23T10:01:34.434Z"
     },
     {
       "id": "fa7d254f-588b-46d6-9d02-9f0fa08a286c",
