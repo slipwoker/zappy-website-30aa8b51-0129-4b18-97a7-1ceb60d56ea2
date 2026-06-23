@@ -72,7 +72,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 160**
+**Total active products: 159**
 
 ### תרסיס מרכך ללא שטיפה מיועד לעידוד צמיחת פרווה TAURO
 https://gurimbakfar.co.il/product/trsys-mrkk-lla-shtyph-myvad-laydvd-tsmycht-prvvh-tauro-b2adp3
@@ -703,12 +703,6 @@ https://gurimbakfar.co.il/product/tsatsva-tmnvn-mrshrsh-am-tsptsph-sgvl-tl47fz
 - Availability: In stock
 - Category: צעצועים
 
-### בובות לכלבים צוואר חבל - כלב
-https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-klb-i52pjt
-- Price: 35.00 ILS
-- Availability: In stock
-- Category: צעצועים
-
 ### הנריס גידי באפלו
 https://gurimbakfar.co.il/product/hnrys-gydy-baplv-d1ih0e
 - Price: 26.00 ILS
@@ -744,7 +738,7 @@ https://gurimbakfar.co.il/product/shmpv-petglow-f4ozj3
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1780898271084-4ekxi.webp
 
 ### כדור דנטלי עם חבל
-https://gurimbakfar.co.il/product/kdvr-dntly-am-chbl-tt34ws
+https://gurimbakfar.co.il/product/kdvr-dntly-am-chbl-r40ega
 - Price: 35.00 ILS
 - Availability: In stock
 - Category: צעצועים

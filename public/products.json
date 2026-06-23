@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-23T09:44:19.108Z",
+  "generated_at": "2026-06-23T09:44:58.793Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 160,
+  "count": 159,
   "products": [
     {
       "id": "cb0d8aa0-9ffb-408e-9dd3-efc11748e9b5",
@@ -2645,32 +2645,6 @@
       "updated_at": "2026-06-07T19:31:12.851Z"
     },
     {
-      "id": "5316a6f6-f351-45d5-9573-aff5ea30a761",
-      "slug": "bvbvt-lklbym-tsvvar-chbl-klb-i52pjt",
-      "name": "בובות לכלבים צוואר חבל - כלב",
-      "name_translations": {
-        "en": "Dog Rope Neck Toys - Dog",
-        "he": "בובות לכלבים צוואר חבל - כלב",
-        "ru": "Игрушки для собак веревка на шею - собака"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 35,
-      "base_price": 35,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-klb-i52pjt",
-      "categories": [
-        "צעצועים"
-      ],
-      "updated_at": "2026-06-07T19:31:12.641Z"
-    },
-    {
       "id": "cb07cd49-f9b9-4232-9459-86cc86a8a08d",
       "slug": "hnrys-gydy-baplv-d1ih0e",
       "name": "הנריס גידי באפלו",
@@ -2810,7 +2784,7 @@
     },
     {
       "id": "b4344933-f562-4eba-98b2-45781e574206",
-      "slug": "kdvr-dntly-am-chbl-tt34ws",
+      "slug": "kdvr-dntly-am-chbl-r40ega",
       "name": "כדור דנטלי עם חבל",
       "name_translations": {
         "en": "Dental Ball with Rope",
@@ -2830,11 +2804,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kdvr-dntly-am-chbl-tt34ws",
+      "url": "https://gurimbakfar.co.il/product/kdvr-dntly-am-chbl-r40ega",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-23T09:43:54.985Z"
+      "updated_at": "2026-06-23T09:44:27.196Z"
     },
     {
       "id": "9bfbad74-da13-4019-949a-f32efe8f200c",
