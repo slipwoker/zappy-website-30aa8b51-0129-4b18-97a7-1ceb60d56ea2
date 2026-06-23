@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-23T10:03:18.085Z",
+  "generated_at": "2026-06-23T10:06:32.722Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 158,
@@ -2412,10 +2412,10 @@
     },
     {
       "id": "16b52d0b-f13d-4891-b5db-25a7ecbd95f0",
-      "slug": "kart-haklh-aytyt-lklbym-1818-sm-freedog-r1d4l9",
+      "slug": "kart-haklh-aytyt-lklbym-1818-sm-freedog-enrzlq",
       "name": "קערת האכלה איטית לכלבים 18*18 ס\"מ freedog",
       "name_translations": {
-        "en": "Slow feeding bowl for dogs 18*18 cm freedog",
+        "en": "Slow Feeding Bowl for Dogs 18*18 cm freedog",
         "he": "קערת האכלה איטית לכלבים 18*18 ס\"מ freedog",
         "ru": "Миска для медленного кормления собак 18*18 см freedog"
       },
@@ -2427,14 +2427,16 @@
       "base_price": 60,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1782209145825-hncdfh.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kart-haklh-aytyt-lklbym-1818-sm-freedog-r1d4l9",
+      "url": "https://gurimbakfar.co.il/product/kart-haklh-aytyt-lklbym-1818-sm-freedog-enrzlq",
       "categories": [
         "כלי אוכל ושתייה"
       ],
-      "updated_at": "2026-06-07T19:31:21.991Z"
+      "updated_at": "2026-06-23T10:06:01.705Z"
     },
     {
       "id": "ea389654-1af7-4582-b09c-c3fbfd7140a6",
