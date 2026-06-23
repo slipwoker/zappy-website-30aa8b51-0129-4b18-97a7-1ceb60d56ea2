@@ -637,11 +637,12 @@ https://gurimbakfar.co.il/product/mshtch-lykvk-2020-sm-freedog-fy1c0q
 - Availability: In stock
 - Category: כלי אוכל ושתייה
 
-### פאפי רול 45/30 ס"מ
-https://gurimbakfar.co.il/product/papy-rvl-4530-sm-8lnkza
+### פאפי רול
+https://gurimbakfar.co.il/product/papy-rvl-oyw26c
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: צעצועים
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1782209581919-mie7ia.webp
 
 ### צעצוע לעיסה צמיג חבל
 https://gurimbakfar.co.il/product/tsatsva-laysh-tsmyg-chbl-10j8cn

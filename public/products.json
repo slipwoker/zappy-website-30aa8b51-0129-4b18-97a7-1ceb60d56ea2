@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-23T10:09:28.273Z",
+  "generated_at": "2026-06-23T10:17:37.565Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 158,
@@ -2360,12 +2360,12 @@
     },
     {
       "id": "cddaf0f1-b326-467b-a1ec-6ffcbce0d10a",
-      "slug": "papy-rvl-4530-sm-8lnkza",
-      "name": "פאפי רול 45/30 ס\"מ",
+      "slug": "papy-rvl-oyw26c",
+      "name": "פאפי רול",
       "name_translations": {
-        "en": "Puppy Roll 45/30 cm",
-        "he": "פאפי רול 45/30 ס\"מ",
-        "ru": "Паппи ролл 45/30 см"
+        "en": "Puppy Roll",
+        "he": "פאפי רול",
+        "ru": "Паппи Ролл"
       },
       "description": "",
       "short_description": null,
@@ -2375,14 +2375,16 @@
       "base_price": 0,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782209581919-mie7ia.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/papy-rvl-4530-sm-8lnkza",
+      "url": "https://gurimbakfar.co.il/product/papy-rvl-oyw26c",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-07T19:31:22.642Z"
+      "updated_at": "2026-06-23T10:16:22.583Z"
     },
     {
       "id": "576ae0e2-4b9b-4a7c-b6c9-5f32449276cd",
