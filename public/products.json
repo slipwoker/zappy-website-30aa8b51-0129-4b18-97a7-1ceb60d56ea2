@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-23T10:32:43.278Z",
+  "generated_at": "2026-06-23T10:36:51.532Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 158,
@@ -2282,12 +2282,12 @@
     },
     {
       "id": "0f1542d2-e77b-412e-91e9-f6f8624d087d",
-      "slug": "msrk-prmyntvr-m-y254cv",
+      "slug": "msrk-prmyntvr-m-vubdfo",
       "name": "מסרק פרמינטור M",
       "name_translations": {
-        "en": "FURminator M Comb",
+        "en": "Furminator Comb M",
         "he": "מסרק פרמינטור M",
-        "ru": "Расческа Фурминатор M"
+        "ru": "Расчёска Furminator M"
       },
       "description": "",
       "short_description": null,
@@ -2297,14 +2297,16 @@
       "base_price": 85,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1782210960032-yvn0ah.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/msrk-prmyntvr-m-y254cv",
+      "url": "https://gurimbakfar.co.il/product/msrk-prmyntvr-m-vubdfo",
       "categories": [
         "מוצרי טיפוח"
       ],
-      "updated_at": "2026-06-07T19:31:23.347Z"
+      "updated_at": "2026-06-23T10:36:20.418Z"
     },
     {
       "id": "3ae37028-e2f5-4fe2-940b-53a5bf3c8305",
