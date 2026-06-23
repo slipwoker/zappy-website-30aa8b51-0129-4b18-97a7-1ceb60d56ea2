@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-23T09:17:17.548Z",
+  "generated_at": "2026-06-23T09:17:52.171Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 160,
@@ -2888,12 +2888,12 @@
     },
     {
       "id": "cebb3215-c70c-41cd-b40b-e0bba4b097cc",
-      "slug": "tsatsva-pryzby-lklbym-tsbay-pstl-sgvltshvbyrvktklt-fawtf6",
-      "name": "צעצוע פריזבי לכלבים צבעי פסטל סגול/צהוב/ירוק/תכלת",
+      "slug": "tsatsva-pryzby-lklbym-tsbay-pstl-zr1spw",
+      "name": "צעצוע פריזבי לכלבים צבעי פסטל",
       "name_translations": {
-        "en": "Dog Frisbee Toy Pastel Colors Purple/Yellow/Green/Turquoise",
-        "he": "צעצוע פריזבי לכלבים צבעי פסטל סגול/צהוב/ירוק/תכלת",
-        "ru": "Игрушка фрисби для собак пастельных цветов фиолетовый/желтый/зеленый/голубой"
+        "en": "Pastel Color Frisbee Toy for Dogs",
+        "he": "צעצוע פריזבי לכלבים צבעי פסטל",
+        "ru": "Игрушка фрисби для собак в пастельных тонах"
       },
       "description": "",
       "short_description": null,
@@ -2906,11 +2906,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/tsatsva-pryzby-lklbym-tsbay-pstl-sgvltshvbyrvktklt-fawtf6",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-pryzby-lklbym-tsbay-pstl-zr1spw",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-23T09:17:06.844Z"
+      "updated_at": "2026-06-23T09:17:21.185Z"
     },
     {
       "id": "6e7f2bea-1f23-458e-adb4-beaed83468f6",
