@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-23T09:21:15.196Z",
+  "generated_at": "2026-06-23T09:24:02.453Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 160,
@@ -2862,12 +2862,12 @@
     },
     {
       "id": "3911b74b-8974-47e2-b1e3-8fb25c95d663",
-      "slug": "mbrsht-avblyt-gdvlh-rkvrd-7i7t5a",
+      "slug": "mbrsht-avblyt-gdvlh-rkvrd-arwmvw",
       "name": "מברשת אובלית גדולה רקורד",
       "name_translations": {
-        "en": "Large Oval Record Brush",
+        "en": "Record Large Oval Brush",
         "he": "מברשת אובלית גדולה רקורד",
-        "ru": "Большая овальная щетка Рекорд"
+        "ru": "Большая овальная щётка Rekord"
       },
       "description": "",
       "short_description": null,
@@ -2877,14 +2877,16 @@
       "base_price": 65,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782206596414-a1xsdh.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mbrsht-avblyt-gdvlh-rkvrd-7i7t5a",
+      "url": "https://gurimbakfar.co.il/product/mbrsht-avblyt-gdvlh-rkvrd-arwmvw",
       "categories": [
         "מוצרי טיפוח"
       ],
-      "updated_at": "2026-06-07T19:31:00.944Z"
+      "updated_at": "2026-06-23T09:23:31.241Z"
     },
     {
       "id": "cebb3215-c70c-41cd-b40b-e0bba4b097cc",
