@@ -7267,9 +7267,10 @@ Availability: In stock
 ---
 
 ### בקבוק שתייה נייד 400 מ"ל freedog
-URL: https://gurimbakfar.co.il/product/bkbvk-shtyyh-nyyd-400-ml-freedog-7asq61
+URL: https://gurimbakfar.co.il/product/bkbvk-shtyyh-nyyd-400-ml-freedog-q6b9a8
 Price: 45.00 ILS
 Availability: In stock
+Brand: freedog
 
 ---
 

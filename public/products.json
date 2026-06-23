@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-23T09:53:25.349Z",
+  "generated_at": "2026-06-23T09:57:55.730Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 158,
@@ -2542,29 +2542,32 @@
     },
     {
       "id": "2ee7497c-53a0-4109-859f-4d7fa1deae29",
-      "slug": "bkbvk-shtyyh-nyyd-400-ml-freedog-7asq61",
+      "slug": "bkbvk-shtyyh-nyyd-400-ml-freedog-q6b9a8",
       "name": "בקבוק שתייה נייד 400 מ\"ל freedog",
       "name_translations": {
-        "en": "Portable Water Bottle 400ml freedog",
+        "en": "freedog Portable Drinking Bottle 400ml",
         "he": "בקבוק שתייה נייד 400 מ\"ל freedog",
-        "ru": "Портативная поилка 400 мл freedog"
+        "ru": "Портативная бутылка для воды 400 мл freedog"
       },
       "description": "",
-      "short_description": null,
+      "short_description": "בקבוק שתייה נייד לכלב, אידאלי כאשר אתה יוצא לטיול או סיבוב עם הכלב שלך. מאפשר שתיה נוחה ומבטיח אספקת מים טרייה לחיית המחמד שלך.",
       "sku": null,
-      "brand": null,
+      "brand": "freedog",
       "price": 45,
       "base_price": 45,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1782208603069-q2we7.webp",
+        "https://gurimbakfar.co.il/assets/product-1782208597576-gz9ouh.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/bkbvk-shtyyh-nyyd-400-ml-freedog-7asq61",
+      "url": "https://gurimbakfar.co.il/product/bkbvk-shtyyh-nyyd-400-ml-freedog-q6b9a8",
       "categories": [
         "כלי אוכל ושתייה"
       ],
-      "updated_at": "2026-06-07T19:31:17.376Z"
+      "updated_at": "2026-06-23T09:57:44.920Z"
     },
     {
       "id": "afdad789-bfde-4869-bb66-3513d321899f",

@@ -4,7 +4,7 @@
     <title>גורים בכפר</title>
     <link>https://gurimbakfar.co.il</link>
     <description>Product feed for גורים בכפר</description>
-    <lastBuildDate>Tue, 23 Jun 2026 09:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 09:57:55 GMT</lastBuildDate>
     <item>
       <g:id>cb0d8aa0-9ffb-408e-9dd3-efc11748e9b5</g:id>
       <g:title>תרסיס מרכך ללא שטיפה מיועד לעידוד צמיחת פרווה TAURO</g:title>
@@ -1394,8 +1394,8 @@
       <g:product_type>צעצועים</g:product_type>
     </item>
     <item>
-      <g:id>6edab3f4-dfdb-4f99-bd5a-cc2748107cf8__89be4b41-a99d-42f1-81d1-ff28e7fa9079</g:id>
-      <g:title>כדור חטיפים 6.5 ס&quot;מ - 6.5 ס&quot;מ</g:title>
+      <g:id>6edab3f4-dfdb-4f99-bd5a-cc2748107cf8</g:id>
+      <g:title>כדור חטיפים 6.5 ס&quot;מ</g:title>
       <g:description>כדור חטיפים 6.5 ס&quot;מ</g:description>
       <g:link>https://gurimbakfar.co.il/product/kdvr-chtypym-65-sm-mf0twl</g:link>
       <g:availability>in_stock</g:availability>
@@ -1408,13 +1408,14 @@
     <item>
       <g:id>2ee7497c-53a0-4109-859f-4d7fa1deae29</g:id>
       <g:title>בקבוק שתייה נייד 400 מ&quot;ל freedog</g:title>
-      <g:description>בקבוק שתייה נייד 400 מ&quot;ל freedog</g:description>
-      <g:link>https://gurimbakfar.co.il/product/bkbvk-shtyyh-nyyd-400-ml-freedog-7asq61</g:link>
+      <g:description>בקבוק שתייה נייד לכלב, אידאלי כאשר אתה יוצא לטיול או סיבוב עם הכלב שלך. מאפשר שתיה נוחה ומבטיח אספקת מים טרייה לחיית המחמד שלך.</g:description>
+      <g:link>https://gurimbakfar.co.il/product/bkbvk-shtyyh-nyyd-400-ml-freedog-q6b9a8</g:link>
+      <g:image_link>https://gurimbakfar.co.il/assets/product-1782208603069-q2we7.webp</g:image_link>
+      <g:additional_image_link>https://gurimbakfar.co.il/assets/product-1782208597576-gz9ouh.webp</g:additional_image_link>
       <g:availability>in_stock</g:availability>
       <g:price>45.00 ILS</g:price>
       <g:condition>new</g:condition>
-      <g:brand>גורים בכפר</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>freedog</g:brand>
       <g:product_type>כלי אוכל ושתייה</g:product_type>
     </item>
     <item>
