@@ -632,13 +632,14 @@ https://gurimbakfar.co.il/product/mshtch-lykvk-177163-sm-freedog-un5ujm
 - Category: כלי אוכל ושתייה
 
 ### משטח ליקוק 20*20 ס"מ freedog
-https://gurimbakfar.co.il/product/mshtch-lykvk-2020-sm-freedog-fy1c0q
+https://gurimbakfar.co.il/product/mshtch-lykvk-2020-sm-freedog-fowkr9
 - Price: 50.00 ILS
 - Availability: In stock
 - Category: כלי אוכל ושתייה
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1782209880627-k08s5i.webp
 
 ### פאפי רול
-https://gurimbakfar.co.il/product/papy-rvl-oyw26c
+https://gurimbakfar.co.il/product/papy-rvl-k835l8
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: צעצועים

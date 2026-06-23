@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-23T10:17:37.565Z",
+  "generated_at": "2026-06-23T10:29:24.241Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 158,
@@ -2334,10 +2334,10 @@
     },
     {
       "id": "85ed2463-8df4-4e3d-891f-35e213b9eac3",
-      "slug": "mshtch-lykvk-2020-sm-freedog-fy1c0q",
+      "slug": "mshtch-lykvk-2020-sm-freedog-fowkr9",
       "name": "משטח ליקוק 20*20 ס\"מ freedog",
       "name_translations": {
-        "en": "Licking mat 20*20 cm freedog",
+        "en": "Licking Mat 20*20 cm freedog",
         "he": "משטח ליקוק 20*20 ס\"מ freedog",
         "ru": "Коврик для лизания 20*20 см freedog"
       },
@@ -2349,18 +2349,23 @@
       "base_price": 50,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782209880627-k08s5i.webp",
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782210004269-113fb9.webp",
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782210463145-2nomz.webp",
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782210491786-patal.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mshtch-lykvk-2020-sm-freedog-fy1c0q",
+      "url": "https://gurimbakfar.co.il/product/mshtch-lykvk-2020-sm-freedog-fowkr9",
       "categories": [
         "כלי אוכל ושתייה"
       ],
-      "updated_at": "2026-06-07T19:31:22.593Z"
+      "updated_at": "2026-06-23T10:28:56.417Z"
     },
     {
       "id": "cddaf0f1-b326-467b-a1ec-6ffcbce0d10a",
-      "slug": "papy-rvl-oyw26c",
+      "slug": "papy-rvl-k835l8",
       "name": "פאפי רול",
       "name_translations": {
         "en": "Puppy Roll",
@@ -2380,11 +2385,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/papy-rvl-oyw26c",
+      "url": "https://gurimbakfar.co.il/product/papy-rvl-k835l8",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-23T10:16:22.583Z"
+      "updated_at": "2026-06-23T10:16:40.923Z"
     },
     {
       "id": "576ae0e2-4b9b-4a7c-b6c9-5f32449276cd",
