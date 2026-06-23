@@ -750,11 +750,12 @@ https://gurimbakfar.co.il/product/kdvr-dntly-am-chbl-j93mtc
 - Category: צעצועים
 
 ### הנריס גרונות עוף
-https://gurimbakfar.co.il/product/hnrys-grvnvt-avp-i3zxcj
+https://gurimbakfar.co.il/product/hnrys-grvnvt-avp-s062qs
 - Price: 26.00 ILS
 - Availability: In stock
 - Category: חטיפים
-- Image: https://gurimbakfar.co.il/assets/product-1782207062035-bm9ztb.webp
+- Description: גרונות עוף 100% טבעי וללא תוספים מלאכותיים – חטיף בריא, טעים וללא חומרים משמרים. דל שומן, עשיר בחלבון וקל לעיכול.
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1782207242082-g9mbh.webp
 
 ### מברשת אובלית גדולה רקורד
 https://gurimbakfar.co.il/product/mbrsht-avblyt-gdvlh-rkvrd-arwmvw

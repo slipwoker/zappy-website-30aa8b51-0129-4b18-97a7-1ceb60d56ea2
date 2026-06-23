@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-23T09:32:34.064Z",
+  "generated_at": "2026-06-23T09:36:40.534Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 160,
@@ -2836,14 +2836,15 @@
     },
     {
       "id": "9bfbad74-da13-4019-949a-f32efe8f200c",
-      "slug": "hnrys-grvnvt-avp-i3zxcj",
+      "slug": "hnrys-grvnvt-avp-s062qs",
       "name": "הנריס גרונות עוף",
       "name_translations": {
-        "en": "Harness Chicken Bones",
-        "he": "הנריס גרונות עוף"
+        "en": "Harrys Chicken Necks",
+        "he": "הנריס גרונות עוף",
+        "ru": "Henriss куриные шеи"
       },
       "description": "",
-      "short_description": null,
+      "short_description": "גרונות עוף 100% טבעי וללא תוספים מלאכותיים – חטיף בריא, טעים וללא חומרים משמרים.\nדל שומן, עשיר בחלבון וקל לעיכול.",
       "sku": null,
       "brand": null,
       "price": 26,
@@ -2851,15 +2852,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1782207062035-bm9ztb.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782207242082-g9mbh.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/hnrys-grvnvt-avp-i3zxcj",
+      "url": "https://gurimbakfar.co.il/product/hnrys-grvnvt-avp-s062qs",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-06-23T09:32:02.672Z"
+      "updated_at": "2026-06-23T09:35:20.216Z"
     },
     {
       "id": "3911b74b-8974-47e2-b1e3-8fb25c95d663",
