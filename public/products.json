@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-24T12:44:46.656Z",
+  "generated_at": "2026-06-24T12:49:12.196Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 158,
@@ -1896,12 +1896,12 @@
     },
     {
       "id": "1c0599f9-0ceb-4a0f-ab8d-eeb2f86baca9",
-      "slug": "styspkshyyn-slmvn-vavrz-klbym-bvgrym-3-kg-a78xwn",
-      "name": "סטיספקשיין סלמון ואורז כלבים בוגרים 3 ק\"ג",
+      "slug": "styspkshn-slmvn-vavrz-klbym-gvrym-3-kg-rj8p5c",
+      "name": "סטיספקשן סלמון ואורז כלבים גורים 3 ק\"ג",
       "name_translations": {
-        "en": "Satisfaction Salmon and Rice Adult Dogs 3 kg",
-        "he": "סטיספקשיין סלמון ואורז כלבים בוגרים 3 ק\"ג",
-        "ru": "Satisfaction лосось и рис для взрослых собак 3 кг"
+        "en": "Satisfaction Salmon and Rice Puppies 3 kg",
+        "he": "סטיספקשן סלמון ואורז כלבים גורים 3 ק\"ג",
+        "ru": "Satisfaction лосось и рис для щенков 3 кг"
       },
       "description": "",
       "short_description": null,
@@ -1914,11 +1914,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/styspkshyyn-slmvn-vavrz-klbym-bvgrym-3-kg-a78xwn",
+      "url": "https://gurimbakfar.co.il/product/styspkshn-slmvn-vavrz-klbym-gvrym-3-kg-rj8p5c",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-06-07T19:31:28.049Z"
+      "updated_at": "2026-06-24T12:48:40.653Z"
     },
     {
       "id": "f5a21ca2-30b3-4d07-9529-ad8334fc078f",
