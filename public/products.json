@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-24T19:09:00.959Z",
+  "generated_at": "2026-06-24T19:09:58.134Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 159,
   "products": [
     {
       "id": "4ce56ccf-258d-45ae-afa7-90295e561cdb",
-      "slug": "adykshn-bvgr-kbsh-kybh-rgyshh-15-kg-pbyro9",
+      "slug": "adykshn-bvgr-kbsh-kybh-rgyshh-15-kg-8dpfr0",
       "name": "אדיקשן בוגר כבש (קיבה רגישה) 15 ק”ג",
       "name_translations": {
         "en": "Addiction Adult Lamb (Sensitive Stomach) 15 kg",
@@ -27,11 +27,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/adykshn-bvgr-kbsh-kybh-rgyshh-15-kg-pbyro9",
+      "url": "https://gurimbakfar.co.il/product/adykshn-bvgr-kbsh-kybh-rgyshh-15-kg-8dpfr0",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-06-24T19:08:29.769Z"
+      "updated_at": "2026-06-24T19:09:26.851Z"
     },
     {
       "id": "cb0d8aa0-9ffb-408e-9dd3-efc11748e9b5",

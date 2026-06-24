@@ -6577,7 +6577,7 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### אדיקשן בוגר כבש (קיבה רגישה) 15 ק”ג
-URL: https://gurimbakfar.co.il/product/adykshn-bvgr-kbsh-kybh-rgyshh-15-kg-pbyro9
+URL: https://gurimbakfar.co.il/product/adykshn-bvgr-kbsh-kybh-rgyshh-15-kg-8dpfr0
 Price: 290.00 ILS
 Availability: In stock
 
