@@ -1,21 +1,21 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-24T19:03:10.663Z",
+  "generated_at": "2026-06-24T19:08:11.323Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 159,
   "products": [
     {
       "id": "4ce56ccf-258d-45ae-afa7-90295e561cdb",
-      "slug": "adykshn-bvgr-kbsh-kybh-rgyshh-15-kg-cosv2b",
+      "slug": "adykshn-bvgr-kbsh-kybh-rgyshh-15-kg-7ucwph",
       "name": "אדיקשן בוגר כבש (קיבה רגישה) 15 ק”ג",
       "name_translations": {
         "en": "Addiction Adult Lamb (Sensitive Stomach) 15 kg",
         "he": "אדיקשן בוגר כבש (קיבה רגישה) 15 ק”ג",
-        "ru": "Аддикшн для взрослых ягнёнок (чувствительный желудок) 15 кг"
+        "ru": "Аддикшн Взрослый Ягнёнок (чувствительный желудок) 15 кг"
       },
       "description": "<p>רכיבים:</p><p>חלבונים טלה מיובשים (מינימום 14%), אורז (מינימום 12%), תירס, חלבונים עוף מיובש, גלוטן תירס, שמנים ושומנים, עיסת סלק, כבד hydrolysed, ויטמינים ומינרלים. UIT נוגדי חמצון וחומרים משמרים המאושרים על ידי האיחוד האירופי.</p><p>אנליזה:</p><p>חלבון ברוטו: 25%, חומצות שומן ברוטו: 15%, אפר ברוטו: 7,5%, תאית ברוטו: 2,5%, לחות: 8%, סידן: 1.5%, זרחן: 1%, ויטמין A: 18000Ul / ק”ג, ויטמין D3: 2000 Ul / kg, ויטמין E (DL-allpha tocopherol acetate): 120 מ”ג / ק”ג, נחושת (pentahydrate של סולפט נחושת): 12 מ”ג / ק”ג. עם חומרים נוגדי חמצון וחומרים מאושרים על ידי האיחוד האירופי.</p>",
-      "short_description": null,
+      "short_description": "המתכון המדהים והמעורר ביותר של המזון הופך אותו לתזונה מושלמת לכלבים בוגרים עם פעילות נורמלית או ממוצעת. מזון זה מספק תזונה אופטימלית דרך כל חייהם של כלבי הבית, כלבי התערוכה וכלבים עובדים. מוצר זה מיוצר תוך שימוש בחומרי גלם שנבחרו בקפידה תוך הקפדה רבה על הכנתו ואריזתו.",
       "sku": null,
       "brand": null,
       "price": 290,
@@ -27,11 +27,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/adykshn-bvgr-kbsh-kybh-rgyshh-15-kg-cosv2b",
+      "url": "https://gurimbakfar.co.il/product/adykshn-bvgr-kbsh-kybh-rgyshh-15-kg-7ucwph",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-06-24T19:02:39.432Z"
+      "updated_at": "2026-06-24T19:07:39.838Z"
     },
     {
       "id": "cb0d8aa0-9ffb-408e-9dd3-efc11748e9b5",
