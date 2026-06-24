@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-24T13:11:43.567Z",
+  "generated_at": "2026-06-24T13:12:32.324Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 158,
@@ -1187,7 +1187,7 @@
     },
     {
       "id": "cb2e80be-53fe-4647-aac5-2b740e2eab12",
-      "slug": "mshtch-lykvk-15-sm-stiu08",
+      "slug": "mshtch-lykvk-15-sm-usi5sk",
       "name": "משטח ליקוק 15 ס\"מ",
       "name_translations": {
         "en": "Licking Mat 15 cm",
@@ -1205,9 +1205,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mshtch-lykvk-15-sm-stiu08",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:34.932Z"
+      "url": "https://gurimbakfar.co.il/product/mshtch-lykvk-15-sm-usi5sk",
+      "categories": [
+        "אביזרים"
+      ],
+      "updated_at": "2026-06-24T13:11:48.966Z"
     },
     {
       "id": "b27416dc-632a-48e3-8db1-90dd1818d9ce",
@@ -1445,10 +1447,10 @@
     },
     {
       "id": "a95d4a20-9f75-4607-afc6-8e581b323104",
-      "slug": "klvb-nshyah-ptch-alyvn-vptch-kdmy-32332-sm-32ls5s",
+      "slug": "klvb-nshyah-ptch-alyvn-vptch-kdmy-32332-sm-5h79ud",
       "name": "כלוב נשיאה פתח עליון ופתח קדמי 32*33.2 ס\"מ ",
       "name_translations": {
-        "en": "Top and Front Opening Carrier Cage 32*33.2 cm",
+        "en": "Carrier Cage with Top and Front Opening 32*33.2 cm",
         "he": "כלוב נשיאה פתח עליון ופתח קדמי 32*33.2 ס\"מ ",
         "ru": "Переноска с верхним и передним входом 32*33.2 см"
       },
@@ -1463,9 +1465,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/klvb-nshyah-ptch-alyvn-vptch-kdmy-32332-sm-32ls5s",
-      "categories": [],
-      "updated_at": "2026-06-07T19:31:31.465Z"
+      "url": "https://gurimbakfar.co.il/product/klvb-nshyah-ptch-alyvn-vptch-kdmy-32332-sm-5h79ud",
+      "categories": [
+        "כלובים וגדרות"
+      ],
+      "updated_at": "2026-06-24T13:12:01.354Z"
     },
     {
       "id": "1b1b0dc7-f0f3-4764-a9cd-13e97f0e7047",
@@ -2688,12 +2692,12 @@
     },
     {
       "id": "c87b4cd6-439b-44fc-9ea5-95651f44005c",
-      "slug": "bkbvk-shtyyh-500-ml-kh6o8i",
+      "slug": "bkbvk-shtyyh-500-ml-ecykfa",
       "name": "בקבוק שתייה 500 ml ",
       "name_translations": {
-        "en": "Drinking Bottle 500 ml",
+        "en": "Drinking Bottle 500 ml ",
         "he": "בקבוק שתייה 500 ml ",
-        "ru": "Бутылка для питья 500 ml"
+        "ru": "Бутылка для воды 500 мл "
       },
       "description": "",
       "short_description": null,
@@ -2708,9 +2712,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/bkbvk-shtyyh-500-ml-kh6o8i",
-      "categories": [],
-      "updated_at": "2026-06-10T07:30:14.333Z"
+      "url": "https://gurimbakfar.co.il/product/bkbvk-shtyyh-500-ml-ecykfa",
+      "categories": [
+        "כלי אוכל ושתייה"
+      ],
+      "updated_at": "2026-06-24T13:12:13.092Z"
     },
     {
       "id": "f6983313-7135-4f99-a320-bcbdcaf3a64a",
