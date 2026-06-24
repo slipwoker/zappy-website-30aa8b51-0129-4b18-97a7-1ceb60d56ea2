@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-24T12:36:34.912Z",
+  "generated_at": "2026-06-24T12:38:12.337Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 158,
@@ -818,7 +818,7 @@
     },
     {
       "id": "59e1e321-3617-4846-8e71-a0ab62800357",
-      "slug": "shymvry-prndy-70-bshr-agl-400-gr-evga5r",
+      "slug": "shymvry-prndy-70-bshr-agl-400-gr-wjnnhf",
       "name": "שימורי פרנדי 70% בשר עגל 400 ג\"ר",
       "name_translations": {
         "en": "Frendi Canned Food 70% Veal 400g",
@@ -838,9 +838,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/shymvry-prndy-70-bshr-agl-400-gr-evga5r",
+      "url": "https://gurimbakfar.co.il/product/shymvry-prndy-70-bshr-agl-400-gr-wjnnhf",
       "categories": [],
-      "updated_at": "2026-06-24T12:36:03.928Z"
+      "updated_at": "2026-06-24T12:37:41.169Z"
     },
     {
       "id": "bd837874-797b-4f73-b68a-0766c8136658",
