@@ -1,20 +1,20 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-24T18:49:29.293Z",
+  "generated_at": "2026-06-24T19:01:08.059Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 159,
   "products": [
     {
       "id": "4ce56ccf-258d-45ae-afa7-90295e561cdb",
-      "slug": "adykshn-kbsh-vavrz-2wsr1j",
-      "name": "אדיקשן כבש ואורז",
+      "slug": "adykshn-bvgr-kbsh-kybh-rgyshh-15-kg-pzkmyw",
+      "name": "אדיקשן בוגר כבש (קיבה רגישה) 15 ק”ג",
       "name_translations": {
-        "en": "Addiction Lamb and Rice",
-        "he": "אדיקשן כבש ואורז",
-        "ru": "Addiction ягнёнок и рис"
+        "en": "Addiction Adult Lamb (Sensitive Stomach) 15 kg",
+        "he": "אדיקשן בוגר כבש (קיבה רגישה) 15 ק”ג",
+        "ru": "Аддикшн взрослый ягнёнок (чувствительный желудок) 15 кг"
       },
-      "description": "",
+      "description": "<p>רכיבים:</p><p>חלבונים טלה מיובשים (מינימום 14%), אורז (מינימום 12%), תירס, חלבונים עוף מיובש, גלוטן תירס, שמנים ושומנים, עיסת סלק, כבד hydrolysed, ויטמינים ומינרלים. UIT נוגדי חמצון וחומרים משמרים המאושרים על ידי האיחוד האירופי.</p><p>אנליזה:</p><p>חלבון ברוטו: 25%, חומצות שומן ברוטו: 15%, אפר ברוטו: 7,5%, תאית ברוטו: 2,5%, לחות: 8%, סידן: 1.5%, זרחן: 1%, ויטמין A: 18000Ul / ק”ג, ויטמין D3: 2000 Ul / kg, ויטמין E (DL-allpha tocopherol acetate): 120 מ”ג / ק”ג, נחושת (pentahydrate של סולפט נחושת): 12 מ”ג / ק”ג. עם חומרים נוגדי חמצון וחומרים מאושרים על ידי האיחוד האירופי.</p>",
       "short_description": null,
       "sku": null,
       "brand": null,
@@ -27,11 +27,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/adykshn-kbsh-vavrz-2wsr1j",
+      "url": "https://gurimbakfar.co.il/product/adykshn-bvgr-kbsh-kybh-rgyshh-15-kg-pzkmyw",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-06-24T14:20:51.841Z"
+      "updated_at": "2026-06-24T19:00:37.086Z"
     },
     {
       "id": "cb0d8aa0-9ffb-408e-9dd3-efc11748e9b5",
