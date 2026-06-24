@@ -4,7 +4,7 @@
     <title>גורים בכפר</title>
     <link>https://gurimbakfar.co.il</link>
     <description>Product feed for גורים בכפר</description>
-    <lastBuildDate>Wed, 24 Jun 2026 13:12:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 13:14:10 GMT</lastBuildDate>
     <item>
       <g:id>cb0d8aa0-9ffb-408e-9dd3-efc11748e9b5</g:id>
       <g:title>תרסיס מרכך ללא שטיפה מיועד לעידוד צמיחת פרווה TAURO</g:title>
@@ -1769,13 +1769,14 @@
       <g:id>b23a78ad-2d12-49cb-a6b5-bef1d56b0f6a</g:id>
       <g:title>סט צעצועי לעיסה לכלב 4 חלקים צבע ורוד</g:title>
       <g:description>סט צעצועי לעיסה לכלב 4 חלקים צבע ורוד</g:description>
-      <g:link>https://gurimbakfar.co.il/product/st-tsatsvay-laysh-lklb-4-chlkym-tsba-vrvd-dhxj9g</g:link>
+      <g:link>https://gurimbakfar.co.il/product/st-tsatsvay-laysh-lklb-4-chlkym-tsba-vrvd-4x70r9</g:link>
       <g:image_link>https://gurimbakfar.co.il/assets/product-enhanced-1781451482646-42qbvf.webp</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>30.00 ILS</g:price>
       <g:condition>new</g:condition>
       <g:brand>גורים בכפר</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>צעצועים</g:product_type>
     </item>
     <item>
       <g:id>2a9f1cb9-048b-4175-b2f2-af0b4f8da1b0</g:id>
@@ -1873,13 +1874,14 @@
       <g:id>be43c046-de82-44d5-a2e3-ab7ed24550a2</g:id>
       <g:title>רולר דבק 60 דפים</g:title>
       <g:description>רולר דבק 60 דפים</g:description>
-      <g:link>https://gurimbakfar.co.il/product/rvlr-dbk-60-dpym-acftep</g:link>
+      <g:link>https://gurimbakfar.co.il/product/rvlr-dbk-60-dpym-26gesj</g:link>
       <g:image_link>https://gurimbakfar.co.il/assets/product-enhanced-1781449768881-uyzpov.webp</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>25.00 ILS</g:price>
       <g:condition>new</g:condition>
       <g:brand>גורים בכפר</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>בית</g:product_type>
     </item>
     <item>
       <g:id>3e83c55b-43e2-4db3-ae20-44a0358bbb65</g:id>
@@ -1950,13 +1952,14 @@
       <g:id>ef1cdd40-7b42-4d0c-83df-7620f3e651b5</g:id>
       <g:title>קוצץ ציפורניים Petsproject</g:title>
       <g:description>קוצץ ציפורניים Petsproject</g:description>
-      <g:link>https://gurimbakfar.co.il/product/kvtsts-tsypvrnyym-petsproject-r49ff0</g:link>
+      <g:link>https://gurimbakfar.co.il/product/kvtsts-tsypvrnyym-petsproject-zvyroj</g:link>
       <g:image_link>https://gurimbakfar.co.il/assets/product-enhanced-1781450306935-lm0zas.webp</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>79.00 ILS</g:price>
       <g:condition>new</g:condition>
       <g:brand>גורים בכפר</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>מוצרי טיפוח</g:product_type>
     </item>
     <item>
       <g:id>07fa6317-bfa8-4939-aed7-f8aa6fd0f104__3012679d-09e1-4cf1-98fd-17ae9d69b2b8</g:id>
@@ -2447,13 +2450,14 @@
       <g:id>735cafa9-ff65-4972-9912-0bfb59a5ab07</g:id>
       <g:title>תרסיס מרכך ללא שטיפה להתרת קשרים TAURO</g:title>
       <g:description>תרסיס מרכך ללא שטיפה להתרת קשרים TAURO</g:description>
-      <g:link>https://gurimbakfar.co.il/product/trsys-mrkk-lla-shtyph-lhtrt-kshrym-tauro-4rl76z</g:link>
+      <g:link>https://gurimbakfar.co.il/product/trsys-mrkk-lla-shtyph-lhtrt-kshrym-tauro-599y1n</g:link>
       <g:image_link>https://gurimbakfar.co.il/assets/product-enhanced-1781076641477-0k6k3.webp</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>70.00 ILS</g:price>
       <g:condition>new</g:condition>
       <g:brand>גורים בכפר</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>מוצרי טיפוח</g:product_type>
     </item>
   </channel>
 </rss>

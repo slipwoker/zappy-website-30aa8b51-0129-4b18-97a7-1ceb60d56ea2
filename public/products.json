@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-24T13:12:44.217Z",
+  "generated_at": "2026-06-24T13:14:10.384Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 158,
@@ -2944,12 +2944,12 @@
     },
     {
       "id": "b23a78ad-2d12-49cb-a6b5-bef1d56b0f6a",
-      "slug": "st-tsatsvay-laysh-lklb-4-chlkym-tsba-vrvd-dhxj9g",
+      "slug": "st-tsatsvay-laysh-lklb-4-chlkym-tsba-vrvd-4x70r9",
       "name": "סט צעצועי לעיסה לכלב 4 חלקים צבע ורוד",
       "name_translations": {
-        "en": "4-Piece Pink Dog Chew Toy Set",
+        "en": "Dog Chew Toy Set 4 Pieces Pink Color",
         "he": "סט צעצועי לעיסה לכלב 4 חלקים צבע ורוד",
-        "ru": "Набор жевательных игрушек для собак 4 части розового цвета"
+        "ru": "Набор жевательных игрушек для собаки 4 части розового цвета"
       },
       "description": "",
       "short_description": null,
@@ -2964,9 +2964,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/st-tsatsvay-laysh-lklb-4-chlkym-tsba-vrvd-dhxj9g",
-      "categories": [],
-      "updated_at": "2026-06-14T15:38:12.003Z"
+      "url": "https://gurimbakfar.co.il/product/st-tsatsvay-laysh-lklb-4-chlkym-tsba-vrvd-4x70r9",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-24T13:13:10.144Z"
     },
     {
       "id": "2a9f1cb9-048b-4175-b2f2-af0b4f8da1b0",
@@ -3166,12 +3168,12 @@
     },
     {
       "id": "be43c046-de82-44d5-a2e3-ab7ed24550a2",
-      "slug": "rvlr-dbk-60-dpym-acftep",
+      "slug": "rvlr-dbk-60-dpym-26gesj",
       "name": "רולר דבק 60 דפים",
       "name_translations": {
-        "en": "Sticky Roller 60 Sheets",
+        "en": "Adhesive Roller 60 Sheets",
         "he": "רולר דבק 60 דפים",
-        "ru": "Ролик клейкий 60 листов"
+        "ru": "Ролик с клейкой лентой 60 листов"
       },
       "description": "",
       "short_description": null,
@@ -3186,9 +3188,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rvlr-dbk-60-dpym-acftep",
-      "categories": [],
-      "updated_at": "2026-06-14T15:09:38.761Z"
+      "url": "https://gurimbakfar.co.il/product/rvlr-dbk-60-dpym-26gesj",
+      "categories": [
+        "בית"
+      ],
+      "updated_at": "2026-06-24T13:13:20.904Z"
     },
     {
       "id": "3e83c55b-43e2-4db3-ae20-44a0358bbb65",
@@ -3332,12 +3336,12 @@
     },
     {
       "id": "ef1cdd40-7b42-4d0c-83df-7620f3e651b5",
-      "slug": "kvtsts-tsypvrnyym-petsproject-r49ff0",
+      "slug": "kvtsts-tsypvrnyym-petsproject-zvyroj",
       "name": "קוצץ ציפורניים Petsproject",
       "name_translations": {
-        "en": "Petsproject Nail Clippers",
+        "en": "Petsproject Nail Clipper",
         "he": "קוצץ ציפורניים Petsproject",
-        "ru": "Кусачки для ногтей Petsproject"
+        "ru": "Когтерез Petsproject"
       },
       "description": "",
       "short_description": null,
@@ -3352,9 +3356,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kvtsts-tsypvrnyym-petsproject-r49ff0",
-      "categories": [],
-      "updated_at": "2026-06-14T15:19:11.527Z"
+      "url": "https://gurimbakfar.co.il/product/kvtsts-tsypvrnyym-petsproject-zvyroj",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-24T13:13:28.596Z"
     },
     {
       "id": "07fa6317-bfa8-4939-aed7-f8aa6fd0f104",
@@ -4285,7 +4291,7 @@
     },
     {
       "id": "735cafa9-ff65-4972-9912-0bfb59a5ab07",
-      "slug": "trsys-mrkk-lla-shtyph-lhtrt-kshrym-tauro-4rl76z",
+      "slug": "trsys-mrkk-lla-shtyph-lhtrt-kshrym-tauro-599y1n",
       "name": "תרסיס מרכך ללא שטיפה להתרת קשרים TAURO",
       "name_translations": {
         "en": "TAURO No-Rinse Detangling Softening Spray",
@@ -4305,9 +4311,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/trsys-mrkk-lla-shtyph-lhtrt-kshrym-tauro-4rl76z",
-      "categories": [],
-      "updated_at": "2026-06-10T07:30:56.165Z"
+      "url": "https://gurimbakfar.co.il/product/trsys-mrkk-lla-shtyph-lhtrt-kshrym-tauro-599y1n",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-24T13:13:39.432Z"
     }
   ]
 }
