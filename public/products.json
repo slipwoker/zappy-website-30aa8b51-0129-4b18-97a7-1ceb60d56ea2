@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-24T12:38:12.337Z",
+  "generated_at": "2026-06-24T12:39:06.275Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 158,
@@ -91,12 +91,12 @@
     },
     {
       "id": "fcccfb2c-3275-47a0-b8af-4738d4723010",
-      "slug": "kvlr-kvtsym-laylvp-50-sm-avby-3-mm-7xrz84",
+      "slug": "kvlr-kvtsym-laylvp-50-sm-avby-3-mm-wxvvu3",
       "name": "קולר קוצים לאילוף - 50 ס\"מ עובי 3 מ\"מ",
       "name_translations": {
         "en": "Prong Training Collar - 50 cm, 3 mm thickness",
         "he": "קולר קוצים לאילוף - 50 ס\"מ עובי 3 מ\"מ",
-        "ru": "Ошейник-шипы для дрессировки - 50 см толщина 3 мм"
+        "ru": "Ошейник с шипами для дрессировки - 50 см толщина 3 мм"
       },
       "description": "",
       "short_description": null,
@@ -111,11 +111,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kvlr-kvtsym-laylvp-50-sm-avby-3-mm-7xrz84",
+      "url": "https://gurimbakfar.co.il/product/kvlr-kvtsym-laylvp-50-sm-avby-3-mm-wxvvu3",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-06-22T18:37:59.909Z"
+      "updated_at": "2026-06-24T12:39:00.970Z"
     },
     {
       "id": "68568027-8bd0-41f6-b63a-c907fae1a591",
@@ -309,9 +309,9 @@
       "slug": "kbl-kshyrh-lklb-petsproject-avby-5-mm-avrk-9-mtr-3bufdb",
       "name": "כבל קשירה לכלב petsproject עובי 5 ממ אורך 9 מטר",
       "name_translations": {
-        "en": "Dog tie-out cable petsproject 5mm thick 9 meter length",
+        "en": "Dog tie-out cable petsproject 5mm thickness 9 meter length",
         "he": "כבל קשירה לכלב petsproject עובי 5 ממ אורך 9 מטר",
-        "ru": "Поводок для собак petsproject толщиной 5 мм длиной 9 метров"
+        "ru": "Трос привязи для собак petsproject толщина 5 мм длина 9 метров"
       },
       "description": "",
       "short_description": null,
@@ -330,7 +330,7 @@
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-06-14T15:58:59.765Z"
+      "updated_at": "2026-06-24T12:38:35.111Z"
     },
     {
       "id": "a31edaa3-4eb0-4999-81d9-820dc79f8c58",
