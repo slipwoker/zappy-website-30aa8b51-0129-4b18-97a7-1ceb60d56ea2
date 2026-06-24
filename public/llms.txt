@@ -531,11 +531,13 @@ https://gurimbakfar.co.il/product/styspkshn-slmvn-vavrz-klbym-bvgrym-2jhp60
 - Description: סטיספקשן סלמון מספק תזונה מלאה, מזינה ומאוזנת, התורמת להתפתחות תקינה של מסת שריר ושלד חזק ובריא
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781524710954-wapm8b.webp
 
-### סטיספקשן סלמון ואורז כלבים גורים 3 ק"ג
-https://gurimbakfar.co.il/product/styspkshn-slmvn-vavrz-klbym-gvrym-3-kg-rj8p5c
+### סטיספקשן סלמון ואורז כלבים גורים
+https://gurimbakfar.co.il/product/styspkshn-slmvn-vavrz-klbym-gvrym-w9w5q0
 - Price: 125.00 ILS
 - Availability: In stock
 - Category: מזון יבש
+- Description: מתאים לכל סוגי הכלבים. SATISFACTION SALMÓN מספק תזונה מלאה, מזינה ומאוזנת, התורמת להתפתחות תקינה של מסת השריר ושלד חזק וברי
+- Image: https://gurimbakfar.co.il/assets/product-1782305625475-m2z2b7q.webp
 
 ### קערות נירוסטה פס גומי 26 ס"מ
 https://gurimbakfar.co.il/product/karvt-nyrvsth-ps-gvmy-26-sm-8klerf
