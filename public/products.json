@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-24T12:44:09.458Z",
+  "generated_at": "2026-06-24T12:44:46.656Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 158,
@@ -844,12 +844,12 @@
     },
     {
       "id": "bd837874-797b-4f73-b68a-0766c8136658",
-      "slug": "shymvry-prndy-70-bshr-avp-400-gr-5km9e9",
+      "slug": "shymvry-prndy-70-bshr-avp-400-gr-w5r16m",
       "name": "שימורי פרנדי 70% בשר עוף 400 ג\"ר",
       "name_translations": {
-        "en": "Frendi Canned Food 70% Chicken Meat 400g",
+        "en": "Frendi Canned 70% Chicken Meat 400g",
         "he": "שימורי פרנדי 70% בשר עוף 400 ג\"ר",
-        "ru": "Консервы Frendi 70% мясо курицы 400 г"
+        "ru": "Консервы Frendi 70% куриного мяса 400 г"
       },
       "description": "",
       "short_description": null,
@@ -864,9 +864,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/shymvry-prndy-70-bshr-avp-400-gr-5km9e9",
+      "url": "https://gurimbakfar.co.il/product/shymvry-prndy-70-bshr-avp-400-gr-w5r16m",
       "categories": [],
-      "updated_at": "2026-06-24T12:43:38.307Z"
+      "updated_at": "2026-06-24T12:44:15.427Z"
     },
     {
       "id": "5f7c76a6-76a6-49d6-9134-9abd3800dfe6",
