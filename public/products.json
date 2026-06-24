@@ -1,10 +1,38 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-24T13:14:10.384Z",
+  "generated_at": "2026-06-24T14:20:47.414Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 158,
+  "count": 159,
   "products": [
+    {
+      "id": "4ce56ccf-258d-45ae-afa7-90295e561cdb",
+      "slug": "adykshn-kbsh-vavrz-2wsr1j",
+      "name": "אדיקשן כבש ואורז",
+      "name_translations": {
+        "en": "Addiction Lamb and Rice",
+        "he": "אדיקשן כבש ואורז",
+        "ru": "Addiction ягнёнок и рис"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 290,
+      "base_price": 290,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782310745666-yhekpj.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/adykshn-kbsh-vavrz-2wsr1j",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-06-24T14:20:46.900Z"
+    },
     {
       "id": "cb0d8aa0-9ffb-408e-9dd3-efc11748e9b5",
       "slug": "trsys-mrkk-lla-shtyph-myvad-laydvd-tsmycht-prvvh-tauro-b2adp3",

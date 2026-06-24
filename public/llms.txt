@@ -72,7 +72,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 158**
+**Total active products: 159**
+
+### אדיקשן כבש ואורז
+https://gurimbakfar.co.il/product/adykshn-kbsh-vavrz-2wsr1j
+- Price: 290.00 ILS
+- Availability: In stock
+- Category: מזון יבש
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1782310745666-yhekpj.webp
 
 ### תרסיס מרכך ללא שטיפה מיועד לעידוד צמיחת פרווה TAURO
 https://gurimbakfar.co.il/product/trsys-mrkk-lla-shtyph-myvad-laydvd-tsmycht-prvvh-tauro-b2adp3
