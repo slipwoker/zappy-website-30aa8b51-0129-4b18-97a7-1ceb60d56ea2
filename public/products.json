@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-28T18:50:08.587Z",
+  "generated_at": "2026-06-28T18:51:04.094Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 163,
@@ -35,12 +35,12 @@
     },
     {
       "id": "a55e339e-4e91-4f6a-a3dd-ebfbef5d349b",
-      "slug": "mzvn-klbym-rtvb-nvabv-bshr-tsby-am-atryvt-vpyrvt-yar-u2mync",
-      "name": "מזון כלבים רטוב נואבו בשר צבי עם אטריות ופירות יער",
+      "slug": "mzvn-klbym-rtvb-nvabv-bshr-tsby-am-atryvt-vpyrvt-yar-400-gr-jhpo4v",
+      "name": "מזון כלבים רטוב נואבו בשר צבי עם אטריות ופירות יער 400 ג\"ר",
       "name_translations": {
-        "en": "Nuevo Wet Dog Food Venison with Noodles and Berries",
-        "he": "מזון כלבים רטוב נואבו בשר צבי עם אטריות ופירות יער",
-        "ru": "Влажный корм для собак Nuevo оленина с лапшой и лесными ягодами"
+        "en": "Nuevo Wet Dog Food Venison with Noodles and Berries 400g",
+        "he": "מזון כלבים רטוב נואבו בשר צבי עם אטריות ופירות יער 400 ג\"ר",
+        "ru": "Влажный корм для собак Nuevo оленина с лапшой и лесными ягодами 400 г"
       },
       "description": "<p>נואבו שימורים לכלב עם בשר צבי – תזונה מלאה לכלבים עם בשר אייל, מעניקה טעם נהדר ושובע מעולה. מכיל שמנים בריאים את הפרווה למבריקה ורכה. רכיבים: בשר ופסולת בשר 65% (בשר צבי 30%), נזיד בשר 26.5%, (פסטה 5%), פירות (לינגוברי 2%), מינרלים 1%, שומנים ושמנים (שמן סויה 0.5%). ערכים תזונתיים: חלבון 11.2%, שומן 7.0%, אפר 2.2%, סיבים 0.40%, לחות 77%. המלצות האכלה: משקל כלב 5 ק”ג – 200 גרם ליום, 10 ק”ג – 400 גרם ליום, 20 ק”ג – 800 גרם ליום.</p>",
       "short_description": "Nuevo Adult – צבי עם אטריות ופירות יער\n\nNuevo Venison מספק לכלב שלכם את כל רכיבי התזונה הנדרשים. שיעור גבוה של בשר בשילוב אטריות ושמן חריע איכותי הופכים את המתכון הזה למיוחד.\n\nשמן חריע תומך בפרווה בריאה בזכות שילוב מאוזן של חומצות שומן חיוניות, ומסייע גם לעיכול תקין.",
@@ -55,11 +55,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-bshr-tsby-am-atryvt-vpyrvt-yar-u2mync",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-bshr-tsby-am-atryvt-vpyrvt-yar-400-gr-jhpo4v",
       "categories": [
         "שימורים ומעדנים"
       ],
-      "updated_at": "2026-06-28T17:46:33.034Z"
+      "updated_at": "2026-06-28T18:50:32.338Z"
     },
     {
       "id": "2e5de7f9-b761-42df-bbe2-2eca6b69c9fe",
