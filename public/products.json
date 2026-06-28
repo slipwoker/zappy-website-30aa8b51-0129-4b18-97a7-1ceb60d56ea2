@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-28T11:19:55.060Z",
+  "generated_at": "2026-06-28T16:00:00.380Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 159,
+  "count": 160,
   "products": [
+    {
+      "id": "5f6aa961-9749-40e4-a8f0-e5317d3cf56d",
+      "slug": "mzvn-klbym-rtvb-nvabv-avp-400-gr-yz8yzp",
+      "name": "מזון כלבים רטוב נואבו עוף 400 ג\"ר",
+      "name_translations": {},
+      "description": "<p>רכיבים: בשר ובשר איברים 72% (עוף 32%), דגנים 27%, מינרלים 1% ערכים תזונתיים: חלבון – 11.70%, שומן – 5.0%, אפר – 2.30%, סיבים – 0.30%, לחות – 77.0% המלצות האכלה: משקל כלב 5 ק”ג – 200 גרם ליום, 10 ק”ג – 400 גרם ליום, 20 ק”ג – 800 גרם ליום 36 חודשים – סגור / עד יומיים פתוח בטמפרטורה של +5 -7C</p><p><br></p>",
+      "short_description": "Nuevo Adult – עוף\n\nבשר עוף עתיר חלבון, יחד עם כל המינרלים החשובים, מספק בסיס תזונתי אידיאלי לכלב שלכם. Nuevo Chicken קל לעיכול, בעל טעימות גבוהה, ויכול לסייע בשיפור מצב הפרווה.\n\nמקור החלבון מן החי מתאים לאופי התזונתי הטבעי של כלבים.",
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782662147123-g38sdq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-avp-400-gr-yz8yzp",
+      "categories": [
+        "שימורים ומעדנים"
+      ],
+      "updated_at": "2026-06-28T15:58:42.270Z"
+    },
     {
       "id": "4ce56ccf-258d-45ae-afa7-90295e561cdb",
       "slug": "adykshn-bvgr-kbsh-kybh-rgyshh-15-kg-sellpm",

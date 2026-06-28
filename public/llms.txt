@@ -72,7 +72,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 159**
+**Total active products: 160**
+
+### מזון כלבים רטוב נואבו עוף 400 ג"ר
+https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-avp-400-gr-yz8yzp
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: שימורים ומעדנים
+- Description: Nuevo Adult – עוף בשר עוף עתיר חלבון, יחד עם כל המינרלים החשובים, מספק בסיס תזונתי אידיאלי לכלב שלכם. Nuevo Chicken קל לעיכול, בעל טעימות גבוהה, ויכול לסייע בשיפור מצב הפרווה. מקור החלבון מן החי מתאים לאופי התזונתי הטבעי של כלבים.
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1782662147123-g38sdq.webp
 
 ### אדיקשן בוגר כבש (קיבה רגישה) 15 ק”ג
 https://gurimbakfar.co.il/product/adykshn-bvgr-kbsh-kybh-rgyshh-15-kg-sellpm
