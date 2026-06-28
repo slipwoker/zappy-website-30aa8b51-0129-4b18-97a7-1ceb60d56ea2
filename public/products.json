@@ -1,10 +1,38 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-28T16:12:51.316Z",
+  "generated_at": "2026-06-28T16:18:54.676Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 159,
+  "count": 160,
   "products": [
+    {
+      "id": "d2a33a95-9a3e-4e97-91fb-fcd989f1cf67",
+      "slug": "mzvn-klbym-rtvb-nvabv-bkr-400-gr-y6bx20",
+      "name": "מזון כלבים רטוב נואבו בקר 400 ג\"ר",
+      "name_translations": {
+        "en": "Nuevo Wet Dog Food Beef 400g",
+        "he": "מזון כלבים רטוב נואבו בקר 400 ג\"ר",
+        "ru": "Влажный корм для собак Nuevo говядина 400 г"
+      },
+      "description": "<p>שימורי נואבו כלב בשר בקר 400 גרם מזון מלא לכלבים</p><p>שימור נואבו בקר לכלב מספק תזונה מלאה העונה על כל צרכי התזונה של כלבים בוגרים וטעמה טוב מאוד הודות לתכולה הגבוהה של בשר טרי באיכות גבוהה.</p><p>נואבו כלב בקר 400 גרם רכיבים: בשר ופסולת בשר 72% (בקר 30%), מרק 27%, מינרלים 1%.</p><p>ערכים תזונתיים: חלבון 11.50%, שומן 6.70%, אפר 2.0%, סיבים 0.40%, לחות 76%.</p><p>המלצות האכלה: משקל כלב 5 ק”ג – 200 גרם ליום, 10 ק”ג – 400 גרם ליום, 20 ק”ג – 800 גרם ליום.</p><p><br></p>",
+      "short_description": "Nuevo Adult – בקר\n\nהמאפיין הבולט של Nuevo Beef הוא תכולת בשר גבוהה של 72%, המכילה כמות גדולה של חלבונים איכותיים. מזון מאוזן ומלא עם רמות אופטימליות של כלל רכיבי התזונה, כולל ויטמינים ומינרלים חיוניים.\n\nNuevo Beef הוא מקור אנרגיה מצוין, קל לעיכול ובעל טעימות גבוהה במיוחד.",
+      "sku": null,
+      "brand": null,
+      "price": 15,
+      "base_price": 15,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782663421685-v5511.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-bkr-400-gr-y6bx20",
+      "categories": [
+        "שימורים ומעדנים"
+      ],
+      "updated_at": "2026-06-28T16:18:22.722Z"
+    },
     {
       "id": "23fea080-17d9-4795-b261-fa6e85c2b7fa",
       "slug": "mzvn-klbym-rtvb-nvabv-gvrym-avp-vbkr-am-avrz-sydn-89ham2",
