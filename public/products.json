@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-28T17:49:14.544Z",
+  "generated_at": "2026-06-28T17:53:16.692Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 162,
@@ -87,7 +87,7 @@
     },
     {
       "id": "23fea080-17d9-4795-b261-fa6e85c2b7fa",
-      "slug": "mzvn-klbym-rtvb-nvabv-gvrym-avp-vbkr-am-avrz-sydn-400-gr-nrv6br",
+      "slug": "mzvn-klbym-rtvb-nvabv-gvrym-avp-vbkr-am-avrz-sydn-400-gr-svlgci",
       "name": "מזון כלבים רטוב נואבו גורים עוף ובקר עם אורז + סידן 400 ג\"ר",
       "name_translations": {
         "en": "Nuevo Junior Wet Dog Food Chicken & Beef with Rice + Calcium 400g",
@@ -103,15 +103,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-enhanced-1782662977404-6kqd6e.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782669047893-0bv6z.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-gvrym-avp-vbkr-am-avrz-sydn-400-gr-nrv6br",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-gvrym-avp-vbkr-am-avrz-sydn-400-gr-svlgci",
       "categories": [
         "שימורים ומעדנים"
       ],
-      "updated_at": "2026-06-28T17:32:28.923Z"
+      "updated_at": "2026-06-28T17:51:46.239Z"
     },
     {
       "id": "5f6aa961-9749-40e4-a8f0-e5317d3cf56d",
