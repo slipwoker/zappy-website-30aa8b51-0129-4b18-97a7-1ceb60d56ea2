@@ -6577,7 +6577,7 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### שימורי פרנדי 70% בשר בקר 400 ג"ר
-URL: https://gurimbakfar.co.il/product/shymvry-prndy-70-bshr-bkr-400-gr-aqnk9e
+URL: https://gurimbakfar.co.il/product/shymvry-prndy-70-bshr-bkr-400-gr-a0qlfz
 Price: 6.50 ILS
 Availability: In stock
 
