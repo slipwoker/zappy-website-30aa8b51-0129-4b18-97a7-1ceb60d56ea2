@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-28T19:09:17.926Z",
+  "generated_at": "2026-06-28T19:13:04.151Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 164,
@@ -1042,15 +1042,15 @@
     },
     {
       "id": "59e1e321-3617-4846-8e71-a0ab62800357",
-      "slug": "shymvry-prndy-70-bshr-agl-400-gr-li1iri",
+      "slug": "shymvry-prndy-70-bshr-agl-400-gr-98m0gx",
       "name": "שימורי פרנדי 70% בשר עגל 400 ג\"ר",
       "name_translations": {
-        "en": "Frendi Canned Food 70% Veal Meat 400g",
+        "en": "Frendi Canned 70% Veal Meat 400g",
         "he": "שימורי פרנדי 70% בשר עגל 400 ג\"ר",
-        "ru": "Консервы Frendi 70% телятины 400 г"
+        "ru": "Консервы Frendi 70% телятина 400 г"
       },
       "description": "",
-      "short_description": null,
+      "short_description": "פרנדי שימור עגל לכלב. מזון רטוב מלא בטעמים, מכיל 70% בשר, כולל בשר עגל איכותי, ברוטב עשיר ומזין.\nהרוטב כולל ויטמינים ומינרלים התומכים בבריאות הכלב, עם דגש על חיזוק העצמות והמפרקים, שמירה על תפקוד תקין של הכליות, הלב והמערכת העצבית.\nהמוצר מיוצר בפולין, עם מרכיבים טבעיים ואיכותיים בלבד, ללא תוספים מלאכותיים.\nמצוין עבור כלבים עם קיבה רגישה ומספק את כל הצרכים התזונתיים לאורך כל שלב התפתחות.",
       "sku": null,
       "brand": null,
       "price": 6.5,
@@ -1062,15 +1062,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/shymvry-prndy-70-bshr-agl-400-gr-li1iri",
+      "url": "https://gurimbakfar.co.il/product/shymvry-prndy-70-bshr-agl-400-gr-98m0gx",
       "categories": [
         "שימורים ומעדנים"
       ],
-      "updated_at": "2026-06-24T12:59:07.440Z"
+      "updated_at": "2026-06-28T19:12:31.824Z"
     },
     {
       "id": "bd837874-797b-4f73-b68a-0766c8136658",
-      "slug": "shymvry-prndy-70-bshr-avp-400-gr-r84rf0",
+      "slug": "shymvry-prndy-70-bshr-avp-400-gr-8hydf8",
       "name": "שימורי פרנדי 70% בשר עוף 400 ג\"ר",
       "name_translations": {
         "en": "Frendi Canned 70% Chicken Meat 400g",
@@ -1090,11 +1090,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/shymvry-prndy-70-bshr-avp-400-gr-r84rf0",
+      "url": "https://gurimbakfar.co.il/product/shymvry-prndy-70-bshr-avp-400-gr-8hydf8",
       "categories": [
         "שימורים ומעדנים"
       ],
-      "updated_at": "2026-06-28T19:08:44.961Z"
+      "updated_at": "2026-06-28T19:12:06.450Z"
     },
     {
       "id": "04bf369e-57ed-4e2e-bdac-41911877ae24",
