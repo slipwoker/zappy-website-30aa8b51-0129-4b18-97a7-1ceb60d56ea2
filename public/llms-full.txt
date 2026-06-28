@@ -6184,8 +6184,8 @@ gurimbakfar@gmail.com
 
 
 
-קראתי ואני מסכים/ה ל   תנאי השימוש  |
-מדיניות החזרות     ול     מדיניות הפרטיות
+קראתי ואני מסכים/ה ל  תנאי השימוש  |
+מדיניות החזרות    ול    מדיניות הפרטיות
 
 
 
@@ -6575,6 +6575,13 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ---
 
 ## Product Catalog
+
+### קולר בדיקה
+URL: https://gurimbakfar.co.il/product/kvlr-bdykh-4ovrpq
+Price: 1.00 ILS
+Availability: In stock
+
+---
 
 ### אדיקשן בוגר כבש (קיבה רגישה) 15 ק”ג
 URL: https://gurimbakfar.co.il/product/adykshn-bvgr-kbsh-kybh-rgyshh-15-kg-sellpm
