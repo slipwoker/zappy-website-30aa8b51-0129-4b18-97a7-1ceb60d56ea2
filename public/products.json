@@ -1,10 +1,36 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-28T18:53:41.345Z",
+  "generated_at": "2026-06-28T18:59:33.728Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 163,
+  "count": 164,
   "products": [
+    {
+      "id": "1c545cd4-617f-4a6f-90fb-089ee399f9be",
+      "slug": "shymvry-prndy-70-bshr-bkr-400-gr-aqnk9e",
+      "name": "שימורי פרנדי 70% בשר בקר 400 ג\"ר",
+      "name_translations": {
+        "en": "Frendi Canned Food 70% Beef 400g",
+        "he": "שימורי פרנדי 70% בשר בקר 400 ג\"ר",
+        "ru": "Консервы Frendi 70% говядина 400 г"
+      },
+      "description": "<p>רכיבים: 70% בשר ונגזרות בשר, כולל 4% בקר, דגנים, מינרלים, חלבון ירקות, סוכרים.</p><p>ערכים תזונתיים: לחות 82%, חלבון גולמי 7%, שומן גולמי 4.5%, אפר גולמי 2.5%, סיבים גולמיים 0.3%.</p>",
+      "short_description": "מזון רטוב לכלבים מכיל 70% בשר איכותי עם בקר, ברוטב עשיר ומזין, כולל ויטמינים ומינרלים התומכים בבריאות הכלב, עם דגש על חיזוק העצמות והמפרקים, שמירה על תפקוד תקין של הכליות, הלב והמערכת העצבית.\nללא חומרים משמרים או צבעי מאכל.",
+      "sku": null,
+      "brand": null,
+      "price": 6.5,
+      "base_price": 6.5,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/shymvry-prndy-70-bshr-bkr-400-gr-aqnk9e",
+      "categories": [
+        "שימורים ומעדנים"
+      ],
+      "updated_at": "2026-06-28T18:59:02.452Z"
+    },
     {
       "id": "6ee59dcd-78f3-4490-8007-90d62e287122",
       "slug": "mzvn-klbym-rtvb-nvabv-snyvr-kbsh-vbkr-am-ptyty-shybvlt-shval-400-gr-nigq9d",

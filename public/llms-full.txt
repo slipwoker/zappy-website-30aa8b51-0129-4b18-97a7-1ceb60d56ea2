@@ -6184,8 +6184,8 @@ gurimbakfar@gmail.com
 
 
 
-קראתי ואני מסכים/ה ל   תנאי השימוש  |
-מדיניות החזרות     ול     מדיניות הפרטיות
+קראתי ואני מסכים/ה ל  תנאי השימוש  |
+מדיניות החזרות    ול    מדיניות הפרטיות
 
 
 
@@ -6575,6 +6575,15 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ---
 
 ## Product Catalog
+
+### שימורי פרנדי 70% בשר בקר 400 ג"ר
+URL: https://gurimbakfar.co.il/product/shymvry-prndy-70-bshr-bkr-400-gr-aqnk9e
+Price: 6.50 ILS
+Availability: In stock
+
+רכיבים: 70% בשר ונגזרות בשר, כולל 4% בקר, דגנים, מינרלים, חלבון ירקות, סוכרים. ערכים תזונתיים: לחות 82%, חלבון גולמי 7%, שומן גולמי 4.5%, אפר גולמי 2.5%, סיבים גולמיים 0.3%.
+
+---
 
 ### מזון כלבים רטוב נואבו סניור כבש ובקר עם פתיתי שיבולת שועל 400 ג"ר
 URL: https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-snyvr-kbsh-vbkr-am-ptyty-shybvlt-shval-400-gr-nigq9d
