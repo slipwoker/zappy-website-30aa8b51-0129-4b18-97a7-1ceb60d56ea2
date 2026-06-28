@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-28T17:53:47.701Z",
+  "generated_at": "2026-06-28T17:57:59.786Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 162,
@@ -35,27 +35,31 @@
     },
     {
       "id": "2e5de7f9-b761-42df-bbe2-2eca6b69c9fe",
-      "slug": "mzvn-klbym-rtvb-nvabv-kbsh-vtpvch-admh-400-gr-yhkuvp",
+      "slug": "mzvn-klbym-rtvb-nvabv-kbsh-vtpvch-admh-400-gr-odtehg",
       "name": "מזון כלבים רטוב נואבו כבש ותפוח אדמה 400 ג\"ר",
       "name_translations": {
         "en": "Nuevo Wet Dog Food Lamb & Potato 400g",
         "he": "מזון כלבים רטוב נואבו כבש ותפוח אדמה 400 ג\"ר",
         "ru": "Влажный корм для собак Nuevo ягнёнок и картофель 400 г"
       },
-      "description": "",
+      "description": "<p>רכיבים: בשר 66% (כבש 30%), ירקות (תפוחי אדמה 5%), מרק 28%, מינרלים 1%.</p><p>ערכים תזונתיים: חלבון 10.50%, שומן 6.30%, אפר 1.60%, סיבים 0.30%, לחות 78.0%.</p><p>המלצות האכלה: משקל כלב 5 ק”ג – 200 גרם ליום, 10 ק”ג – 400 גרם ליום, 20 ק”ג – 800 גרם ליום.</p><p><br></p>",
       "short_description": "Nuevo Adult – כבש ותפוח אדמה\n\nמעניק לכלב שלכם את כל רכיבי התזונה הנדרשים, ומבוסס על מקור חלבון נבחר – כבש – ועל פחמימה קלה לעיכול מתפוח אדמה.\n\nNuevo Lamb הוא מזון מלא ומאוזן לחלוטין עבור הכלב שלכם.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 15,
+      "base_price": 15,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782669374510-kqvdob.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-kbsh-vtpvch-admh-400-gr-yhkuvp",
-      "categories": [],
-      "updated_at": "2026-06-28T17:00:42.790Z"
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-kbsh-vtpvch-admh-400-gr-odtehg",
+      "categories": [
+        "שימורים ומעדנים"
+      ],
+      "updated_at": "2026-06-28T17:57:27.931Z"
     },
     {
       "id": "d2a33a95-9a3e-4e97-91fb-fcd989f1cf67",
