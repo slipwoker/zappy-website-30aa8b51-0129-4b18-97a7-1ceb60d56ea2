@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-28T19:05:14.194Z",
+  "generated_at": "2026-06-28T19:09:17.926Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 164,
@@ -1070,15 +1070,15 @@
     },
     {
       "id": "bd837874-797b-4f73-b68a-0766c8136658",
-      "slug": "shymvry-prndy-70-bshr-avp-400-gr-03oufx",
+      "slug": "shymvry-prndy-70-bshr-avp-400-gr-r84rf0",
       "name": "שימורי פרנדי 70% בשר עוף 400 ג\"ר",
       "name_translations": {
-        "en": "Frendi Canned Food 70% Chicken Meat 400g",
+        "en": "Frendi Canned 70% Chicken Meat 400g",
         "he": "שימורי פרנדי 70% בשר עוף 400 ג\"ר",
         "ru": "Консервы Frendi 70% куриного мяса 400 г"
       },
       "description": "",
-      "short_description": null,
+      "short_description": "פרנדי שימור עוף לכלב. מזון רטוב מלא בטעמים, מכיל 70% בשר, כולל נתחי עוף איכותי, ברוטב עשיר ומזין.\nהרוטב כולל ויטמינים ומינרלים התומכים בבריאות הכלב, עם דגש על חיזוק העצמות והמפרקים, שמירה על תפקוד תקין של הכליות, הלב והמערכת העצבית.\nהמוצר מיוצר בפולין, עם מרכיבים טבעיים ואיכותיים בלבד, ללא תוספים מלאכותיים.\nמצוין עבור כלבים עם קיבה רגישה ומספק את כל הצרכים התזונתיים לאורך כל שלב התפתחות.",
       "sku": null,
       "brand": null,
       "price": 6.5,
@@ -1090,11 +1090,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/shymvry-prndy-70-bshr-avp-400-gr-03oufx",
+      "url": "https://gurimbakfar.co.il/product/shymvry-prndy-70-bshr-avp-400-gr-r84rf0",
       "categories": [
         "שימורים ומעדנים"
       ],
-      "updated_at": "2026-06-24T13:11:12.543Z"
+      "updated_at": "2026-06-28T19:08:44.961Z"
     },
     {
       "id": "04bf369e-57ed-4e2e-bdac-41911877ae24",
