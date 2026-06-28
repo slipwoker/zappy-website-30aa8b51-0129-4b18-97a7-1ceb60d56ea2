@@ -1,10 +1,38 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-28T19:35:06.527Z",
+  "generated_at": "2026-06-28T19:39:39.791Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 165,
+  "count": 166,
   "products": [
+    {
+      "id": "cb8f45f5-f47b-446a-8d80-9c022d5f1f6a",
+      "slug": "mzvn-klbym-rtvb-alpa-dvg-pth-bkr-375-grm-ir68hv",
+      "name": "מזון כלבים רטוב אלפא דוג פטה בקר - 375 גרם",
+      "name_translations": {
+        "en": "Alpha Dog Pate Beef Wet Dog Food - 375g",
+        "he": "מזון כלבים רטוב אלפא דוג פטה בקר - 375 גרם",
+        "ru": "Влажный корм для собак Alpha Dog Pate говядина - 375 г"
+      },
+      "description": "<p>מרכיבים</p><p><br></p><p>בקר, מים, עוף, כבד עוף, קמח קסאווה, ויטמינים</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782675510139-k5c4eq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-alpa-dvg-pth-bkr-375-grm-ir68hv",
+      "categories": [
+        "שימורים ומעדנים"
+      ],
+      "updated_at": "2026-06-28T19:39:32.877Z"
+    },
     {
       "id": "05ccf43a-6864-45db-be90-c797fe5d7751",
       "slug": "mzvn-klbym-rtvb-alpa-dvg-pth-tlh-375-grm-hlrf2r",
