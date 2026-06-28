@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-28T17:02:46.667Z",
+  "generated_at": "2026-06-28T17:33:00.887Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 161,
@@ -59,12 +59,12 @@
     },
     {
       "id": "23fea080-17d9-4795-b261-fa6e85c2b7fa",
-      "slug": "mzvn-klbym-rtvb-nvabv-gvrym-avp-vbkr-am-avrz-sydn-89ham2",
-      "name": "מזון כלבים רטוב נואבו גורים עוף ובקר עם אורז + סידן",
+      "slug": "mzvn-klbym-rtvb-nvabv-gvrym-avp-vbkr-am-avrz-sydn-400-gr-nrv6br",
+      "name": "מזון כלבים רטוב נואבו גורים עוף ובקר עם אורז + סידן 400 ג\"ר",
       "name_translations": {
-        "en": "Nuevo Puppy Wet Dog Food Chicken & Beef with Rice + Calcium",
-        "he": "מזון כלבים רטוב נואבו גורים עוף ובקר עם אורז + סידן",
-        "ru": "Влажный корм для собак Nuevo Junior курица и говядина с рисом + кальций"
+        "en": "Nuevo Junior Wet Dog Food Chicken & Beef with Rice + Calcium 400g",
+        "he": "מזון כלבים רטוב נואבו גורים עוף ובקר עם אורז + סידן 400 ג\"ר",
+        "ru": "Влажный корм для щенков Nuevo Junior курица и говядина с рисом + кальций 400 г"
       },
       "description": "<p><br></p><p>מרכיבים: בשר 66% (עוף 20%, בקר 20%), אורז 4%, דגנים28.5%, מינרלים 1%, סידן פחמתי 0.5%. ערכים תזונתיים:&nbsp;&nbsp;חלבון – 12.0%, שומן – 6.9%, אפר – 2.0%, סיבים – 0.30%, לחות – 76%, סידן – 0.45%, זרחן – 0.25% המלצות האכלה: משקל כלב 5 ק”ג – 200 גרם ליום, 10 ק”ג – 400 גרם ליום, 20 ק”ג – 800 גרם ליום 36 חודשים – סגור / עד יומיים פתוח בטמפרטורה של +5 -7C</p>",
       "short_description": "Nuevo Junior – עוף ובקר עם אורז + סידן\n\nNuevo JUNIOR מתמקד במתן רכיבי התזונה הנכונים לתמיכה בגדילה בריאה. שיעור גבוה של עוף ובקר טריים מספק חלבונים בעלי ערך ביולוגי גבוה.\n\nNuevo Chicken & Beef JUNIOR הוא מזון מלא ומאוזן עם רמות מדויקות של חלבון, שומן, מינרלים וויטמינים. הפורמולה תומכת במערכת החיסון ובניידות ובתנועה של הכלב שלכם. ללא צבעי מאכל, ללא חומרי טעם וללא חומרים משמרים – כבר מההתחלה.",
@@ -79,11 +79,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-gvrym-avp-vbkr-am-avrz-sydn-89ham2",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-gvrym-avp-vbkr-am-avrz-sydn-400-gr-nrv6br",
       "categories": [
         "שימורים ומעדנים"
       ],
-      "updated_at": "2026-06-28T16:12:19.627Z"
+      "updated_at": "2026-06-28T17:32:28.923Z"
     },
     {
       "id": "5f6aa961-9749-40e4-a8f0-e5317d3cf56d",
