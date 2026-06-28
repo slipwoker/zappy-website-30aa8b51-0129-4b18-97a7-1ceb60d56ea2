@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-28T17:02:04.080Z",
+  "generated_at": "2026-06-28T17:02:46.667Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 161,
@@ -9,7 +9,11 @@
       "id": "2e5de7f9-b761-42df-bbe2-2eca6b69c9fe",
       "slug": "mzvn-klbym-rtvb-nvabv-kbsh-vtpvch-admh-400-gr-yhkuvp",
       "name": "מזון כלבים רטוב נואבו כבש ותפוח אדמה 400 ג\"ר",
-      "name_translations": {},
+      "name_translations": {
+        "en": "Nuevo Wet Dog Food Lamb & Potato 400g",
+        "he": "מזון כלבים רטוב נואבו כבש ותפוח אדמה 400 ג\"ר",
+        "ru": "Влажный корм для собак Nuevo ягнёнок и картофель 400 г"
+      },
       "description": "",
       "short_description": "Nuevo Adult – כבש ותפוח אדמה\n\nמעניק לכלב שלכם את כל רכיבי התזונה הנדרשים, ומבוסס על מקור חלבון נבחר – כבש – ועל פחמימה קלה לעיכול מתפוח אדמה.\n\nNuevo Lamb הוא מזון מלא ומאוזן לחלוטין עבור הכלב שלכם.",
       "sku": null,
@@ -23,7 +27,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-kbsh-vtpvch-admh-400-gr-yhkuvp",
       "categories": [],
-      "updated_at": "2026-06-28T17:00:31.629Z"
+      "updated_at": "2026-06-28T17:00:42.790Z"
     },
     {
       "id": "d2a33a95-9a3e-4e97-91fb-fcd989f1cf67",
