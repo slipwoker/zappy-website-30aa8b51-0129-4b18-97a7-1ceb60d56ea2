@@ -1,10 +1,36 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-28T20:25:04.078Z",
+  "generated_at": "2026-06-28T20:35:28.748Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 167,
+  "count": 168,
   "products": [
+    {
+      "id": "9de56988-d535-445a-8bd3-3ee2995149c8",
+      "slug": "mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-vbkr-lgvr-klb-410-grm-nauutq",
+      "name": "מזון כלבים רטוב איסגרים ארוחת הודו ובקר לגור כלב 410 גרם",
+      "name_translations": {
+        "en": "Isegrim Wet Dog Food Turkey & Beef Meal for Puppies 410g",
+        "he": "מזון כלבים רטוב איסגרים ארוחת הודו ובקר לגור כלב 410 גרם",
+        "ru": "Влажный корм для собак Isegrim ужин из индейки и говядины для щенков 410 г"
+      },
+      "description": "<p>מרכיבים</p><p><br></p><p>35% הודו, 35% בקר, 27% ציר, 1,1% בטטה, 1% מינרלים, 0,6% שמן סלמון, 0,3% עשבי תיבול הרריים.</p>",
+      "short_description": "איסגרים (Isegrim) הוא מותג פרימיום של מזון טבעי לכלבים. עבור גורים עד גיל שנה, המותג מציע מזון רטוב איכותי המכיל כ-97% בשר טרי, מרק, ירקות ועשבי תיבול, ומותאם במיוחד להתפתחות תקינה של שרירים ומערכת העיכול.",
+      "sku": null,
+      "brand": null,
+      "price": 19.9,
+      "base_price": 19.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-vbkr-lgvr-klb-410-grm-nauutq",
+      "categories": [
+        "שימורים ומעדנים"
+      ],
+      "updated_at": "2026-06-28T20:34:57.347Z"
+    },
     {
       "id": "5fe8c751-8436-4103-91bf-0ffc757f8c86",
       "slug": "mzvn-klbym-rtvb-alpa-dvg-pth-avp-375-grm-o60qjb",
