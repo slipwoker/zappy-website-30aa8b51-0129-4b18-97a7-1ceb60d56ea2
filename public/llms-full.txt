@@ -6184,8 +6184,8 @@ gurimbakfar@gmail.com
 
 
 
-קראתי ואני מסכים/ה ל  תנאי השימוש  |
-מדיניות החזרות    ול    מדיניות הפרטיות
+קראתי ואני מסכים/ה ל   תנאי השימוש  |
+מדיניות החזרות     ול     מדיניות הפרטיות
 
 
 
@@ -6575,6 +6575,13 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ---
 
 ## Product Catalog
+
+### מזון כלבים רטוב נואבו כבש ותפוח אדמה 400 ג"ר
+URL: https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-kbsh-vtpvch-admh-400-gr-yhkuvp
+Price: 0.00 ILS
+Availability: In stock
+
+---
 
 ### מזון כלבים רטוב נואבו בקר 400 ג"ר
 URL: https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-bkr-400-gr-e0rw2t

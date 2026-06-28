@@ -1,10 +1,30 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-28T16:48:21.710Z",
+  "generated_at": "2026-06-28T17:02:04.080Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 160,
+  "count": 161,
   "products": [
+    {
+      "id": "2e5de7f9-b761-42df-bbe2-2eca6b69c9fe",
+      "slug": "mzvn-klbym-rtvb-nvabv-kbsh-vtpvch-admh-400-gr-yhkuvp",
+      "name": "מזון כלבים רטוב נואבו כבש ותפוח אדמה 400 ג\"ר",
+      "name_translations": {},
+      "description": "",
+      "short_description": "Nuevo Adult – כבש ותפוח אדמה\n\nמעניק לכלב שלכם את כל רכיבי התזונה הנדרשים, ומבוסס על מקור חלבון נבחר – כבש – ועל פחמימה קלה לעיכול מתפוח אדמה.\n\nNuevo Lamb הוא מזון מלא ומאוזן לחלוטין עבור הכלב שלכם.",
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-kbsh-vtpvch-admh-400-gr-yhkuvp",
+      "categories": [],
+      "updated_at": "2026-06-28T17:00:31.629Z"
+    },
     {
       "id": "d2a33a95-9a3e-4e97-91fb-fcd989f1cf67",
       "slug": "mzvn-klbym-rtvb-nvabv-bkr-400-gr-e0rw2t",
