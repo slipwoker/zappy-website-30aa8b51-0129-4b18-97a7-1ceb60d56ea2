@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-28T19:13:04.151Z",
+  "generated_at": "2026-06-28T19:15:14.933Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 164,
@@ -1042,14 +1042,14 @@
     },
     {
       "id": "59e1e321-3617-4846-8e71-a0ab62800357",
-      "slug": "shymvry-prndy-70-bshr-agl-400-gr-98m0gx",
+      "slug": "shymvry-prndy-70-bshr-agl-400-gr-omk02z",
       "name": "שימורי פרנדי 70% בשר עגל 400 ג\"ר",
       "name_translations": {
-        "en": "Frendi Canned 70% Veal Meat 400g",
+        "en": "Frendi Canned Food 70% Veal Meat 400g",
         "he": "שימורי פרנדי 70% בשר עגל 400 ג\"ר",
         "ru": "Консервы Frendi 70% телятина 400 г"
       },
-      "description": "",
+      "description": "<p><strong>רכיבים : </strong>בשר ומוצרי בשר (70% בשר ומוצרי בשר בקוביות, 4% עגל), דגנים, מינרלים, תמציות חלבון צמחי, סוכרים שונים.</p>",
       "short_description": "פרנדי שימור עגל לכלב. מזון רטוב מלא בטעמים, מכיל 70% בשר, כולל בשר עגל איכותי, ברוטב עשיר ומזין.\nהרוטב כולל ויטמינים ומינרלים התומכים בבריאות הכלב, עם דגש על חיזוק העצמות והמפרקים, שמירה על תפקוד תקין של הכליות, הלב והמערכת העצבית.\nהמוצר מיוצר בפולין, עם מרכיבים טבעיים ואיכותיים בלבד, ללא תוספים מלאכותיים.\nמצוין עבור כלבים עם קיבה רגישה ומספק את כל הצרכים התזונתיים לאורך כל שלב התפתחות.",
       "sku": null,
       "brand": null,
@@ -1062,11 +1062,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/shymvry-prndy-70-bshr-agl-400-gr-98m0gx",
+      "url": "https://gurimbakfar.co.il/product/shymvry-prndy-70-bshr-agl-400-gr-omk02z",
       "categories": [
         "שימורים ומעדנים"
       ],
-      "updated_at": "2026-06-28T19:12:31.824Z"
+      "updated_at": "2026-06-28T19:14:42.991Z"
     },
     {
       "id": "bd837874-797b-4f73-b68a-0766c8136658",
