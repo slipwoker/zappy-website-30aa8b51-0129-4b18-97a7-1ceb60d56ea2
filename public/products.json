@@ -1,10 +1,38 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-28T18:00:26.265Z",
+  "generated_at": "2026-06-28T18:05:06.274Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 162,
+  "count": 163,
   "products": [
+    {
+      "id": "6ee59dcd-78f3-4490-8007-90d62e287122",
+      "slug": "mzvn-klbym-rtvb-nvabv-snyvr-kbsh-vbkr-am-ptyty-shybvlt-shval-400-gr-qi0srr",
+      "name": "מזון כלבים רטוב נואבו סניור כבש ובקר עם פתיתי שיבולת שועל 400 ג\"ר",
+      "name_translations": {
+        "en": "Nuevo Senior Wet Dog Food Lamb & Beef with Oat Flakes 400g",
+        "he": "מזון כלבים רטוב נואבו סניור כבש ובקר עם פתיתי שיבולת שועל 400 ג\"ר",
+        "ru": "Влажный корм для собак Nuevo Senior ягнёнок и говядина с овсяными хлопьями 400 г"
+      },
+      "description": "<p>רכיבים:&nbsp;</p><p>בשר ומוצרי לוואי מהחי 65% (20% כבש ו-20% בקר), שיבולת שועל 29%, דגנים 5%, מינרלים 1%</p><p>ערכים תזונתיים:</p><p>חלבון 10.50%, שומן 6.30%, אפר 1.60%, סיבים 0.30%, לחות 78.0%.</p><p>המלצות האכלה: משקל כלב 5 ק”ג – 200 גרם ליום, 10 ק”ג – 400 גרם ליום, 20 ק”ג – 800 גרם ליום.</p><p><br></p>",
+      "short_description": "Nuevo Senior – כבש ובקר עם פתיתי שיבולת שועל\n\nתזונה מלאה ומאוזנת – Nuevo SENIOR מספק את היחס הנכון של חלבון, שומן, פחמימות, מינרלים וויטמינים כדי לתמוך בצרכים התזונתיים של כלבים מבוגרים.\n\nבשר כבש ובקר איכותיים בשילוב פתיתי שיבולת שועל עדינים לקיבה של הכלב שלכם ותומכים בחיים ארוכים ובריאים.",
+      "sku": null,
+      "brand": null,
+      "price": 15,
+      "base_price": 15,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1782669752717-0o14tl.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-snyvr-kbsh-vbkr-am-ptyty-shybvlt-shval-400-gr-qi0srr",
+      "categories": [
+        "שימורים ומעדנים"
+      ],
+      "updated_at": "2026-06-28T18:04:34.887Z"
+    },
     {
       "id": "a55e339e-4e91-4f6a-a3dd-ebfbef5d349b",
       "slug": "mzvn-klbym-rtvb-nvabv-bshr-tsby-am-atryvt-vpyrvt-yar-u2mync",
