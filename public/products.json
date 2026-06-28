@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-28T16:18:54.676Z",
+  "generated_at": "2026-06-28T16:48:21.710Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 160,
   "products": [
     {
       "id": "d2a33a95-9a3e-4e97-91fb-fcd989f1cf67",
-      "slug": "mzvn-klbym-rtvb-nvabv-bkr-400-gr-y6bx20",
+      "slug": "mzvn-klbym-rtvb-nvabv-bkr-400-gr-e0rw2t",
       "name": "מזון כלבים רטוב נואבו בקר 400 ג\"ר",
       "name_translations": {
         "en": "Nuevo Wet Dog Food Beef 400g",
@@ -27,11 +27,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-bkr-400-gr-y6bx20",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-bkr-400-gr-e0rw2t",
       "categories": [
         "שימורים ומעדנים"
       ],
-      "updated_at": "2026-06-28T16:18:22.722Z"
+      "updated_at": "2026-06-28T16:47:49.789Z"
     },
     {
       "id": "23fea080-17d9-4795-b261-fa6e85c2b7fa",

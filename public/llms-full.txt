@@ -6577,7 +6577,7 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### מזון כלבים רטוב נואבו בקר 400 ג"ר
-URL: https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-bkr-400-gr-y6bx20
+URL: https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-bkr-400-gr-e0rw2t
 Price: 15.00 ILS
 Availability: In stock
 
