@@ -6818,20 +6818,6 @@ Availability: In stock
 
 ---
 
-### שימורי נואבו לכלב בטעם עוף 400 ג"ר
-URL: https://gurimbakfar.co.il/product/shymvry-nvabv-lklb-btam-avp-400-gr-cllg5h
-Price: 15.00 ILS
-Availability: In stock
-
----
-
-### שימורי נואבו לגורי כלבים בטעם עוף ובקר 400 ג"ר
-URL: https://gurimbakfar.co.il/product/shymvry-nvabv-lgvry-klbym-btam-avp-vbkr-400-gr-h95qzy
-Price: 15.00 ILS
-Availability: In stock
-
----
-
 ### שימורים לכלבים dogeat 375 גר'
 URL: https://gurimbakfar.co.il/product/shymvrym-lklbym-dogeat-375-gr-b2g1l5
 Price: 5.00 ILS
