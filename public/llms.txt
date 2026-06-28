@@ -72,7 +72,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 166**
+**Total active products: 167**
+
+### מזון כלבים רטוב אלפא דוג פטה עוף - 375 גרם
+https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-alpa-dvg-pth-avp-375-grm-yaihtq
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: שימורים ומעדנים
+- Description: מרכיבים עוף, מים, כבד עוף, קמח קסאווה, ויטמינים
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1782676037474-5243j3.webp
 
 ### מזון כלבים רטוב אלפא דוג פטה בקר - 375 גרם
 https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-alpa-dvg-pth-bkr-375-grm-f5gtym
