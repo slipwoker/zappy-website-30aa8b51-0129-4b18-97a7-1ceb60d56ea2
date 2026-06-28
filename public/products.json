@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-28T19:18:15.810Z",
+  "generated_at": "2026-06-28T19:27:24.233Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 164,
@@ -1098,13 +1098,14 @@
     },
     {
       "id": "04bf369e-57ed-4e2e-bdac-41911877ae24",
-      "slug": "shymvrym-lklbym-dogeat-375-gr-b2g1l5",
-      "name": "שימורים לכלבים dogeat 375 גר'",
+      "slug": "mzvn-klbym-rtvb-dvg-ayt-tsank-bkr-375-grm-seiv38",
+      "name": "מזון כלבים רטוב דוג איט צ'אנק בקר 375 גרם",
       "name_translations": {
-        "en": "Dogeat Canned Food for Dogs 375g",
-        "he": "שימורים לכלבים dogeat 375 גר'"
+        "en": "Dog It Chunk Beef Wet Dog Food 375g",
+        "he": "מזון כלבים רטוב דוג איט צ'אנק בקר 375 גרם",
+        "ru": "Влажный корм для собак Dog It Chunk говядина 375 г"
       },
-      "description": "",
+      "description": "<p>מרכיבים</p><p><br></p><p>בקר, מים, עוף, כבד עוף, קמח קסאווה, ויטמינים</p>",
       "short_description": null,
       "sku": null,
       "brand": null,
@@ -1115,11 +1116,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/shymvrym-lklbym-dogeat-375-gr-b2g1l5",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-dvg-ayt-tsank-bkr-375-grm-seiv38",
       "categories": [
         "שימורים ומעדנים"
       ],
-      "updated_at": "2026-06-24T12:59:49.803Z"
+      "updated_at": "2026-06-28T19:25:42.870Z"
     },
     {
       "id": "ff0d7bb4-31c9-4e21-830b-aabbdcc8eeed",
