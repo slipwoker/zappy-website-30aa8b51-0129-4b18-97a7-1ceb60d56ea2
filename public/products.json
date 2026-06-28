@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-28T18:05:06.274Z",
+  "generated_at": "2026-06-28T18:48:40.627Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 163,
   "products": [
     {
       "id": "6ee59dcd-78f3-4490-8007-90d62e287122",
-      "slug": "mzvn-klbym-rtvb-nvabv-snyvr-kbsh-vbkr-am-ptyty-shybvlt-shval-400-gr-qi0srr",
+      "slug": "mzvn-klbym-rtvb-nvabv-snyvr-kbsh-vbkr-am-ptyty-shybvlt-shval-400-gr-nigq9d",
       "name": "מזון כלבים רטוב נואבו סניור כבש ובקר עם פתיתי שיבולת שועל 400 ג\"ר",
       "name_translations": {
         "en": "Nuevo Senior Wet Dog Food Lamb & Beef with Oat Flakes 400g",
@@ -23,15 +23,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1782669752717-0o14tl.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782670030874-6s0so.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-snyvr-kbsh-vbkr-am-ptyty-shybvlt-shval-400-gr-qi0srr",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-snyvr-kbsh-vbkr-am-ptyty-shybvlt-shval-400-gr-nigq9d",
       "categories": [
         "שימורים ומעדנים"
       ],
-      "updated_at": "2026-06-28T18:04:34.887Z"
+      "updated_at": "2026-06-28T18:47:09.522Z"
     },
     {
       "id": "a55e339e-4e91-4f6a-a3dd-ebfbef5d349b",
