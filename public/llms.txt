@@ -72,7 +72,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 158**
+**Total active products: 159**
+
+### מזון כלבים רטוב נואבו גורים עוף ובקר עם אורז + סידן
+https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-gvrym-avp-vbkr-am-avrz-sydn-89ham2
+- Price: 15.00 ILS
+- Availability: In stock
+- Category: שימורים ומעדנים
+- Description: Nuevo Junior – עוף ובקר עם אורז + סידן Nuevo JUNIOR מתמקד במתן רכיבי התזונה הנכונים לתמיכה בגדילה בריאה. שיעור גבוה של עוף ובקר טריים מספק חלבונים בעלי ערך ביולוגי גבוה. Nuevo Chicken & Beef JUNIOR הוא מזון מלא ומאוזן עם רמות מדויקות של חלבון, שומן, מינרלים וויטמינים. הפורמולה תומכת במערכת החיסון ובניידות ובתנועה של הכלב שלכם. ללא צבעי מאכל, ללא חומרי טעם וללא חומרים משמרים – כבר מההתחלה.
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1782662977404-6kqd6e.webp
 
 ### מזון כלבים רטוב נואבו עוף 400 ג"ר
 https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-avp-400-gr-kvkf9f
