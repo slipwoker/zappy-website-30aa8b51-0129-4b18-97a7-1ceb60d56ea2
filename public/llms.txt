@@ -72,7 +72,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 161**
+**Total active products: 162**
+
+### מזון כלבים רטוב נואבו בשר צבי עם אטריות ופירות יער
+https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-bshr-tsby-am-atryvt-vpyrvt-yar-u2mync
+- Price: 15.00 ILS
+- Availability: In stock
+- Category: שימורים ומעדנים
+- Description: Nuevo Adult – צבי עם אטריות ופירות יער Nuevo Venison מספק לכלב שלכם את כל רכיבי התזונה הנדרשים. שיעור גבוה של בשר בשילוב אטריות ושמן חריע איכותי הופכים את המתכון הזה למיוחד. שמן חריע תומך בפרווה בריאה בזכות שילוב מאוזן של חומצות שומן חיוניות, ומסייע גם לעיכול תקין.
+- Image: https://gurimbakfar.co.il/assets/product-ai-fit-1782668694078-ncjqyi.webp
 
 ### מזון כלבים רטוב נואבו כבש ותפוח אדמה 400 ג"ר
 https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-kbsh-vtpvch-admh-400-gr-yhkuvp

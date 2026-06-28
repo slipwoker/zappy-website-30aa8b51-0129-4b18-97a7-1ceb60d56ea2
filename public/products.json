@@ -1,10 +1,38 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-28T17:39:33.939Z",
+  "generated_at": "2026-06-28T17:47:04.297Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 161,
+  "count": 162,
   "products": [
+    {
+      "id": "a55e339e-4e91-4f6a-a3dd-ebfbef5d349b",
+      "slug": "mzvn-klbym-rtvb-nvabv-bshr-tsby-am-atryvt-vpyrvt-yar-u2mync",
+      "name": "מזון כלבים רטוב נואבו בשר צבי עם אטריות ופירות יער",
+      "name_translations": {
+        "en": "Nuevo Wet Dog Food Venison with Noodles and Berries",
+        "he": "מזון כלבים רטוב נואבו בשר צבי עם אטריות ופירות יער",
+        "ru": "Влажный корм для собак Nuevo оленина с лапшой и лесными ягодами"
+      },
+      "description": "<p>נואבו שימורים לכלב עם בשר צבי – תזונה מלאה לכלבים עם בשר אייל, מעניקה טעם נהדר ושובע מעולה. מכיל שמנים בריאים את הפרווה למבריקה ורכה. רכיבים: בשר ופסולת בשר 65% (בשר צבי 30%), נזיד בשר 26.5%, (פסטה 5%), פירות (לינגוברי 2%), מינרלים 1%, שומנים ושמנים (שמן סויה 0.5%). ערכים תזונתיים: חלבון 11.2%, שומן 7.0%, אפר 2.2%, סיבים 0.40%, לחות 77%. המלצות האכלה: משקל כלב 5 ק”ג – 200 גרם ליום, 10 ק”ג – 400 גרם ליום, 20 ק”ג – 800 גרם ליום.</p>",
+      "short_description": "Nuevo Adult – צבי עם אטריות ופירות יער\n\nNuevo Venison מספק לכלב שלכם את כל רכיבי התזונה הנדרשים. שיעור גבוה של בשר בשילוב אטריות ושמן חריע איכותי הופכים את המתכון הזה למיוחד.\n\nשמן חריע תומך בפרווה בריאה בזכות שילוב מאוזן של חומצות שומן חיוניות, ומסייע גם לעיכול תקין.",
+      "sku": null,
+      "brand": null,
+      "price": 15,
+      "base_price": 15,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1782668694078-ncjqyi.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-bshr-tsby-am-atryvt-vpyrvt-yar-u2mync",
+      "categories": [
+        "שימורים ומעדנים"
+      ],
+      "updated_at": "2026-06-28T17:46:33.034Z"
+    },
     {
       "id": "2e5de7f9-b761-42df-bbe2-2eca6b69c9fe",
       "slug": "mzvn-klbym-rtvb-nvabv-kbsh-vtpvch-admh-400-gr-yhkuvp",
