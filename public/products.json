@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-30T18:51:57.110Z",
+  "generated_at": "2026-06-30T18:54:10.131Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 167,
@@ -2382,10 +2382,10 @@
     },
     {
       "id": "b6d93d0f-a352-400e-8ed5-6bac746958ae",
-      "slug": "mtkn-mshvlb-lmymmzvn-15-lytr-viola-3uxd1b",
+      "slug": "mtkn-mshvlb-lmymmzvn-15-lytr-viola-x76i76",
       "name": "מתקן משולב למים/מזון 1.5 ליטר VIOLA",
       "name_translations": {
-        "en": "VIOLA Combined Water/Food Dispenser 1.5 Liter",
+        "en": "Combined Water/Food Dispenser 1.5 Liter VIOLA",
         "he": "מתקן משולב למים/מזון 1.5 ליטר VIOLA",
         "ru": "Комбинированная поилка/кормушка 1.5 литра VIOLA"
       },
@@ -2397,14 +2397,16 @@
       "base_price": 55,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782845605064-qs1c8y.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mtkn-mshvlb-lmymmzvn-15-lytr-viola-3uxd1b",
+      "url": "https://gurimbakfar.co.il/product/mtkn-mshvlb-lmymmzvn-15-lytr-viola-x76i76",
       "categories": [
         "כלי אוכל ושתייה"
       ],
-      "updated_at": "2026-06-07T19:31:24.195Z"
+      "updated_at": "2026-06-30T18:53:38.526Z"
     },
     {
       "id": "8327af8e-8aae-47eb-b698-99466cc7fe9c",
