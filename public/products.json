@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-30T18:49:28.042Z",
+  "generated_at": "2026-06-30T18:50:26.424Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 167,
@@ -2222,7 +2222,7 @@
     },
     {
       "id": "f5a21ca2-30b3-4d07-9529-ad8334fc078f",
-      "slug": "karvt-nyrvsth-ps-gvmy-ji4l2k",
+      "slug": "karvt-nyrvsth-ps-gvmy-ufqlu5",
       "name": "קערות נירוסטה פס גומי",
       "name_translations": {
         "en": "Stainless Steel Bowls with Rubber Strip",
@@ -2242,11 +2242,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/karvt-nyrvsth-ps-gvmy-ji4l2k",
+      "url": "https://gurimbakfar.co.il/product/karvt-nyrvsth-ps-gvmy-ufqlu5",
       "categories": [
         "כלי אוכל ושתייה"
       ],
-      "updated_at": "2026-06-30T18:48:56.693Z"
+      "updated_at": "2026-06-30T18:49:55.161Z"
     },
     {
       "id": "ade7646d-7a78-4c07-99e0-987b9a54425f",
