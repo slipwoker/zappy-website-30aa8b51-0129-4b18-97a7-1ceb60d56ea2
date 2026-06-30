@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-30T18:10:58.898Z",
+  "generated_at": "2026-06-30T18:12:43.132Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 168,
@@ -1106,12 +1106,12 @@
     },
     {
       "id": "84164ebf-87c6-4f24-93dd-bd628ee44fa4",
-      "slug": "krn-ayyl-advm-75-150-gr-m-ga3bdi",
+      "slug": "krn-ayyl-advm-75-150-gr-m-tajljj",
       "name": "קרן אייל אדום 75-150 גר' M",
       "name_translations": {
         "en": "Red Deer Antler 75-150g M",
         "he": "קרן אייל אדום 75-150 גר' M",
-        "ru": "Рог благородного оленя 75-150 гр M"
+        "ru": "Рог красного оленя 75-150 г M"
       },
       "description": "",
       "short_description": null,
@@ -1121,14 +1121,16 @@
       "base_price": 65,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782843117890-chyka6.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/krn-ayyl-advm-75-150-gr-m-ga3bdi",
+      "url": "https://gurimbakfar.co.il/product/krn-ayyl-advm-75-150-gr-m-tajljj",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-06-14T15:56:37.175Z"
+      "updated_at": "2026-06-30T18:12:11.254Z"
     },
     {
       "id": "88fa3533-c80e-4fe7-bcdb-1c2b649a6d43",
