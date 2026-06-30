@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-30T18:17:54.839Z",
+  "generated_at": "2026-06-30T18:18:43.444Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 168,
@@ -1300,12 +1300,12 @@
     },
     {
       "id": "01120475-9f69-4aff-b4a9-70f1839c1694",
-      "slug": "nvzl-lnykvy-aznyymaynyym-petglow-ytzq5a",
-      "name": "נוזל לניקוי אזניים/עיניים  petglow",
+      "slug": "nvzl-lnykvy-avznyymaynyym-petglow-psqn25",
+      "name": "נוזל לניקוי אוזניים/עיניים petglow",
       "name_translations": {
         "en": "Ear/Eye Cleaning Solution petglow",
-        "he": "נוזל לניקוי אזניים/עיניים  petglow",
-        "ru": "Жидкость для чистки ушей/глаз petglow"
+        "he": "נוזל לניקוי אוזניים/עיניים petglow",
+        "ru": "Жидкость для очистки ушей/глаз petglow"
       },
       "description": "",
       "short_description": null,
@@ -1315,14 +1315,16 @@
       "base_price": 35,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782843478731-dcwsf.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/nvzl-lnykvy-aznyymaynyym-petglow-ytzq5a",
+      "url": "https://gurimbakfar.co.il/product/nvzl-lnykvy-avznyymaynyym-petglow-psqn25",
       "categories": [
         "מוצרי טיפוח"
       ],
-      "updated_at": "2026-06-07T19:31:35.702Z"
+      "updated_at": "2026-06-30T18:18:11.838Z"
     },
     {
       "id": "0cad4651-bf03-4759-8816-f66613a3e040",

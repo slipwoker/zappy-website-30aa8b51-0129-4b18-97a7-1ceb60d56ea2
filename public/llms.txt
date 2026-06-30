@@ -406,11 +406,12 @@ https://gurimbakfar.co.il/product/gl-dntly-lshynyym-histotree-btam-vnyl-k4j86r
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1782156961879-6fifnn.webp
 
-### נוזל לניקוי אזניים/עיניים  petglow
-https://gurimbakfar.co.il/product/nvzl-lnykvy-aznyymaynyym-petglow-ytzq5a
+### נוזל לניקוי אוזניים/עיניים petglow
+https://gurimbakfar.co.il/product/nvzl-lnykvy-avznyymaynyym-petglow-psqn25
 - Price: 35.00 ILS
 - Availability: In stock
 - Category: מוצרי טיפוח
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1782843478731-dcwsf.webp
 
 ### מרכך פרידוג
 https://gurimbakfar.co.il/product/mrkk-prydvg-o64oqc
