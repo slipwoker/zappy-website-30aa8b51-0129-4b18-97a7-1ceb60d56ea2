@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-30T18:24:41.423Z",
+  "generated_at": "2026-06-30T18:27:33.281Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 168,
@@ -1462,12 +1462,12 @@
     },
     {
       "id": "2056a37f-9f4d-4473-b16d-7a3dc14bdebe",
-      "slug": "klvb-nshyah-ptch-kdmy-563735-apvr-kchvl-zy4bph",
-      "name": "כלוב נשיאה פתח קדמי 56*37*35 (אפור, כחול)",
+      "slug": "klvb-nshyah-ptch-kdmy-563735-an1h5m",
+      "name": "כלוב נשיאה פתח קדמי 56*37*35",
       "name_translations": {
-        "en": "Front Opening Carrier Cage 56*37*35 (Gray, Blue)",
-        "he": "כלוב נשיאה פתח קדמי 56*37*35 (אפור, כחול)",
-        "ru": "Переноска с передним входом 56*37*35 (серая, синяя)"
+        "en": "Front Opening Carrier Crate 56*37*35",
+        "he": "כלוב נשיאה פתח קדמי 56*37*35",
+        "ru": "Переноска с передним входом 56*37*35"
       },
       "description": "",
       "short_description": null,
@@ -1477,14 +1477,16 @@
       "base_price": 180,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782844001809-17pnd6.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/klvb-nshyah-ptch-kdmy-563735-apvr-kchvl-zy4bph",
+      "url": "https://gurimbakfar.co.il/product/klvb-nshyah-ptch-kdmy-563735-an1h5m",
       "categories": [
         "כלובים וגדרות"
       ],
-      "updated_at": "2026-06-14T15:55:06.837Z"
+      "updated_at": "2026-06-30T18:27:10.302Z"
     },
     {
       "id": "cb2e80be-53fe-4647-aac5-2b740e2eab12",

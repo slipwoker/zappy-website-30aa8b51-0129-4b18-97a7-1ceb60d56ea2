@@ -445,11 +445,12 @@ https://gurimbakfar.co.il/product/chtypy-bvsh-lklbym-btam-avp-vmngv-200-gr-ryz74
 - Availability: In stock
 - Category: חטיפים
 
-### כלוב נשיאה פתח קדמי 56*37*35 (אפור, כחול)
-https://gurimbakfar.co.il/product/klvb-nshyah-ptch-kdmy-563735-apvr-kchvl-zy4bph
+### כלוב נשיאה פתח קדמי 56*37*35
+https://gurimbakfar.co.il/product/klvb-nshyah-ptch-kdmy-563735-an1h5m
 - Price: 180.00 ILS
 - Availability: In stock
 - Category: כלובים וגדרות
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1782844001809-17pnd6.webp
 
 ### משטח ליקוק 15 ס"מ
 https://gurimbakfar.co.il/product/mshtch-lykvk-15-sm-usi5sk
