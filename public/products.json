@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-30T18:09:29.438Z",
+  "generated_at": "2026-06-30T18:10:58.898Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 168,
@@ -1050,12 +1050,12 @@
     },
     {
       "id": "447fab47-9cc0-4030-8739-5e96038026ed",
-      "slug": "pdym-laymvn-gvrym-100-ych-55q2ni",
+      "slug": "pdym-laymvn-gvrym-100-ych-13o7el",
       "name": "פדים לאימון גורים 100 יח'",
       "name_translations": {
         "en": "Puppy Training Pads 100 pcs",
         "he": "פדים לאימון גורים 100 יח'",
-        "ru": "Пеленки для приучения щенков 100 шт."
+        "ru": "Пелёнки для дрессировки щенков 100 шт."
       },
       "description": "",
       "short_description": null,
@@ -1065,23 +1065,25 @@
       "base_price": 100,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782842985272-3fn9u.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/pdym-laymvn-gvrym-100-ych-55q2ni",
+      "url": "https://gurimbakfar.co.il/product/pdym-laymvn-gvrym-100-ych-13o7el",
       "categories": [
         "בית"
       ],
-      "updated_at": "2026-06-14T15:56:13.037Z"
+      "updated_at": "2026-06-30T18:09:59.647Z"
     },
     {
       "id": "3bec29b2-3fbd-4306-b3fe-06d39ef7544b",
-      "slug": "pdym-laymvn-gvrym-am-pchm-payl-30-ych-jlrpod",
+      "slug": "pdym-laymvn-gvrym-am-pchm-payl-30-ych-o4ysvk",
       "name": "פדים לאימון גורים עם פחם פעיל 30 יח'",
       "name_translations": {
-        "en": "Puppy Training Pads with Active Carbon 30 pcs",
+        "en": "Puppy Training Pads with Activated Charcoal 30 pcs",
         "he": "פדים לאימון גורים עם פחם פעיל 30 יח'",
-        "ru": "Пеленки для приучения щенков с активированным углем 30 шт."
+        "ru": "Пелёнки для дрессировки щенков с активированным углём 30 шт."
       },
       "description": "",
       "short_description": null,
@@ -1091,14 +1093,16 @@
       "base_price": 40,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1782843011411-h3sjg.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/pdym-laymvn-gvrym-am-pchm-payl-30-ych-jlrpod",
+      "url": "https://gurimbakfar.co.il/product/pdym-laymvn-gvrym-am-pchm-payl-30-ych-o4ysvk",
       "categories": [
         "בית"
       ],
-      "updated_at": "2026-06-14T15:56:12.938Z"
+      "updated_at": "2026-06-30T18:10:27.149Z"
     },
     {
       "id": "84164ebf-87c6-4f24-93dd-bd628ee44fa4",
