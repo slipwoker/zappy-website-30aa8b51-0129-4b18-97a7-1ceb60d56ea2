@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-30T18:27:42.056Z",
+  "generated_at": "2026-06-30T18:28:33.121Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 168,
@@ -1462,7 +1462,7 @@
     },
     {
       "id": "2056a37f-9f4d-4473-b16d-7a3dc14bdebe",
-      "slug": "klvb-nshyah-ptch-kdmy-563735-an1h5m",
+      "slug": "klvb-nshyah-ptch-kdmy-563735-oo3tkt",
       "name": "כלוב נשיאה פתח קדמי 56*37*35",
       "name_translations": {
         "en": "Front Opening Carrier Crate 56*37*35",
@@ -1482,11 +1482,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/klvb-nshyah-ptch-kdmy-563735-an1h5m",
+      "url": "https://gurimbakfar.co.il/product/klvb-nshyah-ptch-kdmy-563735-oo3tkt",
       "categories": [
         "כלובים וגדרות"
       ],
-      "updated_at": "2026-06-30T18:27:10.302Z"
+      "updated_at": "2026-06-30T18:28:01.299Z"
     },
     {
       "id": "cb2e80be-53fe-4647-aac5-2b740e2eab12",
