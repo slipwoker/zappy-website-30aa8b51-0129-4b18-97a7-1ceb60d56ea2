@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-30T19:02:52.631Z",
+  "generated_at": "2026-06-30T19:03:29.704Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 166,
@@ -2799,12 +2799,12 @@
     },
     {
       "id": "fa7d254f-588b-46d6-9d02-9f0fa08a286c",
-      "slug": "kdvr-chtypym-75sm-pvm5bj",
-      "name": "כדור חטיפים 7.5ס\"מ",
+      "slug": "kdvr-chtypym-75-sm-woc7h3",
+      "name": "כדור חטיפים 7.5 ס\"מ",
       "name_translations": {
-        "en": "Treat Ball 7.5cm",
-        "he": "כדור חטיפים 7.5ס\"מ",
-        "ru": "Мяч для лакомств 7.5см"
+        "en": "Snack Ball 7.5 cm",
+        "he": "כדור חטיפים 7.5 ס\"מ",
+        "ru": "Мяч для лакомств 7.5 см"
       },
       "description": "",
       "short_description": null,
@@ -2817,11 +2817,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kdvr-chtypym-75sm-pvm5bj",
+      "url": "https://gurimbakfar.co.il/product/kdvr-chtypym-75-sm-woc7h3",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-07T19:31:18.686Z"
+      "updated_at": "2026-06-30T19:02:57.951Z"
     },
     {
       "id": "6edab3f4-dfdb-4f99-bd5a-cc2748107cf8",
