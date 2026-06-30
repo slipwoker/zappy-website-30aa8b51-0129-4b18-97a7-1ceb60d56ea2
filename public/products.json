@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-30T18:54:10.131Z",
+  "generated_at": "2026-06-30T18:54:41.829Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 167,
+  "count": 166,
   "products": [
     {
       "id": "9de56988-d535-445a-8bd3-3ee2995149c8",
@@ -2407,32 +2407,6 @@
         "כלי אוכל ושתייה"
       ],
       "updated_at": "2026-06-30T18:53:38.526Z"
-    },
-    {
-      "id": "8327af8e-8aae-47eb-b698-99466cc7fe9c",
-      "slug": "mtkn-avkl-lvhiam",
-      "name": "מתקן אוכל ",
-      "name_translations": {
-        "en": "Food Dispenser",
-        "he": "מתקן אוכל ",
-        "ru": "Кормушка "
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 0,
-      "base_price": 0,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mtkn-avkl-lvhiam",
-      "categories": [
-        "כלי אוכל ושתייה"
-      ],
-      "updated_at": "2026-06-07T19:31:24.738Z"
     },
     {
       "id": "8c01a5f1-bc1a-4ade-bad6-0c073ef420f0",

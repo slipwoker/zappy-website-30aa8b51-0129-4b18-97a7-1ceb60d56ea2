@@ -7242,13 +7242,6 @@ Availability: In stock
 
 ---
 
-### מתקן אוכל 
-URL: https://gurimbakfar.co.il/product/mtkn-avkl-lvhiam
-Price: 0.00 ILS
-Availability: In stock
-
----
-
 ### סטנד+ 2 קערות אוכל מים 19 ס"מ 
 URL: https://gurimbakfar.co.il/product/stnd-2-karvt-avkl-mym-19-sm-koufjv
 Price: 65.00 ILS

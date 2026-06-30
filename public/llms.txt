@@ -72,7 +72,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 167**
+**Total active products: 166**
 
 ### מזון כלבים רטוב איסגרים ארוחת הודו ובקר לגור כלב 410 גרם
 https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-vbkr-lgvr-klb-410-grm-nauutq
@@ -684,12 +684,6 @@ https://gurimbakfar.co.il/product/mtkn-mshvlb-lmymmzvn-15-lytr-viola-x76i76
 - Availability: In stock
 - Category: כלי אוכל ושתייה
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1782845605064-qs1c8y.webp
-
-### מתקן אוכל 
-https://gurimbakfar.co.il/product/mtkn-avkl-lvhiam
-- Price: 0.00 ILS
-- Availability: In stock
-- Category: כלי אוכל ושתייה
 
 ### סטנד+ 2 קערות אוכל מים 19 ס"מ 
 https://gurimbakfar.co.il/product/stnd-2-karvt-avkl-mym-19-sm-koufjv
