@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-30T18:38:20.231Z",
+  "generated_at": "2026-06-30T18:39:45.126Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 168,
@@ -1780,12 +1780,12 @@
     },
     {
       "id": "1b1b0dc7-f0f3-4764-a9cd-13e97f0e7047",
-      "slug": "myth-lklbym-petsproject-serenity-mydh-s-kvtr-61-sm-ufbdj7",
-      "name": "מיטה לכלבים PetsProject serenity מידה S קוטר 61 ס\"מ",
+      "slug": "myth-lklbym-petsproject-serenity-7b1fm3",
+      "name": "מיטה לכלבים PetsProject serenity",
       "name_translations": {
-        "en": "PetsProject Serenity Dog Bed Size S Diameter 61 cm",
-        "he": "מיטה לכלבים PetsProject serenity מידה S קוטר 61 ס\"מ",
-        "ru": "Лежанка для собак PetsProject serenity размер S диаметр 61 см"
+        "en": "PetsProject Serenity Dog Bed",
+        "he": "מיטה לכלבים PetsProject serenity",
+        "ru": "Кровать для собак PetsProject serenity"
       },
       "description": "",
       "short_description": null,
@@ -1795,14 +1795,16 @@
       "base_price": 179,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1782844736214-0se6yn.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/myth-lklbym-petsproject-serenity-mydh-s-kvtr-61-sm-ufbdj7",
+      "url": "https://gurimbakfar.co.il/product/myth-lklbym-petsproject-serenity-7b1fm3",
       "categories": [
         "מיטות ומזרונים"
       ],
-      "updated_at": "2026-06-07T19:31:29.510Z"
+      "updated_at": "2026-06-30T18:39:33.296Z"
     },
     {
       "id": "c0cad2d5-eb4f-478f-88c2-d900afd9ad5e",
