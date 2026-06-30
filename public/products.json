@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-30T18:56:11.850Z",
+  "generated_at": "2026-06-30T18:57:36.827Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 166,
@@ -2468,12 +2468,12 @@
     },
     {
       "id": "deaa0e70-f389-47c1-bf36-53cb3100a14e",
-      "slug": "msrk-apvr-bry-kyng-u2wvbn",
+      "slug": "msrk-apvr-bry-kyng-c09wv1",
       "name": "מסרק אפור ברי קינג",
       "name_translations": {
-        "en": "Gray Berry King Comb",
+        "en": "Barry King Gray Comb",
         "he": "מסרק אפור ברי קינג",
-        "ru": "Расческа серая Бери Кинг"
+        "ru": "Расчёска серая Beri King"
       },
       "description": "",
       "short_description": null,
@@ -2483,14 +2483,16 @@
       "base_price": 45,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782845790033-tghzp.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/msrk-apvr-bry-kyng-u2wvbn",
+      "url": "https://gurimbakfar.co.il/product/msrk-apvr-bry-kyng-c09wv1",
       "categories": [
         "מוצרי טיפוח"
       ],
-      "updated_at": "2026-06-07T19:31:23.614Z"
+      "updated_at": "2026-06-30T18:57:05.216Z"
     },
     {
       "id": "7c56ea43-f0e6-4f0a-8845-440da95ce83e",
