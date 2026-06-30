@@ -72,7 +72,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 168**
+**Total active products: 167**
 
 ### מזון כלבים רטוב איסגרים ארוחת הודו ובקר לגור כלב 410 גרם
 https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-vbkr-lgvr-klb-410-grm-nauutq
@@ -526,12 +526,6 @@ https://gurimbakfar.co.il/product/myth-lklbym-petsproject-serenity-7b1fm3
 - Availability: In stock
 - Category: מיטות ומזרונים
 - Image: https://gurimbakfar.co.il/assets/product-1782844736214-0se6yn.webp
-
-### מיטה לכלבים PetsProject serenity מידה M קוטר 71 ס"מ
-https://gurimbakfar.co.il/product/myth-lklbym-petsproject-serenity-mydh-m-kvtr-71-sm-8d30pv
-- Price: 249.00 ILS
-- Availability: In stock
-- Category: מיטות ומזרונים
 
 ### מיטה פלאפי לכלבים וחתולים קנל סלקט דגם לולה M חום
 https://gurimbakfar.co.il/product/myth-plapy-lklbym-vchtvlym-knl-slkt-dgm-lvlh-m-chvm-aiz3ne
