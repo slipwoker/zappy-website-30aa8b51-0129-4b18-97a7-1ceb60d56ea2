@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-29T14:21:23.387Z",
+  "generated_at": "2026-06-30T18:09:29.438Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 168,
@@ -1022,12 +1022,12 @@
     },
     {
       "id": "b91d8b66-5179-44d7-b395-c0304740c348",
-      "slug": "pdym-laymvn-gvrym-50-ych-b7ygth",
+      "slug": "pdym-laymvn-gvrym-50-ych-vlukys",
       "name": "פדים לאימון גורים 50 יח'",
       "name_translations": {
         "en": "Puppy Training Pads 50 pcs",
         "he": "פדים לאימון גורים 50 יח'",
-        "ru": "Пеленки для дрессировки щенков 50 шт."
+        "ru": "Пелёнки для дрессировки щенков 50 шт."
       },
       "description": "",
       "short_description": null,
@@ -1037,14 +1037,16 @@
       "base_price": 50,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782842921160-7gzg2n.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/pdym-laymvn-gvrym-50-ych-b7ygth",
+      "url": "https://gurimbakfar.co.il/product/pdym-laymvn-gvrym-50-ych-vlukys",
       "categories": [
         "בית"
       ],
-      "updated_at": "2026-06-14T15:56:13.138Z"
+      "updated_at": "2026-06-30T18:08:58.097Z"
     },
     {
       "id": "447fab47-9cc0-4030-8739-5e96038026ed",
