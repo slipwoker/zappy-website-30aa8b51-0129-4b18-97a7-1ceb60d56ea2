@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-30T18:18:43.444Z",
+  "generated_at": "2026-06-30T18:20:40.701Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 168,
@@ -1354,12 +1354,12 @@
     },
     {
       "id": "2bbc01cf-aba5-4ebc-a12d-6fa445c1a86c",
-      "slug": "atsbavn-tschtsvch-shynyym-zvg-88q3m6",
+      "slug": "atsbavn-tschtsvch-shynyym-zvg-w3h460",
       "name": "אצבעון צחצוח שיניים זוג ",
       "name_translations": {
         "en": "Finger Toothbrush Pair",
         "he": "אצבעון צחצוח שיניים זוג ",
-        "ru": "Напальчник для чистки зубов пара"
+        "ru": "Напальчник для чистки зубов, пара"
       },
       "description": "",
       "short_description": null,
@@ -1369,14 +1369,16 @@
       "base_price": 20,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782843594905-kfaqql.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/atsbavn-tschtsvch-shynyym-zvg-88q3m6",
+      "url": "https://gurimbakfar.co.il/product/atsbavn-tschtsvch-shynyym-zvg-w3h460",
       "categories": [
         "מוצרי טיפוח"
       ],
-      "updated_at": "2026-06-07T19:31:34.865Z"
+      "updated_at": "2026-06-30T18:20:08.651Z"
     },
     {
       "id": "7e37f0e1-8d29-406c-8037-61aceaef56a9",

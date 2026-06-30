@@ -420,10 +420,11 @@ https://gurimbakfar.co.il/product/mrkk-prydvg-o64oqc
 - Category: מוצרי טיפוח
 
 ### אצבעון צחצוח שיניים זוג 
-https://gurimbakfar.co.il/product/atsbavn-tschtsvch-shynyym-zvg-88q3m6
+https://gurimbakfar.co.il/product/atsbavn-tschtsvch-shynyym-zvg-w3h460
 - Price: 20.00 ILS
 - Availability: In stock
 - Category: מוצרי טיפוח
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1782843594905-kfaqql.webp
 
 ### שמפו פרידוג
 https://gurimbakfar.co.il/product/shmpv-prydvg-yuof2c
