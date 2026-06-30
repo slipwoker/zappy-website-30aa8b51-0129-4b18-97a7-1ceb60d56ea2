@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-30T18:57:36.827Z",
+  "generated_at": "2026-06-30T19:00:37.721Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 166,
@@ -2496,12 +2496,12 @@
     },
     {
       "id": "7c56ea43-f0e6-4f0a-8845-440da95ce83e",
-      "slug": "shrshrt-chnk-65-sm-shchvr-ch9egq",
+      "slug": "shrshrt-chnk-65-sm-shchvr-c8gs4i",
       "name": "שרשרת חנק 65 ס\"מ שחור",
       "name_translations": {
         "en": "Choke Chain 65 cm Black",
         "he": "שרשרת חנק 65 ס\"מ שחור",
-        "ru": "Удавка 65 см черная"
+        "ru": "Цепочка-удавка 65 см чёрная"
       },
       "description": "",
       "short_description": null,
@@ -2514,11 +2514,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/shrshrt-chnk-65-sm-shchvr-ch9egq",
+      "url": "https://gurimbakfar.co.il/product/shrshrt-chnk-65-sm-shchvr-c8gs4i",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-06-07T19:31:22.905Z"
+      "updated_at": "2026-06-30T19:00:05.927Z"
     },
     {
       "id": "70b82793-842a-426c-9119-4de05b97c5f9",
