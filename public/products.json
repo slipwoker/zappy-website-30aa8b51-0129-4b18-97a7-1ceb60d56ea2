@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-30T18:28:33.121Z",
+  "generated_at": "2026-06-30T18:30:55.702Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 168,
@@ -1490,7 +1490,7 @@
     },
     {
       "id": "cb2e80be-53fe-4647-aac5-2b740e2eab12",
-      "slug": "mshtch-lykvk-15-sm-usi5sk",
+      "slug": "mshtch-lykvk-15-sm-7x0k5z",
       "name": "משטח ליקוק 15 ס\"מ",
       "name_translations": {
         "en": "Licking Mat 15 cm",
@@ -1505,14 +1505,16 @@
       "base_price": 18,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782844209853-mf97a9.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mshtch-lykvk-15-sm-usi5sk",
+      "url": "https://gurimbakfar.co.il/product/mshtch-lykvk-15-sm-7x0k5z",
       "categories": [
         "אביזרים"
       ],
-      "updated_at": "2026-06-24T13:11:48.966Z"
+      "updated_at": "2026-06-30T18:30:24.088Z"
     },
     {
       "id": "b27416dc-632a-48e3-8db1-90dd1818d9ce",
