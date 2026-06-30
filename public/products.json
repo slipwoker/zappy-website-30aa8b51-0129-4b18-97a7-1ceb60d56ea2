@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-30T18:35:19.730Z",
+  "generated_at": "2026-06-30T18:37:22.126Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 168,
@@ -1700,11 +1700,11 @@
     },
     {
       "id": "d1591a03-7671-4c01-84b5-e90eb5dcd851",
-      "slug": "mzrn-avtvpdy-bvnv-knl-slkt-11974-sm-tsba-apvr-lsz4r8",
-      "name": "מזרן אותופדי בונו קנל סלקט 119*74 ס\"מ צבע אפור",
+      "slug": "mzrn-avrtvpdy-bvnv-knl-slkt-11974-sm-tsba-apvr-3vbki9",
+      "name": "מזרן אורתופדי בונו קנל סלקט 119*74 ס\"מ צבע אפור",
       "name_translations": {
         "en": "Bono Kennel Select Orthopedic Mattress 119*74 cm Gray",
-        "he": "מזרן אותופדי בונו קנל סלקט 119*74 ס\"מ צבע אפור",
+        "he": "מזרן אורתופדי בונו קנל סלקט 119*74 ס\"מ צבע אפור",
         "ru": "Ортопедический матрас Bono Kennel Select 119*74 см цвет серый"
       },
       "description": "",
@@ -1720,11 +1720,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mzrn-avtvpdy-bvnv-knl-slkt-11974-sm-tsba-apvr-lsz4r8",
+      "url": "https://gurimbakfar.co.il/product/mzrn-avrtvpdy-bvnv-knl-slkt-11974-sm-tsba-apvr-3vbki9",
       "categories": [
         "מיטות ומזרונים"
       ],
-      "updated_at": "2026-06-30T18:34:48.308Z"
+      "updated_at": "2026-06-30T18:36:50.363Z"
     },
     {
       "id": "76124c28-7ded-46a3-b58c-1d8cb1e4b630",
