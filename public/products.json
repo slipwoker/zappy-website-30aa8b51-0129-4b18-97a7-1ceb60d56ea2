@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-30T18:50:26.424Z",
+  "generated_at": "2026-06-30T18:51:57.110Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 167,
@@ -2328,12 +2328,12 @@
     },
     {
       "id": "598a46f3-7842-4367-b958-34c110855a3a",
-      "slug": "stnd-2-karvt-avkl-mym-15-sm-zkecow",
+      "slug": "stnd-2-karvt-avkl-mym-15-sm-sk0x3s",
       "name": "סטנד+ 2 קערות אוכל מים 15 ס\"מ ",
       "name_translations": {
-        "en": "Stand + 2 Food Water Bowls 15 cm",
+        "en": "Stand+ 2 Food & Water Bowls 15 cm",
         "he": "סטנד+ 2 קערות אוכל מים 15 ס\"מ ",
-        "ru": "Подставка + 2 миски для еды и воды 15 см"
+        "ru": "Подставка+ 2 миски для еды и воды 15 см"
       },
       "description": "",
       "short_description": null,
@@ -2343,14 +2343,16 @@
       "base_price": 45,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782845464192-ymem9k.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/stnd-2-karvt-avkl-mym-15-sm-zkecow",
+      "url": "https://gurimbakfar.co.il/product/stnd-2-karvt-avkl-mym-15-sm-sk0x3s",
       "categories": [
         "כלי אוכל ושתייה"
       ],
-      "updated_at": "2026-06-07T19:31:24.345Z"
+      "updated_at": "2026-06-30T18:51:25.765Z"
     },
     {
       "id": "f8ca561d-c822-4e94-8b7a-0ade6f7ff8ce",
