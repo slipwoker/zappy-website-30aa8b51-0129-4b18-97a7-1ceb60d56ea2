@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-30T18:14:48.678Z",
+  "generated_at": "2026-06-30T18:17:54.839Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 168,
@@ -1244,14 +1244,14 @@
     },
     {
       "id": "ff0d7bb4-31c9-4e21-830b-aabbdcc8eeed",
-      "slug": "tsatsva-mshykh-kdvr-kshyrh-kpvl-am-chbl-ggf88v",
+      "slug": "tsatsva-mshykh-kdvr-kshyrh-kpvl-am-chbl-fnuvlq",
       "name": "צעצוע משיכה- כדור קשירה כפול עם חבל",
       "name_translations": {
-        "en": "Pull Toy - Double Knot Ball with Rope",
+        "en": "Tug Toy - Double Knot Ball with Rope",
         "he": "צעצוע משיכה- כדור קשירה כפול עם חבל",
-        "ru": "Игрушка-тягалка - двойной узловой мяч с веревкой"
+        "ru": "Игрушка для перетягивания - двойной мяч-узел с верёвкой"
       },
-      "description": "",
+      "description": "<p><br></p>",
       "short_description": null,
       "sku": null,
       "brand": null,
@@ -1259,14 +1259,16 @@
       "base_price": 35,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782843413460-2jv1q8.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/tsatsva-mshykh-kdvr-kshyrh-kpvl-am-chbl-ggf88v",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-mshykh-kdvr-kshyrh-kpvl-am-chbl-fnuvlq",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-07T19:31:37.915Z"
+      "updated_at": "2026-06-30T18:17:23.321Z"
     },
     {
       "id": "625decc9-008b-43c2-bb50-b655f370e2ce",

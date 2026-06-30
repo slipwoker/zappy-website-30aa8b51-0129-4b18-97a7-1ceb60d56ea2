@@ -393,10 +393,11 @@ https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-dvg-ayt-tsank-bkr-375-grm-seiv
 - Description: מרכיבים בקר, מים, עוף, כבד עוף, קמח קסאווה, ויטמינים
 
 ### צעצוע משיכה- כדור קשירה כפול עם חבל
-https://gurimbakfar.co.il/product/tsatsva-mshykh-kdvr-kshyrh-kpvl-am-chbl-ggf88v
+https://gurimbakfar.co.il/product/tsatsva-mshykh-kdvr-kshyrh-kpvl-am-chbl-fnuvlq
 - Price: 35.00 ILS
 - Availability: In stock
 - Category: צעצועים
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1782843413460-2jv1q8.webp
 
 ### ג'ל דנטלי לשיניים Histotree בטעם וניל
 https://gurimbakfar.co.il/product/gl-dntly-lshynyym-histotree-btam-vnyl-k4j86r
