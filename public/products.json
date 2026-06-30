@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-30T18:46:13.442Z",
+  "generated_at": "2026-06-30T18:48:39.383Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 167,
@@ -2222,12 +2222,12 @@
     },
     {
       "id": "f5a21ca2-30b3-4d07-9529-ad8334fc078f",
-      "slug": "karvt-nyrvsth-ps-gvmy-26-sm-8klerf",
-      "name": "קערות נירוסטה פס גומי 26 ס\"מ",
+      "slug": "karvt-nyrvsth-ps-gvmy-ji4l2k",
+      "name": "קערות נירוסטה פס גומי",
       "name_translations": {
-        "en": "Stainless Steel Bowls with Rubber Strip 26 cm",
-        "he": "קערות נירוסטה פס גומי 26 ס\"מ",
-        "ru": "Миски из нержавеющей стали с резиновой полосой 26 см"
+        "en": "Stainless Steel Bowls with Rubber Strip",
+        "he": "קערות נירוסטה פס גומי",
+        "ru": "Миски из нержавеющей стали с резиновой полосой"
       },
       "description": "",
       "short_description": null,
@@ -2237,14 +2237,16 @@
       "base_price": 30,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782845191642-5r6l2l.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/karvt-nyrvsth-ps-gvmy-26-sm-8klerf",
+      "url": "https://gurimbakfar.co.il/product/karvt-nyrvsth-ps-gvmy-ji4l2k",
       "categories": [
         "כלי אוכל ושתייה"
       ],
-      "updated_at": "2026-06-07T19:31:25.751Z"
+      "updated_at": "2026-06-30T18:48:23.188Z"
     },
     {
       "id": "ade7646d-7a78-4c07-99e0-987b9a54425f",
