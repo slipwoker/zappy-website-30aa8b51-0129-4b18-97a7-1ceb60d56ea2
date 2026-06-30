@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-30T18:37:22.126Z",
+  "generated_at": "2026-06-30T18:38:20.231Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 168,
@@ -1728,11 +1728,11 @@
     },
     {
       "id": "76124c28-7ded-46a3-b58c-1d8cb1e4b630",
-      "slug": "mzrn-avtvpdy-bvnv-knl-slkt-9156-sm-tsba-kchvl-win9jn",
-      "name": "מזרן אותופדי בונו קנל סלקט 91*56 ס\"מ צבע כחול",
+      "slug": "mzrn-avrtvpdy-bvnv-knl-slkt-9156-sm-tsba-kchvl-87w7ik",
+      "name": "מזרן אורתופדי בונו קנל סלקט 91*56 ס\"מ צבע כחול",
       "name_translations": {
-        "en": "Bono Canal Select Orthopedic Mattress 91*56 cm Blue Color",
-        "he": "מזרן אותופדי בונו קנל סלקט 91*56 ס\"מ צבע כחול",
+        "en": "Bono Kennel Select Orthopedic Mattress 91*56 cm Blue",
+        "he": "מזרן אורתופדי בונו קנל סלקט 91*56 ס\"מ צבע כחול",
         "ru": "Ортопедический матрас Bono Kennel Select 91*56 см синий цвет"
       },
       "description": "",
@@ -1746,11 +1746,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mzrn-avtvpdy-bvnv-knl-slkt-9156-sm-tsba-kchvl-win9jn",
+      "url": "https://gurimbakfar.co.il/product/mzrn-avrtvpdy-bvnv-knl-slkt-9156-sm-tsba-kchvl-87w7ik",
       "categories": [
         "מיטות ומזרונים"
       ],
-      "updated_at": "2026-06-07T19:31:31.375Z"
+      "updated_at": "2026-06-30T18:37:47.954Z"
     },
     {
       "id": "a95d4a20-9f75-4607-afc6-8e581b323104",
