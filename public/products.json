@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-30T18:41:21.962Z",
+  "generated_at": "2026-06-30T18:46:13.442Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 167,
@@ -2110,7 +2110,7 @@
     },
     {
       "id": "7cbef393-9f02-4398-a517-62c32db78c27",
-      "slug": "kart-nyrvsth-26-sm-6rakzo",
+      "slug": "kart-nyrvsth-26-sm-g6id7n",
       "name": "קערת נירוסטה 26 ס\"מ ",
       "name_translations": {
         "en": "Stainless Steel Bowl 26 cm",
@@ -2125,14 +2125,16 @@
       "base_price": 30,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782845042294-3uzxo.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kart-nyrvsth-26-sm-6rakzo",
+      "url": "https://gurimbakfar.co.il/product/kart-nyrvsth-26-sm-g6id7n",
       "categories": [
         "כלי אוכל ושתייה"
       ],
-      "updated_at": "2026-06-07T19:31:27.363Z"
+      "updated_at": "2026-06-30T18:44:16.667Z"
     },
     {
       "id": "d85797dd-8552-4873-8205-359734b5b1a0",
