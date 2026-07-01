@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-01T10:19:43.398Z",
+  "generated_at": "2026-07-01T10:22:00.634Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 165,
@@ -1330,7 +1330,7 @@
     },
     {
       "id": "0cad4651-bf03-4759-8816-f66613a3e040",
-      "slug": "mrkk-prydvg-s82bx7",
+      "slug": "mrkk-prydvg-lxqsn4",
       "name": "מרכך פרידוג",
       "name_translations": {
         "en": "Fridog Conditioner",
@@ -1350,11 +1350,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mrkk-prydvg-s82bx7",
+      "url": "https://gurimbakfar.co.il/product/mrkk-prydvg-lxqsn4",
       "categories": [
         "מוצרי טיפוח"
       ],
-      "updated_at": "2026-07-01T10:19:12.085Z"
+      "updated_at": "2026-07-01T10:21:29.168Z"
     },
     {
       "id": "2bbc01cf-aba5-4ebc-a12d-6fa445c1a86c",
