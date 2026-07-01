@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-01T10:27:19.264Z",
+  "generated_at": "2026-07-01T10:32:10.179Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 162,
@@ -1498,12 +1498,12 @@
     },
     {
       "id": "cfd5d156-967a-482e-b933-8f60853f6282",
-      "slug": "prydvg-kvlr-nyylvn-byysyk-663825-shchvr-advmkchvl-bvrdv-yrvk-z72ck9",
+      "slug": "prydvg-kvlr-nyylvn-byysyk-663825-shchvr-advmkchvl-bvrdv-yrvk-txnf19",
       "name": "פרידוג קולר ניילון בייסיק 66*38*25 שחור, אדום,כחול, בורדו, ירוק",
       "name_translations": {
-        "en": "Freedog Nylon Basic Collar 66*38*25 Black, Red, Blue, Burgundy, Green",
+        "en": "Freedog Basic Nylon Collar 66*38*25 Black, Red, Blue, Burgundy, Green",
         "he": "פרידוג קולר ניילון בייסיק 66*38*25 שחור, אדום,כחול, בורדו, ירוק",
-        "ru": "Ошейник для собак нейлоновый базовый 66*38*25 черный, красный, синий, бордовый, зеленый"
+        "ru": "Freedog ошейник нейлоновый базовый 66*38*25 чёрный, красный, синий, бордовый, зелёный"
       },
       "description": "",
       "short_description": null,
@@ -1513,14 +1513,19 @@
       "base_price": 30,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782901786529-gh1y97.webp",
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782901812514-dosoif.webp",
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782901838707-5710vd.webp",
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782901880953-l94vv9.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/prydvg-kvlr-nyylvn-byysyk-663825-shchvr-advmkchvl-bvrdv-yrvk-z72ck9",
+      "url": "https://gurimbakfar.co.il/product/prydvg-kvlr-nyylvn-byysyk-663825-shchvr-advmkchvl-bvrdv-yrvk-txnf19",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-06-07T19:31:33.308Z"
+      "updated_at": "2026-07-01T10:31:38.732Z"
     },
     {
       "id": "8ec55e1e-aa8a-4f54-ab54-4c57139f060b",
