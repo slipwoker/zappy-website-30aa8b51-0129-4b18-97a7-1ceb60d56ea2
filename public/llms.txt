@@ -72,7 +72,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 165**
+**Total active products: 162**
 
 ### מזון כלבים רטוב איסגרים ארוחת הודו ובקר לגור כלב 410 גרם
 https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-vbkr-lgvr-klb-410-grm-nauutq
@@ -456,26 +456,8 @@ https://gurimbakfar.co.il/product/mshtch-lykvk-15-sm-7x0k5z
 - Category: אביזרים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1782844209853-mf97a9.webp
 
-### קולר ניילון בייסיק 35*24*15 ס"מ
-https://gurimbakfar.co.il/product/kvlr-nyylvn-byysyk-352415-sm-jxrulq
-- Price: 17.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
-
 ### פרידוג קולר ניילון בייסיק 66*38*25 שחור, אדום,כחול, בורדו, ירוק
 https://gurimbakfar.co.il/product/prydvg-kvlr-nyylvn-byysyk-663825-shchvr-advmkchvl-bvrdv-yrvk-z72ck9
-- Price: 30.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
-
-### petsproject קולר ניילון L ירוק זוהר, אדום, תכלת, סגול, כחול
-https://gurimbakfar.co.il/product/petsproject-kvlr-nyylvn-l-yrvk-zvhr-advm-tklt-sgvl-kchvl-ehjz4q
-- Price: 35.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
-
-### petsproject קולר ניילון M ורוד
-https://gurimbakfar.co.il/product/petsproject-kvlr-nyylvn-m-vrvd-bbcuvg
 - Price: 30.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
