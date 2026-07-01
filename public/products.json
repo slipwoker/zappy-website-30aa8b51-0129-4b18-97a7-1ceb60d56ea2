@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-01T10:50:17.086Z",
+  "generated_at": "2026-07-01T10:54:23.599Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 162,
@@ -1561,7 +1561,7 @@
     },
     {
       "id": "b73a1e35-1066-44ed-a123-1ad98c8899b6",
-      "slug": "prydvg-kvlr-nyylvn-byysyk-352010-t7dtq4",
+      "slug": "prydvg-kvlr-nyylvn-byysyk-352010-s352e8",
       "name": "פרידוג קולר ניילון בייסיק 35*20*10",
       "name_translations": {
         "en": "Freedog Basic Nylon Collar 35*20*10",
@@ -1576,14 +1576,18 @@
       "base_price": 18,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782903118059-hsngqi.webp",
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782903150244-szd15u.webp",
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782903200003-xokkhu.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/prydvg-kvlr-nyylvn-byysyk-352010-t7dtq4",
+      "url": "https://gurimbakfar.co.il/product/prydvg-kvlr-nyylvn-byysyk-352010-s352e8",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-01T10:49:52.307Z"
+      "updated_at": "2026-07-01T10:53:52.169Z"
     },
     {
       "id": "604f3931-a025-4ecd-89f2-bcb9d7c148ae",
