@@ -72,7 +72,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 166**
+**Total active products: 165**
 
 ### מזון כלבים רטוב איסגרים ארוחת הודו ובקר לגור כלב 410 גרם
 https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-vbkr-lgvr-klb-410-grm-nauutq
@@ -386,11 +386,12 @@ https://gurimbakfar.co.il/product/shymvry-prndy-70-bshr-avp-400-gr-7wix9b
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1782304983674-qib28a.webp
 
 ### מזון כלבים רטוב דוג איט צ'אנק בקר 375 גרם
-https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-dvg-ayt-tsank-bkr-375-grm-seiv38
+https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-dvg-ayt-tsank-bkr-375-grm-k0ezsq
 - Price: 5.00 ILS
 - Availability: In stock
 - Category: שימורים ומעדנים
 - Description: מרכיבים בקר, מים, עוף, כבד עוף, קמח קסאווה, ויטמינים
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1782900962242-hhjra.webp
 
 ### צעצוע משיכה- כדור קשירה כפול עם חבל
 https://gurimbakfar.co.il/product/tsatsva-mshykh-kdvr-kshyrh-kpvl-am-chbl-fnuvlq
@@ -425,12 +426,6 @@ https://gurimbakfar.co.il/product/atsbavn-tschtsvch-shynyym-zvg-w3h460
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1782843594905-kfaqql.webp
-
-### שמפו פרידוג
-https://gurimbakfar.co.il/product/shmpv-prydvg-yuof2c
-- Price: 54.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
 
 ### מנטרל ריחות שתן ומנקה כתמים למשטח הכלב
 https://gurimbakfar.co.il/product/mntrl-rychvt-shtn-vmnkh-ktmym-lmshtch-hklb-ri7xoz

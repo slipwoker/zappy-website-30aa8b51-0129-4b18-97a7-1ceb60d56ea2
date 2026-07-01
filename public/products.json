@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-30T19:03:29.704Z",
+  "generated_at": "2026-07-01T10:17:00.648Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 166,
+  "count": 165,
   "products": [
     {
       "id": "9de56988-d535-445a-8bd3-3ee2995149c8",
@@ -1218,14 +1218,14 @@
     },
     {
       "id": "04bf369e-57ed-4e2e-bdac-41911877ae24",
-      "slug": "mzvn-klbym-rtvb-dvg-ayt-tsank-bkr-375-grm-seiv38",
+      "slug": "mzvn-klbym-rtvb-dvg-ayt-tsank-bkr-375-grm-k0ezsq",
       "name": "מזון כלבים רטוב דוג איט צ'אנק בקר 375 גרם",
       "name_translations": {
         "en": "Dog It Chunk Beef Wet Dog Food 375g",
         "he": "מזון כלבים רטוב דוג איט צ'אנק בקר 375 גרם",
         "ru": "Влажный корм для собак Dog It Chunk говядина 375 г"
       },
-      "description": "<p>מרכיבים</p><p><br></p><p>בקר, מים, עוף, כבד עוף, קמח קסאווה, ויטמינים</p>",
+      "description": "<p>מרכיבים</p><p>בקר, מים, עוף, כבד עוף, קמח קסאווה, ויטמינים</p>",
       "short_description": null,
       "sku": null,
       "brand": null,
@@ -1233,14 +1233,16 @@
       "base_price": 5,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782900962242-hhjra.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-dvg-ayt-tsank-bkr-375-grm-seiv38",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-dvg-ayt-tsank-bkr-375-grm-k0ezsq",
       "categories": [
         "שימורים ומעדנים"
       ],
-      "updated_at": "2026-06-28T19:25:42.870Z"
+      "updated_at": "2026-07-01T10:16:29.379Z"
     },
     {
       "id": "ff0d7bb4-31c9-4e21-830b-aabbdcc8eeed",
@@ -1379,32 +1381,6 @@
         "מוצרי טיפוח"
       ],
       "updated_at": "2026-06-30T18:20:08.651Z"
-    },
-    {
-      "id": "7e37f0e1-8d29-406c-8037-61aceaef56a9",
-      "slug": "shmpv-prydvg-yuof2c",
-      "name": "שמפו פרידוג",
-      "name_translations": {
-        "en": "Freedog Shampoo",
-        "he": "שמפו פרידוג",
-        "ru": "Шампунь Фридог"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 54,
-      "base_price": 54,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/shmpv-prydvg-yuof2c",
-      "categories": [
-        "מוצרי טיפוח"
-      ],
-      "updated_at": "2026-06-07T19:31:36.113Z"
     },
     {
       "id": "8d99598d-c701-4a2f-b271-50c38a46c443",

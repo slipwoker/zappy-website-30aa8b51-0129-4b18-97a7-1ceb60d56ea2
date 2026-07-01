@@ -6913,7 +6913,7 @@ Availability: In stock
 ---
 
 ### מזון כלבים רטוב דוג איט צ'אנק בקר 375 גרם
-URL: https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-dvg-ayt-tsank-bkr-375-grm-seiv38
+URL: https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-dvg-ayt-tsank-bkr-375-grm-k0ezsq
 Price: 5.00 ILS
 Availability: In stock
 
@@ -6952,13 +6952,6 @@ Availability: In stock
 ### אצבעון צחצוח שיניים זוג 
 URL: https://gurimbakfar.co.il/product/atsbavn-tschtsvch-shynyym-zvg-w3h460
 Price: 20.00 ILS
-Availability: In stock
-
----
-
-### שמפו פרידוג
-URL: https://gurimbakfar.co.il/product/shmpv-prydvg-yuof2c
-Price: 54.00 ILS
 Availability: In stock
 
 ---
