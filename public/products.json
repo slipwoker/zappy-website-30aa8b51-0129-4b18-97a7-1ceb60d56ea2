@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-01T10:37:50.994Z",
+  "generated_at": "2026-07-01T10:42:48.440Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 162,
@@ -1530,12 +1530,12 @@
     },
     {
       "id": "8ec55e1e-aa8a-4f54-ab54-4c57139f060b",
-      "slug": "prydvg-kvlr-nyylvn-byysyk-503515-shchvr-kchvl-advm-bvrdv-viklc4",
-      "name": "פרידוג קולר ניילון בייסיק 50*35*15 שחור, כחול, אדום, בורדו",
+      "slug": "prydvg-kvlr-nyylvn-byysyk-503515-h8427z",
+      "name": "פרידוג קולר ניילון בייסיק 50*35*15",
       "name_translations": {
-        "en": "Freedog Nylon Basic Collar 50*35*15 Black, Blue, Red, Burgundy",
-        "he": "פרידוג קולר ניילון בייסיק 50*35*15 שחור, כחול, אדום, בורדו",
-        "ru": "Ошейник Freedog нейлоновый базовый 50*35*15 черный, синий, красный, бордовый"
+        "en": "Freedog Basic Nylon Collar 50*35*15",
+        "he": "פרידוג קולר ניילון בייסיק 50*35*15",
+        "ru": "Freedog ошейник нейлоновый базовый 50*35*15"
       },
       "description": "",
       "short_description": null,
@@ -1545,14 +1545,19 @@
       "base_price": 25,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782902364273-t18fr.webp",
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782902391028-9s65gq.webp",
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782902417032-dkf7x7.webp",
+        "https://gurimbakfar.co.il/assets/product-enhanced-1782902500405-nssha9.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/prydvg-kvlr-nyylvn-byysyk-503515-shchvr-kchvl-advm-bvrdv-viklc4",
+      "url": "https://gurimbakfar.co.il/product/prydvg-kvlr-nyylvn-byysyk-503515-h8427z",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-06-07T19:31:33.443Z"
+      "updated_at": "2026-07-01T10:42:21.252Z"
     },
     {
       "id": "b73a1e35-1066-44ed-a123-1ad98c8899b6",
