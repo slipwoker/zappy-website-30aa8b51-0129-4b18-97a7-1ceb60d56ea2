@@ -6542,8 +6542,8 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 
 ## Product Catalog
 
-### קופסה לאחסון למזון 12 ליטר
-URL: https://gurimbakfar.co.il/product/kvpsh-lachsvn-lmzvn-12-lytr-cfuln2
+### קופסה לאחסון למזון
+URL: https://gurimbakfar.co.il/product/kvpsh-lachsvn-lmzvn-bw8058
 Price: 130.00 ILS
 Availability: In stock
 
