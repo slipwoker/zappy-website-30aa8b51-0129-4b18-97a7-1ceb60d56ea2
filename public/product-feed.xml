@@ -4,7 +4,7 @@
     <title>גורים בכפר</title>
     <link>https://gurimbakfar.co.il</link>
     <description>Product feed for גורים בכפר</description>
-    <lastBuildDate>Sun, 05 Jul 2026 19:21:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 19:22:13 GMT</lastBuildDate>
     <item>
       <g:id>b9b14de3-3927-4c03-948d-6ce43147b464</g:id>
       <g:title>סט רתמה ורצועה לכלב קטן בינוני אדום</g:title>
@@ -1812,10 +1812,53 @@
       <g:product_type>צעצועים</g:product_type>
     </item>
     <item>
-      <g:id>fa7d254f-588b-46d6-9d02-9f0fa08a286c</g:id>
-      <g:title>כדור חטיפים 7.5 ס&quot;מ</g:title>
+      <g:id>fa7d254f-588b-46d6-9d02-9f0fa08a286c__205da9ab-331e-4fa7-92a3-33a7d4d743cd</g:id>
+      <g:title>כדור חטיפים 7.5 ס&quot;מ - סגול</g:title>
       <g:description>כדור חטיפים 7.5 ס&quot;מ</g:description>
       <g:link>https://gurimbakfar.co.il/product/kdvr-chtypym-75-sm-gc7ldi</g:link>
+      <g:item_group_id>fa7d254f-588b-46d6-9d02-9f0fa08a286c</g:item_group_id>
+      <g:image_link>https://gurimbakfar.co.il/assets/product-enhanced-1783279084478-p40yk6.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>50.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>צעצועים</g:product_type>
+    </item>
+    <item>
+      <g:id>fa7d254f-588b-46d6-9d02-9f0fa08a286c__86645d87-823c-4679-aa8b-68ff6c762ee0</g:id>
+      <g:title>כדור חטיפים 7.5 ס&quot;מ - Yellow</g:title>
+      <g:description>כדור חטיפים 7.5 ס&quot;מ</g:description>
+      <g:link>https://gurimbakfar.co.il/product/kdvr-chtypym-75-sm-gc7ldi</g:link>
+      <g:item_group_id>fa7d254f-588b-46d6-9d02-9f0fa08a286c</g:item_group_id>
+      <g:image_link>https://gurimbakfar.co.il/assets/product-enhanced-1783279084478-p40yk6.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>50.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>צעצועים</g:product_type>
+    </item>
+    <item>
+      <g:id>fa7d254f-588b-46d6-9d02-9f0fa08a286c__2fd81f3e-5a83-4492-a5df-f211b61efc79</g:id>
+      <g:title>כדור חטיפים 7.5 ס&quot;מ - Green</g:title>
+      <g:description>כדור חטיפים 7.5 ס&quot;מ</g:description>
+      <g:link>https://gurimbakfar.co.il/product/kdvr-chtypym-75-sm-gc7ldi</g:link>
+      <g:item_group_id>fa7d254f-588b-46d6-9d02-9f0fa08a286c</g:item_group_id>
+      <g:image_link>https://gurimbakfar.co.il/assets/product-enhanced-1783279084478-p40yk6.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>50.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>צעצועים</g:product_type>
+    </item>
+    <item>
+      <g:id>fa7d254f-588b-46d6-9d02-9f0fa08a286c__ca4265b7-dd03-4731-bb78-bc5405edbc55</g:id>
+      <g:title>כדור חטיפים 7.5 ס&quot;מ - תכלת</g:title>
+      <g:description>כדור חטיפים 7.5 ס&quot;מ</g:description>
+      <g:link>https://gurimbakfar.co.il/product/kdvr-chtypym-75-sm-gc7ldi</g:link>
+      <g:item_group_id>fa7d254f-588b-46d6-9d02-9f0fa08a286c</g:item_group_id>
       <g:image_link>https://gurimbakfar.co.il/assets/product-enhanced-1783279084478-p40yk6.webp</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>50.00 ILS</g:price>
