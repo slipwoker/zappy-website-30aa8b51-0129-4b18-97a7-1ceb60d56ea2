@@ -6154,8 +6154,8 @@ gurimbakfar@gmail.com
 
 
 
-קראתי ואני מסכים/ה ל   תנאי השימוש  |
-מדיניות החזרות     ול     מדיניות הפרטיות
+קראתי ואני מסכים/ה ל  תנאי השימוש  |
+מדיניות החזרות    ול    מדיניות הפרטיות
 
 
 
@@ -6541,6 +6541,13 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ---
 
 ## Product Catalog
+
+### סט רתמה ורצועה לכלב קטן בינוני אדום
+URL: https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-advm-axrjsu
+Price: 59.00 ILS
+Availability: In stock
+
+---
 
 ### מזון כלבים רטוב איסגרים ארוחת הודו ובקר לגור כלב 410 גרם
 URL: https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-vbkr-lgvr-klb-410-grm-nauutq
