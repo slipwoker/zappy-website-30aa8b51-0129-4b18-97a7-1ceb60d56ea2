@@ -6154,8 +6154,8 @@ gurimbakfar@gmail.com
 
 
 
-קראתי ואני מסכים/ה ל   תנאי השימוש  |
-מדיניות החזרות     ול     מדיניות הפרטיות
+קראתי ואני מסכים/ה ל  תנאי השימוש  |
+מדיניות החזרות    ול    מדיניות הפרטיות
 
 
 
@@ -6543,7 +6543,7 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### קערות מים/אוכל נירוסטה 
-URL: https://gurimbakfar.co.il/product/karvt-mymavkl-nyrvsth-yvylff
+URL: https://gurimbakfar.co.il/product/karvt-mymavkl-nyrvsth-lwwkou
 Price: 59.00 ILS
 Availability: In stock
 
@@ -6552,8 +6552,8 @@ Availability: In stock
 ---
 
 ### דלי מים נירוסטה 7 ליטר
-URL: https://gurimbakfar.co.il/product/dly-mym-nyrvsth-7-lytr-t4ztqz
-Price: 89.00 ILS
+URL: https://gurimbakfar.co.il/product/dly-mym-nyrvsth-7-lytr-m51gqr
+Price: 79.00 ILS
 Availability: In stock
 
 ---

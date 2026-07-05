@@ -75,7 +75,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 161**
 
 ### קערות מים/אוכל נירוסטה 
-https://gurimbakfar.co.il/product/karvt-mymavkl-nyrvsth-yvylff
+https://gurimbakfar.co.il/product/karvt-mymavkl-nyrvsth-lwwkou
 - Price: 59.00 ILS
 - Availability: In stock
 - Category: כלי אוכל ושתייה
@@ -83,8 +83,8 @@ https://gurimbakfar.co.il/product/karvt-mymavkl-nyrvsth-yvylff
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1783284343624-pfiam6.webp
 
 ### דלי מים נירוסטה 7 ליטר
-https://gurimbakfar.co.il/product/dly-mym-nyrvsth-7-lytr-t4ztqz
-- Price: 89.00 ILS
+https://gurimbakfar.co.il/product/dly-mym-nyrvsth-7-lytr-m51gqr
+- Price: 79.00 ILS
 - Availability: In stock
 - Category: כלי אוכל ושתייה
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1783282965829-9bdvpc.webp

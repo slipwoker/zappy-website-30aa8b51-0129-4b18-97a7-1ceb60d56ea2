@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T21:03:43.685Z",
+  "generated_at": "2026-07-05T21:06:27.253Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 161,
   "products": [
     {
       "id": "56844673-b936-4114-a02b-b766e7712843",
-      "slug": "karvt-mymavkl-nyrvsth-yvylff",
+      "slug": "karvt-mymavkl-nyrvsth-lwwkou",
       "name": "קערות מים/אוכל נירוסטה ",
       "name_translations": {
         "en": "Stainless Steel Water/Food Bowls ",
@@ -27,15 +27,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/karvt-mymavkl-nyrvsth-yvylff",
+      "url": "https://gurimbakfar.co.il/product/karvt-mymavkl-nyrvsth-lwwkou",
       "categories": [
         "כלי אוכל ושתייה"
       ],
-      "updated_at": "2026-07-05T20:57:04.328Z"
+      "updated_at": "2026-07-05T21:05:31.331Z"
     },
     {
       "id": "1f71b263-21e7-4e22-b018-ee3ded82a5f4",
-      "slug": "dly-mym-nyrvsth-7-lytr-t4ztqz",
+      "slug": "dly-mym-nyrvsth-7-lytr-m51gqr",
       "name": "דלי מים נירוסטה 7 ליטר",
       "name_translations": {
         "en": "Stainless Steel Water Bucket 7 Liters",
@@ -46,8 +46,8 @@
       "short_description": null,
       "sku": null,
       "brand": null,
-      "price": 89,
-      "base_price": 89,
+      "price": 79,
+      "base_price": 79,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -55,11 +55,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/dly-mym-nyrvsth-7-lytr-t4ztqz",
+      "url": "https://gurimbakfar.co.il/product/dly-mym-nyrvsth-7-lytr-m51gqr",
       "categories": [
         "כלי אוכל ושתייה"
       ],
-      "updated_at": "2026-07-05T21:00:22.437Z"
+      "updated_at": "2026-07-05T21:05:55.273Z"
     },
     {
       "id": "b9b14de3-3927-4c03-948d-6ce43147b464",
