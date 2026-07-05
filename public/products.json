@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T14:05:28.904Z",
+  "generated_at": "2026-07-05T14:06:20.751Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 163,
   "products": [
     {
       "id": "b9b14de3-3927-4c03-948d-6ce43147b464",
-      "slug": "st-rtmh-vrtsvah-lklb-ktn-bynvny-advm-axrjsu",
+      "slug": "st-rtmh-vrtsvah-lklb-ktn-bynvny-advm-s1yspk",
       "name": "סט רתמה ורצועה לכלב קטן בינוני אדום",
       "name_translations": {
         "en": "Harness and Leash Set for Small-Medium Dog Red",
@@ -27,11 +27,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-advm-axrjsu",
+      "url": "https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-advm-s1yspk",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-05T14:04:57.414Z"
+      "updated_at": "2026-07-05T14:05:49.201Z"
     },
     {
       "id": "9de56988-d535-445a-8bd3-3ee2995149c8",

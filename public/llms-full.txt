@@ -6543,7 +6543,7 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### סט רתמה ורצועה לכלב קטן בינוני אדום
-URL: https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-advm-axrjsu
+URL: https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-advm-s1yspk
 Price: 59.00 ILS
 Availability: In stock
 
