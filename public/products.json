@@ -1,25 +1,25 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T20:56:03.637Z",
+  "generated_at": "2026-07-05T20:57:35.920Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 161,
   "products": [
     {
       "id": "56844673-b936-4114-a02b-b766e7712843",
-      "slug": "karvt-mymavkl-nyrvsth-7ip88l",
+      "slug": "karvt-mymavkl-nyrvsth-yvylff",
       "name": "קערות מים/אוכל נירוסטה ",
       "name_translations": {
         "en": "Stainless Steel Water/Food Bowls ",
         "he": "קערות מים/אוכל נירוסטה ",
-        "ru": "Миски для воды/еды из нержавеющей стали "
+        "ru": "Миски для воды/еды из нержавеющей стали"
       },
-      "description": "<p>מידות : קוטר 28 ס\"מ , גובה 10 ס\"מ</p>",
+      "description": "<p>מידות : קוטר 28 ס\"מ , גובה 10 ס\"מ</p><p>4 ליטר</p>",
       "short_description": null,
       "sku": null,
       "brand": null,
-      "price": 45,
-      "base_price": 45,
+      "price": 59,
+      "base_price": 59,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -27,11 +27,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/karvt-mymavkl-nyrvsth-7ip88l",
+      "url": "https://gurimbakfar.co.il/product/karvt-mymavkl-nyrvsth-yvylff",
       "categories": [
         "כלי אוכל ושתייה"
       ],
-      "updated_at": "2026-07-05T20:53:00.197Z"
+      "updated_at": "2026-07-05T20:57:04.328Z"
     },
     {
       "id": "1f71b263-21e7-4e22-b018-ee3ded82a5f4",

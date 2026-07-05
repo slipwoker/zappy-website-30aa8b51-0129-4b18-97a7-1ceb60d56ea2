@@ -75,11 +75,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 161**
 
 ### קערות מים/אוכל נירוסטה 
-https://gurimbakfar.co.il/product/karvt-mymavkl-nyrvsth-7ip88l
-- Price: 45.00 ILS
+https://gurimbakfar.co.il/product/karvt-mymavkl-nyrvsth-yvylff
+- Price: 59.00 ILS
 - Availability: In stock
 - Category: כלי אוכל ושתייה
-- Description: מידות : קוטר 28 ס"מ , גובה 10 ס"מ
+- Description: מידות : קוטר 28 ס"מ , גובה 10 ס"מ 4 ליטר
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1783284343624-pfiam6.webp
 
 ### דלי מים נירוסטה 7 ליטר
