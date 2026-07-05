@@ -6154,8 +6154,8 @@ gurimbakfar@gmail.com
 
 
 
-קראתי ואני מסכים/ה ל   תנאי השימוש  |
-מדיניות החזרות     ול     מדיניות הפרטיות
+קראתי ואני מסכים/ה ל  תנאי השימוש  |
+מדיניות החזרות    ול    מדיניות הפרטיות
 
 
 
@@ -7148,20 +7148,6 @@ Availability: In stock
 ### קערות נירוסטה פס גומי
 URL: https://gurimbakfar.co.il/product/karvt-nyrvsth-ps-gvmy-ufqlu5
 Price: 30.00 ILS
-Availability: In stock
-
----
-
-### קערות נירוסטה פס גומי 22 ס"מ
-URL: https://gurimbakfar.co.il/product/karvt-nyrvsth-ps-gvmy-22-sm-d77rjh
-Price: 25.00 ILS
-Availability: In stock
-
----
-
-### קערות נירוסטה פס גומי 18 ס"מ
-URL: https://gurimbakfar.co.il/product/karvt-nyrvsth-ps-gvmy-18-sm-0ut1or
-Price: 15.00 ILS
 Availability: In stock
 
 ---

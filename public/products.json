@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T20:37:19.415Z",
+  "generated_at": "2026-07-05T20:41:53.004Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 163,
+  "count": 161,
   "products": [
     {
       "id": "1f71b263-21e7-4e22-b018-ee3ded82a5f4",
@@ -2233,58 +2233,6 @@
         "כלי אוכל ושתייה"
       ],
       "updated_at": "2026-06-30T18:49:55.161Z"
-    },
-    {
-      "id": "ade7646d-7a78-4c07-99e0-987b9a54425f",
-      "slug": "karvt-nyrvsth-ps-gvmy-22-sm-d77rjh",
-      "name": "קערות נירוסטה פס גומי 22 ס\"מ",
-      "name_translations": {
-        "en": "Stainless Steel Bowls with Rubber Strip 22 cm",
-        "he": "קערות נירוסטה פס גומי 22 ס\"מ",
-        "ru": "Миски из нержавеющей стали с резиновой полосой 22 см"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 25,
-      "base_price": 25,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/karvt-nyrvsth-ps-gvmy-22-sm-d77rjh",
-      "categories": [
-        "כלי אוכל ושתייה"
-      ],
-      "updated_at": "2026-06-07T19:31:25.884Z"
-    },
-    {
-      "id": "da2e1336-76a9-41e3-9e74-15b21931ea53",
-      "slug": "karvt-nyrvsth-ps-gvmy-18-sm-0ut1or",
-      "name": "קערות נירוסטה פס גומי 18 ס\"מ",
-      "name_translations": {
-        "en": "Stainless Steel Bowls with Rubber Strip 18 cm",
-        "he": "קערות נירוסטה פס גומי 18 ס\"מ",
-        "ru": "Миски из нержавеющей стали с резиновой полосой 18 см"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 15,
-      "base_price": 15,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/karvt-nyrvsth-ps-gvmy-18-sm-0ut1or",
-      "categories": [
-        "כלי אוכל ושתייה"
-      ],
-      "updated_at": "2026-06-07T19:31:26.317Z"
     },
     {
       "id": "de6fceaa-2f25-4f6c-aed7-135c53b90e28",

@@ -72,7 +72,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 163**
+**Total active products: 161**
 
 ### דלי מים נירוסטה 7 ליטר
 https://gurimbakfar.co.il/product/dly-mym-nyrvsth-7-lytr-54q2xu
@@ -648,18 +648,6 @@ https://gurimbakfar.co.il/product/karvt-nyrvsth-ps-gvmy-ufqlu5
 - Availability: In stock
 - Category: כלי אוכל ושתייה
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1782845191642-5r6l2l.webp
-
-### קערות נירוסטה פס גומי 22 ס"מ
-https://gurimbakfar.co.il/product/karvt-nyrvsth-ps-gvmy-22-sm-d77rjh
-- Price: 25.00 ILS
-- Availability: In stock
-- Category: כלי אוכל ושתייה
-
-### קערות נירוסטה פס גומי 18 ס"מ
-https://gurimbakfar.co.il/product/karvt-nyrvsth-ps-gvmy-18-sm-0ut1or
-- Price: 15.00 ILS
-- Availability: In stock
-- Category: כלי אוכל ושתייה
 
 ### קערות נירוסטה פס גומי 21 ס"מ
 https://gurimbakfar.co.il/product/karvt-nyrvsth-ps-gvmy-21-sm-v5qr0t
