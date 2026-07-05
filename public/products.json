@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T21:47:40.620Z",
+  "generated_at": "2026-07-05T21:49:27.351Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 162,
   "products": [
     {
       "id": "20bd9d16-4918-4a7f-a051-fcdc1f9d53cc",
-      "slug": "kvpsh-lachsvn-lmzvn-12-lytr-eiwcbj",
+      "slug": "kvpsh-lachsvn-lmzvn-12-lytr-cfuln2",
       "name": "קופסה לאחסון למזון 12 ליטר",
       "name_translations": {
         "en": "Food Storage Container 12 Liters",
@@ -28,11 +28,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kvpsh-lachsvn-lmzvn-12-lytr-eiwcbj",
+      "url": "https://gurimbakfar.co.il/product/kvpsh-lachsvn-lmzvn-12-lytr-cfuln2",
       "categories": [
         "אביזרים"
       ],
-      "updated_at": "2026-07-05T21:47:09.131Z"
+      "updated_at": "2026-07-05T21:49:17.540Z"
     },
     {
       "id": "56844673-b936-4114-a02b-b766e7712843",
