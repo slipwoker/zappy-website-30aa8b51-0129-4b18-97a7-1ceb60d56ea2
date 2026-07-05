@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T19:08:10.726Z",
+  "generated_at": "2026-07-05T19:12:01.140Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 163,
@@ -2484,12 +2484,12 @@
     },
     {
       "id": "70b82793-842a-426c-9119-4de05b97c5f9",
-      "slug": "hnrys-azny-baplv-chtvkvt-g9gjrr",
+      "slug": "hnrys-azny-baplv-chtvkvt-xk1hoh",
       "name": "הנריס אזני באפלו חתוכות",
       "name_translations": {
-        "en": "Harris Buffalo Ear Cuts",
+        "en": "Henris Buffalo Ears Cut",
         "he": "הנריס אזני באפלו חתוכות",
-        "ru": "Уши буйвола Henries нарезанные"
+        "ru": "Хенрис уши буйвола нарезанные"
       },
       "description": "",
       "short_description": null,
@@ -2499,14 +2499,16 @@
       "base_price": 26,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783278674555-kf4ic.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/hnrys-azny-baplv-chtvkvt-g9gjrr",
+      "url": "https://gurimbakfar.co.il/product/hnrys-azny-baplv-chtvkvt-xk1hoh",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-06-07T19:31:25.286Z"
+      "updated_at": "2026-07-05T19:11:29.531Z"
     },
     {
       "id": "adc02516-30ac-4190-a8cf-1b1744924ced",
