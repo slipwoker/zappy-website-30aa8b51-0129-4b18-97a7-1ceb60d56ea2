@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T19:28:56.517Z",
+  "generated_at": "2026-07-05T20:18:52.096Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 162,
@@ -1442,7 +1442,7 @@
     },
     {
       "id": "baa24113-df1a-4144-8402-45a5c54e012f",
-      "slug": "chtypy-bvsh-lklbym-btam-avp-vmngv-200-gr-5hxpwy",
+      "slug": "chtypy-bvsh-lklbym-btam-avp-vmngv-200-gr-lj7jyk",
       "name": "חטיפי בוש לכלבים בטעם עוף ומנגו 200 ג\"ר",
       "name_translations": {
         "en": "Bosch Dog Treats Chicken and Mango Flavor 200g",
@@ -1458,15 +1458,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-enhanced-1782901458297-86o98q.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783282680679-hd4hae.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtypy-bvsh-lklbym-btam-avp-vmngv-200-gr-5hxpwy",
+      "url": "https://gurimbakfar.co.il/product/chtypy-bvsh-lklbym-btam-avp-vmngv-200-gr-lj7jyk",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-01T10:24:32.221Z"
+      "updated_at": "2026-07-05T20:18:20.248Z"
     },
     {
       "id": "2056a37f-9f4d-4473-b16d-7a3dc14bdebe",
