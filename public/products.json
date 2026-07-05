@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T09:34:38.697Z",
+  "generated_at": "2026-07-05T09:38:08.142Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 162,
@@ -1844,12 +1844,12 @@
     },
     {
       "id": "327168a0-2b6b-46d9-98e6-93c186ebc23d",
-      "slug": "myth-plapy-lklbym-vchtvlym-knl-slkt-dgm-lvlh-s-apvr-tvsfd8",
+      "slug": "myth-plapy-lklbym-vchtvlym-knl-slkt-dgm-lvlh-s-apvr-j2fn43",
       "name": "מיטה פלאפי לכלבים וחתולים קנל סלקט דגם לולה S אפור",
       "name_translations": {
         "en": "Fluffy Bed for Dogs and Cats Kennel Select Lola Model S Gray",
         "he": "מיטה פלאפי לכלבים וחתולים קנל סלקט דגם לולה S אפור",
-        "ru": "Кровать Флаффи для собак и кошек Kennel Select модель Лола S серая"
+        "ru": "Мягкая кровать для собак и кошек Kennel Select модель Lola S серая"
       },
       "description": "",
       "short_description": null,
@@ -1859,14 +1859,16 @@
       "base_price": 180,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783244174011-slaffg.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/myth-plapy-lklbym-vchtvlym-knl-slkt-dgm-lvlh-s-apvr-tvsfd8",
+      "url": "https://gurimbakfar.co.il/product/myth-plapy-lklbym-vchtvlym-knl-slkt-dgm-lvlh-s-apvr-j2fn43",
       "categories": [
         "מיטות ומזרונים"
       ],
-      "updated_at": "2026-06-07T19:31:30.234Z"
+      "updated_at": "2026-07-05T09:36:28.474Z"
     },
     {
       "id": "63fd653c-3c98-4c5c-840e-554f417d478e",
