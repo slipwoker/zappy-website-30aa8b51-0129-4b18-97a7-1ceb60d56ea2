@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T19:23:24.794Z",
+  "generated_at": "2026-07-05T19:24:06.898Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 163,
+  "count": 162,
   "products": [
     {
       "id": "b9b14de3-3927-4c03-948d-6ce43147b464",
@@ -2767,12 +2767,12 @@
     },
     {
       "id": "fa7d254f-588b-46d6-9d02-9f0fa08a286c",
-      "slug": "kdvr-chtypym-75-sm-gc7ldi",
-      "name": "כדור חטיפים 7.5 ס\"מ",
+      "slug": "kdvr-chtypym-p2pje5",
+      "name": "כדור חטיפים",
       "name_translations": {
-        "en": "Snack Ball 7.5 cm",
-        "he": "כדור חטיפים 7.5 ס\"מ",
-        "ru": "Мяч для лакомств 7.5 см"
+        "en": "Snack Ball",
+        "he": "כדור חטיפים",
+        "ru": "Мяч для лакомств"
       },
       "description": "",
       "short_description": null,
@@ -2787,37 +2787,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kdvr-chtypym-75-sm-gc7ldi",
+      "url": "https://gurimbakfar.co.il/product/kdvr-chtypym-p2pje5",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-07-05T19:23:05.796Z"
-    },
-    {
-      "id": "6edab3f4-dfdb-4f99-bd5a-cc2748107cf8",
-      "slug": "kdvr-chtypym-65-sm-mf0twl",
-      "name": "כדור חטיפים 6.5 ס\"מ",
-      "name_translations": {
-        "en": "Treat Ball 6.5 cm",
-        "he": "כדור חטיפים 6.5 ס\"מ",
-        "ru": "Мяч для лакомств 6.5 см"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 40,
-      "base_price": 40,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kdvr-chtypym-65-sm-mf0twl",
-      "categories": [
-        "צעצועים"
-      ],
-      "updated_at": "2026-06-07T19:31:19.481Z"
+      "updated_at": "2026-07-05T19:24:03.776Z"
     },
     {
       "id": "2ee7497c-53a0-4109-859f-4d7fa1deae29",

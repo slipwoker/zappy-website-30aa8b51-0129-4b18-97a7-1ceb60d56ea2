@@ -7285,16 +7285,9 @@ Availability: In stock
 
 ---
 
-### כדור חטיפים 7.5 ס"מ
-URL: https://gurimbakfar.co.il/product/kdvr-chtypym-75-sm-gc7ldi
+### כדור חטיפים
+URL: https://gurimbakfar.co.il/product/kdvr-chtypym-p2pje5
 Price: 50.00 ILS
-Availability: In stock
-
----
-
-### כדור חטיפים 6.5 ס"מ
-URL: https://gurimbakfar.co.il/product/kdvr-chtypym-65-sm-mf0twl
-Price: 40.00 ILS
 Availability: In stock
 
 ---

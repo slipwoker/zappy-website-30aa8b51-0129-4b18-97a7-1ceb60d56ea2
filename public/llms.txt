@@ -72,7 +72,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 163**
+**Total active products: 162**
 
 ### סט רתמה ורצועה לכלב קטן בינוני אדום
 https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-advm-s1yspk
@@ -779,18 +779,12 @@ https://gurimbakfar.co.il/product/trngvl-ltks-mtsptsp-nvv5yg
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-1782208881783-bklzif.webp
 
-### כדור חטיפים 7.5 ס"מ
-https://gurimbakfar.co.il/product/kdvr-chtypym-75-sm-gc7ldi
+### כדור חטיפים
+https://gurimbakfar.co.il/product/kdvr-chtypym-p2pje5
 - Price: 50.00 ILS
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1783279084478-p40yk6.webp
-
-### כדור חטיפים 6.5 ס"מ
-https://gurimbakfar.co.il/product/kdvr-chtypym-65-sm-mf0twl
-- Price: 40.00 ILS
-- Availability: In stock
-- Category: צעצועים
 
 ### בקבוק שתייה נייד 400 מ"ל freedog
 https://gurimbakfar.co.il/product/bkbvk-shtyyh-nyyd-400-ml-freedog-q6b9a8
