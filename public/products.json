@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T09:22:59.584Z",
+  "generated_at": "2026-07-05T09:26:01.197Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 162,
@@ -1591,12 +1591,12 @@
     },
     {
       "id": "604f3931-a025-4ecd-89f2-bcb9d7c148ae",
-      "slug": "prydvg-kvlr-nyylvn-byysyk-603520-yrvk-advm-y66zru",
-      "name": "פרידוג קולר ניילון בייסיק 60*35*20 ירוק, אדום",
+      "slug": "prydvg-kvlr-nyylvn-byysyk-603520-wz7c2q",
+      "name": "פרידוג קולר ניילון בייסיק 60*35*20",
       "name_translations": {
-        "en": "Freedog Nylon Basic Collar 60*35*20 Green, Red",
-        "he": "פרידוג קולר ניילון בייסיק 60*35*20 ירוק, אדום",
-        "ru": "Ошейник Freedog нейлоновый базовый 60*35*20 зеленый, красный"
+        "en": "Freedog Basic Nylon Collar 60*35*20",
+        "he": "פרידוג קולר ניילון בייסיק 60*35*20",
+        "ru": "Freedog ошейник нейлоновый базовый 60*35*20"
       },
       "description": "",
       "short_description": null,
@@ -1606,14 +1606,17 @@
       "base_price": 28,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783243481508-0iz5sa.webp",
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783243505478-rm05a.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/prydvg-kvlr-nyylvn-byysyk-603520-yrvk-advm-y66zru",
+      "url": "https://gurimbakfar.co.il/product/prydvg-kvlr-nyylvn-byysyk-603520-wz7c2q",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-06-07T19:31:33.729Z"
+      "updated_at": "2026-07-05T09:25:34.414Z"
     },
     {
       "id": "d1591a03-7671-4c01-84b5-e90eb5dcd851",
