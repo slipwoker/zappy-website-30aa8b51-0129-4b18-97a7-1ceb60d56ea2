@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T20:42:08.658Z",
+  "generated_at": "2026-07-05T20:42:54.296Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 161,
+  "count": 160,
   "products": [
     {
       "id": "1f71b263-21e7-4e22-b018-ee3ded82a5f4",
@@ -2233,32 +2233,6 @@
         "כלי אוכל ושתייה"
       ],
       "updated_at": "2026-06-30T18:49:55.161Z"
-    },
-    {
-      "id": "de6fceaa-2f25-4f6c-aed7-135c53b90e28",
-      "slug": "karvt-nyrvsth-ps-gvmy-21-sm-v5qr0t",
-      "name": "קערות נירוסטה פס גומי 21 ס\"מ",
-      "name_translations": {
-        "en": "Stainless Steel Bowls with Rubber Strip 21 cm",
-        "he": "קערות נירוסטה פס גומי 21 ס\"מ",
-        "ru": "Миски из нержавеющей стали с резиновой полосой 21 см"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 20,
-      "base_price": 20,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/karvt-nyrvsth-ps-gvmy-21-sm-v5qr0t",
-      "categories": [
-        "כלי אוכל ושתייה"
-      ],
-      "updated_at": "2026-06-07T19:31:26.197Z"
     },
     {
       "id": "598a46f3-7842-4367-b958-34c110855a3a",
