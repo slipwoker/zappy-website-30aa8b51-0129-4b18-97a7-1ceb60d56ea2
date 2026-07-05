@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T19:14:21.634Z",
+  "generated_at": "2026-07-05T19:15:34.768Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 163,
@@ -2655,12 +2655,12 @@
     },
     {
       "id": "576ae0e2-4b9b-4a7c-b6c9-5f32449276cd",
-      "slug": "tsatsva-laysh-tsmyg-chbl-10j8cn",
+      "slug": "tsatsva-laysh-tsmyg-chbl-a4z8by",
       "name": "צעצוע לעיסה צמיג חבל",
       "name_translations": {
-        "en": "Durable Rope Chew Toy",
+        "en": "Rope Tire Chew Toy",
         "he": "צעצוע לעיסה צמיג חבל",
-        "ru": "Игрушка для жевания веревочная шина"
+        "ru": "Игрушка для жевания канатная шина"
       },
       "description": "",
       "short_description": null,
@@ -2670,14 +2670,16 @@
       "base_price": 0,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783278887184-p4jyfb.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/tsatsva-laysh-tsmyg-chbl-10j8cn",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-laysh-tsmyg-chbl-a4z8by",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-07T19:31:22.479Z"
+      "updated_at": "2026-07-05T19:15:03.269Z"
     },
     {
       "id": "16b52d0b-f13d-4891-b5db-25a7ecbd95f0",
