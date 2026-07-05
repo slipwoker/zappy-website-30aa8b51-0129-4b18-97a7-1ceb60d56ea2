@@ -6542,6 +6542,15 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 
 ## Product Catalog
 
+### קערות מים/אוכל נירוסטה 
+URL: https://gurimbakfar.co.il/product/karvt-mymavkl-nyrvsth-cfz5u2
+Price: 0.00 ILS
+Availability: In stock
+
+מידות : קוטר 28 ס"מ , גובה 10 ס"מ
+
+---
+
 ### דלי מים נירוסטה 7 ליטר
 URL: https://gurimbakfar.co.il/product/dly-mym-nyrvsth-7-lytr-54q2xu
 Price: 70.00 ILS
