@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T09:32:21.943Z",
+  "generated_at": "2026-07-05T09:34:38.697Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 162,
@@ -1760,12 +1760,12 @@
     },
     {
       "id": "de9e4c5b-2fb2-45ef-931c-7acfa4a6f0c8",
-      "slug": "myth-lklbym-petsproject-mydh-s-ashvy-mbd-amyd-dvchh-mym-vkysvy-nshlp-ytx8z8",
+      "slug": "myth-lklbym-petsproject-mydh-s-ashvy-mbd-amyd-dvchh-mym-vkysvy-nshlp-ubniy3",
       "name": "מיטה לכלבים PetsProject מידה S עשוי מבד עמיד דוחה מים וכיסוי נשלף",
       "name_translations": {
-        "en": "PetsProject Dog Bed Size S Made of Durable Water-Repellent Fabric with Removable Cover",
+        "en": "PetsProject Dog Bed Size S Made from Durable Water-Resistant Fabric with Removable Cover",
         "he": "מיטה לכלבים PetsProject מידה S עשוי מבד עמיד דוחה מים וכיסוי נשלף",
-        "ru": "Лежанка для собак PetsProject размер S из прочной водоотталкивающей ткани со съемным чехлом"
+        "ru": "Кровать для собак PetsProject размер S из прочной водоотталкивающей ткани со съёмным чехлом"
       },
       "description": "",
       "short_description": null,
@@ -1775,14 +1775,16 @@
       "base_price": 189,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783244034698-h07tqj.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/myth-lklbym-petsproject-mydh-s-ashvy-mbd-amyd-dvchh-mym-vkysvy-nshlp-ytx8z8",
+      "url": "https://gurimbakfar.co.il/product/myth-lklbym-petsproject-mydh-s-ashvy-mbd-amyd-dvchh-mym-vkysvy-nshlp-ubniy3",
       "categories": [
         "מיטות ומזרונים"
       ],
-      "updated_at": "2026-06-07T19:31:32.069Z"
+      "updated_at": "2026-07-05T09:34:07.287Z"
     },
     {
       "id": "4b347e0c-39c9-4764-a3e0-740537f0684a",
