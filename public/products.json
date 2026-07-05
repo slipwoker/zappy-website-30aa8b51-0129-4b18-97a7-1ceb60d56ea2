@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T21:55:10.682Z",
+  "generated_at": "2026-07-05T21:58:32.892Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 162,
   "products": [
     {
       "id": "20bd9d16-4918-4a7f-a051-fcdc1f9d53cc",
-      "slug": "kvpsh-lachsvn-lmzvn-h9h7e3",
+      "slug": "kvpsh-lachsvn-lmzvn-bgzptn",
       "name": "קופסה לאחסון למזון",
       "name_translations": {
         "en": "Food Storage Container",
@@ -25,16 +25,15 @@
       "images": [
         "https://gurimbakfar.co.il/assets/product-1783287829521-pec58.webp",
         "https://gurimbakfar.co.il/assets/product-1783287858332-xrgmx.webp",
-        "https://gurimbakfar.co.il/assets/product-1783288282432-0rw72.webp",
-        "https://gurimbakfar.co.il/assets/product-1783288304488-yel8ij.webp"
+        "https://gurimbakfar.co.il/assets/product-1783288282432-0rw72.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kvpsh-lachsvn-lmzvn-h9h7e3",
+      "url": "https://gurimbakfar.co.il/product/kvpsh-lachsvn-lmzvn-bgzptn",
       "categories": [
         "אביזרים"
       ],
-      "updated_at": "2026-07-05T21:52:00.307Z"
+      "updated_at": "2026-07-05T21:58:01.599Z"
     },
     {
       "id": "56844673-b936-4114-a02b-b766e7712843",

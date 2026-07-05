@@ -6154,8 +6154,8 @@ gurimbakfar@gmail.com
 
 
 
-קראתי ואני מסכים/ה ל   תנאי השימוש  |
-מדיניות החזרות     ול     מדיניות הפרטיות
+קראתי ואני מסכים/ה ל  תנאי השימוש  |
+מדיניות החזרות    ול    מדיניות הפרטיות
 
 
 
@@ -6543,7 +6543,7 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### קופסה לאחסון למזון
-URL: https://gurimbakfar.co.il/product/kvpsh-lachsvn-lmzvn-h9h7e3
+URL: https://gurimbakfar.co.il/product/kvpsh-lachsvn-lmzvn-bgzptn
 Price: 130.00 ILS
 Availability: In stock
 
