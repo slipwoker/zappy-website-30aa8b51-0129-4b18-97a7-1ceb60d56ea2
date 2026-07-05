@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T19:15:34.768Z",
+  "generated_at": "2026-07-05T19:21:07.049Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 163,
@@ -2767,7 +2767,7 @@
     },
     {
       "id": "fa7d254f-588b-46d6-9d02-9f0fa08a286c",
-      "slug": "kdvr-chtypym-75-sm-woc7h3",
+      "slug": "kdvr-chtypym-75-sm-gc7ldi",
       "name": "כדור חטיפים 7.5 ס\"מ",
       "name_translations": {
         "en": "Snack Ball 7.5 cm",
@@ -2782,14 +2782,16 @@
       "base_price": 50,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783279084478-p40yk6.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kdvr-chtypym-75-sm-woc7h3",
+      "url": "https://gurimbakfar.co.il/product/kdvr-chtypym-75-sm-gc7ldi",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-06-30T19:02:57.951Z"
+      "updated_at": "2026-07-05T19:20:35.622Z"
     },
     {
       "id": "6edab3f4-dfdb-4f99-bd5a-cc2748107cf8",
