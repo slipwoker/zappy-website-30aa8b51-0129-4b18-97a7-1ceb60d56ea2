@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T09:28:45.114Z",
+  "generated_at": "2026-07-05T09:30:22.255Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 162,
@@ -1676,10 +1676,10 @@
     },
     {
       "id": "a95d4a20-9f75-4607-afc6-8e581b323104",
-      "slug": "klvb-nshyah-ptch-alyvn-vptch-kdmy-32332-sm-5h79ud",
+      "slug": "klvb-nshyah-ptch-alyvn-vptch-kdmy-32332-sm-951o0l",
       "name": "כלוב נשיאה פתח עליון ופתח קדמי 32*33.2 ס\"מ ",
       "name_translations": {
-        "en": "Carrier Cage with Top and Front Opening 32*33.2 cm",
+        "en": "Carrier Cage with Top Opening and Front Opening 32*33.2 cm",
         "he": "כלוב נשיאה פתח עליון ופתח קדמי 32*33.2 ס\"מ ",
         "ru": "Переноска с верхним и передним входом 32*33.2 см"
       },
@@ -1691,14 +1691,16 @@
       "base_price": 210,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783243777754-mdyhb0k.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/klvb-nshyah-ptch-alyvn-vptch-kdmy-32332-sm-5h79ud",
+      "url": "https://gurimbakfar.co.il/product/klvb-nshyah-ptch-alyvn-vptch-kdmy-32332-sm-951o0l",
       "categories": [
         "כלובים וגדרות"
       ],
-      "updated_at": "2026-06-24T13:12:01.354Z"
+      "updated_at": "2026-07-05T09:29:50.517Z"
     },
     {
       "id": "1b1b0dc7-f0f3-4764-a9cd-13e97f0e7047",
