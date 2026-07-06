@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T22:02:17.270Z",
+  "generated_at": "2026-07-06T10:52:49.761Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 162,
+  "count": 163,
   "products": [
+    {
+      "id": "5e46433f-6a55-42ae-9bab-db31759f45bf",
+      "slug": "kart-haklh-aytyt-4ujrel",
+      "name": "קערת האכלה איטית ",
+      "name_translations": {
+        "en": "Slow Feeding Bowl ",
+        "he": "קערת האכלה איטית ",
+        "ru": "Миска для медленного кормления "
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 40,
+      "base_price": 40,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/kart-haklh-aytyt-4ujrel",
+      "categories": [],
+      "updated_at": "2026-07-06T10:52:15.868Z"
+    },
     {
       "id": "20bd9d16-4918-4a7f-a051-fcdc1f9d53cc",
       "slug": "kvpsh-lachsvn-lmzvn-oghxsu",
