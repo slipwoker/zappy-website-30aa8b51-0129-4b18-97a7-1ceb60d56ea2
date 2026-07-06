@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-06T11:02:53.721Z",
+  "generated_at": "2026-07-06T11:12:53.903Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 163,
   "products": [
     {
       "id": "5e46433f-6a55-42ae-9bab-db31759f45bf",
-      "slug": "kart-haklh-aytyt-513e75",
+      "slug": "kart-haklh-aytyt-b7084j",
       "name": "קערת האכלה איטית ",
       "name_translations": {
         "en": "Slow Feeder Bowl ",
@@ -22,14 +22,21 @@
       "base_price": 40,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1783336133111-bma025.webp",
+        "https://gurimbakfar.co.il/assets/product-1783336214942-a57r59.webp",
+        "https://gurimbakfar.co.il/assets/product-1783336248963-kdo5za.webp",
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783336187535-b140d4.webp",
+        "https://gurimbakfar.co.il/assets/product-1783336289204-lhuxre.webp",
+        "https://gurimbakfar.co.il/assets/product-1783336315712-lidt9.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kart-haklh-aytyt-513e75",
+      "url": "https://gurimbakfar.co.il/product/kart-haklh-aytyt-b7084j",
       "categories": [
         "כלי אוכל ושתייה"
       ],
-      "updated_at": "2026-07-06T11:02:22.117Z"
+      "updated_at": "2026-07-06T11:12:22.504Z"
     },
     {
       "id": "20bd9d16-4918-4a7f-a051-fcdc1f9d53cc",
