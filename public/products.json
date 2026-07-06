@@ -1,10 +1,40 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-06T11:13:40.824Z",
+  "generated_at": "2026-07-06T11:34:02.373Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 163,
+  "count": 164,
   "products": [
+    {
+      "id": "37f4894e-8004-4732-bfed-5e2ea17c0a65",
+      "slug": "chbl-dntly-4-kshrym-7jgpf2",
+      "name": "חבל דנטלי 4 קשרים",
+      "name_translations": {
+        "en": "Dental Rope 4 Knots",
+        "he": "חבל דנטלי 4 קשרים",
+        "ru": "Дентальная верёвка с 4 узлами"
+      },
+      "description": "<p>חבל משיכה 4 קשרים הוא צעצוע מעולה לכלבים גדולים. הוא מעולה למשחקי משיכת חבל, זריקה ולעיסה. הקשרים עוזרים לנקות את שיני הכלב בזמן שהוא לועס. אורך החבל 76 ס\"מ.</p><p><br></p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783336972929-yvyv5l.webp",
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783337074930-mk6ye7.webp",
+        "https://gurimbakfar.co.il/assets/product-1783337570797-zsvegb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/chbl-dntly-4-kshrym-7jgpf2",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-07-06T11:33:30.770Z"
+    },
     {
       "id": "5e46433f-6a55-42ae-9bab-db31759f45bf",
       "slug": "kart-haklh-aytyt-b7084j",
@@ -36,7 +66,7 @@
       "categories": [
         "כלי אוכל ושתייה"
       ],
-      "updated_at": "2026-07-06T11:12:08.394Z"
+      "updated_at": "2026-07-06T11:12:22.504Z"
     },
     {
       "id": "20bd9d16-4918-4a7f-a051-fcdc1f9d53cc",
