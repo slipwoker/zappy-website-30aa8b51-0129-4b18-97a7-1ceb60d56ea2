@@ -6543,7 +6543,7 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### קערת האכלה איטית 
-URL: https://gurimbakfar.co.il/product/kart-haklh-aytyt-4ujrel
+URL: https://gurimbakfar.co.il/product/kart-haklh-aytyt-9i82jw
 Price: 40.00 ILS
 Availability: In stock
 

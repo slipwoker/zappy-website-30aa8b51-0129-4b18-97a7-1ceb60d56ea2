@@ -75,9 +75,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 163**
 
 ### קערת האכלה איטית 
-https://gurimbakfar.co.il/product/kart-haklh-aytyt-4ujrel
+https://gurimbakfar.co.il/product/kart-haklh-aytyt-9i82jw
 - Price: 40.00 ILS
 - Availability: In stock
+- Category: כלי אוכל ושתייה
+- Description: קערה מפלסטיק צבעוני בעלת מבנה ייחודי המאפשר האטת צריכת מזון הכלבים
 
 ### קופסה לאחסון למזון
 https://gurimbakfar.co.il/product/kvpsh-lachsvn-lmzvn-oghxsu
