@@ -1,10 +1,38 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-06T11:42:54.997Z",
+  "generated_at": "2026-07-06T12:13:34.081Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 164,
+  "count": 165,
   "products": [
+    {
+      "id": "9e7fc6a5-3f27-4d81-86b9-2976fe4fdae5",
+      "slug": "sms-pyldsams-field-slvmvn-vtpvch-admh-13-kg-sakpwn",
+      "name": "סמס פילד/Sam's Field סלומון ותפוח אדמה 13 ק\"ג",
+      "name_translations": {
+        "en": "Sam's Field Salmon and Potato 13 kg",
+        "he": "סמס פילד/Sam's Field סלומון ותפוח אדמה 13 ק\"ג",
+        "ru": "Сэмс Филд/Sam's Field Лосось и картофель 13 кг"
+      },
+      "description": "<p><strong>רכיבים:</strong></p><p>סלמון, תפו\"\"א, תירס, שומן עוף(משומר עם Technopherols, מקור של ויטמין E), שמן סלמון, טעמים טבעיים, תפוחים מיובשים, שמרי בירה, עגבניות, תמצית יוקה שיגידורה, גזרים, מינרלים, DL- מתיונין, L-לייסין, mannan-oligosaccharides, fructo-oligosaccharides, חיידקים פרוביוטים.</p><p><strong>ערכים תזונתיים:</strong></p><p>חלבון גולמי 25%, שומן גולמי14%, סיבים תזונתיים גולמיים 2%, עפר 5.5%, לחות 10%, סידן 1.1%, זרחן 0.9%.</p>",
+      "short_description": "Sem’s Field Adult Salmon And Potato, סמס פילד מופחת דגנים סלמון ותפוחי אדמה מתאים לכלבים בוגרים מכל הגזעים ובכל הגדלים, מזון יבש סמס פילד מופחת דגנים מכיל 65% סלמון, פירות וירקות, בעל רמת נעכלות גבוהה, עשיר בפירות וירקות המשפרים את המערכת החיסונית, עשיר בחלבונים כמו סלמון המונעים אלרגיות , עשיר באומגה 3 ואומגה 6 המעניקים ברק לפרווה ושומרים על העור.",
+      "sku": null,
+      "brand": null,
+      "price": 299,
+      "base_price": 299,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1783339959602-debelp.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/sms-pyldsams-field-slvmvn-vtpvch-admh-13-kg-sakpwn",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-06T12:13:29.919Z"
+    },
     {
       "id": "37f4894e-8004-4732-bfed-5e2ea17c0a65",
       "slug": "chbl-dntly-4-kshrym-a173qr",

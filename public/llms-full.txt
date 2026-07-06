@@ -6154,8 +6154,8 @@ gurimbakfar@gmail.com
 
 
 
-קראתי ואני מסכים/ה ל   תנאי השימוש  |
-מדיניות החזרות     ול     מדיניות הפרטיות
+קראתי ואני מסכים/ה ל  תנאי השימוש  |
+מדיניות החזרות    ול    מדיניות הפרטיות
 
 
 
@@ -6541,6 +6541,15 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ---
 
 ## Product Catalog
+
+### סמס פילד/Sam's Field סלומון ותפוח אדמה 13 ק"ג
+URL: https://gurimbakfar.co.il/product/sms-pyldsams-field-slvmvn-vtpvch-admh-13-kg-sakpwn
+Price: 299.00 ILS
+Availability: In stock
+
+רכיבים: סלמון, תפו""א, תירס, שומן עוף(משומר עם Technopherols, מקור של ויטמין E), שמן סלמון, טעמים טבעיים, תפוחים מיובשים, שמרי בירה, עגבניות, תמצית יוקה שיגידורה, גזרים, מינרלים, DL- מתיונין, L-לייסין, mannan-oligosaccharides, fructo-oligosaccharides, חיידקים פרוביוטים. ערכים תזונתיים: חלבון גולמי 25%, שומן גולמי14%, סיבים תזונתיים גולמיים 2%, עפר 5.5%, לחות 10%, סידן 1.1%, זרחן 0.9%.
+
+---
 
 ### חבל דנטלי 4 קשרים
 URL: https://gurimbakfar.co.il/product/chbl-dntly-4-kshrym-a173qr
