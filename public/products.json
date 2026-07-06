@@ -1,16 +1,16 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-06T11:34:02.373Z",
+  "generated_at": "2026-07-06T11:35:44.523Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 164,
   "products": [
     {
       "id": "37f4894e-8004-4732-bfed-5e2ea17c0a65",
-      "slug": "chbl-dntly-4-kshrym-7jgpf2",
+      "slug": "chbl-dntly-4-kshrym-a173qr",
       "name": "חבל דנטלי 4 קשרים",
       "name_translations": {
-        "en": "Dental Rope 4 Knots",
+        "en": "4-Knot Dental Rope",
         "he": "חבל דנטלי 4 קשרים",
         "ru": "Дентальная верёвка с 4 узлами"
       },
@@ -18,22 +18,22 @@
       "short_description": null,
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 37,
+      "base_price": 37,
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-enhanced-1783336972929-yvyv5l.webp",
         "https://gurimbakfar.co.il/assets/product-enhanced-1783337074930-mk6ye7.webp",
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783336972929-yvyv5l.webp",
         "https://gurimbakfar.co.il/assets/product-1783337570797-zsvegb.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chbl-dntly-4-kshrym-7jgpf2",
+      "url": "https://gurimbakfar.co.il/product/chbl-dntly-4-kshrym-a173qr",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-07-06T11:33:30.770Z"
+      "updated_at": "2026-07-06T11:35:13.105Z"
     },
     {
       "id": "5e46433f-6a55-42ae-9bab-db31759f45bf",
