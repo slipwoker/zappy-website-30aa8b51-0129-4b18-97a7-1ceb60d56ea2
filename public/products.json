@@ -1,20 +1,20 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-06T11:02:02.512Z",
+  "generated_at": "2026-07-06T11:02:53.721Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 163,
   "products": [
     {
       "id": "5e46433f-6a55-42ae-9bab-db31759f45bf",
-      "slug": "kart-haklh-aytyt-9i82jw",
+      "slug": "kart-haklh-aytyt-513e75",
       "name": "קערת האכלה איטית ",
       "name_translations": {
-        "en": "Slow Feeding Bowl ",
+        "en": "Slow Feeder Bowl ",
         "he": "קערת האכלה איטית ",
         "ru": "Миска для медленного кормления "
       },
-      "description": "",
+      "description": "<p>קערת האכלה איטית לכלבים (Slow Feeder) היא פתרון מעולה למניעת זלילה מהירה. הקערות כוללות מבנים ומחיצות דמויי מבוך המאלצים את הכלב לאכול לאט יותר, ובכך משפרות את העיכול, מונעות גזים, הקאות ומצבים רפואיים מסכני חיים כגון היפוך קיבה</p>",
       "short_description": "קערה מפלסטיק צבעוני בעלת מבנה ייחודי המאפשר האטת צריכת מזון הכלבים",
       "sku": null,
       "brand": null,
@@ -25,11 +25,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kart-haklh-aytyt-9i82jw",
+      "url": "https://gurimbakfar.co.il/product/kart-haklh-aytyt-513e75",
       "categories": [
         "כלי אוכל ושתייה"
       ],
-      "updated_at": "2026-07-06T11:01:30.826Z"
+      "updated_at": "2026-07-06T11:02:22.117Z"
     },
     {
       "id": "20bd9d16-4918-4a7f-a051-fcdc1f9d53cc",
