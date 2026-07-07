@@ -5340,7 +5340,7 @@ function stripHtmlToText(html) {
       var eligibleSubtotal = 0;
       for (var j = 0; j < cart.length; j++) {
         var item = cart[j];
-        if (appliesToAll || ids.indexOf(item.id) !== -1) {
+        if (appliesToAll || ids.indexOf(item.productId || item.id) !== -1) {
           eligibleSubtotal += getCartLineTotal(item);
         }
       }
@@ -11600,11 +11600,11 @@ async function loadRelatedProducts(currentProduct, t) {
 /* END ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 
 
-/* ZAPPY_PUBLISHED_ZOOM_WRAPPER_RUNTIME_V2 */
+/* ZAPPY_PUBLISHED_ZOOM_WRAPPER_RUNTIME_V3 */
 (function(){
   try {
-    if (window.__zappyPublishedZoomInitV2) return;
-    window.__zappyPublishedZoomInitV2 = true;
+    if (window.__zappyPublishedZoomInitV3) return;
+    window.__zappyPublishedZoomInitV3 = true;
 
     function isHeroBgWrapper(wrapper) {
       var img = wrapper.querySelector('img');
@@ -11636,6 +11636,27 @@ async function loadRelatedProducts(currentProduct, t) {
       return { w: 100, h: (contA / imgA) * 100 };
     }
 
+    var IMAGE_SLOT_CLASS_TOKENS = ['image-wrap', 'image-tile', 'image-slot', 'card-image', 'card-media', 'media-wrap', 'portrait-wrap'];
+    function classNameHasImageSlotMarker(className) {
+      var raw = (className || '').toString().toLowerCase();
+      if (!raw.trim()) return false;
+      var classes = raw.split(/\s+/);
+      for (var c = 0; c < classes.length; c++) {
+        var segments = classes[c].split(/[^a-z0-9]+/).filter(function(s) { return !!s; });
+        for (var t = 0; t < IMAGE_SLOT_CLASS_TOKENS.length; t++) {
+          var tokenParts = IMAGE_SLOT_CLASS_TOKENS[t].split('-');
+          for (var i = 0; i <= segments.length - tokenParts.length; i++) {
+            var match = true;
+            for (var j = 0; j < tokenParts.length; j++) {
+              if (segments[i + j] !== tokenParts[j]) { match = false; break; }
+            }
+            if (match) return true;
+          }
+        }
+      }
+      return false;
+    }
+
     function normalizeInsertedZoomParent(wrapper) {
       try {
         var parent = wrapper && wrapper.parentElement;
@@ -11650,6 +11671,26 @@ async function loadRelatedProducts(currentProduct, t) {
         parent.style.setProperty('max-height', 'none', 'important');
         parent.setAttribute('data-zappy-inserted-zoom-parent-normalized', '1');
       } catch (_e) {}
+    }
+
+    function findImageSlotContainerForZoomWrapper(wrapper, maxWalk) {
+      try {
+        if (!wrapper || !wrapper.parentElement) return null;
+        var node = wrapper.parentElement;
+        for (var walk = 0; walk < (maxWalk || 4) && node && node !== document.body; walk++) {
+          var nodeClass = (node.className || '').toString();
+          if (classNameHasImageSlotMarker(nodeClass)) return node;
+
+          var nodeCS = window.getComputedStyle(node);
+          var rawClass = (node.className || '').toString();
+          var isThinAnchor = node.tagName === 'A' && nodeCS && nodeCS.display === 'contents';
+          var isUnclassedDiv = node.tagName === 'DIV' && !rawClass.trim();
+          var isInsertedEl = / zappy-inserted-element |^zappy-inserted-element | zappy-inserted-element$|^zappy-inserted-element$/.test(' ' + rawClass + ' ');
+          if (!(isThinAnchor || isUnclassedDiv || isInsertedEl)) break;
+          node = node.parentElement;
+        }
+      } catch (_e) {}
+      return null;
     }
 
     // FULL-BLEED FIRST-CHILD MEDIA: when the wrapper's parent (the image-wrap)
@@ -11671,8 +11712,8 @@ async function loadRelatedProducts(currentProduct, t) {
         var slotForBleed = null;
         var slotNode = wrapper.parentElement;
         for (var slotWalk = 0; slotWalk < 4 && slotNode && slotNode !== document.body; slotWalk++) {
-          var slotNodeClass = (slotNode.className || '').toString().toLowerCase();
-          if (/(image-wrap|image-tile|image-slot|card-image|card-media|media-wrap|portrait-wrap)/.test(slotNodeClass)) {
+          var slotNodeClass = (slotNode.className || '').toString();
+          if (classNameHasImageSlotMarker(slotNodeClass)) {
             slotForBleed = slotNode;
             break;
           }
@@ -11750,6 +11791,10 @@ async function loadRelatedProducts(currentProduct, t) {
         if (!wrapper || isHeroBgWrapper(wrapper)) return;
         var widthMode = wrapper.getAttribute('data-zappy-zoom-wrapper-width-mode');
         if (widthMode === 'full') return;
+        var forceCardSlotFill = widthMode === 'card-slot' || wrapper.getAttribute('data-zappy-card-slot-fill') === '1';
+        var parentFrameSynced = wrapper.parentElement &&
+          wrapper.parentElement.getAttribute &&
+          wrapper.parentElement.getAttribute('data-zappy-image-frame-synced') === 'true';
         // Walk UP through editor-injected / "thin" wrappers to find the real
         // visual image-slot container. We tolerate at most 3 levels of:
         //   - <a style="display:contents">           (editor link wrap)
@@ -11758,8 +11803,8 @@ async function loadRelatedProducts(currentProduct, t) {
         var node = wrapper.parentElement;
         var slotEl = null;
         for (var walk = 0; walk < 3 && node && node !== document.body; walk++) {
-          var nodeClass = (node.className || '').toString().toLowerCase();
-          if (/(image-wrap|image-tile|image-slot|card-image|card-media|media-wrap|portrait-wrap)/.test(nodeClass)) {
+          var nodeClass = (node.className || '').toString();
+          if (classNameHasImageSlotMarker(nodeClass)) {
             slotEl = node;
             break;
           }
@@ -11772,6 +11817,18 @@ async function loadRelatedProducts(currentProduct, t) {
           node = node.parentElement;
         }
         if (!slotEl) {
+          if (forceCardSlotFill && !parentFrameSynced) {
+            var forcedSW = parseFloat(wrapper.getAttribute('data-zappy-zoom-wrapper-width')) || 0;
+            var forcedSH = parseFloat(wrapper.getAttribute('data-zappy-zoom-wrapper-height')) || 0;
+            wrapper.style.setProperty('width', '100%', 'important');
+            wrapper.style.setProperty('max-width', '100%', 'important');
+            wrapper.style.setProperty('padding-bottom', '0', 'important');
+            if (forcedSW > 0 && forcedSH > 0) {
+              wrapper.style.setProperty('aspect-ratio', forcedSW + '/' + forcedSH, 'important');
+              wrapper.style.setProperty('height', 'auto', 'important');
+            }
+            wrapper.setAttribute('data-zappy-card-slot-fill', '1');
+          }
           // No image-slot found. Check if the walk stopped at a card-like
           // container and the saved width fills most of the card — this handles
           // user-replaced images where the original image-wrap is empty and the
@@ -11829,7 +11886,6 @@ async function loadRelatedProducts(currentProduct, t) {
         var slotCS = window.getComputedStyle(slotEl);
         var slotWidthGap = slotRect.width - wrapRect.width;
         var slotHeightGap = wrapRect.height - slotRect.height;
-        var forceCardSlotFill = widthMode === 'card-slot' || wrapper.getAttribute('data-zappy-card-slot-fill') === '1';
         if (!forceCardSlotFill && slotWidthGap <= 4 && !(slotHeightGap > 4 && slotRect.height > 0 && slotCS.overflow !== 'visible')) return;
         var swStr = wrapper.getAttribute('data-zappy-zoom-wrapper-width');
         var shStr = wrapper.getAttribute('data-zappy-zoom-wrapper-height');
@@ -12115,6 +12171,21 @@ async function loadRelatedProducts(currentProduct, t) {
       var widthMode = wrapper.getAttribute('data-zappy-zoom-wrapper-width-mode') || 'px';
       if (widthMode === 'full' || widthMode === 'grid-responsive') return;
       if (isHeroBgWrapper(wrapper)) return;
+
+      if ((widthMode === 'card-slot' || wrapper.getAttribute('data-zappy-card-slot-fill') === '1') &&
+          !findImageSlotContainerForZoomWrapper(wrapper, 4) &&
+          wrapper.parentElement &&
+          wrapper.parentElement.getAttribute &&
+          wrapper.parentElement.getAttribute('data-zappy-image-frame-synced') === 'true') {
+        // Older published runtimes used substring matching and could persist
+        // card-slot fill on decorative frames like "showcase-image-wrapper".
+        // Clear that stale marker so saved pixel crop dimensions win again.
+        wrapper.removeAttribute('data-zappy-card-slot-fill');
+        if (widthMode === 'card-slot') {
+          wrapper.setAttribute('data-zappy-zoom-wrapper-width-mode', 'px');
+          widthMode = 'px';
+        }
+      }
 
       var storedW = wrapper.getAttribute('data-zappy-zoom-wrapper-width');
       var storedH = wrapper.getAttribute('data-zappy-zoom-wrapper-height');
@@ -17117,10 +17188,10 @@ function withConsent(category, callback) {
 
 /* ZAPPY_CUSTOMER_DISCOUNT_DELAYED_REFRESH_V1 */
 
-/* ZAPPY_CART_BUNDLE_DISCOUNT_V2 */
+/* ZAPPY_CART_BUNDLE_DISCOUNT_V3 */
 ;(function() {
-  if (window.__zappyCartAutomaticDiscountRuntimeV2) return;
-  window.__zappyCartAutomaticDiscountRuntimeV2 = true;
+  if (window.__zappyCartAutomaticDiscountRuntimeV3) return;
+  window.__zappyCartAutomaticDiscountRuntimeV3 = true;
 
   function getWebsiteId() {
     return window.ZAPPY_WEBSITE_ID || document.body.getAttribute('data-website-id') || document.documentElement.getAttribute('data-website-id') || '';
@@ -17208,39 +17279,62 @@ function withConsent(category, callback) {
     return total;
   }
 
+  function calcBestBundleGroupDiscount(groupBundles, unitPrices) {
+    if (!groupBundles.length || !unitPrices.length) return 0;
+    unitPrices.sort(function(a, c) { return c - a; });
+
+    var prefixSums = [0];
+    for (var i = 0; i < unitPrices.length; i++) {
+      prefixSums.push(prefixSums[prefixSums.length - 1] + unitPrices[i]);
+    }
+
+    var dp = [0];
+    for (var n = 1; n <= unitPrices.length; n++) {
+      var best = dp[n - 1] || 0;
+      for (var b = 0; b < groupBundles.length; b++) {
+        var tier = groupBundles[b];
+        if (n < tier.qty) continue;
+        var groupSum = prefixSums[n] - prefixSums[n - tier.qty];
+        var saving = Math.max(0, groupSum - tier.bPrice);
+        if (saving <= 0) continue;
+        best = Math.max(best, (dp[n - tier.qty] || 0) + saving);
+      }
+      dp[n] = best;
+    }
+    return dp[unitPrices.length] || 0;
+  }
+
   function calcBundleDiscount(bundles, cart) {
-    var totalDiscount = 0;
+    var groups = {};
     for (var i = 0; i < bundles.length; i++) {
       var b = bundles[i];
       var qty = parseInt(b.quantity, 10);
       var bPrice = parseFloat(b.bundlePrice);
       if (!qty || qty < 2 || !Number.isFinite(bPrice) || bPrice < 0) continue;
 
-      var ids = Array.isArray(b.eligibleProductIds) ? b.eligibleProductIds : [];
+      var ids = Array.isArray(b.eligibleProductIds) ? b.eligibleProductIds.map(function(id) { return String(id || ''); }).filter(Boolean).sort() : [];
       var appliesToAll = b.appliesTo === 'all';
       if (!appliesToAll && ids.length === 0) continue;
 
+      var key = appliesToAll ? 'all' : ('products:' + ids.join('|'));
+      if (!groups[key]) groups[key] = { appliesToAll: appliesToAll, ids: ids, bundles: [] };
+      groups[key].bundles.push({ qty: qty, bPrice: bPrice });
+    }
+
+    var totalDiscount = 0;
+    Object.keys(groups).forEach(function(key) {
+      var group = groups[key];
       var unitPrices = [];
       for (var j = 0; j < cart.length; j++) {
         var item = cart[j];
         var itemId = getProductId(item);
-        if (!appliesToAll && !idListContains(ids, itemId)) continue;
+        if (!group.appliesToAll && !idListContains(group.ids, itemId)) continue;
         var uPrice = getUnitPrice(item);
         var itemQty = parseInt(item.quantity, 10) || 1;
         for (var k = 0; k < itemQty; k++) unitPrices.push(uPrice);
       }
-
-      if (unitPrices.length < qty) continue;
-      unitPrices.sort(function(a, c) { return c - a; });
-
-      var fullGroups = Math.floor(unitPrices.length / qty);
-      for (var g = 0; g < fullGroups; g++) {
-        var groupSum = 0;
-        for (var m = g * qty; m < (g + 1) * qty; m++) groupSum += unitPrices[m];
-        var saving = groupSum - bPrice;
-        if (saving > 0) totalDiscount += saving;
-      }
-    }
+      totalDiscount += calcBestBundleGroupDiscount(group.bundles, unitPrices);
+    });
     return totalDiscount;
   }
 
@@ -17526,25 +17620,25 @@ function withConsent(category, callback) {
 
   function wrapRenderCartDrawer() {
     var orig = window.zappyRenderCartDrawer;
-    if (typeof orig === 'function' && !orig.__zappyAutomaticDiscountWrappedV2) {
+    if (typeof orig === 'function' && !orig.__zappyAutomaticDiscountWrappedV3) {
       window.zappyRenderCartDrawer = function() {
         var result = orig.apply(this, arguments);
         refreshSummary();
         return result;
       };
-      window.zappyRenderCartDrawer.__zappyAutomaticDiscountWrappedV2 = true;
+      window.zappyRenderCartDrawer.__zappyAutomaticDiscountWrappedV3 = true;
     }
   }
 
   function wrapFn(name) {
     var orig = window[name];
-    if (typeof orig !== 'function' || orig.__zappyAutomaticDiscountWrappedV2) return;
+    if (typeof orig !== 'function' || orig.__zappyAutomaticDiscountWrappedV3) return;
     window[name] = function() {
       var result = orig.apply(this, arguments);
       refreshSummary();
       return result;
     };
-    window[name].__zappyAutomaticDiscountWrappedV2 = true;
+    window[name].__zappyAutomaticDiscountWrappedV3 = true;
   }
 
   function wrapCartMutators() {
@@ -17555,8 +17649,8 @@ function withConsent(category, callback) {
 
   function watchCartDrawer() {
     var drawer = document.getElementById('cart-drawer');
-    if (!drawer || drawer.__zappyAutomaticDiscountObservedV2) return;
-    drawer.__zappyAutomaticDiscountObservedV2 = true;
+    if (!drawer || drawer.__zappyAutomaticDiscountObservedV3) return;
+    drawer.__zappyAutomaticDiscountObservedV3 = true;
     var obs = new MutationObserver(function() {
       if (drawer.classList.contains('active')) refreshSummary();
     });
