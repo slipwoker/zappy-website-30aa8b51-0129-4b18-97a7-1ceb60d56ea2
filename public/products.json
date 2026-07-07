@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T23:15:10.164Z",
+  "generated_at": "2026-07-07T23:15:20.031Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 244,
@@ -539,7 +539,7 @@
     },
     {
       "id": "aa4dc003-4597-4a90-95e7-259d072d61b7",
-      "slug": "chtyp-nvblvs-brvvz-vdg-kvd-80-gr-nqbu8q",
+      "slug": "chtyp-nvblvs-brvvz-vdg-kvd-80-gr-08rwxp",
       "name": "חטיף נובלוס ברווז ודג קוד 80 גר'",
       "name_translations": {
         "en": "Nobilus Duck & Cod Snack 80g",
@@ -550,8 +550,8 @@
       "short_description": "חטיף נובילוס (Nobilus) בטעם ברווז ודג קוד באריזת 80 גרם הוא חטיף אולטרה-פרימיום איכותי לכלבים, המשלב חלבון מן החי (חזה ברווז) יחד עם דג בקלה (קוד) העשיר באומגה 3. החטיף מתאפיין ברמת טעימות גבוהה, הוא דל שומן, קל לעיכול ומתאים במיוחד גם לכלבים בעלי רגישויות או אלרגיות.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 12.5,
+      "base_price": 12.5,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -559,11 +559,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-vdg-kvd-80-gr-nqbu8q",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-vdg-kvd-80-gr-08rwxp",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T21:34:46.177Z"
+      "updated_at": "2026-07-07T23:15:11.523Z"
     },
     {
       "id": "e1cee050-9a3d-43d4-9390-050151046343",
