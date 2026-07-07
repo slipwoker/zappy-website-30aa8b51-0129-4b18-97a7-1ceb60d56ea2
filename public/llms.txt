@@ -74,8 +74,8 @@ Information about WCAG compliance and accessibility features.
 
 **Total active products: 220** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
-### חטיף נובלוס עוף קלציום 
-https://gurimbakfar.co.il/product/chtyp-nvblvs-avp-kltsyvm-7u9w83
+### חטיף נובלוס עוף קלציום 80 גר
+https://gurimbakfar.co.il/product/chtyp-nvblvs-avp-kltsyvm-80-gr-enk0tm
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: חטיפים
