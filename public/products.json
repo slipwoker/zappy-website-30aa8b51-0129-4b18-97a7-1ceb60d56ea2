@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-06T12:16:19.374Z",
+  "generated_at": "2026-07-07T05:47:39.572Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 165,
@@ -212,7 +212,7 @@
     },
     {
       "id": "9de56988-d535-445a-8bd3-3ee2995149c8",
-      "slug": "mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-vbkr-lgvr-klb-410-grm-nauutq",
+      "slug": "mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-vbkr-lgvr-klb-410-grm-uof84d",
       "name": "מזון כלבים רטוב איסגרים ארוחת הודו ובקר לגור כלב 410 גרם",
       "name_translations": {
         "en": "Isegrim Wet Dog Food Turkey & Beef Meal for Puppies 410g",
@@ -227,14 +227,16 @@
       "base_price": 19.9,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783403144901-wdgg9h.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-vbkr-lgvr-klb-410-grm-nauutq",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-vbkr-lgvr-klb-410-grm-uof84d",
       "categories": [
         "שימורים ומעדנים"
       ],
-      "updated_at": "2026-06-28T20:34:57.347Z"
+      "updated_at": "2026-07-07T05:46:03.664Z"
     },
     {
       "id": "5fe8c751-8436-4103-91bf-0ffc757f8c86",
