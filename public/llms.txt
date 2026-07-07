@@ -72,7 +72,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 238** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 239** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### חטיף נובלוס סושי ארנב 80 גר'
+https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-arnb-80-gr-70tnsi
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: חטיפים
+- Description: נובילוס חטיף לכלב סושי ארנב - 80 גרם הוא חטיף פרימיום בצורת ספירלה המיועד לכלבים, המיוצר על ידי המותג נובילוס (Nobilus). אריזה: 80 גרם עם סגירה חוזרת לשמירה על הטריות.
+- Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783463235014-inll9.webp
 
 ### חטיף נובלוס פילה ארנב 80 גר'
 https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-arnb-80-gr-nolw7w
@@ -1498,13 +1506,6 @@ https://gurimbakfar.co.il/product/rvlr-dbk-60-dpym-26gesj
 - Availability: In stock
 - Category: בית
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449768881-uyzpov.webp
-
-### מברשת שיניים דו צדדי
-https://gurimbakfar.co.il/product/mbrsht-shynyym-dv-tsddy-k21ph9
-- Price: 17.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449807302-moy51e.webp
 
 ---
 

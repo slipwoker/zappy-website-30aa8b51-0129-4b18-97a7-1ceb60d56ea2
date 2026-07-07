@@ -6542,6 +6542,15 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 
 ## Product Catalog
 
+### חטיף נובלוס סושי ארנב 80 גר'
+URL: https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-arnb-80-gr-70tnsi
+Price: 0.00 ILS
+Availability: In stock
+
+רכיבים: ארנבת, חזה עוף, בקלה, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול. ערכים תזונתיים: חלבון גולמי: מינימום 25% שומן גולמי: מקסימום 3% סיבים גולמיים: מקסימום 1% אפר גולמי: מקסימום 5% לחות: מקסימום 18%
+
+---
+
 ### חטיף נובלוס פילה ארנב 80 גר'
 URL: https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-arnb-80-gr-nolw7w
 Price: 0.00 ILS
