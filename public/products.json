@@ -1,22 +1,22 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T15:21:50.090Z",
+  "generated_at": "2026-07-07T15:23:19.868Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 220,
   "products": [
     {
       "id": "6334d386-a2ff-460d-81ab-ff38b968abcc",
-      "slug": "chtyp-nvblvs-avp-kltsyvm-hokneu",
+      "slug": "chtyp-nvblvs-avp-kltsyvm-7u9w83",
       "name": "חטיף נובלוס עוף קלציום ",
       "name_translations": {
-        "en": "Novelos Chicken Calcium Snack",
+        "en": "Nobulos Chicken Calcium Snack",
         "he": "חטיף נובלוס עוף קלציום ",
         "ru": "Лакомство Novelos курица кальций"
       },
       "description": "",
       "short_description": null,
-      "sku": null,
+      "sku": "200644",
       "brand": "מיקס פור  פטס בע\"מ",
       "price": 0,
       "base_price": 0,
@@ -25,9 +25,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-avp-kltsyvm-hokneu",
-      "categories": [],
-      "updated_at": "2026-07-07T15:21:15.903Z"
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-avp-kltsyvm-7u9w83",
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-07-07T15:23:17.347Z"
     },
     {
       "id": "b96ba157-9c21-4236-8536-443d0df20634",

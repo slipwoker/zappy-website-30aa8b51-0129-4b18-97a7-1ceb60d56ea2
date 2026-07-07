@@ -75,9 +75,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 220** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### חטיף נובלוס עוף קלציום 
-https://gurimbakfar.co.il/product/chtyp-nvblvs-avp-kltsyvm-hokneu
+https://gurimbakfar.co.il/product/chtyp-nvblvs-avp-kltsyvm-7u9w83
 - Price: 0.00 ILS
 - Availability: In stock
+- Category: חטיפים
+- SKU: 200644
 - Brand: מיקס פור  פטס בע"מ
 
 ### חטיף נובלוס רצועות עוף רכות
