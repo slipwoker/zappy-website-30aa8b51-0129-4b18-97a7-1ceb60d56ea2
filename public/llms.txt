@@ -72,7 +72,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 224** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 225** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### חטיף נובלוס ברווז ודג קוד 80 גר'
+https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-vdg-kvd-80-gr-pkn3fw
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: חטיפים
+- Description: חטיף נובילוס (Nobilus) בטעם ברווז ודג קוד באריזת 80 גרם הוא חטיף אולטרה-פרימיום איכותי לכלבים, המשלב חלבון מן החי (חזה ברווז) יחד עם דג בקלה (קוד) העשיר באומגה 3. החטיף מתאפיין ברמת טעימות גבוהה, הוא דל שומן, קל לעיכול ומתאים במיוחד גם לכלבים בעלי רגישויות או אלרגיות.
 
 ### חטיף נובלוס ברווז סושי 80 גר'
 https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-svshy-80-gr-jxwd1o
@@ -1479,13 +1486,6 @@ https://gurimbakfar.co.il/product/mshchk-haklh-mtglgl-4izint
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781451109152-gbvitw.webp
-
-### תרסיס בישום petglow
-https://gurimbakfar.co.il/product/trsys-byshvm-petglow-8o1uv3
-- Price: 35.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781451149225-d25pcr.webp
 
 ---
 
