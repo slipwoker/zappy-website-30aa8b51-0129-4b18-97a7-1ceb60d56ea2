@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T12:13:22.828Z",
+  "generated_at": "2026-07-07T12:49:18.189Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 215,
@@ -499,12 +499,12 @@
     },
     {
       "id": "f864d6b4-e1fd-4b19-a03c-9d9316ae67ec",
-      "slug": "kvlr-byysyk-10-mm-mydh-xs-tkeek9",
-      "name": "קולר בייסיק 10 ממ - מידה XS",
+      "slug": "pets-project-kvlr-byysyk-lklb-bmgvvn-mydvt-k0kpfl",
+      "name": "Pets Project קולר בייסיק לכלב במגוון מידות",
       "name_translations": {
-        "en": "Basic Collar 10mm - Size XS",
-        "he": "קולר בייסיק 10 ממ - מידה XS",
-        "ru": "Ошейник Basic 10 мм - размер XS"
+        "en": "Pets Project Basic Collar for Dogs in Various Sizes",
+        "he": "Pets Project קולר בייסיק לכלב במגוון מידות",
+        "ru": "Pets Project ошейник базовый для собак в различных размерах"
       },
       "description": "",
       "short_description": null,
@@ -514,14 +514,16 @@
       "base_price": 18,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1783426395882-scen7.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kvlr-byysyk-10-mm-mydh-xs-tkeek9",
+      "url": "https://gurimbakfar.co.il/product/pets-project-kvlr-byysyk-lklb-bmgvvn-mydvt-k0kpfl",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-07T08:22:50.851Z"
+      "updated_at": "2026-07-07T12:49:15.273Z"
     },
     {
       "id": "2003aa08-e7f6-4412-95ba-5f9da5433534",
