@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T19:26:48.142Z",
+  "generated_at": "2026-07-07T19:27:42.355Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 234,
@@ -59,15 +59,15 @@
     },
     {
       "id": "025e266b-8dc5-41b8-b373-9f2ec5ad1a07",
-      "slug": "chtyp-nvblvs-pylh-kbsh-80-gr-640wot",
+      "slug": "chtyp-nvblvs-pylh-kbsh-80-gr-5bpcjo",
       "name": "חטיף נובלוס פילה כבש 80 גר'",
       "name_translations": {
-        "en": "Nobilus Lamb Fillet Treat 80g",
+        "en": "Nobilus Lamb Fillet Snack 80g",
         "he": "חטיף נובלוס פילה כבש 80 גר'",
         "ru": "Лакомство Nobulus филе ягнёнка 80 г"
       },
-      "description": "<p>רכיבים: כבש, בשר חזה ברווז, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 35% </li><li>שומן גולמי: מקסימום 3% </li><li>סיבים גולמיים: מקסימום 1% </li><li>אפר גולמי: מקסימום 5% </li><li>לחות: מקסימום 18%</li></ul>",
-      "short_description": "חטיף נובילוס (Nobilus) פילה כבש במשקל 80 גרם הוא חטיף פרמיום היפואלרגני המיועד לכלבים מכל הגזעים והגילאים. הוא פופולרי במיוחד כצ'ופר איכותי, חטיף אימון או תוספת משלימה למזון.",
+      "description": "<p>רכיבים: כבש, בשר חזה ברווז, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 35%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5%</li><li>לחות: מקסימום 18%</li></ul>",
+      "short_description": "חטיף נובילוס (Nobilus) פילה כבש במשקל 80 גרם הוא חטיף פרמיום היפואלרגני המיועד לכלבים מכל הגזעים והגילאים. הוא פופולרי במיוחד כצ'ופר איכותי, חטיף אימון או תוספת משלימה למזון.\nיתרון נוסף - אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (זיפר) לשמירה על איכות החטיף לאורך זמן.",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -77,11 +77,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-kbsh-80-gr-640wot",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-kbsh-80-gr-5bpcjo",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T19:07:51.126Z"
+      "updated_at": "2026-07-07T19:27:10.382Z"
     },
     {
       "id": "f64205f1-dba4-4298-8609-5a5ed4c8e577",
