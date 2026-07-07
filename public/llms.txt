@@ -98,18 +98,20 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-kbsh-80-gr-y015cl
 - Description: חטיף נובילוס (Nobilus) פילה כבש במשקל 80 גרם הוא חטיף פרמיום היפואלרגני המיועד לכלבים מכל הגזעים והגילאים. הוא פופולרי במיוחד כצ'ופר איכותי, חטיף אימון או תוספת משלימה למזון. יתרון נוסף - אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (זיפר) לשמירה על איכות החטיף לאורך זמן.
 
 ### חטיף נובלוס קוביות כבש אילוף 80 גר'
-https://gurimbakfar.co.il/product/chtyp-nvblvs-kvbyvt-kbsh-aylvp-80-gr-xwyh9p
+https://gurimbakfar.co.il/product/chtyp-nvblvs-kvbyvt-kbsh-aylvp-80-gr-lcdmec
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: קוביות כבש 80 גרם - נובילוס NOBILUS הוא חטיף אילוף פרימיום פופולרי לכלבים, המגיע בצורת קוביות קטנות המותאמות במיוחד לביס מהיר בזמן אימון מבלי להפריע לרצף הלמידה. החטיף מבוסס על בשר כבש אמיתי כמרכיב עיקרי בשילוב בשר חזה ברווז, ומספק מקור חלבון איכותי ודל שומן.
+- Image: https://gurimbakfar.co.il/assets/product-1783459385785-haaosh.webp
 
 ### חטיף נובלוס מקלות כבש 80 גר'
-https://gurimbakfar.co.il/product/chtyp-nvblvs-mklvt-kbsh-80-gr-d8oov4
+https://gurimbakfar.co.il/product/chtyp-nvblvs-mklvt-kbsh-80-gr-ic2b0i
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: חטיף לכלבים נובילוס (Nobilus) מקלות כבש באריזת 80 גרם הוא חטיף משלים, איכותי והיפואלרגני המיועד לפינוק, נשנוש או תגמול בזמן אילוף. החטיף מיוצר על בסיס בשר אמיתי כמרכיב עיקרי, מתאפיין ברמת טעימות ונעכלות גבוהה מאוד, ואינו מכיל תוספת סוכר.
+- Image: https://gurimbakfar.co.il/assets/product-1783459511093-5ao8rr.webp
 
 ### חטיף נובלוס מקלות בקר ואורז 80 גר'
 https://gurimbakfar.co.il/product/chtyp-nvblvs-mklvt-bkr-vavrz-80-gr-hrrk39
