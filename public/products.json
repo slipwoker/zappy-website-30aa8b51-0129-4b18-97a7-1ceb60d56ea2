@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T08:30:29.710Z",
+  "generated_at": "2026-07-07T08:31:17.796Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 221,
@@ -35,7 +35,7 @@
     },
     {
       "id": "d7d3bd2c-659d-441c-b4cf-5e8cbb5add31",
-      "slug": "trypl-kravn-lklb-bvgr-gza-gdvl-avp-14-kg-h3a0pg",
+      "slug": "trypl-kravn-lklb-bvgr-gza-gdvl-avp-14-kg-utthjp",
       "name": "טריפל קראון לכלב בוגר גזע גדול עוף 14 ק\"ג",
       "name_translations": {
         "en": "Triple Crown for Adult Large Breed Dog Chicken 14 kg",
@@ -50,14 +50,16 @@
       "base_price": 0,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1783413032190-aa18s9.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-gza-gdvl-avp-14-kg-h3a0pg",
+      "url": "https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-gza-gdvl-avp-14-kg-utthjp",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-07T08:22:55.388Z"
+      "updated_at": "2026-07-07T08:30:45.991Z"
     },
     {
       "id": "5efd3725-7d46-466a-bda9-9cf9ce814777",
