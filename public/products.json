@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T16:07:49.980Z",
+  "generated_at": "2026-07-07T16:08:23.052Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 221,
+  "count": 220,
   "products": [
     {
       "id": "c75ab4b1-2890-4ff3-b3e5-9b9fe31f4fd3",
@@ -30,32 +30,6 @@
         "חטיפים"
       ],
       "updated_at": "2026-07-07T16:04:59.936Z"
-    },
-    {
-      "id": "6334d386-a2ff-460d-81ab-ff38b968abcc",
-      "slug": "chtyp-nvblvs-avp-kltsyvm-80-gr-enk0tm",
-      "name": "חטיף נובלוס עוף קלציום 80 גר",
-      "name_translations": {
-        "en": "Nobulos Chicken Calcium Snack 80g",
-        "he": "חטיף נובלוס עוף קלציום 80 גר",
-        "ru": "Лакомство Novelos курица кальций 80 гр"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": "200644",
-      "brand": "מיקס פור  פטס בע\"מ",
-      "price": 0,
-      "base_price": 0,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-avp-kltsyvm-80-gr-enk0tm",
-      "categories": [
-        "חטיפים"
-      ],
-      "updated_at": "2026-07-07T15:26:55.456Z"
     },
     {
       "id": "b96ba157-9c21-4236-8536-443d0df20634",
