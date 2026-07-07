@@ -1,10 +1,1460 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T08:18:30.507Z",
+  "generated_at": "2026-07-07T08:23:27.516Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 165,
+  "count": 221,
   "products": [
+    {
+      "id": "b81f25b9-288f-4d22-a010-9eb8c8211c2b",
+      "slug": "trypl-kravn-lklb-bvgr-gvrmh-kbsh-d95tdz",
+      "name": "טריפל קראון לכלב בוגר גורמה כבש",
+      "name_translations": {
+        "en": "Triple Crown Adult Dog Gourmet Lamb",
+        "he": "טריפל קראון לכלב בוגר גורמה כבש",
+        "ru": "Triple Crown для взрослых собак гурмэ с ягнёнком"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-gvrmh-kbsh-d95tdz",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-07T08:22:55.748Z"
+    },
+    {
+      "id": "d7d3bd2c-659d-441c-b4cf-5e8cbb5add31",
+      "slug": "trypl-kravn-lklb-bvgr-gza-gdvl-avp-14-kg-h3a0pg",
+      "name": "טריפל קראון לכלב בוגר גזע גדול עוף 14 ק\"ג",
+      "name_translations": {
+        "en": "Triple Crown for Adult Large Breed Dog Chicken 14 kg",
+        "he": "טריפל קראון לכלב בוגר גזע גדול עוף 14 ק\"ג",
+        "ru": "Triple Crown для взрослых собак крупных пород с курицей 14 кг"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-gza-gdvl-avp-14-kg-h3a0pg",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-07T08:22:55.388Z"
+    },
+    {
+      "id": "5efd3725-7d46-466a-bda9-9cf9ce814777",
+      "slug": "trypl-kravn-lklb-payl-14-kg-j7uzxv",
+      "name": "טריפל קראון לכלב פעיל 14 ק\"ג",
+      "name_translations": {
+        "en": "Triple Crown for Active Dog 14 kg",
+        "he": "טריפל קראון לכלב פעיל 14 ק\"ג",
+        "ru": "Triple Crown для активных собак 14 кг"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/trypl-kravn-lklb-payl-14-kg-j7uzxv",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-07T08:22:55.755Z"
+    },
+    {
+      "id": "321f3e4a-3d56-43d4-9ee8-8567cf6a4103",
+      "slug": "styspkshn-kbsh-kq9gjc",
+      "name": "סטיספקשן כבש",
+      "name_translations": {
+        "en": "Satisfaction Lamb",
+        "he": "סטיספקשן כבש",
+        "ru": "Сатисфекшн ягненок"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/styspkshn-kbsh-kq9gjc",
+      "categories": [],
+      "updated_at": "2026-07-07T08:22:54.623Z"
+    },
+    {
+      "id": "2b22e787-aef8-4fe9-88a1-1a9bcaa5c8ee",
+      "slug": "brande-mzvn-mla-lklbym-bvgrym-e95uog",
+      "name": "Brande מזון מלא לכלבים בוגרים",
+      "name_translations": {
+        "en": "Brande Complete Food for Adult Dogs",
+        "he": "Brande מזון מלא לכלבים בוגרים",
+        "ru": "Brande полнорационный корм для взрослых собак"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/brande-mzvn-mla-lklbym-bvgrym-e95uog",
+      "categories": [],
+      "updated_at": "2026-07-07T08:22:55.126Z"
+    },
+    {
+      "id": "8127bf1a-dee7-4f7a-a467-5fcb3632a632",
+      "slug": "bvsh-lgvrym-mgza-gdvl-avp-g5eeks",
+      "name": "בוש לגורים מגזע גדול עוף",
+      "name_translations": {
+        "en": "Bosch for Large Breed Puppies Chicken",
+        "he": "בוש לגורים מגזע גדול עוף",
+        "ru": "Bosch для щенков крупных пород с курицей"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/bvsh-lgvrym-mgza-gdvl-avp-g5eeks",
+      "categories": [],
+      "updated_at": "2026-07-07T08:22:54.034Z"
+    },
+    {
+      "id": "0014ab6c-0f3e-41c4-874a-14b111e130cc",
+      "slug": "trypl-kravn-slmvn-hypvalrgny-5j7dcs",
+      "name": "טריפל קראון סלמון היפואלרגני",
+      "name_translations": {
+        "en": "Triple Crown Salmon Hypoallergenic",
+        "he": "טריפל קראון סלמון היפואלרגני",
+        "ru": "Triple Crown Salmon гипоаллергенный"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/trypl-kravn-slmvn-hypvalrgny-5j7dcs",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-07T08:22:55.171Z"
+    },
+    {
+      "id": "db0ab119-0554-4225-8baa-9e2c4dd60ae5",
+      "slug": "trypl-kravn-lklb-bvgr-avp-w6qiuk",
+      "name": "טריפל קראון לכלב בוגר עוף",
+      "name_translations": {
+        "en": "Triple Crown for Adult Dog Chicken",
+        "he": "טריפל קראון לכלב בוגר עוף",
+        "ru": "Triple Crown для взрослых собак с курицей"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-avp-w6qiuk",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-07T08:22:53.581Z"
+    },
+    {
+      "id": "2708101c-ba80-4c58-a122-b9ed83a8a038",
+      "slug": "rtmt-quick-fit-xxs-4ftjwy",
+      "name": "רתמת Quick fit xxs",
+      "name_translations": {
+        "en": "Quick fit harness xxs",
+        "he": "רתמת Quick fit xxs",
+        "ru": "Шлейка Quick fit xxs"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 53,
+      "base_price": 53,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/rtmt-quick-fit-xxs-4ftjwy",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-07-07T08:22:52.683Z"
+    },
+    {
+      "id": "37f9aeed-2e38-44a5-8b40-241b8c7c8d7b",
+      "slug": "rtmt-quick-fit-xs-k4kjpc",
+      "name": "רתמת Quick fit xs",
+      "name_translations": {
+        "en": "Quick fit harness xs",
+        "he": "רתמת Quick fit xs",
+        "ru": "Шлейка Quick fit xs"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 59,
+      "base_price": 59,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/rtmt-quick-fit-xs-k4kjpc",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-07-07T08:22:54.165Z"
+    },
+    {
+      "id": "3a7655b6-017f-4a0d-b50e-56e5d439ac26",
+      "slug": "rtmt-quick-fit-s-2i7cjg",
+      "name": "רתמת Quick fit s",
+      "name_translations": {
+        "en": "Quick fit harness s",
+        "he": "רתמת Quick fit s",
+        "ru": "Шлейка Quick fit s"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 65,
+      "base_price": 65,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/rtmt-quick-fit-s-2i7cjg",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-07-07T08:22:52.127Z"
+    },
+    {
+      "id": "f98ce8cf-6925-478f-9f53-780514d664f9",
+      "slug": "rtsvah-byysyk-15-mm-mydh-s-hkzokq",
+      "name": "רצועה בייסיק 15 ממ - מידה S",
+      "name_translations": {
+        "en": "Basic Leash 15mm - Size S",
+        "he": "רצועה בייסיק 15 ממ - מידה S",
+        "ru": "Базовый поводок 15 мм - размер S"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 32,
+      "base_price": 32,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/rtsvah-byysyk-15-mm-mydh-s-hkzokq",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-07-07T08:22:52.050Z"
+    },
+    {
+      "id": "f56e24e5-67a3-4fa0-9577-4ca8dc3ae91a",
+      "slug": "rtsvah-byysyk-10-mm-mydh-xs-0ia52r",
+      "name": "רצועה בייסיק 10 ממ - מידה XS",
+      "name_translations": {
+        "en": "Basic Leash 10mm - Size XS",
+        "he": "רצועה בייסיק 10 ממ - מידה XS",
+        "ru": "Поводок базовый 10 мм - размер XS"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 30,
+      "base_price": 30,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/rtsvah-byysyk-10-mm-mydh-xs-0ia52r",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-07-07T08:22:52.311Z"
+    },
+    {
+      "id": "24ddd12b-be31-432d-addd-0be4f5b245a2",
+      "slug": "rtsvah-bd-tsbavny-20-mm-mydh-m-xekwkf",
+      "name": "רצועה בד צבעוני 20 ממ - מידה M",
+      "name_translations": {
+        "en": "Colorful Fabric Leash 20mm - Size M",
+        "he": "רצועה בד צבעוני 20 ממ - מידה M",
+        "ru": "Тканевый цветной поводок 20 мм - размер M"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 32,
+      "base_price": 32,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/rtsvah-bd-tsbavny-20-mm-mydh-m-xekwkf",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-07-07T08:22:52.504Z"
+    },
+    {
+      "id": "2a4b00f6-3cc8-412a-9d7d-b25b46870a3c",
+      "slug": "rtsvah-bd-tsbavny-15-mm-mydh-s-6a7j4e",
+      "name": "רצועה בד צבעוני 15 ממ - מידה S",
+      "name_translations": {
+        "en": "Colorful Fabric Leash 15mm - Size S",
+        "he": "רצועה בד צבעוני 15 ממ - מידה S",
+        "ru": "Тканевый цветной поводок 15 мм - размер S"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 32,
+      "base_price": 32,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/rtsvah-bd-tsbavny-15-mm-mydh-s-6a7j4e",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-07-07T08:22:53.146Z"
+    },
+    {
+      "id": "95c24bcd-2b7a-4eb0-8051-543db9ba2fbf",
+      "slug": "rtsvah-bd-tsbavny-10-mm-mydh-xs-ff72g0",
+      "name": "רצועה בד צבעוני 10 ממ - מידה XS",
+      "name_translations": {
+        "en": "Colorful Fabric Leash 10mm - Size XS",
+        "he": "רצועה בד צבעוני 10 ממ - מידה XS",
+        "ru": "Тканевый цветной поводок 10 мм - размер XS"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 30,
+      "base_price": 30,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/rtsvah-bd-tsbavny-10-mm-mydh-xs-ff72g0",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-07-07T08:22:54.507Z"
+    },
+    {
+      "id": "2a1fcd94-b591-480f-a056-b1b15e84c1cd",
+      "slug": "kvlr-byysyk-20-mm-mydh-m-de38wx",
+      "name": "קולר בייסיק 20 ממ - מידה M",
+      "name_translations": {
+        "en": "Basic Collar 20mm - Size M",
+        "he": "קולר בייסיק 20 ממ - מידה M",
+        "ru": "Ошейник Базик 20 мм - размер M"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 30,
+      "base_price": 30,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/kvlr-byysyk-20-mm-mydh-m-de38wx",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-07-07T08:22:51.489Z"
+    },
+    {
+      "id": "45cdb588-fa65-4155-81b9-2f029f1b79b9",
+      "slug": "kvlr-byysyk-25-mm-mydh-l-45xnqv",
+      "name": "קולר בייסיק 25 ממ - מידה L",
+      "name_translations": {
+        "en": "Basic Collar 25mm - Size L",
+        "he": "קולר בייסיק 25 ממ - מידה L",
+        "ru": "Ошейник Basic 25 мм - размер L"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/kvlr-byysyk-25-mm-mydh-l-45xnqv",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-07-07T08:22:50.792Z"
+    },
+    {
+      "id": "5639eece-f775-4458-bd63-a023d808e06c",
+      "slug": "kvlr-byysyk-15-mm-mydh-s-o2v0ee",
+      "name": "קולר בייסיק 15 ממ - מידה S",
+      "name_translations": {
+        "en": "Basic Collar 15mm - Size S",
+        "he": "קולר בייסיק 15 ממ - מידה S",
+        "ru": "Ошейник базовый 15 мм - размер S"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 25,
+      "base_price": 25,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/kvlr-byysyk-15-mm-mydh-s-o2v0ee",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-07-07T08:22:52.185Z"
+    },
+    {
+      "id": "f864d6b4-e1fd-4b19-a03c-9d9316ae67ec",
+      "slug": "kvlr-byysyk-10-mm-mydh-xs-tkeek9",
+      "name": "קולר בייסיק 10 ממ - מידה XS",
+      "name_translations": {
+        "en": "Basic Collar 10mm - Size XS",
+        "he": "קולר בייסיק 10 ממ - מידה XS",
+        "ru": "Ошейник Basic 10 мм - размер XS"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 18,
+      "base_price": 18,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/kvlr-byysyk-10-mm-mydh-xs-tkeek9",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-07-07T08:22:50.851Z"
+    },
+    {
+      "id": "2003aa08-e7f6-4412-95ba-5f9da5433534",
+      "slug": "st-rtmh-vrtsvah-lklb-gdvl-tsbavny-mavyynym-2nry5q",
+      "name": "סט רתמה ורצועה לכלב גדול צבעוני מעויינים",
+      "name_translations": {
+        "en": "Colorful Diamond Pattern Harness and Leash Set for Large Dogs",
+        "he": "סט רתמה ורצועה לכלב גדול צבעוני מעויינים",
+        "ru": "Комплект шлейки и поводка для большой собаки, разноцветный с ромбами"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 70,
+      "base_price": 70,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-gdvl-tsbavny-mavyynym-2nry5q",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-07-07T08:22:49.980Z"
+    },
+    {
+      "id": "4202abe4-435f-4039-977c-34009ecfcd3f",
+      "slug": "st-rtmh-vrtsvah-lklb-gdvl-gd-chvm-qu2lmf",
+      "name": "סט רתמה ורצועה לכלב גדול GD חום",
+      "name_translations": {
+        "en": "Large Dog Harness and Leash Set GD Brown",
+        "he": "סט רתמה ורצועה לכלב גדול GD חום",
+        "ru": "Комплект шлейки и поводка для большой собаки GD коричневый"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 85,
+      "base_price": 85,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-gdvl-gd-chvm-qu2lmf",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-07-07T08:22:54.347Z"
+    },
+    {
+      "id": "da1d0eca-9345-4f5c-a954-789b99bda8ad",
+      "slug": "st-rtmh-vrtsvah-lklb-gdvl-gd-apvr-op68yq",
+      "name": "סט רתמה ורצועה לכלב גדול GD אפור",
+      "name_translations": {
+        "en": "GD Gray Large Dog Harness and Leash Set",
+        "he": "סט רתמה ורצועה לכלב גדול GD אפור",
+        "ru": "Комплект шлейки и поводка для большой собаки GD серый"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 85,
+      "base_price": 85,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-gdvl-gd-apvr-op68yq",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-07-07T08:22:50.341Z"
+    },
+    {
+      "id": "b2b78fda-0377-4cd9-a9f4-077a3bc7459b",
+      "slug": "st-rtmh-vrtsvah-lklb-gdvl-gd-kchvl-do5xn3",
+      "name": "סט רתמה ורצועה לכלב גדול GD כחול",
+      "name_translations": {
+        "en": "Harness and Leash Set for Large Dog GD Blue",
+        "he": "סט רתמה ורצועה לכלב גדול GD כחול",
+        "ru": "Комплект шлейки и поводка для большой собаки GD синий"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 85,
+      "base_price": 85,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-gdvl-gd-kchvl-do5xn3",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-07-07T08:22:49.135Z"
+    },
+    {
+      "id": "e5fc91cb-06bd-4ad3-b193-ceb4331bb07d",
+      "slug": "st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-sgvl-wr2m8i",
+      "name": "סט רתמה ורצועה לכלב קטן/ בינוני צבע סגול",
+      "name_translations": {
+        "en": "Harness and Leash Set for Small/Medium Dog - Purple",
+        "he": "סט רתמה ורצועה לכלב קטן/ בינוני צבע סגול",
+        "ru": "Комплект шлейки и поводка для маленькой/средней собаки, фиолетовый цвет"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 59,
+      "base_price": 59,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-sgvl-wr2m8i",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-07-07T08:22:51.228Z"
+    },
+    {
+      "id": "2a76d888-666a-4d95-b799-c9ca5b0ead63",
+      "slug": "st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-tvrkyz-f65g44",
+      "name": "סט רתמה ורצועה לכלב קטן/ בינוני צבע טורקיז",
+      "name_translations": {
+        "en": "Harness and Leash Set for Small/Medium Dog - Turquoise Color",
+        "he": "סט רתמה ורצועה לכלב קטן/ בינוני צבע טורקיז",
+        "ru": "Комплект шлейки и поводка для маленькой/средней собаки, цвет бирюзовый"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 59,
+      "base_price": 59,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-tvrkyz-f65g44",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-07-07T08:22:50.841Z"
+    },
+    {
+      "id": "051cb33a-9a06-4fc9-a24c-7ac0dc15e092",
+      "slug": "st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-ktvm-wi4662",
+      "name": "סט רתמה ורצועה לכלב קטן/ בינוני צבע כתום",
+      "name_translations": {
+        "en": "Harness and Leash Set for Small/Medium Dog - Orange Color",
+        "he": "סט רתמה ורצועה לכלב קטן/ בינוני צבע כתום",
+        "ru": "Комплект шлейки и поводка для маленькой/средней собаки, оранжевый цвет"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 59,
+      "base_price": 59,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-ktvm-wi4662",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-07-07T08:22:48.046Z"
+    },
+    {
+      "id": "dc22116e-0938-4b3e-b621-bb76ec4935bf",
+      "slug": "st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-advm-rxnoau",
+      "name": "סט רתמה ורצועה לכלב קטן/ בינוני צבע אדום",
+      "name_translations": {
+        "en": "Harness and Leash Set for Small/Medium Dog - Red",
+        "he": "סט רתמה ורצועה לכלב קטן/ בינוני צבע אדום",
+        "ru": "Комплект шлейки и поводка для маленькой/средней собаки, красный цвет"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 59,
+      "base_price": 59,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-advm-rxnoau",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-07-07T08:22:49.248Z"
+    },
+    {
+      "id": "a84d0e39-cd7b-4d21-b864-4436dea20d0b",
+      "slug": "st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-chvm-rinog6",
+      "name": "סט רתמה ורצועה לכלב קטן / בינוני צבע חום",
+      "name_translations": {
+        "en": "Harness and Leash Set for Small / Medium Dog Brown Color",
+        "he": "סט רתמה ורצועה לכלב קטן / בינוני צבע חום",
+        "ru": "Комплект шлейки и поводка для маленькой / средней собаки, коричневый цвет"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 59,
+      "base_price": 59,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-chvm-rinog6",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-07-07T08:22:48.978Z"
+    },
+    {
+      "id": "7a652b8d-226b-4e45-9ae5-8ddfaad7d7cb",
+      "slug": "mzvn-klbym-bitesy-gvrym-slmvn-iyc3qn",
+      "name": "מזון כלבים Bitesy גורים סלמון",
+      "name_translations": {
+        "en": "Bitesy Puppy Salmon Dog Food",
+        "he": "מזון כלבים Bitesy גורים סלמון",
+        "ru": "Корм для щенков Bitesy с лососем"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 309,
+      "base_price": 309,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-bitesy-gvrym-slmvn-iyc3qn",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-07T08:22:47.506Z"
+    },
+    {
+      "id": "24b55072-456f-4aa6-9cfc-e6cd5c500ec0",
+      "slug": "mzvn-klbym-bitesy-bvgr-brvvz-avrz-vbtth-ni2a0g",
+      "name": "מזון כלבים Bitesy בוגר ברווז אורז ובטטה",
+      "name_translations": {
+        "en": "Bitesy Adult Dog Food Duck Rice and Sweet Potato",
+        "he": "מזון כלבים Bitesy בוגר ברווז אורז ובטטה",
+        "ru": "Корм для взрослых собак Bitesy с уткой, рисом и бататом"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 309,
+      "base_price": 309,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-bitesy-bvgr-brvvz-avrz-vbtth-ni2a0g",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-07T08:22:48.460Z"
+    },
+    {
+      "id": "81eacf25-c1ea-4e80-a91c-db05e766dcf1",
+      "slug": "sms-pyldsams-field-bvgrym-gza-ktn-avp-8-kg-5worgo",
+      "name": "סמס פילד/Sam's Field בוגרים גזע קטן עוף 8 ק\"ג",
+      "name_translations": {
+        "en": "Sam's Field Adult Small Breed Chicken 8 kg",
+        "he": "סמס פילד/Sam's Field בוגרים גזע קטן עוף 8 ק\"ג",
+        "ru": "סמס פילד/Sam's Field взрослые собаки малых пород с курицей 8 кг"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 200,
+      "base_price": 200,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/sms-pyldsams-field-bvgrym-gza-ktn-avp-8-kg-5worgo",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-07T08:22:50.137Z"
+    },
+    {
+      "id": "a76d93a7-c6ec-4300-b696-882045f354bf",
+      "slug": "sms-pyldsams-field-bvgr-kbsh-13-kg-m7wkfi",
+      "name": "סמס פילד/Sam's Field בוגר כבש 13 ק\"ג",
+      "name_translations": {
+        "en": "Sam's Field Adult Lamb 13 kg",
+        "he": "סמס פילד/Sam's Field בוגר כבש 13 ק\"ג",
+        "ru": "סמס פילד/Sam's Field взрослый ягненок 13 кг"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 299,
+      "base_price": 299,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/sms-pyldsams-field-bvgr-kbsh-13-kg-m7wkfi",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-07T08:22:47.474Z"
+    },
+    {
+      "id": "d8ff859b-8608-4f7e-9c4e-1586b22e04c2",
+      "slug": "sms-pyldsams-field-snyvr-lyyt-13-kg-9kdwn3",
+      "name": "סמס פילד/Sam's Field סניור לייט 13 ק\"ג",
+      "name_translations": {
+        "en": "Sam's Field Senior Light 13 kg",
+        "he": "סמס פילד/Sam's Field סניור לייט 13 ק\"ג",
+        "ru": "סמס פילד/Sam's Field Сениор Лайт 13 кг"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 299,
+      "base_price": 299,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/sms-pyldsams-field-snyvr-lyyt-13-kg-9kdwn3",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-07T08:22:55.611Z"
+    },
+    {
+      "id": "3d112a36-f608-458a-80c7-69753d5c1458",
+      "slug": "sms-pyldsams-field-slvmvn-vtpvch-admh-13-kg-cghym1",
+      "name": "סמס פילד/Sam's Field סלומון ותפוח אדמה 13 ק\"ג",
+      "name_translations": {
+        "en": "סמס פילד/Sam's Field Salmon and Sweet Potato 13 kg",
+        "he": "סמס פילד/Sam's Field סלומון ותפוח אדמה 13 ק\"ג",
+        "ru": "סמס פילד/Sam's Field лосось и картофель 13 кг"
+      },
+      "description": "",
+      "short_description": "סמס פילד/Sam's Field מזון מופחת דגנים עם פירות וירקות.",
+      "sku": null,
+      "brand": null,
+      "price": 299,
+      "base_price": 299,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/sms-pyldsams-field-slvmvn-vtpvch-admh-13-kg-cghym1",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-07T08:22:48.027Z"
+    },
+    {
+      "id": "5743891b-d44b-43b9-9c46-6f5c9da99e57",
+      "slug": "adykshn-kbsh-klb-bvgr-15-kg-nvhy63",
+      "name": "אדיקשן כבש כלב בוגר 15 ק\"ג",
+      "name_translations": {
+        "en": "Addiction Lamb Adult Dog 15 kg",
+        "he": "אדיקשן כבש כלב בוגר 15 ק\"ג",
+        "ru": "Addiction ягнёнок для взрослых собак 15 кг"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 299,
+      "base_price": 299,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/adykshn-kbsh-klb-bvgr-15-kg-nvhy63",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-07T08:22:46.846Z"
+    },
+    {
+      "id": "b1437e92-9c4e-4a33-a559-f9433ac25293",
+      "slug": "myth-laxury-lklb-vlchtvl-nt8xxc",
+      "name": "מיטה LAXURY לכלב ולחתול",
+      "name_translations": {
+        "en": "LAXURY Bed for Dogs and Cats",
+        "he": "מיטה LAXURY לכלב ולחתול",
+        "ru": "Кровать LAXURY для собак и кошек"
+      },
+      "description": "מיטה בעלת מראה אלגנטי ויוקרתי בעלת בסיס מוגבה",
+      "short_description": "מראה אלגנטי ויוקרתי",
+      "sku": null,
+      "brand": null,
+      "price": 379,
+      "base_price": 379,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/myth-laxury-lklb-vlchtvl-nt8xxc",
+      "categories": [
+        "מיטות ומזרנים"
+      ],
+      "updated_at": "2026-07-07T08:22:46.731Z"
+    },
+    {
+      "id": "b67325a3-e302-4739-926f-adcbc4bda696",
+      "slug": "adykshn-gvr-15-kg-1zssmk",
+      "name": "אדיקשן גור 15 ק\"ג",
+      "name_translations": {
+        "en": "Addiction Puppy 15 kg",
+        "he": "אדיקשן גור 15 ק\"ג",
+        "ru": "Addiction Гур 15 кг"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 299,
+      "base_price": 299,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/adykshn-gvr-15-kg-1zssmk",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-07T08:22:44.909Z"
+    },
+    {
+      "id": "3ac6b6c3-c1b1-4a95-8fea-c1acf3cecc98",
+      "slug": "adykshn-slmvn-klb-bvgr-15-kg-wuekfj",
+      "name": "אדיקשן סלמון כלב בוגר 15 ק\"ג",
+      "name_translations": {
+        "en": "Addiction Salmon Adult Dog 15 kg",
+        "he": "אדיקשן סלמון כלב בוגר 15 ק\"ג",
+        "ru": "Addiction Salmon для взрослых собак 15 кг"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 309,
+      "base_price": 309,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/adykshn-slmvn-klb-bvgr-15-kg-wuekfj",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-07T08:22:43.846Z"
+    },
+    {
+      "id": "b60afca5-e9d5-4272-bbce-94193281d0f9",
+      "slug": "chtyp-rtsvavt-atsvt-ym-ml-pxnl9q",
+      "name": "חטיף רצועות אצות ים M/L",
+      "name_translations": {
+        "en": "Seaweed Strips Snack M/L",
+        "he": "חטיף רצועות אצות ים M/L",
+        "ru": "Лакомство из полосок морских водорослей M/L"
+      },
+      "description": "",
+      "short_description": "חטיף רצועות אצות ים לכלבים קטנים ובינוניים 80 גרם",
+      "sku": null,
+      "brand": null,
+      "price": 16.9,
+      "base_price": 16.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/chtyp-rtsvavt-atsvt-ym-ml-pxnl9q",
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-07-07T08:22:46.013Z"
+    },
+    {
+      "id": "1809e69b-a59a-4d64-9eac-dca71e71378d",
+      "slug": "chtyp-rtsvavt-atsvt-ym-sm-78epuv",
+      "name": "חטיף רצועות אצות ים S/M",
+      "name_translations": {
+        "en": "Seaweed Strips Snack S/M",
+        "he": "חטיף רצועות אצות ים S/M",
+        "ru": "Лакомство из полосок морских водорослей S/M"
+      },
+      "description": "",
+      "short_description": "חטיף רצועות אצות ים לכלבים בינוניים וגדולים 80 גרם",
+      "sku": null,
+      "brand": null,
+      "price": 16.9,
+      "base_price": 16.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/chtyp-rtsvavt-atsvt-ym-sm-78epuv",
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-07-07T08:22:43.732Z"
+    },
+    {
+      "id": "735226a1-dce5-4e8a-bd7c-f9eefb6ffbcc",
+      "slug": "chtyp-mkl-atsvt-ym-ml-2ebbf1",
+      "name": "חטיף מקל אצות ים M/L",
+      "name_translations": {
+        "en": "Seaweed Stick Snack M/L",
+        "he": "חטיף מקל אצות ים M/L",
+        "ru": "Лакомство палочки из морских водорослей M/L"
+      },
+      "description": "",
+      "short_description": "חטיף מקלות אצות ים לכלבים בינוניים וגדולים 80 גרם",
+      "sku": null,
+      "brand": null,
+      "price": 16.9,
+      "base_price": 16.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/chtyp-mkl-atsvt-ym-ml-2ebbf1",
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-07-07T08:22:45.624Z"
+    },
+    {
+      "id": "dc85bbc5-3368-4375-950e-d26bbc5e053b",
+      "slug": "tsatsva-paylvt-ayntraktyby-tirotto-lklbym-0a3mpb",
+      "name": "צעצוע פעילות אינטראקטיבי TIROTTO לכלבים",
+      "name_translations": {
+        "en": "TIROTTO Interactive Activity Toy for Dogs",
+        "he": "צעצוע פעילות אינטראקטיבי TIROTTO לכלבים",
+        "ru": "Интерактивная игрушка-активити TIROTTO для собак"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 59,
+      "base_price": 59,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-paylvt-ayntraktyby-tirotto-lklbym-0a3mpb",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-07-07T08:22:42.681Z"
+    },
+    {
+      "id": "48503db5-bce6-4aa6-8d4d-36f34861f717",
+      "slug": "chtyp-mkl-atsvt-ym-sm-6op4yn",
+      "name": "חטיף מקל אצות ים S/M",
+      "name_translations": {
+        "en": "Seaweed Stick Snack S/M",
+        "he": "חטיף מקל אצות ים S/M",
+        "ru": "Лакомство палочки из морских водорослей S/M"
+      },
+      "description": "",
+      "short_description": "חטיף מקלות אצות ים לכלבים קטנים ובינוניים 80 גרם",
+      "sku": null,
+      "brand": null,
+      "price": 16.9,
+      "base_price": 16.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/chtyp-mkl-atsvt-ym-sm-6op4yn",
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-07-07T08:22:42.302Z"
+    },
+    {
+      "id": "a8e46184-bfd9-47c0-97f9-39b4cd5b793e",
+      "slug": "tsatsva-laysh-masticosso-lhygyynt-hshynyym-lklbym-mini-js7sds",
+      "name": "צעצוע לעיסה Masticosso להיגיינת השיניים לכלבים - Mini",
+      "name_translations": {
+        "en": "Masticosso Chew Toy for Dog Dental Hygiene - Mini",
+        "he": "צעצוע לעיסה Masticosso להיגיינת השיניים לכלבים - Mini",
+        "ru": "Жевательная игрушка Masticosso для гигиены зубов собак - Mini"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 29,
+      "base_price": 29,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-laysh-masticosso-lhygyynt-hshynyym-lklbym-mini-js7sds",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-07-07T08:22:44.952Z"
+    },
+    {
+      "id": "1767d21a-8aef-4e8e-9004-4f7118f27474",
+      "slug": "tsatsva-laysh-masticosso-lhygyynt-hshynyym-lklbym-maxi-53r71z",
+      "name": "צעצוע לעיסה Masticosso להיגיינת השיניים לכלבים - Maxi",
+      "name_translations": {
+        "en": "Masticosso Chew Toy for Dog Dental Hygiene - Maxi",
+        "he": "צעצוע לעיסה Masticosso להיגיינת השיניים לכלבים - Maxi",
+        "ru": "Жевательная игрушка Masticosso для гигиены зубов собак - Maxi"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 49,
+      "base_price": 49,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-laysh-masticosso-lhygyynt-hshynyym-lklbym-maxi-53r71z",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-07-07T08:22:39.960Z"
+    },
+    {
+      "id": "af7d9ac3-2f2e-473a-87a2-e07ca7f98eb0",
+      "slug": "mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-2-lytr-kchvl-6gr1kv",
+      "name": "מעמד מוגבה לקערות אוכל ושתייה לכלבים 2 ליטר כחול",
+      "name_translations": {
+        "en": "Elevated Stand for Dog Food and Water Bowls 2 Liter Blue",
+        "he": "מעמד מוגבה לקערות אוכל ושתייה לכלבים 2 ליטר כחול",
+        "ru": "Подставка с подъёмом для мисок с едой и водой для собак 2 литра синяя"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 150,
+      "base_price": 150,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-2-lytr-kchvl-6gr1kv",
+      "categories": [
+        "כלי אוכל ושתיה"
+      ],
+      "updated_at": "2026-07-07T08:22:40.222Z"
+    },
+    {
+      "id": "667001b0-2f86-402a-ad32-e51183a97c85",
+      "slug": "mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-2-lytr-lylk-q5n2ky",
+      "name": "מעמד מוגבה לקערות אוכל ושתייה לכלבים 2 ליטר לילך",
+      "name_translations": {
+        "en": "Elevated Stand for Dog Food and Water Bowls 2 Liter Lilac",
+        "he": "מעמד מוגבה לקערות אוכל ושתייה לכלבים 2 ליטר לילך",
+        "ru": "Подставка с подъёмом для мисок для еды и воды для собак 2 литра Лилах"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 150,
+      "base_price": 150,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-2-lytr-lylk-q5n2ky",
+      "categories": [
+        "כלי אוכל ושתיה"
+      ],
+      "updated_at": "2026-07-07T08:22:28.100Z"
+    },
+    {
+      "id": "e2979dc1-cb4b-465d-8e0c-baef7a8e1b0e",
+      "slug": "mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-1-lytr-mvkh-5mxf2m",
+      "name": "מעמד מוגבה לקערות אוכל ושתייה לכלבים 1 ליטר מוקה",
+      "name_translations": {
+        "en": "Elevated Stand for Dog Food and Water Bowls 1 Liter Mocha",
+        "he": "מעמד מוגבה לקערות אוכל ושתייה לכלבים 1 ליטר מוקה",
+        "ru": "Подставка с подъёмом для мисок с едой и водой для собак 1 литр Мокко"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 115,
+      "base_price": 115,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-1-lytr-mvkh-5mxf2m",
+      "categories": [
+        "כלי אוכל ושתיה"
+      ],
+      "updated_at": "2026-07-07T08:22:40.311Z"
+    },
+    {
+      "id": "191b56d4-60a4-4d1c-b2d4-fba748a3467e",
+      "slug": "mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-2-lytr-mvkh-cm4ae8",
+      "name": "מעמד מוגבה לקערות אוכל ושתייה לכלבים 2 ליטר מוקה",
+      "name_translations": {
+        "en": "Elevated Stand for Dog Food and Water Bowls 2 Liter Mocha",
+        "he": "מעמד מוגבה לקערות אוכל ושתייה לכלבים 2 ליטר מוקה",
+        "ru": "Подставка с подъёмом для мисок для еды и воды для собак 2 литра мокко"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 150,
+      "base_price": 150,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-2-lytr-mvkh-cm4ae8",
+      "categories": [
+        "כלי אוכל ושתיה"
+      ],
+      "updated_at": "2026-07-07T08:22:38.202Z"
+    },
+    {
+      "id": "70b61793-0db9-4c66-8462-1514fca2c5b1",
+      "slug": "mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-1-lytr-lylk-jgh2bg",
+      "name": "מעמד מוגבה לקערות אוכל ושתייה לכלבים 1 ליטר לילך",
+      "name_translations": {
+        "en": "Elevated Stand for Dog Food and Water Bowls 1 Liter Lilac",
+        "he": "מעמד מוגבה לקערות אוכל ושתייה לכלבים 1 ליטר לילך",
+        "ru": "Подставка с подъёмом для мисок для еды и воды для собак 1 литр сиреневая"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 115,
+      "base_price": 115,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-1-lytr-lylk-jgh2bg",
+      "categories": [
+        "כלי אוכל ושתיה"
+      ],
+      "updated_at": "2026-07-07T08:22:27.659Z"
+    },
+    {
+      "id": "663e5b75-fee5-4b1e-90b4-76f0c7fbf4dc",
+      "slug": "mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-lklb-410-grm-jjkxus",
+      "name": "מזון כלבים רטוב איסגרים ארוחת הודו לכלב 410 גרם",
+      "name_translations": {
+        "en": "Isgrims Wet Dog Food Turkey Meal for Dogs 410g",
+        "he": "מזון כלבים רטוב איסגרים ארוחת הודו לכלב 410 גרם",
+        "ru": "Влажный корм для собак Isegrim обед из индейки для собак 410 грамм"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 19.9,
+      "base_price": 19.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-lklb-410-grm-jjkxus",
+      "categories": [
+        "שימורים ומעדנים"
+      ],
+      "updated_at": "2026-07-07T08:22:27.635Z"
+    },
+    {
+      "id": "8fd9350f-6b20-4c27-a1fc-4c29c4cb3bcc",
+      "slug": "mzvn-klbym-rtvb-aysgrym-arvcht-brvvz-vlbbvt-avp-lklb-410-grm-16rein",
+      "name": "מזון כלבים רטוב איסגרים ארוחת ברווז ולבבות עוף לכלב 410 גרם",
+      "name_translations": {
+        "en": "Isgrims Wet Dog Food Duck and Chicken Hearts Meal for Dogs 410g",
+        "he": "מזון כלבים רטוב איסגרים ארוחת ברווז ולבבות עוף לכלב 410 גרם",
+        "ru": "Влажный корм для собак Isegrim утиное рагу с куриными сердечками для собак 410 г"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 19.9,
+      "base_price": 19.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-aysgrym-arvcht-brvvz-vlbbvt-avp-lklb-410-grm-16rein",
+      "categories": [
+        "שימורים ומעדנים"
+      ],
+      "updated_at": "2026-07-07T08:22:27.458Z"
+    },
+    {
+      "id": "77592c60-2898-4904-8a84-65a0bacce686",
+      "slug": "mzvn-klbym-rtvb-aysgrym-arvcht-slmvn-vpvrl-lklb-410-grm-742lf4",
+      "name": "מזון כלבים רטוב איסגרים ארוחת סלמון ופורל לכלב 410 גרם",
+      "name_translations": {
+        "en": "Isgrims Wet Dog Food Salmon and Trout Meal for Dogs 410g",
+        "he": "מזון כלבים רטוב איסגרים ארוחת סלמון ופורל לכלב 410 גרם",
+        "ru": "Влажный корм для собак Isgrims обед из лосося и форели для собак 410 грамм"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 19.9,
+      "base_price": 19.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-aysgrym-arvcht-slmvn-vpvrl-lklb-410-grm-742lf4",
+      "categories": [
+        "שימורים ומעדנים"
+      ],
+      "updated_at": "2026-07-07T08:22:29.436Z"
+    },
+    {
+      "id": "b068a1b8-bd42-47a7-ba89-f03de4e87048",
+      "slug": "mzvn-klbym-rtvb-aysgrym-arvcht-ayyl-vtsyd-lklb-410-grm-phxvc4",
+      "name": "מזון כלבים רטוב איסגרים ארוחת אייל וציד לכלב 410 גרם",
+      "name_translations": {
+        "en": "Isgrims Wet Dog Food Venison & Game Meal for Dogs 410g",
+        "he": "מזון כלבים רטוב איסגרים ארוחת אייל וציד לכלב 410 גרם",
+        "ru": "Влажный корм для собак Isegrim оленина и дичь для собак 410 г"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 19.9,
+      "base_price": 19.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-aysgrym-arvcht-ayyl-vtsyd-lklb-410-grm-phxvc4",
+      "categories": [
+        "שימורים ומעדנים"
+      ],
+      "updated_at": "2026-07-07T08:22:27.340Z"
+    },
+    {
+      "id": "b5b01d81-c18b-40fd-8ee0-eedc97bcb61c",
+      "slug": "mzvn-klbym-rtvb-aysgrym-arvcht-chzyr-br-lklb-410-grm-gke0t5",
+      "name": "מזון כלבים רטוב איסגרים ארוחת חזיר בר לכלב 410 גרם",
+      "name_translations": {
+        "en": "Isegrim Wet Dog Food Wild Boar Meal for Dogs 410g",
+        "he": "מזון כלבים רטוב איסגרים ארוחת חזיר בר לכלב 410 גרם",
+        "ru": "Влажный корм для собак Isegrim блюдо из дикого кабана для собак 410 грамм"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 19.9,
+      "base_price": 19.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-aysgrym-arvcht-chzyr-br-lklb-410-grm-gke0t5",
+      "categories": [
+        "שימורים ומעדנים"
+      ],
+      "updated_at": "2026-07-07T08:22:38.203Z"
+    },
     {
       "id": "9e7fc6a5-3f27-4d81-86b9-2976fe4fdae5",
       "slug": "sms-pyldsams-field-slvmvn-vtpvch-admh-13-kg-sakpwn",

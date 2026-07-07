@@ -72,7 +72,346 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 165**
+**Total active products: 221** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### טריפל קראון לכלב בוגר גורמה כבש
+https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-gvrmh-kbsh-d95tdz
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: מזון יבש
+
+### טריפל קראון לכלב בוגר גזע גדול עוף 14 ק"ג
+https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-gza-gdvl-avp-14-kg-h3a0pg
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: מזון יבש
+
+### טריפל קראון לכלב פעיל 14 ק"ג
+https://gurimbakfar.co.il/product/trypl-kravn-lklb-payl-14-kg-j7uzxv
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: מזון יבש
+
+### סטיספקשן כבש
+https://gurimbakfar.co.il/product/styspkshn-kbsh-kq9gjc
+- Price: 0.00 ILS
+- Availability: In stock
+
+### Brande מזון מלא לכלבים בוגרים
+https://gurimbakfar.co.il/product/brande-mzvn-mla-lklbym-bvgrym-e95uog
+- Price: 0.00 ILS
+- Availability: In stock
+
+### בוש לגורים מגזע גדול עוף
+https://gurimbakfar.co.il/product/bvsh-lgvrym-mgza-gdvl-avp-g5eeks
+- Price: 0.00 ILS
+- Availability: In stock
+
+### טריפל קראון סלמון היפואלרגני
+https://gurimbakfar.co.il/product/trypl-kravn-slmvn-hypvalrgny-5j7dcs
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: מזון יבש
+
+### טריפל קראון לכלב בוגר עוף
+https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-avp-w6qiuk
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: מזון יבש
+
+### רתמת Quick fit xxs
+https://gurimbakfar.co.il/product/rtmt-quick-fit-xxs-4ftjwy
+- Price: 53.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+
+### רתמת Quick fit xs
+https://gurimbakfar.co.il/product/rtmt-quick-fit-xs-k4kjpc
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+
+### רתמת Quick fit s
+https://gurimbakfar.co.il/product/rtmt-quick-fit-s-2i7cjg
+- Price: 65.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+
+### רצועה בייסיק 15 ממ - מידה S
+https://gurimbakfar.co.il/product/rtsvah-byysyk-15-mm-mydh-s-hkzokq
+- Price: 32.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+
+### רצועה בייסיק 10 ממ - מידה XS
+https://gurimbakfar.co.il/product/rtsvah-byysyk-10-mm-mydh-xs-0ia52r
+- Price: 30.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+
+### רצועה בד צבעוני 20 ממ - מידה M
+https://gurimbakfar.co.il/product/rtsvah-bd-tsbavny-20-mm-mydh-m-xekwkf
+- Price: 32.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+
+### רצועה בד צבעוני 15 ממ - מידה S
+https://gurimbakfar.co.il/product/rtsvah-bd-tsbavny-15-mm-mydh-s-6a7j4e
+- Price: 32.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+
+### רצועה בד צבעוני 10 ממ - מידה XS
+https://gurimbakfar.co.il/product/rtsvah-bd-tsbavny-10-mm-mydh-xs-ff72g0
+- Price: 30.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+
+### קולר בייסיק 20 ממ - מידה M
+https://gurimbakfar.co.il/product/kvlr-byysyk-20-mm-mydh-m-de38wx
+- Price: 30.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+
+### קולר בייסיק 25 ממ - מידה L
+https://gurimbakfar.co.il/product/kvlr-byysyk-25-mm-mydh-l-45xnqv
+- Price: 35.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+
+### קולר בייסיק 15 ממ - מידה S
+https://gurimbakfar.co.il/product/kvlr-byysyk-15-mm-mydh-s-o2v0ee
+- Price: 25.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+
+### קולר בייסיק 10 ממ - מידה XS
+https://gurimbakfar.co.il/product/kvlr-byysyk-10-mm-mydh-xs-tkeek9
+- Price: 18.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+
+### סט רתמה ורצועה לכלב גדול צבעוני מעויינים
+https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-gdvl-tsbavny-mavyynym-2nry5q
+- Price: 70.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+
+### סט רתמה ורצועה לכלב גדול GD חום
+https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-gdvl-gd-chvm-qu2lmf
+- Price: 85.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+
+### סט רתמה ורצועה לכלב גדול GD אפור
+https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-gdvl-gd-apvr-op68yq
+- Price: 85.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+
+### סט רתמה ורצועה לכלב גדול GD כחול
+https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-gdvl-gd-kchvl-do5xn3
+- Price: 85.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+
+### סט רתמה ורצועה לכלב קטן/ בינוני צבע סגול
+https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-sgvl-wr2m8i
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+
+### סט רתמה ורצועה לכלב קטן/ בינוני צבע טורקיז
+https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-tvrkyz-f65g44
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+
+### סט רתמה ורצועה לכלב קטן/ בינוני צבע כתום
+https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-ktvm-wi4662
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+
+### סט רתמה ורצועה לכלב קטן/ בינוני צבע אדום
+https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-advm-rxnoau
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+
+### סט רתמה ורצועה לכלב קטן / בינוני צבע חום
+https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-chvm-rinog6
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+
+### מזון כלבים Bitesy גורים סלמון
+https://gurimbakfar.co.il/product/mzvn-klbym-bitesy-gvrym-slmvn-iyc3qn
+- Price: 309.00 ILS
+- Availability: In stock
+- Category: מזון יבש
+
+### מזון כלבים Bitesy בוגר ברווז אורז ובטטה
+https://gurimbakfar.co.il/product/mzvn-klbym-bitesy-bvgr-brvvz-avrz-vbtth-ni2a0g
+- Price: 309.00 ILS
+- Availability: In stock
+- Category: מזון יבש
+
+### סמס פילד/Sam's Field בוגרים גזע קטן עוף 8 ק"ג
+https://gurimbakfar.co.il/product/sms-pyldsams-field-bvgrym-gza-ktn-avp-8-kg-5worgo
+- Price: 200.00 ILS
+- Availability: In stock
+- Category: מזון יבש
+
+### סמס פילד/Sam's Field בוגר כבש 13 ק"ג
+https://gurimbakfar.co.il/product/sms-pyldsams-field-bvgr-kbsh-13-kg-m7wkfi
+- Price: 299.00 ILS
+- Availability: In stock
+- Category: מזון יבש
+
+### סמס פילד/Sam's Field סניור לייט 13 ק"ג
+https://gurimbakfar.co.il/product/sms-pyldsams-field-snyvr-lyyt-13-kg-9kdwn3
+- Price: 299.00 ILS
+- Availability: In stock
+- Category: מזון יבש
+
+### סמס פילד/Sam's Field סלומון ותפוח אדמה 13 ק"ג
+https://gurimbakfar.co.il/product/sms-pyldsams-field-slvmvn-vtpvch-admh-13-kg-cghym1
+- Price: 299.00 ILS
+- Availability: In stock
+- Category: מזון יבש
+- Description: סמס פילד/Sam's Field מזון מופחת דגנים עם פירות וירקות.
+
+### אדיקשן כבש כלב בוגר 15 ק"ג
+https://gurimbakfar.co.il/product/adykshn-kbsh-klb-bvgr-15-kg-nvhy63
+- Price: 299.00 ILS
+- Availability: In stock
+- Category: מזון יבש
+
+### מיטה LAXURY לכלב ולחתול
+https://gurimbakfar.co.il/product/myth-laxury-lklb-vlchtvl-nt8xxc
+- Price: 379.00 ILS
+- Availability: In stock
+- Category: מיטות ומזרנים
+- Description: מראה אלגנטי ויוקרתי
+
+### אדיקשן גור 15 ק"ג
+https://gurimbakfar.co.il/product/adykshn-gvr-15-kg-1zssmk
+- Price: 299.00 ILS
+- Availability: In stock
+- Category: מזון יבש
+
+### אדיקשן סלמון כלב בוגר 15 ק"ג
+https://gurimbakfar.co.il/product/adykshn-slmvn-klb-bvgr-15-kg-wuekfj
+- Price: 309.00 ILS
+- Availability: In stock
+- Category: מזון יבש
+
+### חטיף רצועות אצות ים M/L
+https://gurimbakfar.co.il/product/chtyp-rtsvavt-atsvt-ym-ml-pxnl9q
+- Price: 16.90 ILS
+- Availability: In stock
+- Category: חטיפים
+- Description: חטיף רצועות אצות ים לכלבים קטנים ובינוניים 80 גרם
+
+### חטיף רצועות אצות ים S/M
+https://gurimbakfar.co.il/product/chtyp-rtsvavt-atsvt-ym-sm-78epuv
+- Price: 16.90 ILS
+- Availability: In stock
+- Category: חטיפים
+- Description: חטיף רצועות אצות ים לכלבים בינוניים וגדולים 80 גרם
+
+### חטיף מקל אצות ים M/L
+https://gurimbakfar.co.il/product/chtyp-mkl-atsvt-ym-ml-2ebbf1
+- Price: 16.90 ILS
+- Availability: In stock
+- Category: חטיפים
+- Description: חטיף מקלות אצות ים לכלבים בינוניים וגדולים 80 גרם
+
+### צעצוע פעילות אינטראקטיבי TIROTTO לכלבים
+https://gurimbakfar.co.il/product/tsatsva-paylvt-ayntraktyby-tirotto-lklbym-0a3mpb
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: צעצועים
+
+### חטיף מקל אצות ים S/M
+https://gurimbakfar.co.il/product/chtyp-mkl-atsvt-ym-sm-6op4yn
+- Price: 16.90 ILS
+- Availability: In stock
+- Category: חטיפים
+- Description: חטיף מקלות אצות ים לכלבים קטנים ובינוניים 80 גרם
+
+### צעצוע לעיסה Masticosso להיגיינת השיניים לכלבים - Mini
+https://gurimbakfar.co.il/product/tsatsva-laysh-masticosso-lhygyynt-hshynyym-lklbym-mini-js7sds
+- Price: 29.00 ILS
+- Availability: In stock
+- Category: צעצועים
+
+### צעצוע לעיסה Masticosso להיגיינת השיניים לכלבים - Maxi
+https://gurimbakfar.co.il/product/tsatsva-laysh-masticosso-lhygyynt-hshynyym-lklbym-maxi-53r71z
+- Price: 49.00 ILS
+- Availability: In stock
+- Category: צעצועים
+
+### מעמד מוגבה לקערות אוכל ושתייה לכלבים 2 ליטר כחול
+https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-2-lytr-kchvl-6gr1kv
+- Price: 150.00 ILS
+- Availability: In stock
+- Category: כלי אוכל ושתיה
+
+### מעמד מוגבה לקערות אוכל ושתייה לכלבים 2 ליטר לילך
+https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-2-lytr-lylk-q5n2ky
+- Price: 150.00 ILS
+- Availability: In stock
+- Category: כלי אוכל ושתיה
+
+### מעמד מוגבה לקערות אוכל ושתייה לכלבים 1 ליטר מוקה
+https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-1-lytr-mvkh-5mxf2m
+- Price: 115.00 ILS
+- Availability: In stock
+- Category: כלי אוכל ושתיה
+
+### מעמד מוגבה לקערות אוכל ושתייה לכלבים 2 ליטר מוקה
+https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-2-lytr-mvkh-cm4ae8
+- Price: 150.00 ILS
+- Availability: In stock
+- Category: כלי אוכל ושתיה
+
+### מעמד מוגבה לקערות אוכל ושתייה לכלבים 1 ליטר לילך
+https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-1-lytr-lylk-jgh2bg
+- Price: 115.00 ILS
+- Availability: In stock
+- Category: כלי אוכל ושתיה
+
+### מזון כלבים רטוב איסגרים ארוחת הודו לכלב 410 גרם
+https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-lklb-410-grm-jjkxus
+- Price: 19.90 ILS
+- Availability: In stock
+- Category: שימורים ומעדנים
+
+### מזון כלבים רטוב איסגרים ארוחת ברווז ולבבות עוף לכלב 410 גרם
+https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-aysgrym-arvcht-brvvz-vlbbvt-avp-lklb-410-grm-16rein
+- Price: 19.90 ILS
+- Availability: In stock
+- Category: שימורים ומעדנים
+
+### מזון כלבים רטוב איסגרים ארוחת סלמון ופורל לכלב 410 גרם
+https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-aysgrym-arvcht-slmvn-vpvrl-lklb-410-grm-742lf4
+- Price: 19.90 ILS
+- Availability: In stock
+- Category: שימורים ומעדנים
+
+### מזון כלבים רטוב איסגרים ארוחת אייל וציד לכלב 410 גרם
+https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-aysgrym-arvcht-ayyl-vtsyd-lklb-410-grm-phxvc4
+- Price: 19.90 ILS
+- Availability: In stock
+- Category: שימורים ומעדנים
+
+### מזון כלבים רטוב איסגרים ארוחת חזיר בר לכלב 410 גרם
+https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-aysgrym-arvcht-chzyr-br-lklb-410-grm-gke0t5
+- Price: 19.90 ILS
+- Availability: In stock
+- Category: שימורים ומעדנים
 
 ### סמס פילד/Sam's Field סלומון ותפוח אדמה 13 ק"ג
 https://gurimbakfar.co.il/product/sms-pyldsams-field-slvmvn-vtpvch-admh-13-kg-sakpwn
@@ -1104,153 +1443,6 @@ https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-chyvt-2akabn
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781118838806-1c9mj7.webp
-
-### הנריס דגים שלמים
-https://gurimbakfar.co.il/product/hnrys-dgym-shlmym-jc6752
-- Price: 26.00 ILS
-- Availability: In stock
-- Category: חטיפים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781451525050-euhnz.webp
-
-### צעצוע לעיסה דנטלי
-https://gurimbakfar.co.il/product/tsatsva-laysh-dntly-teoo4v
-- Price: 25.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781434110890-kvzter.webp
-
-### ערכת צחצוח שיניים לכלבים בטעם עוף
-https://gurimbakfar.co.il/product/arkt-tschtsvch-shynyym-lklbym-btam-avp-jqa7h1
-- Price: 42.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781434062728-mt2u4b.webp
-
-### חבל S
-https://gurimbakfar.co.il/product/chbl-s-vx7dpr
-- Price: 7.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781434018395-zc2gy.webp
-
-### ברווז מצפצף M
-https://gurimbakfar.co.il/product/brvvz-mtsptsp-m-o4vroa
-- Price: 40.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781433973805-es62mg.webp
-
-### מגש פדים לאילוף כלבים
-https://gurimbakfar.co.il/product/mgsh-pdym-laylvp-klbym-nas8ox
-- Price: 100.00 ILS
-- Availability: In stock
-- Category: אביזרים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781433928708-4ctdd3.webp
-
-### צעצוע משיכה
-https://gurimbakfar.co.il/product/tsatsva-mshykh-09d80q
-- Price: 25.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781433846516-n8ksvk.webp
-
-### צעצוע אווז מצפצף
-https://gurimbakfar.co.il/product/tsatsva-avvz-mtsptsp-qha35i
-- Price: 35.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781433811828-8zq6op.webp
-
-### הנריס פרסות באפלו
-https://gurimbakfar.co.il/product/hnrys-prsvt-baplv-7hz9nc
-- Price: 26.00 ILS
-- Availability: In stock
-- Category: חטיפים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781433771192-5g2qdc.webp
-
-### מסרק גבהים משתנים רקורד
-https://gurimbakfar.co.il/product/msrk-gbhym-mshtnym-rkvrd-yemjg2
-- Price: 48.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781433733854-rfiul.webp
-
-### הנריס בולי סטיק צמה
-https://gurimbakfar.co.il/product/hnrys-bvly-styk-tsmh-7bbhly
-- Price: 60.00 ILS
-- Availability: In stock
-- Category: חטיפים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781433698700-b9ysz.webp
-
-### קוצץ ציפורניים ופצירה
-https://gurimbakfar.co.il/product/kvtsts-tsypvrnyym-vptsyrh-866o1z
-- Price: 25.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781433663869-9f8vdj.webp
-
-### מסרק צפוף רקורד
-https://gurimbakfar.co.il/product/msrk-tspvp-rkvrd-5m6pep
-- Price: 35.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781433627090-dkgrn.webp
-
-### תמנון זרועות מסולסלות עם צפצפה
-https://gurimbakfar.co.il/product/tmnvn-zrvavt-msvlslvt-am-tsptsph-slx0ja
-- Price: 35.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781433595354-h2fba.webp
-
-### משגר כדור טניס freedog
-https://gurimbakfar.co.il/product/mshgr-kdvr-tnys-freedog-swsjeh
-- Price: 57.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781433553180-62mwhf.webp
-
-### ברווז מצפצף S
-https://gurimbakfar.co.il/product/brvvz-mtsptsp-s-1kvaah
-- Price: 35.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1780898587530-blf32.webp
-
-### הנריס קנה נשימה
-https://gurimbakfar.co.il/product/hnrys-knh-nshymh-6xywvw
-- Price: 25.00 ILS
-- Availability: In stock
-- Category: חטיפים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781433227011-prtpoi.webp
-
-### משחק לכלב סקיני אריה
-https://gurimbakfar.co.il/product/mshchk-lklb-skyny-aryh-zv4dt1
-- Price: 35.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781076035016-waacog.webp
-
-### שמן בישום לחיות מחמד ANIMAUX
-https://gurimbakfar.co.il/product/shmn-byshvm-lchyvt-mchmd-animaux-6znshc
-- Price: 35.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1780860736565-6sbsyh.webp
-
-### הנריס קוביות סלמון
-https://gurimbakfar.co.il/product/hnrys-kvbyvt-slmvn-2tj0rr
-- Price: 21.00 ILS
-- Availability: In stock
-- Category: חטיפים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781076341784-1vqbkb.webp
-
-### תרסיס מרכך ללא שטיפה להתרת קשרים TAURO
-https://gurimbakfar.co.il/product/trsys-mrkk-lla-shtyph-lhtrt-kshrym-tauro-599y1n
-- Price: 70.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781076641477-0k6k3.webp
 
 ---
 
