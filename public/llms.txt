@@ -72,7 +72,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 225** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 226** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### חטיף נובלוס מקל ברווז ואורז 80 גר'
+https://gurimbakfar.co.il/product/chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-qfhmok
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: חטיפים
+- Description: חטיף נובילוס מקל ברווז ואורז 80 גרם (הידוע גם כחטיף Nobilus) הוא חטיף פרימיום דל שומן ועשיר בחלבון המיועד לכלבים, המבוסס על בשר חזה ברווז אמיתי כמרכיב עיקרי בשילוב אורז.
 
 ### חטיף נובלוס ברווז ודג קוד 80 גר'
 https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-vdg-kvd-80-gr-778ofo
@@ -1479,13 +1486,6 @@ https://gurimbakfar.co.il/product/kdvr-dntly-ktn-rk-9tv9b5
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781451063928-biucx.webp
-
-### משחק האכלה מתגלגל
-https://gurimbakfar.co.il/product/mshchk-haklh-mtglgl-4izint
-- Price: 55.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781451109152-gbvitw.webp
 
 ---
 
