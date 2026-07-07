@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T15:45:39.754Z",
+  "generated_at": "2026-07-07T15:55:59.644Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 220,
@@ -33,15 +33,15 @@
     },
     {
       "id": "b96ba157-9c21-4236-8536-443d0df20634",
-      "slug": "chtyp-nvblvs-rtsvavt-avp-rkvt-l3r3xr",
+      "slug": "chtyp-nvblvs-rtsvavt-avp-rkvt-vsv92o",
       "name": "חטיף נובלוס רצועות עוף רכות",
       "name_translations": {
         "en": "Nobulos Soft Chicken Strips Treat",
         "he": "חטיף נובלוס רצועות עוף רכות",
         "ru": "Лакомство Novelos мягкие куриные полоски"
       },
-      "description": "",
-      "short_description": null,
+      "description": "<p>רכיבים עיקריים : בשר חזה עוף, חלבון אפונה, עמילן, גליצרין צמחי, סורביטול</p><p>ערכים תזונתיים </p><ul><li>חלבון גולמי מינימום 40%</li><li>שומן גולמי מקסימום 3%</li><li>סיבים גולמיים מקסימום 1%</li><li>אפר גולמי מקסימום 5%</li><li>לחות מקסימום 18%</li></ul><p><br></p>",
+      "short_description": "חטיף נובילוס רצועות עוף רכות הוא פינוק פרימיום לכלבים. הוא מכיל בשר עוף אמיתי, עשיר בחלבון ודל שומן. המרקם הרך מקל על הלעיסה. זה הופך אותו למושלם עבור כלבים מכל הגילאים, כולל גורים וכלבים מבוגרים.\nהחטיף מגיע באריזת 80 גרם עם סגירה חוזרת לשמירת הטריות. הרכיבים מבוססים על חזה עוף בשילוב עם חלבון אפונה ועמילן. הוא משמש מצוין כפינוק יומי או כפרס בזמן אילוף.",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -51,9 +51,9 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-rtsvavt-avp-rkvt-l3r3xr",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-rtsvavt-avp-rkvt-vsv92o",
       "categories": [],
-      "updated_at": "2026-07-07T15:20:20.469Z"
+      "updated_at": "2026-07-07T15:55:27.510Z"
     },
     {
       "id": "65a2372f-237d-444d-aace-a03aee891e38",
