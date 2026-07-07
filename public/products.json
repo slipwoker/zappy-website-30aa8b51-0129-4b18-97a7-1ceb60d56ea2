@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T12:11:02.726Z",
+  "generated_at": "2026-07-07T12:11:56.587Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 215,
@@ -761,15 +761,15 @@
     },
     {
       "id": "7a652b8d-226b-4e45-9ae5-8ddfaad7d7cb",
-      "slug": "mzvn-klbym-bitesy-gvrym-slmvn-12-kg-utr1re",
+      "slug": "mzvn-klbym-bitesy-gvrym-slmvn-12-kg-x8x2zf",
       "name": "מזון כלבים Bitesy גורים סלמון 12 ק\"ג",
       "name_translations": {
-        "en": "Bitesy Puppy Salmon Dog Food 12 kg",
+        "en": "Bitesy Puppy Dog Food Salmon 12 kg",
         "he": "מזון כלבים Bitesy גורים סלמון 12 ק\"ג",
-        "ru": "Корм для щенков Bitesy лосось 12 кг"
+        "ru": "Корм для собак Bitesy для щенков лосось 12 кг"
       },
-      "description": "",
-      "short_description": null,
+      "description": "<p><strong>רכיבים :</strong></p><p>סלמון מיובש (34%), אורז (14%), בטטה מיובשת (12%), שומן הודו (12%), אפונה מיובשת, עיסת סלק מיובשת (5%), חלבון אפונה, רוטב ירקות (2%), שמן סלמון (1%), שמרים (1%) מינרלים, פרה-ביוטיקה משורש עולש (0.034%), פרה-ביוטיקה (MOS) (0.025%), גלוקוזמין (0.012%), MSM (תוסף תזונה) (0.011%), כונדרויטין (0.01%), שורש מניהוט (יוקה), חמוציות, אצות, כורכום, עגבניה, פטרוזיליה (0.005%).</p><p><br></p><p><strong>ערכים תזונתיים :</strong></p><p>חלבון גולמי: 32%, סיבים תזונתיים 2.5%, שומן גולמי: 19%, אפר גולמי: 7.5%, סידן: 7.5%, זרחן: 1.5%, אומגה 3: 1%, אומגה 6: 1.1%, לחות:&nbsp;7.5%</p>",
+      "short_description": "מזון לגורי כלבים בייטסי bitesy חלבון יחיד סלמון, תומך בהתפתחות אופטימלית של הגור\nמכיל בשר סלמון  (34% ) עם אורז לתזונה מאוזנת.\nאורז ובטטה – פחמימות איכותיות קלות לעיכול, פטרוזיליה ואצות לתזונה עשירה בחומרים מזינים.\nעם שמן סלמון – מסייע לעור בריא ופרווה מבריקה, טאורין – מסייע לבריאות הלב\nכולל ויטמינים, מינרלים ונוגדי חמצון חיוניים לחיוניות. גלוקוזמין – מסייע בהתפתחות בריאה של המפרקים\nתוצרת איטליה.",
       "sku": null,
       "brand": null,
       "price": 309,
@@ -781,11 +781,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-bitesy-gvrym-slmvn-12-kg-utr1re",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-bitesy-gvrym-slmvn-12-kg-x8x2zf",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-07T12:10:31.173Z"
+      "updated_at": "2026-07-07T12:11:48.872Z"
     },
     {
       "id": "24b55072-456f-4aa6-9cfc-e6cd5c500ec0",
