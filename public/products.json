@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T23:10:44.427Z",
+  "generated_at": "2026-07-07T23:11:47.192Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 244,
@@ -175,19 +175,19 @@
     },
     {
       "id": "38a00fb1-8b74-47cd-8161-31f59a0fe750",
-      "slug": "chtyp-nvblvs-pylh-arnb-80-gr-nolw7w",
+      "slug": "chtyp-nvblvs-pylh-arnb-80-gr-2jn8ww",
       "name": "חטיף נובלוס פילה ארנב 80 גר'",
       "name_translations": {
         "en": "Nobilus Rabbit Fillet Snack 80g",
         "he": "חטיף נובלוס פילה ארנב 80 גר'",
-        "ru": "Лакомство Nobilus Филе Кролика 80 г"
+        "ru": "Лакомство Nobilus филе кролика 80 г"
       },
-      "description": "<p>רכיבים: ארנבת, בשר חזה עוף, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 30% </li><li>שומן גולמי: מקסימום 3% </li><li>סיבים גולמיים: מקסימום 1% </li><li>אפר גולמי: מקסימום 5% </li><li>לחות: מקסימום 18%</li></ul>",
+      "description": "<p>רכיבים: ארנבת, בשר חזה עוף, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 30%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5%</li><li>לחות: מקסימום 18%</li></ul>",
       "short_description": "חטיף לכלבים נובילוס פילה ארנבת 80 גר - NOBILUS הוא חטיף אולטרה-פרימיום איכותי לכלבים, המיוצר על בסיס בשר ארנב וחזה עוף. לפי פרסומי החנויות המשווקות (כמו \"לה דוג\" ו\"המגרש של יוגב\"), מדובר בחטיף היפואלרגני, דל שומן וללא תוספת סוכר, המתאים מאוד גם לכלבים רגישים או מבוגרים.\nאריזה: 80 גרם, מגיעה לרוב עם סגירה חוזרת (פסגור) לשמירה על הטריות.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 12.5,
+      "base_price": 12.5,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -195,27 +195,27 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-arnb-80-gr-nolw7w",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-arnb-80-gr-2jn8ww",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T22:24:15.794Z"
+      "updated_at": "2026-07-07T23:10:59.634Z"
     },
     {
       "id": "53576aad-86b4-4efb-90d1-aab256826f58",
-      "slug": "chtyp-nvblvs-pylh-dg-kvd-80-gr-qfoyb8",
+      "slug": "chtyp-nvblvs-pylh-dg-kvd-80-gr-ue0c5k",
       "name": "חטיף נובלוס פילה דג קוד 80 גר'",
       "name_translations": {
         "en": "Nobilus Cod Fish Fillet Snack 80g",
         "he": "חטיף נובלוס פילה דג קוד 80 גר'",
         "ru": "Лакомство Nobilus филе трески 80 г"
       },
-      "description": "<p>רכיבים: סלמון, חזה עוף, בקלה, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 30% </li><li>שומן גולמי: מקסימום 3% </li><li>סיבים גולמיים: מקסימום 1% </li><li>אפר גולמי: מקסימום 5% לחות: </li><li>מקסימום 18%</li></ul>",
+      "description": "<p>רכיבים: סלמון, חזה עוף, בקלה, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 30%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5% לחות:</li><li>מקסימום 18%</li></ul>",
       "short_description": "נובילוס (Nobilus) חטיף קוביות פילה דג קוד (80 גרם) הוא חטיף אולטרה-פרימיום איכותי לכלבים, המיוצר מרכיבים נבחרים ומתאים במיוחד כצ'ופר יומיומי או כפרס בזמן אילוף.\nאריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (Ziploc) לשמירה על איכות המוצר לאורך זמן.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 12.5,
+      "base_price": 12.5,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -223,11 +223,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-dg-kvd-80-gr-qfoyb8",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-dg-kvd-80-gr-ue0c5k",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T22:15:38.021Z"
+      "updated_at": "2026-07-07T23:11:29.449Z"
     },
     {
       "id": "de3f54d8-7b51-47d4-9380-babf4fe7a760",
