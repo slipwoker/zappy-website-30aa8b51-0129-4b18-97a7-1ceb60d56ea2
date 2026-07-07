@@ -1,10 +1,38 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T22:39:56.799Z",
+  "generated_at": "2026-07-07T22:44:19.063Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 241,
+  "count": 242,
   "products": [
+    {
+      "id": "1c9bd934-e8a6-40e7-bce1-c6f304467716",
+      "slug": "chtyp-nvblvs-brbkyv-tslavt-kbsh-80-gr-t8bfgm",
+      "name": "חטיף נובלוס ברבקיו צלעות כבש 80 גר'",
+      "name_translations": {
+        "en": "Nobilus BBQ Lamb Ribs Treat 80g",
+        "he": "חטיף נובלוס ברבקיו צלעות כבש 80 גר'",
+        "ru": "Лакомство Nobilus барбекю рёбрышки ягнёнка 80 г"
+      },
+      "description": "<p>רכיבים: בשר חזה עוף, תוצרי לוואי של כבש, בשר חזה ברווז, קמח חיטה, חלבון סויה, עמילן סויה, גליצרין, ויטמין C נתרן EVC, חומרי טעם וריח.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 28% </li><li>שומן גולמי: מקסימום 3% </li><li>סיבים גולמיים: מקסימום 1% </li><li>אפר גולמי: מקסימום 5% לחות: </li><li>מקסימום 18%</li></ul>",
+      "short_description": "חטיף נובילוס (Nobilus) בטעם ברביקיו צלעות כבש הוא חטיף לעיסה איכותי ודל שומן המיועד לכלבים, המגיע באריזת 80 גרם עם סגירה חוזרת לשמירה על הטריות.חטיף זה פופולרי מאוד כצופר, כפרס בזמן אילוף או כחטיף תעסקות טעים המבוסס על בשר אמיתי כמרכיב עיקרי.",
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1783464090406-vdupbg.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tslavt-kbsh-80-gr-t8bfgm",
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-07-07T22:43:47.534Z"
+    },
     {
       "id": "55cd6023-2864-473e-b30b-3333c421b4f0",
       "slug": "chtyp-nvblvs-dntly-mbrshvt-80-gr-xkj2w8",
