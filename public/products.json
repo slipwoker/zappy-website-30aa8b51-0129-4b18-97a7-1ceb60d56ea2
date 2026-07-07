@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T23:13:54.860Z",
+  "generated_at": "2026-07-07T23:15:10.164Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 244,
@@ -427,19 +427,19 @@
     },
     {
       "id": "89f1b196-afac-492a-a41e-7122cc875d1c",
-      "slug": "chtyp-nvblvs-mklvt-bkr-vavrz-80-gr-pd7hmt",
+      "slug": "chtyp-nvblvs-mklvt-bkr-vavrz-80-gr-sw4el4",
       "name": "חטיף נובלוס מקלות בקר ואורז 80 גר'",
       "name_translations": {
-        "en": "Nobilus Beef & Rice Sticks Snack 80g",
+        "en": "Nobilus Beef & Rice Sticks Treat 80g",
         "he": "חטיף נובלוס מקלות בקר ואורז 80 גר'",
-        "ru": "Лакомство Nobulus палочки из говядины и риса 80 г"
+        "ru": "Лакомство Nobilus палочки из говядины и риса 80 г"
       },
       "description": "<p>בקר, בשר חזה ברווז, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 25%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5%</li><li>לחות: מקסימום 18%</li></ul>",
       "short_description": "חטיף הכלבים נובילוס (Nobilus) מקלות/רצועות בקר ואורז באריזת 80 גרם הוא חטיף פרימיום חצי קשיח, העשיר בחלבון ודל בשומן. החטיף מיוצר מבשר אמיתי כמרכיב עיקרי, קל לעיכול, ומתאים מאוד כצ'ופר יומיומי או כחטיף אילוף ותגמול שניתן לשבור בקלות לחתיכות קטנות.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 12.5,
+      "base_price": 12.5,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -447,15 +447,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-mklvt-bkr-vavrz-80-gr-pd7hmt",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-mklvt-bkr-vavrz-80-gr-sw4el4",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T21:28:56.550Z"
+      "updated_at": "2026-07-07T23:14:14.203Z"
     },
     {
       "id": "8d58d81e-03b5-44af-b820-b9cc434fad97",
-      "slug": "chtyp-nvblvs-svshy-bkr-3uzj8b",
+      "slug": "chtyp-nvblvs-svshy-bkr-1m4mq5",
       "name": "חטיף נובלוס סושי בקר",
       "name_translations": {
         "en": "Nobilus Beef Sushi Snack",
@@ -466,8 +466,8 @@
       "short_description": "נובילוס חטיף סושי בקר - 80 גרם הוא חטיף אולטרה-פרימיום איכותי לכלבים המעוצב בצורת ספירלה המזכירה סושי. החטיף מבוסס על שילוב של שלושה מקורות חלבון מובחרים וקלים לעיכול. לפי פירוט הרכיבים הרשמי של היצרן Nobilus באתר ג'וי בוקס, המוצר מיוצר מבשר אמיתי כמרכיב עיקרי ומתאים כחטיף התעסקות, אילוף או פינוק דל שומן.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 12.5,
+      "base_price": 12.5,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -475,18 +475,18 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-bkr-3uzj8b",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-bkr-1m4mq5",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T21:31:22.826Z"
+      "updated_at": "2026-07-07T23:14:29.471Z"
     },
     {
       "id": "3dd0edc0-70f1-4ed4-96e5-496c254d7c90",
-      "slug": "chtyp-nvblvs-nknykyvt-brvvz-80-gr-jn5q0s",
+      "slug": "chtyp-nvblvs-nknykyvt-brvvz-80-gr-htoyfn",
       "name": "חטיף נובלוס נקניקיות ברווז 80 גר'",
       "name_translations": {
-        "en": "Nobilus Duck Sausage Treat 80g",
+        "en": "Nobilus Duck Sausage Snack 80g",
         "he": "חטיף נובלוס נקניקיות ברווז 80 גר'",
         "ru": "Лакомство Nobilus сосиски из утки 80 г"
       },
@@ -494,8 +494,8 @@
       "short_description": "חטיף נובילוס (Nobilus) נקניקיות ברווז הוא חטיף פרימיום משלים והיפואלרגני המיועד לכלבים. החטיף מגיע באריזה של 80 גרם עם סגירה חוזרת לשמירה על הטריות, ומתאים כצ'ופר, חטיף התעסקות או לעיסה לכלבים מכל הגזעים והגילאים.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 12.5,
+      "base_price": 12.5,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -503,20 +503,20 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-nknykyvt-brvvz-80-gr-jn5q0s",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-nknykyvt-brvvz-80-gr-htoyfn",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T21:32:10.765Z"
+      "updated_at": "2026-07-07T23:14:38.449Z"
     },
     {
       "id": "86c8496c-d70e-47cd-8b09-3e73761efcf2",
-      "slug": "chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-kmd98k",
+      "slug": "chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-qyh3w2",
       "name": "חטיף נובלוס מקל ברווז ואורז 80 גר'",
       "name_translations": {
         "en": "Nobilus Duck & Rice Stick Snack 80g",
         "he": "חטיף נובלוס מקל ברווז ואורז 80 גר'",
-        "ru": "Лакомство Nobilus палочка из утки и риса 80 г"
+        "ru": "Лакомство Nobulus палочка из утки и риса 80 г"
       },
       "description": "<p>רכיבים: בשר חזה ברווז, אורז, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 25%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5%</li><li>לחות: מקסימום 18%</li></ul>",
       "short_description": "חטיף נובילוס (Nobilus) מקל ברווז ואורז הוא חטיף לעיסה איכותי ודל שומן לכלבים. המוצר מגיע במארז של 80 גרם עם סגירה חוזרת לשמירה על הטריות. הוא מבוסס על בשר אמיתי כרכיב מרכזי ומתאים כצ'ופר להתעסקות, לעיסה או כפרס באימונים.\n",
@@ -531,11 +531,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-kmd98k",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-qyh3w2",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T23:08:25.462Z"
+      "updated_at": "2026-07-07T23:14:48.440Z"
     },
     {
       "id": "aa4dc003-4597-4a90-95e7-259d072d61b7",

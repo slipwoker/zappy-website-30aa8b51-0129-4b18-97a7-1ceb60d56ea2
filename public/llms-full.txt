@@ -6678,8 +6678,8 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס מקלות בקר ואורז 80 גר'
-URL: https://gurimbakfar.co.il/product/chtyp-nvblvs-mklvt-bkr-vavrz-80-gr-pd7hmt
-Price: 0.00 ILS
+URL: https://gurimbakfar.co.il/product/chtyp-nvblvs-mklvt-bkr-vavrz-80-gr-sw4el4
+Price: 12.50 ILS
 Availability: In stock
 
 בקר, בשר חזה ברווז, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול ערכים תזונתיים: חלבון גולמי: מינימום 25% שומן גולמי: מקסימום 3% סיבים גולמיים: מקסימום 1% אפר גולמי: מקסימום 5% לחות: מקסימום 18%
@@ -6687,8 +6687,8 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס סושי בקר
-URL: https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-bkr-3uzj8b
-Price: 0.00 ILS
+URL: https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-bkr-1m4mq5
+Price: 12.50 ILS
 Availability: In stock
 
 רכיבים: בקר, בשר חזה ברווז, בקלה, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול ערכים תזונתיים: חלבון גולמי: מינימום 25% שומן גולמי: מקסימום 3% סיבים גולמיים: מקסימום 1% אפר גולמי: מקסימום 5% לחות: מקסימום 18%
@@ -6696,8 +6696,8 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס נקניקיות ברווז 80 גר'
-URL: https://gurimbakfar.co.il/product/chtyp-nvblvs-nknykyvt-brvvz-80-gr-jn5q0s
-Price: 0.00 ILS
+URL: https://gurimbakfar.co.il/product/chtyp-nvblvs-nknykyvt-brvvz-80-gr-htoyfn
+Price: 12.50 ILS
 Availability: In stock
 
 רכיבים: בשר חזה ברווז, חלבון אפונה, קמח חיטה, עמילן, מעטפת קולגן, גליצרין צמחי, סורביטול ערכים תזונתיים: חלבון גולמי: מינימום 35% שומן גולמי: מקסימום 3% סיבים גולמיים: מקסימום 1% אפר גולמי: מקסימום 5% לחות: מקסימום 18%
@@ -6705,7 +6705,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס מקל ברווז ואורז 80 גר'
-URL: https://gurimbakfar.co.il/product/chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-kmd98k
+URL: https://gurimbakfar.co.il/product/chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-qyh3w2
 Price: 12.50 ILS
 Availability: In stock
 
