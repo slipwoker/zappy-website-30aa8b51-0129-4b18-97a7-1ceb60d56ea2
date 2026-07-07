@@ -72,7 +72,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 221** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 220** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### טריפל קראון לכלב בוגר גורמה כבש
 https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-gvrmh-kbsh-0shq34
@@ -365,9 +365,10 @@ https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-2-lytr-l
 - Availability: In stock
 
 ### מעמד מוגבה לקערות אוכל ושתייה לכלבים 1 ליטר מוקה
-https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-1-lytr-mvkh-5mxf2m
+https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-1-lytr-mvkh-lylcz2
 - Price: 115.00 ILS
 - Availability: In stock
+- Image: https://gurimbakfar.co.il/assets/product-1783423310438-ta016.webp
 
 ### מעמד מוגבה לקערות אוכל ושתייה לכלבים 2 ליטר מוקה
 https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-2-lytr-mvkh-cm4ae8
@@ -1423,13 +1424,6 @@ https://gurimbakfar.co.il/product/trsys-byshvm-petglow-8o1uv3
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781451149225-d25pcr.webp
 
-### מתקן אוכל שקוף
-https://gurimbakfar.co.il/product/mtkn-avkl-shkvp-ly7x7g
-- Price: 0.00 ILS
-- Availability: In stock
-- Category: כלי אוכל ושתייה
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781451442026-49c80s.webp
-
 ### מברשת אובלית קטנה רקורד
 https://gurimbakfar.co.il/product/mbrsht-avblyt-ktnh-rkvrd-4q0chf
 - Price: 65.00 ILS
@@ -1450,6 +1444,13 @@ https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-chyvt-2akabn
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781118838806-1c9mj7.webp
+
+### הנריס דגים שלמים
+https://gurimbakfar.co.il/product/hnrys-dgym-shlmym-jc6752
+- Price: 26.00 ILS
+- Availability: In stock
+- Category: חטיפים
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781451525050-euhnz.webp
 
 ---
 

@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T11:17:26.318Z",
+  "generated_at": "2026-07-07T11:23:07.824Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 221,
+  "count": 220,
   "products": [
     {
       "id": "b81f25b9-288f-4d22-a010-9eb8c8211c2b",
@@ -1247,12 +1247,12 @@
     },
     {
       "id": "e2979dc1-cb4b-465d-8e0c-baef7a8e1b0e",
-      "slug": "mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-1-lytr-mvkh-5mxf2m",
+      "slug": "mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-1-lytr-mvkh-lylcz2",
       "name": "מעמד מוגבה לקערות אוכל ושתייה לכלבים 1 ליטר מוקה",
       "name_translations": {
         "en": "Elevated Stand for Dog Food and Water Bowls 1 Liter Mocha",
         "he": "מעמד מוגבה לקערות אוכל ושתייה לכלבים 1 ליטר מוקה",
-        "ru": "Подставка с подъёмом для мисок с едой и водой для собак 1 литр Мокко"
+        "ru": "Подставка с подъёмом для мисок для еды и воды для собак 1 литр Мокко"
       },
       "description": "",
       "short_description": null,
@@ -1262,12 +1262,16 @@
       "base_price": 115,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1783423310438-ta016.webp",
+        "https://gurimbakfar.co.il/assets/product-1783423275856-lqxw8.webp",
+        "https://gurimbakfar.co.il/assets/product-1783423243650-lhivjk.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-1-lytr-mvkh-5mxf2m",
+      "url": "https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-1-lytr-mvkh-lylcz2",
       "categories": [],
-      "updated_at": "2026-07-07T08:22:40.311Z"
+      "updated_at": "2026-07-07T11:22:36.326Z"
     },
     {
       "id": "191b56d4-60a4-4d1c-b2d4-fba748a3467e",
@@ -5385,34 +5389,6 @@
         "מוצרי טיפוח"
       ],
       "updated_at": "2026-06-14T15:36:54.907Z"
-    },
-    {
-      "id": "8b0fe407-42ed-4b53-9c9f-3d2f751189f0",
-      "slug": "mtkn-avkl-shkvp-ly7x7g",
-      "name": "מתקן אוכל שקוף",
-      "name_translations": {
-        "en": "Transparent Food Dispenser",
-        "he": "מתקן אוכל שקוף",
-        "ru": "Прозрачная кормушка"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 0,
-      "base_price": 0,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://gurimbakfar.co.il/assets/product-enhanced-1781451442026-49c80s.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mtkn-avkl-shkvp-ly7x7g",
-      "categories": [
-        "כלי אוכל ושתייה"
-      ],
-      "updated_at": "2026-06-14T15:37:32.659Z"
     },
     {
       "id": "ba5aa8fc-ac76-4f0f-b354-27e48fb3793d",
