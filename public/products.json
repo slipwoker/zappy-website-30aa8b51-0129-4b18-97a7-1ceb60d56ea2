@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T22:07:00.851Z",
+  "generated_at": "2026-07-07T22:10:22.424Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 236,
@@ -285,14 +285,14 @@
     },
     {
       "id": "86c8496c-d70e-47cd-8b09-3e73761efcf2",
-      "slug": "chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-qfhmok",
+      "slug": "chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-y3bgvq",
       "name": "חטיף נובלוס מקל ברווז ואורז 80 גר'",
       "name_translations": {
         "en": "Nobilus Duck Breast and Rice Stick Snack 80g",
         "he": "חטיף נובלוס מקל ברווז ואורז 80 גר'",
         "ru": "Лакомство Nobulus палочка из утки и риса 80 г"
       },
-      "description": "<p>רכיבים: בשר חזה ברווז, אורז, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 25% </li><li>שומן גולמי: מקסימום 3% </li><li>סיבים גולמיים: מקסימום 1% </li><li>אפר גולמי: מקסימום 5% </li><li>לחות: מקסימום 18</li></ul>",
+      "description": "<p>רכיבים: בשר חזה ברווז, אורז, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 25%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5%</li><li>לחות: מקסימום 18</li></ul>",
       "short_description": "חטיף נובילוס מקל ברווז ואורז 80 גרם (הידוע גם כחטיף Nobilus) הוא חטיף פרימיום דל שומן ועשיר בחלבון המיועד לכלבים, המבוסס על בשר חזה ברווז אמיתי כמרכיב עיקרי בשילוב אורז.",
       "sku": null,
       "brand": null,
@@ -303,11 +303,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-qfhmok",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-y3bgvq",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T17:20:05.517Z"
+      "updated_at": "2026-07-07T22:09:50.808Z"
     },
     {
       "id": "aa4dc003-4597-4a90-95e7-259d072d61b7",
