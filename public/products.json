@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T08:42:50.385Z",
+  "generated_at": "2026-07-07T08:44:23.327Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 221,
@@ -1439,29 +1439,31 @@
     },
     {
       "id": "b5b01d81-c18b-40fd-8ee0-eedc97bcb61c",
-      "slug": "mzvn-klbym-rtvb-aysgrym-arvcht-chzyr-br-lklb-410-grm-gke0t5",
+      "slug": "mzvn-klbym-rtvb-aysgrym-arvcht-chzyr-br-lklb-410-grm-s493zh",
       "name": "מזון כלבים רטוב איסגרים ארוחת חזיר בר לכלב 410 גרם",
       "name_translations": {
         "en": "Isegrim Wet Dog Food Wild Boar Meal for Dogs 410g",
         "he": "מזון כלבים רטוב איסגרים ארוחת חזיר בר לכלב 410 גרם",
-        "ru": "Влажный корм для собак Isegrim блюдо из дикого кабана для собак 410 грамм"
+        "ru": "Влажный корм для собак Isegrim ужин из мяса кабана для собак 410 грамм"
       },
-      "description": "",
-      "short_description": null,
+      "description": "<p>Isegrim Roots מספקת את התזונה המקורית של האב הקדמון של כל הכלבים – הזאב. שימורי סופר פרימיום המציעים טעם ללא תחרות בזכות: מרכיבים טבעיים, 70% תכולת בשר, מגוון ירקות עשירים בויטמינים, שמנים מזינים ועשבי בר מובחרים.</p><p>נטול דגנים וגלוטן!</p><p>מכיל בשר חזיר בלבד – היפואלרגני!</p><p>97% בשר וציר בשר!</p><p>3% ירקות, שמנים ועשבי בר.</p><p>מגיע באריזת פאווץ מהודרת ונוחה לאיחסון.</p><p><strong>רכיבים עיקריים:</strong></p><p>70% חזיר בר, 27% ציר, 10% לבבות עוף, 1.5% גזר לבן, 1% מינרלים, 0.3% עשבי יער, 0.2% שמן זרעי פשתה.</p>",
+      "short_description": "410 גרם\n\nשימורים, לכלבים בוגרים מכל הגזעים, מהאיכות הגבוהה ביותר של המותג Isegrim Roots על חזיר בר.",
       "sku": null,
       "brand": null,
       "price": 19.9,
       "base_price": 19.9,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783413809325-9up29.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-aysgrym-arvcht-chzyr-br-lklb-410-grm-gke0t5",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-aysgrym-arvcht-chzyr-br-lklb-410-grm-s493zh",
       "categories": [
         "שימורים ומעדנים"
       ],
-      "updated_at": "2026-07-07T08:22:38.203Z"
+      "updated_at": "2026-07-07T08:44:00.147Z"
     },
     {
       "id": "9e7fc6a5-3f27-4d81-86b9-2976fe4fdae5",
