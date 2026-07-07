@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T23:18:38.618Z",
+  "generated_at": "2026-07-07T23:19:20.098Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 244,
@@ -654,7 +654,7 @@
       "slug": "chtyp-nvblvs-brvvz-pylh-rk-80-gr-9e5u7g",
       "name": "חטיף נובלוס ברווז פילה רך 80 גר'",
       "name_translations": {
-        "en": "Nobilus Duck Fillet Soft Treat 80g",
+        "en": "Nobilus Duck Fillet Soft Snack 80g",
         "he": "חטיף נובלוס ברווז פילה רך 80 גר'",
         "ru": "Лакомство Nobilus утиное филе мягкое 80 г"
       },
@@ -675,7 +675,7 @@
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T23:18:33.206Z"
+      "updated_at": "2026-07-07T23:18:48.466Z"
     },
     {
       "id": "c75ab4b1-2890-4ff3-b3e5-9b9fe31f4fd3",
