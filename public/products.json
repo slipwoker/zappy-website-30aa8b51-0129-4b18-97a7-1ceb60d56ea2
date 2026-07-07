@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T21:30:58.558Z",
+  "generated_at": "2026-07-07T21:31:54.454Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 234,
@@ -197,18 +197,18 @@
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T21:30:26.682Z"
+      "updated_at": "2026-07-07T21:31:22.826Z"
     },
     {
       "id": "3dd0edc0-70f1-4ed4-96e5-496c254d7c90",
-      "slug": "chtyp-nvblvs-nknykyvt-brvvz-hocacd",
+      "slug": "chtyp-nvblvs-nknykyvt-brvvz-ebl5vo",
       "name": "חטיף נובלוס נקניקיות ברווז",
       "name_translations": {
         "en": "Nobilus Duck Sausages Snack",
         "he": "חטיף נובלוס נקניקיות ברווז",
         "ru": "Лакомство Nobilus сосиски из утки"
       },
-      "description": "<p>רכיבים: בשר חזה ברווז, חלבון אפונה, קמח חיטה, עמילן, מעטפת קולגן, גליצרין צמחי, סורביטול</p><p>ערכים תזונתיים: </p><ul><li>חלבון גולמי: מינימום 35% </li><li>שומן גולמי: מקסימום 3% </li><li>סיבים גולמיים: מקסימום 1% </li><li>אפר גולמי: מקסימום 5% </li><li>לחות: מקסימום 18%</li></ul>",
+      "description": "<p>רכיבים: בשר חזה ברווז, חלבון אפונה, קמח חיטה, עמילן, מעטפת קולגן, גליצרין צמחי, סורביטול</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 35%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5%</li><li>לחות: מקסימום 18%</li></ul>",
       "short_description": "חטיף נובילוס (Nobilus) נקניקיות ברווז הוא חטיף פרימיום משלים והיפואלרגני המיועד לכלבים. החטיף מגיע באריזה של 80 גרם עם סגירה חוזרת לשמירה על הטריות, ומתאים כצ'ופר, חטיף התעסקות או לעיסה לכלבים מכל הגזעים והגילאים.",
       "sku": null,
       "brand": null,
@@ -216,14 +216,16 @@
       "base_price": 0,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1783459889501-znyu5g.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-nknykyvt-brvvz-hocacd",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-nknykyvt-brvvz-ebl5vo",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T17:25:20.013Z"
+      "updated_at": "2026-07-07T21:31:40.951Z"
     },
     {
       "id": "86c8496c-d70e-47cd-8b09-3e73761efcf2",
