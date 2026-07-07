@@ -75,7 +75,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 218** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### חטיף נובלוס סושי עוף
-https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-avp-731hok
+https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-avp-o7u16v
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: חטיפים
