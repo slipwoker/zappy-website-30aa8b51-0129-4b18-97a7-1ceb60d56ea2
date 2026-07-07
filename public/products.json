@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T11:53:13.747Z",
+  "generated_at": "2026-07-07T11:54:58.335Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 216,
@@ -969,29 +969,31 @@
     },
     {
       "id": "b67325a3-e302-4739-926f-adcbc4bda696",
-      "slug": "adykshn-gvr-15-kg-1zssmk",
+      "slug": "adykshn-gvr-15-kg-l3ysjz",
       "name": "אדיקשן גור 15 ק\"ג",
       "name_translations": {
         "en": "Addiction Puppy 15 kg",
         "he": "אדיקשן גור 15 ק\"ג",
-        "ru": "Addiction Гур 15 кг"
+        "ru": "Addiction Щенок 15 кг"
       },
-      "description": "",
-      "short_description": null,
+      "description": "<p><strong>רכיבים:</strong></p><p>קמח עוף (30%), אורז, תירס, קמח תירס, שמנים ושומנים, עיסת סלק, כבד hydrolysed, ויטמינים ומינרלים. עם חומרים נוגדי חמצון וחומרים מאושרים על ידי האיחוד האירופי</p><p><br></p><p><strong>אנליזה:</strong></p><p>חלבון גרוס: 31%, חומר שומני ברוטו: 21%, אפר ברוטו: 7,5%, תאית ברוטו: 2%, לחות: 8%, סידן: 1,7%, זרחן: 1%, ויטמין A: 19.00 UI / ק”ג, ויטמין D3: 2.000 UI / ק”ג, ויטמין E (DL-alpha tocopherol acetate): 120 מ”ג / ק”ג. נחושת (pentahydrate סולפט נחושת): 14 מ”ג / ק”ג. עם חומרים נוגדי חמצון וחומרים מאושרים על ידי האיחוד האירופי.</p>",
+      "short_description": "טעמו הטוב ועיכולו הקל של מזון זה הופכים אותו לתזונה המושלמת עבור גורים במהלך השלב\nהראשון של הצמיחה והתפתחות, כמו גם לנקבות בהריון או מניקות. נוסחת המזון פותחה\nבמיוחד עבור גורי כלבים מהחודש הראשון עד לגיל שנה. מבטיח התפתחות אופטימלית של\nהעצמות, השיניים והשרירים. הגודל והצורה של הקציצות, תוכננו במיוחד עבור הגורים. מוצר זה\nמיוצר עם חומרי גלם שנבחרו בקפדנות, באיכות הטובה ביותר, תוך השקעת הטיפולים הטובים\nביותר בהכנתו ובאריזתו.",
       "sku": null,
-      "brand": null,
+      "brand": "אדיקשן",
       "price": 299,
       "base_price": 299,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1783425221918-4nsbbj.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/adykshn-gvr-15-kg-1zssmk",
+      "url": "https://gurimbakfar.co.il/product/adykshn-gvr-15-kg-l3ysjz",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-07T08:22:44.909Z"
+      "updated_at": "2026-07-07T11:54:26.900Z"
     },
     {
       "id": "3ac6b6c3-c1b1-4a95-8fea-c1acf3cecc98",
