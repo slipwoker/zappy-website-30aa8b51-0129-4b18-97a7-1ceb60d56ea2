@@ -6154,8 +6154,8 @@ gurimbakfar@gmail.com
 
 
 
-קראתי ואני מסכים/ה ל   תנאי השימוש  |
-מדיניות החזרות     ול     מדיניות הפרטיות
+קראתי ואני מסכים/ה ל  תנאי השימוש  |
+מדיניות החזרות    ול    מדיניות הפרטיות
 
 
 
@@ -6559,7 +6559,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס סושי עוף
-URL: https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-avp-ekmh5v
+URL: https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-avp-e8h2it
 Price: 0.00 ILS
 Availability: In stock
 SKU: 200642

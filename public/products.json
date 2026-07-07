@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T15:44:25.265Z",
+  "generated_at": "2026-07-07T15:45:39.754Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 220,
@@ -57,10 +57,10 @@
     },
     {
       "id": "65a2372f-237d-444d-aace-a03aee891e38",
-      "slug": "chtyp-nvblvs-svshy-avp-ekmh5v",
+      "slug": "chtyp-nvblvs-svshy-avp-e8h2it",
       "name": "חטיף נובלוס סושי עוף",
       "name_translations": {
-        "en": "Nobulos Sushi Chicken Snack",
+        "en": "Nobulos Chicken Sushi Snack",
         "he": "חטיף נובלוס סושי עוף",
         "ru": "Лакомство Novelos Суши с курицей"
       },
@@ -75,11 +75,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-avp-ekmh5v",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-avp-e8h2it",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T15:36:16.713Z"
+      "updated_at": "2026-07-07T15:45:08.201Z"
     },
     {
       "id": "1b166e2a-f077-4c69-a54b-4bfbbd4eeb3b",
