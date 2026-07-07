@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T21:32:42.703Z",
+  "generated_at": "2026-07-07T21:35:17.831Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 234,
@@ -255,14 +255,14 @@
     },
     {
       "id": "aa4dc003-4597-4a90-95e7-259d072d61b7",
-      "slug": "chtyp-nvblvs-brvvz-vdg-kvd-80-gr-778ofo",
+      "slug": "chtyp-nvblvs-brvvz-vdg-kvd-80-gr-nqbu8q",
       "name": "חטיף נובלוס ברווז ודג קוד 80 גר'",
       "name_translations": {
         "en": "Nobilus Duck & Cod Snack 80g",
         "he": "חטיף נובלוס ברווז ודג קוד 80 גר'",
         "ru": "Лакомство Nobulus с уткой и треской 80 г"
       },
-      "description": "<p>רכיבים: בשר חזה ברווז, בקלה, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 25% </li><li>שומן גולמי: מקסימום 3% </li><li>סיבים גולמיים: מקסימום 1% </li><li>אפר גולמי: מקסימום 5% </li><li>לחות: מקסימום 18%</li></ul>",
+      "description": "<p>רכיבים: בשר חזה ברווז, בקלה, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 25%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5%</li><li>לחות: מקסימום 18%</li></ul>",
       "short_description": "חטיף נובילוס (Nobilus) בטעם ברווז ודג קוד באריזת 80 גרם הוא חטיף אולטרה-פרימיום איכותי לכלבים, המשלב חלבון מן החי (חזה ברווז) יחד עם דג בקלה (קוד) העשיר באומגה 3. החטיף מתאפיין ברמת טעימות גבוהה, הוא דל שומן, קל לעיכול ומתאים במיוחד גם לכלבים בעלי רגישויות או אלרגיות.",
       "sku": null,
       "brand": null,
@@ -270,14 +270,16 @@
       "base_price": 0,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1783460063333-0rpkvy.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-vdg-kvd-80-gr-778ofo",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-vdg-kvd-80-gr-nqbu8q",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T17:12:10.340Z"
+      "updated_at": "2026-07-07T21:34:46.177Z"
     },
     {
       "id": "e1cee050-9a3d-43d4-9390-050151046343",
