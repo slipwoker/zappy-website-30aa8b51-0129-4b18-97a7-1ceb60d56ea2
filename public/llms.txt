@@ -72,7 +72,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 231** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 232** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### חטיף נובלוס פילה כבש 80 גר'
+https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-kbsh-80-gr-640wot
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: חטיפים
+- Description: חטיף נובילוס (Nobilus) פילה כבש במשקל 80 גרם הוא חטיף פרמיום היפואלרגני המיועד לכלבים מכל הגזעים והגילאים. הוא פופולרי במיוחד כצ'ופר איכותי, חטיף אימון או תוספת משלימה למזון.
 
 ### חטיף נובלוס קוביות כבש אילוף 80 גר'
 https://gurimbakfar.co.il/product/chtyp-nvblvs-kvbyvt-kbsh-aylvp-80-gr-xwyh9p
@@ -1479,13 +1486,6 @@ https://gurimbakfar.co.il/product/tbat-laymvn-klbym-4g5jxq
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781450589408-99unfi.webp
-
-### משקולת גומי דנטלית
-https://gurimbakfar.co.il/product/mshkvlt-gvmy-dntlyt-i3kjv5
-- Price: 25.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781450631767-q4nqtm.webp
 
 ---
 
