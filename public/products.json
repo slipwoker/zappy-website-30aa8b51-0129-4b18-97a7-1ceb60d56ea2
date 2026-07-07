@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T11:58:43.813Z",
+  "generated_at": "2026-07-07T12:02:22.139Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 215,
@@ -867,29 +867,31 @@
     },
     {
       "id": "d8ff859b-8608-4f7e-9c4e-1586b22e04c2",
-      "slug": "sms-pyldsams-field-snyvr-lyyt-13-kg-9kdwn3",
+      "slug": "sms-pyldsams-field-snyvr-lyyt-13-kg-19wjj8",
       "name": "סמס פילד/Sam's Field סניור לייט 13 ק\"ג",
       "name_translations": {
         "en": "Sam's Field Senior Light 13 kg",
         "he": "סמס פילד/Sam's Field סניור לייט 13 ק\"ג",
-        "ru": "סמס פילד/Sam's Field Сениор Лайт 13 кг"
+        "ru": "Sam's Field Сениор Лайт 13 кг"
       },
       "description": "",
-      "short_description": null,
+      "short_description": "מזון סופר פרמיום לכלבים בוגרים ומבוגרים מבית Sam’s Field, היפו אלרגני מופחת דגנים. מתאים לכלבים מבוגרים (סניור) או לכלבים שצריכים לרדת במשקל – מופחת קלוריות ומכיל סיבים העוזרים לתחושת שובע. על בסיס בשר כבש כמקור חלבון איכותי.",
       "sku": null,
-      "brand": null,
+      "brand": "סמס פילד",
       "price": 299,
       "base_price": 299,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1783425541892-e6t9z5.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/sms-pyldsams-field-snyvr-lyyt-13-kg-9kdwn3",
+      "url": "https://gurimbakfar.co.il/product/sms-pyldsams-field-snyvr-lyyt-13-kg-19wjj8",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-07T08:22:55.611Z"
+      "updated_at": "2026-07-07T12:00:18.695Z"
     },
     {
       "id": "5743891b-d44b-43b9-9c46-6f5c9da99e57",
