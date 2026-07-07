@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T11:41:50.676Z",
+  "generated_at": "2026-07-07T11:43:50.214Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 216,
@@ -1097,12 +1097,12 @@
     },
     {
       "id": "dc85bbc5-3368-4375-950e-d26bbc5e053b",
-      "slug": "tsatsva-paylvt-ayntraktyby-tirotto-lklbym-8eef1h",
+      "slug": "tsatsva-paylvt-ayntraktyby-tirotto-lklbym-rvdprt",
       "name": "צעצוע פעילות אינטראקטיבי TIROTTO לכלבים",
       "name_translations": {
         "en": "TIROTTO Interactive Activity Toy for Dogs",
         "he": "צעצוע פעילות אינטראקטיבי TIROTTO לכלבים",
-        "ru": "Интерактивная игрушка TIROTTO для собак"
+        "ru": "Интерактивная игрушка-активити TIROTTO для собак"
       },
       "description": "",
       "short_description": null,
@@ -1120,11 +1120,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/tsatsva-paylvt-ayntraktyby-tirotto-lklbym-8eef1h",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-paylvt-ayntraktyby-tirotto-lklbym-rvdprt",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-07-07T11:41:19.158Z"
+      "updated_at": "2026-07-07T11:43:18.715Z"
     },
     {
       "id": "48503db5-bce6-4aa6-8d4d-36f34861f717",
