@@ -72,7 +72,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 242** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 243** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### חטיף נובלוס ברבקיו טיבון בקר 80 גר'
+https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-pmtila
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: חטיפים
+- Description: חטיף נובילוס (Nobilus) בטעם סטייק טיבון בקר / ברביקיו בקר במשקל 80 גרם הוא חטיף אולטרה-פרימיום איכותי וטעים המיועד לכלבים, המבוסס על בשר אמיתי כמרכיב עיקרי ומתאים כפינוק יומי או כפרס באילוף. אריזה: מגיע במארז נוח עם סגירה חוזרת (Ziploc) השומרת על טריות המוצר לאורך זמן.
+- Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783464427466-wndd0c.webp
 
 ### חטיף נובלוס ברבקיו צלעות כבש 80 גר'
 https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tslavt-kbsh-80-gr-t8bfgm
@@ -1502,13 +1510,6 @@ https://gurimbakfar.co.il/product/kdvr-mshchk-alsty-gauldp
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449405837-ddn8wk.webp
-
-### משחת שיניים bioline
-https://gurimbakfar.co.il/product/mshcht-shynyym-bioline-d64o17
-- Price: 30.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449468516-kivhhc.webp
 
 ---
 
