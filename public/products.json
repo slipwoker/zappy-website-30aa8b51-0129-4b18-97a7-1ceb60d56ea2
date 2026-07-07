@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T22:58:09.749Z",
+  "generated_at": "2026-07-07T22:59:24.252Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 244,
   "products": [
     {
       "id": "96fca75b-38ad-4bb4-8a1d-d00c08d8a04a",
-      "slug": "chtyp-nvblvs-brbkyv-shvk-avp-80-gr-00tn61",
+      "slug": "chtyp-nvblvs-brbkyv-shvk-avp-80-gr-6przv4",
       "name": "חטיף נובלוס ברבקיו שוק עוף 80 גר'",
       "name_translations": {
         "en": "Nobilus BBQ Chicken Drumstick Treat 80g",
@@ -18,8 +18,8 @@
       "short_description": "חטיף נובילוס (Nobilus) בטעם שוק עוף ברביקיו (80 גרם) הוא חטיף פרימיום פופולרי ועשיר בחלבון המיועד לפינוק, אימון ותעסוקה של כלבים.\nאריזה: מארז נוח במשקל 80 גרם הכולל סגירה חוזרת (Ziploc) לשמירה מרבית על הטריות.",
       "sku": null,
       "brand": null,
-      "price": 15,
-      "base_price": 15,
+      "price": 12.5,
+      "base_price": 12.5,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -27,11 +27,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-00tn61",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-6przv4",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T22:57:37.748Z"
+      "updated_at": "2026-07-07T22:58:59.810Z"
     },
     {
       "id": "d02028c5-495a-4a29-b6aa-6aa33ac38143",
