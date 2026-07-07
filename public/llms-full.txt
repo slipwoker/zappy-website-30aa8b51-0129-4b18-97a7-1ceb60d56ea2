@@ -6154,8 +6154,8 @@ gurimbakfar@gmail.com
 
 
 
-קראתי ואני מסכים/ה ל   תנאי השימוש  |
-מדיניות החזרות     ול     מדיניות הפרטיות
+קראתי ואני מסכים/ה ל  תנאי השימוש  |
+מדיניות החזרות    ול    מדיניות הפרטיות
 
 
 
@@ -6541,6 +6541,15 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ---
 
 ## Product Catalog
+
+### חטיף נובלוס סושי עוף
+URL: https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-avp-v7lp7l
+Price: 0.00 ILS
+Availability: In stock
+
+רכיבים: בשר חזה עוף, בקלה, קמח חיטה, עמילן, גליצרין ירקות, חלבון אפונה, סורביטול, מלח, אשלגן סורבט &nbsp;&nbsp;
+
+---
 
 ### מתקן מים/אוכל אוטומטי עם קערת נירוסטה
 URL: https://gurimbakfar.co.il/product/mtkn-mymavkl-avtvmty-am-kart-nyrvsth-p6x15w

@@ -72,7 +72,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 217** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 218** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### חטיף נובלוס סושי עוף
+https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-avp-v7lp7l
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: חטיפים
+- Description: חטיפי נובילוס, חטיפים טעימים במיוחד המתאימים למתן כפינוק, לעיסה, ומושלמים כתוספת משלימה לאוכל. 80 גרם * מארז עם סגירה חוזרת, לשמירה על טריות * מושלם כחטיף התעסקות * מקור חלבון איכותי * חטיף דל שומן * בשר אמיתי כמרכיב עיקרי
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1783435604868-dfxn5d.webp
 
 ### מתקן מים/אוכל אוטומטי עם קערת נירוסטה
 https://gurimbakfar.co.il/product/mtkn-mymavkl-avtvmty-am-kart-nyrvsth-p6x15w
@@ -1479,13 +1487,6 @@ https://gurimbakfar.co.il/product/arkt-tschtsvch-shynyym-lklbym-btam-avp-jqa7h1
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781434062728-mt2u4b.webp
-
-### חבל S
-https://gurimbakfar.co.il/product/chbl-s-vx7dpr
-- Price: 7.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781434018395-zc2gy.webp
 
 ---
 
