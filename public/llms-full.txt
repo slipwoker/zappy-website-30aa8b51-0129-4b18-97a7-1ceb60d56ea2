@@ -6542,6 +6542,13 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 
 ## Product Catalog
 
+### מתקן מים אוטומטי
+URL: https://gurimbakfar.co.il/product/mtkn-mym-avtvmty-vef3of
+Price: 64.99 ILS
+Availability: In stock
+
+---
+
 ### טריפל קראון לכלב בוגר גורמה כבש
 URL: https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-gvrmh-kbsh-0shq34
 Price: 0.00 ILS

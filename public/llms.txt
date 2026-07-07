@@ -72,7 +72,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 215** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 216** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### מתקן מים אוטומטי
+https://gurimbakfar.co.il/product/mtkn-mym-avtvmty-vef3of
+- Price: 64.99 ILS
+- Availability: In stock
+- Category: כלי אוכל ושתייה
+- Description: מתקן מים אוטומטי לחיות מחמד הפועל על בסיס כוח הכבידה
 
 ### טריפל קראון לכלב בוגר גורמה כבש
 https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-gvrmh-kbsh-0shq34
@@ -1477,13 +1484,6 @@ https://gurimbakfar.co.il/product/brvvz-mtsptsp-m-o4vroa
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781433973805-es62mg.webp
-
-### מגש פדים לאילוף כלבים
-https://gurimbakfar.co.il/product/mgsh-pdym-laylvp-klbym-nas8ox
-- Price: 100.00 ILS
-- Availability: In stock
-- Category: אביזרים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781433928708-4ctdd3.webp
 
 ---
 

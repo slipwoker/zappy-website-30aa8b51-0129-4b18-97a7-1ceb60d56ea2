@@ -1,10 +1,36 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T12:57:01.038Z",
+  "generated_at": "2026-07-07T13:10:35.902Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 215,
+  "count": 216,
   "products": [
+    {
+      "id": "07e43b43-65a5-42eb-a30f-3a52e637d6c3",
+      "slug": "mtkn-mym-avtvmty-vef3of",
+      "name": "מתקן מים אוטומטי",
+      "name_translations": {
+        "en": "Automatic Water Dispenser",
+        "he": "מתקן מים אוטומטי",
+        "ru": "Автоматическая поилка"
+      },
+      "description": "",
+      "short_description": "מתקן מים אוטומטי לחיות מחמד הפועל על בסיס כוח הכבידה",
+      "sku": null,
+      "brand": null,
+      "price": 64.99,
+      "base_price": 64.99,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mtkn-mym-avtvmty-vef3of",
+      "categories": [
+        "כלי אוכל ושתייה"
+      ],
+      "updated_at": "2026-07-07T13:10:04.356Z"
+    },
     {
       "id": "b81f25b9-288f-4d22-a010-9eb8c8211c2b",
       "slug": "trypl-kravn-lklb-bvgr-gvrmh-kbsh-0shq34",
