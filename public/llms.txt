@@ -72,7 +72,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 243** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 244** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### חטיף נובלוס ברבקיו שוק עוף 80 גר'
+https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-c2ni1j
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: חטיפים
+- Description: חטיף נובילוס (Nobilus) בטעם שוק עוף ברביקיו (80 גרם) הוא חטיף פרימיום פופולרי ועשיר בחלבון המיועד לפינוק, אימון ותעסוקה של כלבים. אריזה: מארז נוח במשקל 80 גרם הכולל סגירה חוזרת (Ziploc) לשמירה מרבית על הטריות.
+- Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783464739061-immko8.webp
 
 ### חטיף נובלוס ברבקיו טיבון בקר 80 גר'
 https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-pmtila
@@ -1503,13 +1511,6 @@ https://gurimbakfar.co.il/product/mbrsht-freedog-ip8x9x
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449317230-uuzxmq.webp
-
-### כדור משחק אלסטי
-https://gurimbakfar.co.il/product/kdvr-mshchk-alsty-gauldp
-- Price: 30.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449405837-ddn8wk.webp
 
 ---
 
