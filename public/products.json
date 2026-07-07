@@ -1,21 +1,21 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T18:25:19.472Z",
+  "generated_at": "2026-07-07T18:31:52.643Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 228,
   "products": [
     {
       "id": "8d58d81e-03b5-44af-b820-b9cc434fad97",
-      "slug": "chtyp-nvblvs-svshy-bkr-nvgm1y",
+      "slug": "chtyp-nvblvs-svshy-bkr-q49dac",
       "name": "חטיף נובלוס סושי בקר",
       "name_translations": {
-        "en": "Nobulos Beef Sushi Snack",
+        "en": "Nobilus Beef Sushi Snack",
         "he": "חטיף נובלוס סושי בקר",
-        "ru": "Лакомство Novelos Суши говядина"
+        "ru": "Лакомство Nobilus Суши из говядины"
       },
-      "description": "",
-      "short_description": null,
+      "description": "<p>רכיבים: בקר, בשר חזה ברווז, בקלה, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 25% </li><li>שומן גולמי: מקסימום 3% </li><li>סיבים גולמיים: מקסימום 1% </li><li>אפר גולמי: מקסימום 5% </li><li>לחות: מקסימום 18%</li></ul>",
+      "short_description": "נובילוס חטיף סושי בקר - 80 גרם הוא חטיף אולטרה-פרימיום איכותי לכלבים המעוצב בצורת ספירלה המזכירה סושי. החטיף מבוסס על שילוב של שלושה מקורות חלבון מובחרים וקלים לעיכול. לפי פירוט הרכיבים הרשמי של היצרן Nobilus באתר ג'וי בוקס, המוצר מיוצר מבשר אמיתי כמרכיב עיקרי ומתאים כחטיף התעסקות, אילוף או פינוק דל שומן.",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -25,9 +25,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-bkr-nvgm1y",
-      "categories": [],
-      "updated_at": "2026-07-07T18:22:03.055Z"
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-bkr-q49dac",
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-07-07T18:31:41.093Z"
     },
     {
       "id": "3dd0edc0-70f1-4ed4-96e5-496c254d7c90",

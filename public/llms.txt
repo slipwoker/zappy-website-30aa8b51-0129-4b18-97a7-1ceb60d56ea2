@@ -75,9 +75,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 228** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### חטיף נובלוס סושי בקר
-https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-bkr-nvgm1y
+https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-bkr-q49dac
 - Price: 0.00 ILS
 - Availability: In stock
+- Category: חטיפים
+- Description: נובילוס חטיף סושי בקר - 80 גרם הוא חטיף אולטרה-פרימיום איכותי לכלבים המעוצב בצורת ספירלה המזכירה סושי. החטיף מבוסס על שילוב של שלושה מקורות חלבון מובחרים וקלים לעיכול. לפי פירוט הרכיבים הרשמי של היצרן Nobilus באתר ג'וי בוקס, המוצר מיוצר מבשר אמיתי כמרכיב עיקרי ומתאים כחטיף התעסקות, אילוף או פינוק דל שומן.
 
 ### חטיף נובלוס נקניקיות ברווז
 https://gurimbakfar.co.il/product/chtyp-nvblvs-nknykyvt-brvvz-hocacd
