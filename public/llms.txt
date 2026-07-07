@@ -72,7 +72,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 232** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 233** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### חטיף נובלוס נקניקיות כבש 80 גר'
+https://gurimbakfar.co.il/product/chtyp-nvblvs-nknykyvt-kbsh-80-gr-yfr187
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: חטיפים
+- Description: Nobilus נובילוס חטיף נקניקיות כבש הוא חטיף פרימיום היפואלרגני המיועד לכלבים, המגיע באריזה של 80 גרם ומבוסס על שילוב של בשר כבש ובשר חזה ברווז.
 
 ### חטיף נובלוס פילה כבש 80 גר'
 https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-kbsh-80-gr-640wot
@@ -1479,13 +1486,6 @@ https://gurimbakfar.co.il/product/kvtsts-tsypvrnyym-petsproject-zvyroj
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781450306935-lm0zas.webp
-
-### טבעת לאימון כלבים
-https://gurimbakfar.co.il/product/tbat-laymvn-klbym-4g5jxq
-- Price: 25.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781450589408-99unfi.webp
 
 ---
 
