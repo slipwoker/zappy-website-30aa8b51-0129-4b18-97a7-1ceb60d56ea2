@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T11:43:50.214Z",
+  "generated_at": "2026-07-07T11:47:47.772Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 216,
@@ -943,14 +943,14 @@
     },
     {
       "id": "b1437e92-9c4e-4a33-a559-f9433ac25293",
-      "slug": "myth-laxury-lklb-vlchtvl-nt8xxc",
+      "slug": "myth-laxury-lklb-vlchtvl-eqse1f",
       "name": "מיטה LAXURY לכלב ולחתול",
       "name_translations": {
         "en": "LAXURY Bed for Dogs and Cats",
         "he": "מיטה LAXURY לכלב ולחתול",
         "ru": "Кровать LAXURY для собак и кошек"
       },
-      "description": "מיטה בעלת מראה אלגנטי ויוקרתי בעלת בסיס מוגבה",
+      "description": "<p>מיטה בעלת מראה אלגנטי ויוקרתי בעלת בסיס מוגבה</p>",
       "short_description": "מראה אלגנטי ויוקרתי",
       "sku": null,
       "brand": null,
@@ -958,12 +958,14 @@
       "base_price": 379,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783424730256-5m6khm.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/myth-laxury-lklb-vlchtvl-nt8xxc",
+      "url": "https://gurimbakfar.co.il/product/myth-laxury-lklb-vlchtvl-eqse1f",
       "categories": [],
-      "updated_at": "2026-07-07T08:22:46.731Z"
+      "updated_at": "2026-07-07T11:47:15.959Z"
     },
     {
       "id": "b67325a3-e302-4739-926f-adcbc4bda696",
