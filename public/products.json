@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T23:17:12.557Z",
+  "generated_at": "2026-07-07T23:18:17.021Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 244,
@@ -623,19 +623,19 @@
     },
     {
       "id": "f3690ea1-137c-4b5a-98e4-5166e5f0358f",
-      "slug": "chtyp-nvblvs-ngysy-brvvz-80-gr-zaik60",
+      "slug": "chtyp-nvblvs-ngysy-brvvz-80-gr-nt62md",
       "name": "חטיף נובלוס נגיסי ברווז 80 גר'",
       "name_translations": {
         "en": "Nobilus Duck Bites Snack 80g",
         "he": "חטיף נובלוס נגיסי ברווז 80 גר'",
-        "ru": "Лакомство Nobulus кусочки утки 80 гр'"
+        "ru": "Лакомство Nobulus кусочки утки 80 г"
       },
       "description": "<p>רכיבים: בשר חזה ברווז, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול</p><p>ערכים תזונתיים:</p><p>חלבון גולמי: מינימום 30% שומן גולמי: מקסימום 3% סיבים גולמיים: מקסימום 1% אפר גולמי: מקסימום 5% לחות: מקסימום 18%</p>",
       "short_description": "נובילוס חטיף היפואלרגני לכלב - נגיסי ברווז 80 גרם NOBILUS הוא חטיף אולטרה-פרימיום פופולרי ומבוקש מאוד לכלבים, המיוצר מבשר חזה ברווז אמיתי כמרכיב עיקרי.\nיתרון נוסף - אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (זיפר) לשמירה על איכות החטיף לאורך זמן.\n",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 12.5,
+      "base_price": 12.5,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -643,27 +643,27 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-ngysy-brvvz-80-gr-zaik60",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-ngysy-brvvz-80-gr-nt62md",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T21:40:49.707Z"
+      "updated_at": "2026-07-07T23:17:45.221Z"
     },
     {
       "id": "a6a239e7-01ee-4797-8003-1bb2777e1d6a",
-      "slug": "chtyp-nvblvs-brvvz-pylh-rk-80-gr-bry96p",
+      "slug": "chtyp-nvblvs-brvvz-pylh-rk-80-gr-up4i1b",
       "name": "חטיף נובלוס ברווז פילה רך 80 גר'",
       "name_translations": {
-        "en": "Nobilus Duck Fillet Soft Snack 80g",
+        "en": "Nobilus Duck Fillet Soft Treat 80g",
         "he": "חטיף נובלוס ברווז פילה רך 80 גר'",
-        "ru": "Лакомство Nobulus филе утки мягкое 80 г"
+        "ru": "Лакомство Nobilus утиное филе мягкое 80 г"
       },
       "description": "<p>רכיבים עקריים: בשר חזה ברווז, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי 30%</li><li>שומן גולמי מקסימום 3%</li><li>סיבים גולמיים מקסימום 1%</li><li>אפר גולמי מקסימום 5%</li><li>לחות מקסימום 22%</li></ul>",
       "short_description": "חטיף הכלבים נובילוס (Nobilus) פילה ברווז רך במארז 80 גרם הוא חטיף איכותי מסדרת אולטרה-פרימיום, המבוסס על בשר חזה ברווז אמיתי כמרכיב עיקרי (מעל 30%). החטיף מתאפיין במרקם רך ונימוח, עשיר בחלבון ודל מאוד בשומן, מה שהופך אותו למושלם כצ'ופר יומיומי, חטיף אילוף או פינוק לכלבים בעלי מערכת עיכול רגישה.\nיתרון נוסף - אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (זיפר) לשמירה על איכות החטיף לאורך זמן.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 12.5,
+      "base_price": 12.5,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -671,11 +671,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-pylh-rk-80-gr-bry96p",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-pylh-rk-80-gr-up4i1b",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T21:41:13.688Z"
+      "updated_at": "2026-07-07T23:18:06.511Z"
     },
     {
       "id": "c75ab4b1-2890-4ff3-b3e5-9b9fe31f4fd3",
