@@ -75,11 +75,12 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 238** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### חטיף נובלוס פילה ארנב 80 גר'
-https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-arnb-80-gr-fnn7qi
+https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-arnb-80-gr-nolw7w
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: חטיף לכלבים נובילוס פילה ארנבת 80 גר - NOBILUS הוא חטיף אולטרה-פרימיום איכותי לכלבים, המיוצר על בסיס בשר ארנב וחזה עוף. לפי פרסומי החנויות המשווקות (כמו "לה דוג" ו"המגרש של יוגב"), מדובר בחטיף היפואלרגני, דל שומן וללא תוספת סוכר, המתאים מאוד גם לכלבים רגישים או מבוגרים. אריזה: 80 גרם, מגיעה לרוב עם סגירה חוזרת (פסגור) לשמירה על הטריות.
+- Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783462971467-ivkv6r.webp
 
 ### חטיף נובלוס פילה דג קוד 80 גר'
 https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-dg-kvd-80-gr-qfoyb8
