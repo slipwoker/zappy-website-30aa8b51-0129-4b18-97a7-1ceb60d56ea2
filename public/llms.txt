@@ -72,7 +72,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 239** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 240** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### חטיף נובלוס עטיפות של ארנב במקל קלציום 80 גר'
+https://gurimbakfar.co.il/product/chtyp-nvblvs-atypvt-shl-arnb-bmkl-kltsyvm-80-gr-oeb6u7
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: חטיפים
+- Description: חטיף נובילוס (Nobilus) ארנב על עצם סידן (מקל קלציום) במשקל 80 גרם הוא חטיף פרימיום איכותי והיפואלרגני המיועד לכלבים. החטיף מורכב מנתחי בשר ארנב אמיתי המלופפים סביב מקל סידן (קלציום), מה שמספק לכלב גם חוויית לעיסה טעימה וממושכת וגם תמיכה בבריאות העצמות והשיניים. אריזה: מגיע באריזת 80 גרם עם סגירה חוזרת (Ziploc) לשמירה מקסימלית על הטריות.
+- Image: https://gurimbakfar.co.il/assets/product-1783463699571-lson.webp
 
 ### חטיף נובלוס סושי ארנב 80 גר'
 https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-arnb-80-gr-70tnsi
@@ -1499,13 +1507,6 @@ https://gurimbakfar.co.il/product/arkt-tschtsvch-shynyym-lklbym-btam-bkr-cx1jij
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449730108-hbmwky.webp
-
-### רולר דבק 60 דפים
-https://gurimbakfar.co.il/product/rvlr-dbk-60-dpym-26gesj
-- Price: 25.00 ILS
-- Availability: In stock
-- Category: בית
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449768881-uyzpov.webp
 
 ---
 
