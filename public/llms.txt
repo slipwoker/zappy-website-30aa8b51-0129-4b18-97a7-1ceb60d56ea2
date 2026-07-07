@@ -72,7 +72,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 237** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 238** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### חטיף נובלוס פילה ארנב 80 גר'
+https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-arnb-80-gr-fnn7qi
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: חטיפים
+- Description: חטיף לכלבים נובילוס פילה ארנבת 80 גר - NOBILUS הוא חטיף אולטרה-פרימיום איכותי לכלבים, המיוצר על בסיס בשר ארנב וחזה עוף. לפי פרסומי החנויות המשווקות (כמו "לה דוג" ו"המגרש של יוגב"), מדובר בחטיף היפואלרגני, דל שומן וללא תוספת סוכר, המתאים מאוד גם לכלבים רגישים או מבוגרים. אריזה: 80 גרם, מגיעה לרוב עם סגירה חוזרת (פסגור) לשמירה על הטריות.
 
 ### חטיף נובלוס פילה דג קוד 80 גר'
 https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-dg-kvd-80-gr-qfoyb8
@@ -1497,13 +1504,6 @@ https://gurimbakfar.co.il/product/mbrsht-shynyym-dv-tsddy-k21ph9
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449807302-moy51e.webp
-
-### רצועות פלקסי
-https://gurimbakfar.co.il/product/rtsvavt-plksy-jnoo9p
-- Price: 30.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1780898526650-2onagi.webp
 
 ---
 
