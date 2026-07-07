@@ -6543,8 +6543,8 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### מתקן מים אוטומטי
-URL: https://gurimbakfar.co.il/product/mtkn-mym-avtvmty-vef3of
-Price: 64.99 ILS
+URL: https://gurimbakfar.co.il/product/mtkn-mym-avtvmty-1iaijw
+Price: 65.00 ILS
 Availability: In stock
 
 ---
