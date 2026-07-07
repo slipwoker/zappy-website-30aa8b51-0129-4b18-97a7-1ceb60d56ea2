@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T21:31:54.454Z",
+  "generated_at": "2026-07-07T21:32:29.295Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 234,
@@ -201,12 +201,12 @@
     },
     {
       "id": "3dd0edc0-70f1-4ed4-96e5-496c254d7c90",
-      "slug": "chtyp-nvblvs-nknykyvt-brvvz-ebl5vo",
-      "name": "חטיף נובלוס נקניקיות ברווז",
+      "slug": "chtyp-nvblvs-nknykyvt-brvvz-80-gr-jn5q0s",
+      "name": "חטיף נובלוס נקניקיות ברווז 80 גר'",
       "name_translations": {
-        "en": "Nobilus Duck Sausages Snack",
-        "he": "חטיף נובלוס נקניקיות ברווז",
-        "ru": "Лакомство Nobilus сосиски из утки"
+        "en": "Nobilus Duck Sausage Treat 80g",
+        "he": "חטיף נובלוס נקניקיות ברווז 80 גר'",
+        "ru": "Лакомство Nobilus сосиски из утки 80 г"
       },
       "description": "<p>רכיבים: בשר חזה ברווז, חלבון אפונה, קמח חיטה, עמילן, מעטפת קולגן, גליצרין צמחי, סורביטול</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 35%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5%</li><li>לחות: מקסימום 18%</li></ul>",
       "short_description": "חטיף נובילוס (Nobilus) נקניקיות ברווז הוא חטיף פרימיום משלים והיפואלרגני המיועד לכלבים. החטיף מגיע באריזה של 80 גרם עם סגירה חוזרת לשמירה על הטריות, ומתאים כצ'ופר, חטיף התעסקות או לעיסה לכלבים מכל הגזעים והגילאים.",
@@ -221,11 +221,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-nknykyvt-brvvz-ebl5vo",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-nknykyvt-brvvz-80-gr-jn5q0s",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T21:31:40.951Z"
+      "updated_at": "2026-07-07T21:32:10.765Z"
     },
     {
       "id": "86c8496c-d70e-47cd-8b09-3e73761efcf2",
