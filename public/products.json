@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T12:02:22.139Z",
+  "generated_at": "2026-07-07T12:03:38.785Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 215,
@@ -841,12 +841,12 @@
     },
     {
       "id": "a76d93a7-c6ec-4300-b696-882045f354bf",
-      "slug": "sms-pyldsams-field-bvgr-kbsh-13-kg-m7wkfi",
+      "slug": "sms-pyldsams-field-bvgr-kbsh-13-kg-xzepqv",
       "name": "סמס פילד/Sam's Field בוגר כבש 13 ק\"ג",
       "name_translations": {
         "en": "Sam's Field Adult Lamb 13 kg",
         "he": "סמס פילד/Sam's Field בוגר כבש 13 ק\"ג",
-        "ru": "סמס פילד/Sam's Field взрослый ягненок 13 кг"
+        "ru": "סמס פילד/Sam's Field взрослый ягнёнок 13 кг"
       },
       "description": "",
       "short_description": null,
@@ -856,14 +856,16 @@
       "base_price": 299,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783425770925-wqg9qlp.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/sms-pyldsams-field-bvgr-kbsh-13-kg-m7wkfi",
+      "url": "https://gurimbakfar.co.il/product/sms-pyldsams-field-bvgr-kbsh-13-kg-xzepqv",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-07T08:22:47.474Z"
+      "updated_at": "2026-07-07T12:03:06.565Z"
     },
     {
       "id": "d8ff859b-8608-4f7e-9c4e-1586b22e04c2",
