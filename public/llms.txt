@@ -75,11 +75,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 221** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### טריפל קראון לכלב בוגר גורמה כבש
-https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-gvrmh-kbsh-vchmq5
+https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-gvrmh-kbsh-0shq34
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מזון יבש
-- Image: https://gurimbakfar.co.il/assets/product-1783412985043-3wskaf.webp
+- Image: https://gurimbakfar.co.il/assets/product-1783413282939-drcrxq.webp
 
 ### טריפל קראון לכלב בוגר גזע גדול עוף 14 ק"ג
 https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-gza-gdvl-avp-14-kg-utthjp
