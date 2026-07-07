@@ -6543,7 +6543,7 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### חטיף נובלוס מקלות בקר ואורז 80 גר'
-URL: https://gurimbakfar.co.il/product/chtyp-nvblvs-mklvt-bkr-vavrz-80-gr-pb9eaf
+URL: https://gurimbakfar.co.il/product/chtyp-nvblvs-mklvt-bkr-vavrz-80-gr-hrrk39
 Price: 0.00 ILS
 Availability: In stock
 
