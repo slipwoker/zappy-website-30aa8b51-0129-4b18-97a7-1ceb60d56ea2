@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T21:03:32.064Z",
+  "generated_at": "2026-07-07T21:05:04.600Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 234,
@@ -35,7 +35,7 @@
     },
     {
       "id": "d0b4ed3b-ca67-46b5-ac55-e68c6b19ba43",
-      "slug": "chtyp-nvblvs-nknykyvt-kbsh-80-gr-kyqqk6",
+      "slug": "chtyp-nvblvs-nknykyvt-kbsh-80-gr-rm3o6m",
       "name": "חטיף נובלוס נקניקיות כבש 80 גר'",
       "name_translations": {
         "en": "Nobilus Lamb Sausage Snack 80g",
@@ -53,11 +53,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-nknykyvt-kbsh-80-gr-kyqqk6",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-nknykyvt-kbsh-80-gr-rm3o6m",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T19:26:16.287Z"
+      "updated_at": "2026-07-07T21:04:33.011Z"
     },
     {
       "id": "025e266b-8dc5-41b8-b373-9f2ec5ad1a07",
