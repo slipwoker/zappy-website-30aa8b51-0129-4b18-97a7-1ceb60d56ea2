@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T23:07:21.039Z",
+  "generated_at": "2026-07-07T23:08:46.562Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 244,
@@ -511,15 +511,15 @@
     },
     {
       "id": "86c8496c-d70e-47cd-8b09-3e73761efcf2",
-      "slug": "chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-fb8kwp",
+      "slug": "chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-kmd98k",
       "name": "חטיף נובלוס מקל ברווז ואורז 80 גר'",
       "name_translations": {
-        "en": "Nobilus Duck Breast and Rice Stick Treat 80g",
+        "en": "Nobilus Duck & Rice Stick Snack 80g",
         "he": "חטיף נובלוס מקל ברווז ואורז 80 גר'",
-        "ru": "Лакомство Nobulus палочка из утки и риса 80 г"
+        "ru": "Лакомство Nobilus палочка из утки и риса 80 г"
       },
-      "description": "<p>רכיבים: בשר חזה ברווז, אורז, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 25%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5%</li><li>לחות: מקסימום 18</li></ul>",
-      "short_description": "חטיף נובילוס מקל ברווז ואורז 80 גרם (הידוע גם כחטיף Nobilus) הוא חטיף פרימיום דל שומן ועשיר בחלבון המיועד לכלבים, המבוסס על בשר חזה ברווז אמיתי כמרכיב עיקרי בשילוב אורז.",
+      "description": "<p>רכיבים: בשר חזה ברווז, אורז, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 25%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5%</li><li>לחות: מקסימום 18%</li></ul>",
+      "short_description": "חטיף נובילוס (Nobilus) מקל ברווז ואורז הוא חטיף לעיסה איכותי ודל שומן לכלבים. המוצר מגיע במארז של 80 גרם עם סגירה חוזרת לשמירה על הטריות. הוא מבוסס על בשר אמיתי כרכיב מרכזי ומתאים כצ'ופר להתעסקות, לעיסה או כפרס באימונים.\n",
       "sku": null,
       "brand": null,
       "price": 12.5,
@@ -527,15 +527,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1783465588978-u9jp3f.webp"
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1783465619118-rzgrb.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-fb8kwp",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-kmd98k",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T23:06:49.546Z"
+      "updated_at": "2026-07-07T23:08:25.462Z"
     },
     {
       "id": "aa4dc003-4597-4a90-95e7-259d072d61b7",
