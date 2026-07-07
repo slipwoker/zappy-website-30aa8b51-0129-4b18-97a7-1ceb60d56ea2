@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T21:36:42.610Z",
+  "generated_at": "2026-07-07T21:38:46.942Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 234,
@@ -311,29 +311,31 @@
     },
     {
       "id": "e603ab7e-c356-4d22-a563-1537547379b7",
-      "slug": "chtyp-nvblvs-rtsvavt-brvvz-rk-80-gr-yo5vaf",
+      "slug": "chtyp-nvblvs-rtsvavt-brvvz-rk-80-gr-3bwlrs",
       "name": "חטיף נובלוס רצועות ברווז רך 80 גר'",
       "name_translations": {
         "en": "Nobilus Duck Strips Soft Treat 80g",
         "he": "חטיף נובלוס רצועות ברווז רך 80 גר'",
-        "ru": "Лакомство Nobilus мягкие полоски из утки 80 г"
+        "ru": "Лакомство Nobilus полоски из мягкой утятины 80 г"
       },
       "description": "<p>רכיבים: בשר חזה ברווז, חלבון אפונה, עמילן, גליצרין צמחי, סורביטול</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי מינימום 40%</li><li>שומן גולמי מקסימום 3%</li><li>סיבים גולמיים מקסימום 1%</li><li>אפר גולמי מקסימום 5%</li><li>לחות מקסימום 22%</li></ul>",
-      "short_description": "חטיפי נובילוס (Nobilus) רצועות או פרוסות ברווז רכות במשקל 80 גרם הם חטיפי אולטרה-פרימיום פופולריים לכלבים, המבוססים על בשר אמיתי כמרכיב עיקרי",
+      "short_description": "חטיפי נובילוס (Nobilus) רצועות או פרוסות ברווז רכות במשקל 80 גרם הם חטיפי אולטרה-פרימיום פופולריים לכלבים, המבוססים על בשר אמיתי כמרכיב עיקרי.\nיתרון נוסף - אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (זיפר) לשמירה על איכות החטיף לאורך זמן.\n",
       "sku": null,
       "brand": null,
       "price": 0,
       "base_price": 0,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1783460215121-dlklu.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-rtsvavt-brvvz-rk-80-gr-yo5vaf",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-rtsvavt-brvvz-rk-80-gr-3bwlrs",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T16:52:33.448Z"
+      "updated_at": "2026-07-07T21:38:15.199Z"
     },
     {
       "id": "f3690ea1-137c-4b5a-98e4-5166e5f0358f",
