@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T23:20:53.751Z",
+  "generated_at": "2026-07-07T23:21:53.353Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 244,
@@ -707,19 +707,19 @@
     },
     {
       "id": "b96ba157-9c21-4236-8536-443d0df20634",
-      "slug": "chtyp-nvblvs-rtsvavt-avp-rkvt-80-gr-vrx9do",
+      "slug": "chtyp-nvblvs-rtsvavt-avp-rkvt-80-gr-j5zegw",
       "name": "חטיף נובלוס רצועות עוף רכות 80 גר'",
       "name_translations": {
-        "en": "Nobulos Soft Chicken Strips Treat 80g",
+        "en": "Nobulos Soft Chicken Strips Snack 80g",
         "he": "חטיף נובלוס רצועות עוף רכות 80 גר'",
-        "ru": "Лакомство Novelos мягкие куриные полоски 80 г"
+        "ru": "Лакомство Novulus мягкие куриные полоски 80 г"
       },
       "description": "<p>רכיבים עיקריים : בשר חזה עוף, חלבון אפונה, עמילן, גליצרין צמחי, סורביטול</p><p>ערכים תזונתיים</p><ul><li>חלבון גולמי מינימום 40%</li><li>שומן גולמי מקסימום 3%</li><li>סיבים גולמיים מקסימום 1%</li><li>אפר גולמי מקסימום 5%</li><li>לחות מקסימום 18%</li></ul>",
       "short_description": "חטיף נובילוס רצועות עוף רכות הוא פינוק פרימיום לכלבים. הוא מכיל בשר עוף אמיתי, עשיר בחלבון ודל שומן. המרקם הרך מקל על הלעיסה. זה הופך אותו למושלם עבור כלבים מכל הגילאים, כולל גורים וכלבים מבוגרים.\nהחטיף מגיע באריזת 80 גרם עם סגירה חוזרת לשמירת הטריות. הרכיבים מבוססים על חזה עוף בשילוב עם חלבון אפונה ועמילן. הוא משמש מצוין כפינוק יומי או כפרס בזמן אילוף.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 12.5,
+      "base_price": 12.5,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -727,15 +727,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-rtsvavt-avp-rkvt-80-gr-vrx9do",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-rtsvavt-avp-rkvt-80-gr-j5zegw",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T21:45:26.998Z"
+      "updated_at": "2026-07-07T23:21:12.519Z"
     },
     {
       "id": "65a2372f-237d-444d-aace-a03aee891e38",
-      "slug": "chtyp-nvblvs-svshy-avp-80-gr-re7u3n",
+      "slug": "chtyp-nvblvs-svshy-avp-80-gr-sx1myq",
       "name": "חטיף נובלוס סושי עוף 80 גר'",
       "name_translations": {
         "en": "Nobulos Sushi Chicken Snack 80g",
@@ -746,8 +746,8 @@
       "short_description": "חטיפי נובילוס, חטיפים טעימים במיוחד המתאימים למתן כפינוק, לעיסה, ומושלמים כתוספת משלימה לאוכל. 80 גרם\n* מארז עם סגירה חוזרת, לשמירה על טריות\n* מושלם כחטיף התעסקות\n* מקור חלבון איכותי\n* חטיף דל שומן\n* בשר אמיתי כמרכיב עיקרי\n",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 12.5,
+      "base_price": 12.5,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -755,11 +755,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-avp-80-gr-re7u3n",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-avp-80-gr-sx1myq",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T21:46:30.532Z"
+      "updated_at": "2026-07-07T23:21:52.233Z"
     },
     {
       "id": "1b166e2a-f077-4c69-a54b-4bfbbd4eeb3b",
