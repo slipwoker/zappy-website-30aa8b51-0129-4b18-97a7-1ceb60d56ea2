@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T08:46:56.427Z",
+  "generated_at": "2026-07-07T08:48:30.856Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 221,
@@ -1415,29 +1415,31 @@
     },
     {
       "id": "b068a1b8-bd42-47a7-ba89-f03de4e87048",
-      "slug": "mzvn-klbym-rtvb-aysgrym-arvcht-ayyl-vtsyd-lklb-410-grm-phxvc4",
+      "slug": "mzvn-klbym-rtvb-aysgrym-arvcht-ayyl-vtsyd-lklb-410-grm-c933sf",
       "name": "מזון כלבים רטוב איסגרים ארוחת אייל וציד לכלב 410 גרם",
       "name_translations": {
-        "en": "Isgrims Wet Dog Food Venison & Game Meal for Dogs 410g",
+        "en": "Isegrim Wet Dog Food Venison & Game Meal for Dogs 410g",
         "he": "מזון כלבים רטוב איסגרים ארוחת אייל וציד לכלב 410 גרם",
-        "ru": "Влажный корм для собак Isegrim оленина и дичь для собак 410 г"
+        "ru": "Влажный корм для собак Isegrim порция оленины и дичи для собак 410 грамм"
       },
       "description": "",
-      "short_description": null,
+      "short_description": "שימורים, לכלבים בוגרים מכל הגזעים, מהאיכות הגבוהה ביותר של המותג Isegrim Roots על בשר אייל וצייד.",
       "sku": null,
       "brand": null,
       "price": 19.9,
       "base_price": 19.9,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783414060910-hewwx.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-aysgrym-arvcht-ayyl-vtsyd-lklb-410-grm-phxvc4",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-aysgrym-arvcht-ayyl-vtsyd-lklb-410-grm-c933sf",
       "categories": [
         "שימורים ומעדנים"
       ],
-      "updated_at": "2026-07-07T08:22:27.340Z"
+      "updated_at": "2026-07-07T08:47:59.314Z"
     },
     {
       "id": "b5b01d81-c18b-40fd-8ee0-eedc97bcb61c",
