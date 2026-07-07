@@ -72,7 +72,12 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 218** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 219** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### חטיף נובלוס רצועות עוף רכות
+https://gurimbakfar.co.il/product/chtyp-nvblvs-rtsvavt-avp-rkvt-w0yhpg
+- Price: 0.00 ILS
+- Availability: In stock
 
 ### חטיף נובלוס סושי עוף
 https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-avp-kb8ze8
@@ -1481,13 +1486,6 @@ https://gurimbakfar.co.il/product/tsatsva-laysh-dntly-teoo4v
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781434110890-kvzter.webp
-
-### ערכת צחצוח שיניים לכלבים בטעם עוף
-https://gurimbakfar.co.il/product/arkt-tschtsvch-shynyym-lklbym-btam-avp-jqa7h1
-- Price: 42.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781434062728-mt2u4b.webp
 
 ---
 

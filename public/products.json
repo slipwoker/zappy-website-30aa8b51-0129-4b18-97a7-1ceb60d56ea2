@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T15:13:44.084Z",
+  "generated_at": "2026-07-07T15:19:53.328Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 218,
+  "count": 219,
   "products": [
+    {
+      "id": "b96ba157-9c21-4236-8536-443d0df20634",
+      "slug": "chtyp-nvblvs-rtsvavt-avp-rkvt-w0yhpg",
+      "name": "חטיף נובלוס רצועות עוף רכות",
+      "name_translations": {
+        "en": "Nobulos Soft Chicken Strips Snack",
+        "he": "חטיף נובלוס רצועות עוף רכות",
+        "ru": "Лакомство Novelos мягкие куриные полоски"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-rtsvavt-avp-rkvt-w0yhpg",
+      "categories": [],
+      "updated_at": "2026-07-07T15:19:21.173Z"
+    },
     {
       "id": "65a2372f-237d-444d-aace-a03aee891e38",
       "slug": "chtyp-nvblvs-svshy-avp-kb8ze8",
