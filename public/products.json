@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T17:04:28.094Z",
+  "generated_at": "2026-07-07T17:09:59.129Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 225,
   "products": [
     {
       "id": "aa4dc003-4597-4a90-95e7-259d072d61b7",
-      "slug": "chtyp-nvblvs-brvvz-vdg-kvd-80-gr-pkn3fw",
+      "slug": "chtyp-nvblvs-brvvz-vdg-kvd-80-gr-sgxmkk",
       "name": "חטיף נובלוס ברווז ודג קוד 80 גר'",
       "name_translations": {
         "en": "Nobilus Duck & Cod Snack 80g",
@@ -25,11 +25,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-vdg-kvd-80-gr-pkn3fw",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-vdg-kvd-80-gr-sgxmkk",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T17:03:56.159Z"
+      "updated_at": "2026-07-07T17:09:27.484Z"
     },
     {
       "id": "e1cee050-9a3d-43d4-9390-050151046343",
