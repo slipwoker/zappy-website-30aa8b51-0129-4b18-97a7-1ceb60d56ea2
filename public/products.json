@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T20:28:22.610Z",
+  "generated_at": "2026-07-07T21:01:31.163Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 234,
@@ -59,7 +59,7 @@
     },
     {
       "id": "025e266b-8dc5-41b8-b373-9f2ec5ad1a07",
-      "slug": "chtyp-nvblvs-pylh-kbsh-80-gr-a6cmxv",
+      "slug": "chtyp-nvblvs-pylh-kbsh-80-gr-y015cl",
       "name": "חטיף נובלוס פילה כבש 80 גר'",
       "name_translations": {
         "en": "Nobilus Lamb Fillet Treat 80g",
@@ -77,11 +77,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-kbsh-80-gr-a6cmxv",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-kbsh-80-gr-y015cl",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T20:27:50.828Z"
+      "updated_at": "2026-07-07T21:00:59.658Z"
     },
     {
       "id": "f64205f1-dba4-4298-8609-5a5ed4c8e577",
