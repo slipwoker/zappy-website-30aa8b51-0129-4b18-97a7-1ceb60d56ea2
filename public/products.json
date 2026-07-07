@@ -1,20 +1,20 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T21:53:41.754Z",
+  "generated_at": "2026-07-07T21:55:48.594Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 235,
   "products": [
     {
       "id": "60f13aeb-8865-4f7d-9fc1-04e7bd9e9343",
-      "slug": "chtyp-nvblvs-pylh-slmvn-80-gr-xlsgj3",
+      "slug": "chtyp-nvblvs-pylh-slmvn-80-gr-lv4e3w",
       "name": "חטיף נובלוס פילה סלמון 80 גר'",
       "name_translations": {
         "en": "Nobulos Salmon Fillet Treat 80g",
         "he": "חטיף נובלוס פילה סלמון 80 גר'",
-        "ru": "Лакомство Novelos филе лосося 80 гр'"
+        "ru": "Лакомство Nobulos филе лосося 80 г"
       },
-      "description": "",
+      "description": "<p>רכיבים: סלמון, בשר חזה עוף, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 35% </li><li>שומן גולמי: מקסימום 3% </li><li>סיבים גולמיים: מקסימום 1% </li><li>אפר גולמי: מקסימום 5% </li><li>לחות: מקסימום 18%</li></ul>",
       "short_description": "נובילוס חטיף פילה סלמון לכלב 80 גרם הוא חטיף אולטרה-פרימיום איכותי וטעים המיועד לפינוק, אילוף או כתוספת משלימה למזון היומי של הכלב.\nאריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (זיפר) לשמירה על איכות החטיף לאורך זמן.",
       "sku": null,
       "brand": null,
@@ -27,9 +27,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-slmvn-80-gr-xlsgj3",
-      "categories": [],
-      "updated_at": "2026-07-07T21:53:09.819Z"
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-slmvn-80-gr-lv4e3w",
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-07-07T21:55:16.850Z"
     },
     {
       "id": "86d1fbb1-0b60-4ee4-85c2-1f3b5c6a4db2",
