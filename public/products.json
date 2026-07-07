@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T23:15:20.031Z",
+  "generated_at": "2026-07-07T23:16:10.647Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 244,
@@ -563,23 +563,23 @@
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T23:15:11.523Z"
+      "updated_at": "2026-07-07T23:15:23.291Z"
     },
     {
       "id": "e1cee050-9a3d-43d4-9390-050151046343",
-      "slug": "chtyp-nvblvs-brvvz-svshy-80-gr-r5yesm",
+      "slug": "chtyp-nvblvs-brvvz-svshy-80-gr-7llw8h",
       "name": "חטיף נובלוס ברווז סושי 80 גר'",
       "name_translations": {
         "en": "Nobulos Duck Sushi Snack 80g",
         "he": "חטיף נובלוס ברווז סושי 80 גר'",
-        "ru": "Лакомство Novelos с уткой суши 80 г"
+        "ru": "Лакомство Novelos с уткой Суши 80 г"
       },
       "description": "<p>רכיבים עיקריים: בשר חזה ברווז, בקלה, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 25%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5%</li><li>לחות: מקסימום 18%</li></ul>",
       "short_description": "חטיף נובילוס סושי ברווז (80 גרם) הוא חטיף פרימיום היפואלרגני ודל שומן לכלבים. הוא מעוצב בצורת סושי ספירלי ייחודי ומשלב בשר חזה ברווז איכותי יחד עם דג בקלה.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 12.5,
+      "base_price": 12.5,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -587,11 +587,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-svshy-80-gr-r5yesm",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-svshy-80-gr-7llw8h",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T21:36:10.743Z"
+      "updated_at": "2026-07-07T23:15:57.109Z"
     },
     {
       "id": "e603ab7e-c356-4d22-a563-1537547379b7",
