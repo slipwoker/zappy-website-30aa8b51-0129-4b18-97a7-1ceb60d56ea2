@@ -75,9 +75,13 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 221** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### חטיף נובלוס עוף קלציום 80 גר
-https://gurimbakfar.co.il/product/chtyp-nvblvs-avp-kltsyvm-80-gr-kmver3
+https://gurimbakfar.co.il/product/chtyp-nvblvs-avp-kltsyvm-80-gr-kxm78p
 - Price: 0.00 ILS
 - Availability: In stock
+- Category: חטיפים
+- SKU: 200644
+- Brand: מיקס פור פטס 2020 בע"מ
+- Description: חטיף נובלוס עצם קלציום (סידן) במעטפת עוף (80 גרם) הוא חטיף בריא. הוא מורכב מעצם סידן טבעית שעטופה בבשר חזה עוף אמיתי. החטיף מעסיק את הכלב, מנקה את השיניים, ומחזק את הלסת
 
 ### חטיף נובלוס עוף קלציום 80 גר
 https://gurimbakfar.co.il/product/chtyp-nvblvs-avp-kltsyvm-80-gr-enk0tm
