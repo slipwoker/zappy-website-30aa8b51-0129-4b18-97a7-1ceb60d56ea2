@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T08:50:10.822Z",
+  "generated_at": "2026-07-07T11:14:39.209Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 221,
@@ -1220,9 +1220,7 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-2-lytr-kchvl-6gr1kv",
-      "categories": [
-        "כלי אוכל ושתיה"
-      ],
+      "categories": [],
       "updated_at": "2026-07-07T08:22:40.222Z"
     },
     {
@@ -1246,9 +1244,7 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-2-lytr-lylk-q5n2ky",
-      "categories": [
-        "כלי אוכל ושתיה"
-      ],
+      "categories": [],
       "updated_at": "2026-07-07T08:22:28.100Z"
     },
     {
@@ -1272,9 +1268,7 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-1-lytr-mvkh-5mxf2m",
-      "categories": [
-        "כלי אוכל ושתיה"
-      ],
+      "categories": [],
       "updated_at": "2026-07-07T08:22:40.311Z"
     },
     {
@@ -1326,9 +1320,7 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-1-lytr-lylk-domq8b",
-      "categories": [
-        "כלי אוכל ושתיה"
-      ],
+      "categories": [],
       "updated_at": "2026-07-07T08:49:38.952Z"
     },
     {
