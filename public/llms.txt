@@ -75,7 +75,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 217** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### מתקן מים/אוכל אוטומטי עם קערת נירוסטה
-https://gurimbakfar.co.il/product/mtkn-mymavkl-avtvmty-am-kart-nyrvsth-3i3ap4
+https://gurimbakfar.co.il/product/mtkn-mymavkl-avtvmty-am-kart-nyrvsth-p6x15w
 - Price: 110.00 ILS
 - Availability: In stock
 - Category: כלי אוכל ושתייה
