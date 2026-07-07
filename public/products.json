@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T13:16:21.817Z",
+  "generated_at": "2026-07-07T13:29:51.630Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 217,
   "products": [
     {
       "id": "1b166e2a-f077-4c69-a54b-4bfbbd4eeb3b",
-      "slug": "mtkn-mymavkl-avtvmty-am-kart-nyrvsth-971q9h",
+      "slug": "mtkn-mymavkl-avtvmty-am-kart-nyrvsth-3i3ap4",
       "name": "מתקן מים/אוכל אוטומטי עם קערת נירוסטה",
       "name_translations": {
         "en": "Automatic Water/Food Dispenser with Stainless Steel Bowl",
@@ -23,15 +23,16 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-enhanced-1783430120507-sc5sr.webp"
+        "https://gurimbakfar.co.il/assets/product-1783430743970-oxub4.webp",
+        "https://gurimbakfar.co.il/assets/product-1783430647901-zxodwo.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mtkn-mymavkl-avtvmty-am-kart-nyrvsth-971q9h",
+      "url": "https://gurimbakfar.co.il/product/mtkn-mymavkl-avtvmty-am-kart-nyrvsth-3i3ap4",
       "categories": [
         "כלי אוכל ושתייה"
       ],
-      "updated_at": "2026-07-07T13:15:49.918Z"
+      "updated_at": "2026-07-07T13:29:19.722Z"
     },
     {
       "id": "07e43b43-65a5-42eb-a30f-3a52e637d6c3",

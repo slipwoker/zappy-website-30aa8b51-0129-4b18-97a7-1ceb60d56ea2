@@ -6543,7 +6543,7 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### מתקן מים/אוכל אוטומטי עם קערת נירוסטה
-URL: https://gurimbakfar.co.il/product/mtkn-mymavkl-avtvmty-am-kart-nyrvsth-971q9h
+URL: https://gurimbakfar.co.il/product/mtkn-mymavkl-avtvmty-am-kart-nyrvsth-3i3ap4
 Price: 110.00 ILS
 Availability: In stock
 
