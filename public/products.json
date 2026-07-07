@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T22:59:31.770Z",
+  "generated_at": "2026-07-07T23:05:24.053Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 244,
@@ -343,10 +343,10 @@
     },
     {
       "id": "025e266b-8dc5-41b8-b373-9f2ec5ad1a07",
-      "slug": "chtyp-nvblvs-pylh-kbsh-80-gr-y015cl",
+      "slug": "chtyp-nvblvs-pylh-kbsh-80-gr-0wy8gt",
       "name": "חטיף נובלוס פילה כבש 80 גר'",
       "name_translations": {
-        "en": "Nobilus Lamb Fillet Snack 80g",
+        "en": "Nobilus Lamb Fillet Treat 80g",
         "he": "חטיף נובלוס פילה כבש 80 גר'",
         "ru": "Лакомство Nobulus филе ягнёнка 80 г"
       },
@@ -354,18 +354,20 @@
       "short_description": "חטיף נובילוס (Nobilus) פילה כבש במשקל 80 גרם הוא חטיף פרמיום היפואלרגני המיועד לכלבים מכל הגזעים והגילאים. הוא פופולרי במיוחד כצ'ופר איכותי, חטיף אימון או תוספת משלימה למזון.\nיתרון נוסף - אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (זיפר) לשמירה על איכות החטיף לאורך זמן.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 12.5,
+      "base_price": 12.5,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1783465457803-e765ze.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-kbsh-80-gr-y015cl",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-kbsh-80-gr-0wy8gt",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T21:02:08.295Z"
+      "updated_at": "2026-07-07T23:05:01.284Z"
     },
     {
       "id": "f64205f1-dba4-4298-8609-5a5ed4c8e577",
