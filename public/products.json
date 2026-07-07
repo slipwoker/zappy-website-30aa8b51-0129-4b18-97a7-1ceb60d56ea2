@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T23:05:33.184Z",
+  "generated_at": "2026-07-07T23:07:21.039Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 244,
@@ -511,10 +511,10 @@
     },
     {
       "id": "86c8496c-d70e-47cd-8b09-3e73761efcf2",
-      "slug": "chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-y3bgvq",
+      "slug": "chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-fb8kwp",
       "name": "חטיף נובלוס מקל ברווז ואורז 80 גר'",
       "name_translations": {
-        "en": "Nobilus Duck Breast and Rice Stick Snack 80g",
+        "en": "Nobilus Duck Breast and Rice Stick Treat 80g",
         "he": "חטיף נובלוס מקל ברווז ואורז 80 גר'",
         "ru": "Лакомство Nobulus палочка из утки и риса 80 г"
       },
@@ -522,18 +522,20 @@
       "short_description": "חטיף נובילוס מקל ברווז ואורז 80 גרם (הידוע גם כחטיף Nobilus) הוא חטיף פרימיום דל שומן ועשיר בחלבון המיועד לכלבים, המבוסס על בשר חזה ברווז אמיתי כמרכיב עיקרי בשילוב אורז.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 12.5,
+      "base_price": 12.5,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1783465588978-u9jp3f.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-y3bgvq",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-fb8kwp",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T22:09:50.808Z"
+      "updated_at": "2026-07-07T23:06:49.546Z"
     },
     {
       "id": "aa4dc003-4597-4a90-95e7-259d072d61b7",
