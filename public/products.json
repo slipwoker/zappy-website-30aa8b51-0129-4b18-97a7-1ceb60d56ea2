@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T12:03:38.785Z",
+  "generated_at": "2026-07-07T12:07:03.560Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 215,
@@ -787,7 +787,7 @@
     },
     {
       "id": "24b55072-456f-4aa6-9cfc-e6cd5c500ec0",
-      "slug": "mzvn-klbym-bitesy-bvgr-brvvz-avrz-vbtth-ni2a0g",
+      "slug": "mzvn-klbym-bitesy-bvgr-brvvz-avrz-vbtth-n6gnwj",
       "name": "מזון כלבים Bitesy בוגר ברווז אורז ובטטה",
       "name_translations": {
         "en": "Bitesy Adult Dog Food Duck Rice and Sweet Potato",
@@ -802,14 +802,16 @@
       "base_price": 309,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783425975134-1pgsw9.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-bitesy-bvgr-brvvz-avrz-vbtth-ni2a0g",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-bitesy-bvgr-brvvz-avrz-vbtth-n6gnwj",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-07T08:22:48.460Z"
+      "updated_at": "2026-07-07T12:06:32.188Z"
     },
     {
       "id": "81eacf25-c1ea-4e80-a91c-db05e766dcf1",
