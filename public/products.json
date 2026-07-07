@@ -1,10 +1,36 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T16:31:30.992Z",
+  "generated_at": "2026-07-07T16:50:48.055Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 222,
+  "count": 223,
   "products": [
+    {
+      "id": "e603ab7e-c356-4d22-a563-1537547379b7",
+      "slug": "chtyp-nvblvs-rtsvavt-brvvz-rk-80-gr-hqxdh2",
+      "name": "חטיף נובלוס רצועות ברווז רך 80 גר'",
+      "name_translations": {
+        "en": "Nobilus Duck Strips Soft Treat 80g",
+        "he": "חטיף נובלוס רצועות ברווז רך 80 גר'",
+        "ru": "Лакомство Nobilus мягкие полоски из утки 80 г"
+      },
+      "description": "<p>רכיבים: בשר חזה ברווז, חלבון אפונה, עמילן, גליצרין צמחי, סורביטול</p>",
+      "short_description": "חטיפי נובילוס (Nobilus) רצועות או פרוסות ברווז רכות במשקל 80 גרם הם חטיפי אולטרה-פרימיום פופולריים לכלבים, המבוססים על בשר אמיתי כמרכיב עיקרי",
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-rtsvavt-brvvz-rk-80-gr-hqxdh2",
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-07-07T16:50:16.175Z"
+    },
     {
       "id": "f3690ea1-137c-4b5a-98e4-5166e5f0358f",
       "slug": "chtyp-nvblvs-ngysy-brvvz-80-gr-hv2gn4",
