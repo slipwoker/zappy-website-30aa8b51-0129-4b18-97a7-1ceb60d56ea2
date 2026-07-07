@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T08:48:30.856Z",
+  "generated_at": "2026-07-07T08:50:10.822Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 221,
@@ -1305,12 +1305,12 @@
     },
     {
       "id": "70b61793-0db9-4c66-8462-1514fca2c5b1",
-      "slug": "mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-1-lytr-lylk-jgh2bg",
+      "slug": "mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-1-lytr-lylk-domq8b",
       "name": "מעמד מוגבה לקערות אוכל ושתייה לכלבים 1 ליטר לילך",
       "name_translations": {
         "en": "Elevated Stand for Dog Food and Water Bowls 1 Liter Lilac",
         "he": "מעמד מוגבה לקערות אוכל ושתייה לכלבים 1 ליטר לילך",
-        "ru": "Подставка с подъёмом для мисок для еды и воды для собак 1 литр сиреневая"
+        "ru": "Подставка с подъёмом для мисок с едой и водой для собак 1 литр сиреневая"
       },
       "description": "",
       "short_description": null,
@@ -1320,14 +1320,16 @@
       "base_price": 115,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1783414139395-g30107.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-1-lytr-lylk-jgh2bg",
+      "url": "https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-1-lytr-lylk-domq8b",
       "categories": [
         "כלי אוכל ושתיה"
       ],
-      "updated_at": "2026-07-07T08:22:27.659Z"
+      "updated_at": "2026-07-07T08:49:38.952Z"
     },
     {
       "id": "663e5b75-fee5-4b1e-90b4-76f0c7fbf4dc",
