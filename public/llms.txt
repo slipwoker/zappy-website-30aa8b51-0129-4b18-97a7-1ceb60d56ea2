@@ -72,7 +72,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 236** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 237** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### חטיף נובלוס פילה דג קוד 80 גר'
+https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-dg-kvd-80-gr-qfoyb8
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: חטיפים
+- Description: נובילוס (Nobilus) חטיף קוביות פילה דג קוד (80 גרם) הוא חטיף אולטרה-פרימיום איכותי לכלבים, המיוצר מרכיבים נבחרים ומתאים במיוחד כצ'ופר יומיומי או כפרס בזמן אילוף. אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (Ziploc) לשמירה על איכות המוצר לאורך זמן.
+- Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783462483766-4i9dde.webp
 
 ### חטיף נובלוס סושי סלמון 80 גר'
 https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-slmvn-80-gr-nwusdy
@@ -1496,13 +1504,6 @@ https://gurimbakfar.co.il/product/rtsvavt-plksy-jnoo9p
 - Availability: In stock
 - Category: קולרים ורצועות
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1780898526650-2onagi.webp
-
-### חגורת בטיחות לכלב Record
-https://gurimbakfar.co.il/product/chgvrt-btychvt-lklb-record-wx66xy
-- Price: 35.00 ILS
-- Availability: In stock
-- Category: אביזרים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449877512-tzjlul.webp
 
 ---
 
