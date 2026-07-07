@@ -72,7 +72,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 229** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 230** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### חטיף נובלוס מקלות כבש 80 גר'
+https://gurimbakfar.co.il/product/chtyp-nvblvs-mklvt-kbsh-80-gr-d8oov4
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: חטיפים
+- Description: חטיף לכלבים נובילוס (Nobilus) מקלות כבש באריזת 80 גרם הוא חטיף משלים, איכותי והיפואלרגני המיועד לפינוק, נשנוש או תגמול בזמן אילוף. החטיף מיוצר על בסיס בשר אמיתי כמרכיב עיקרי, מתאפיין ברמת טעימות ונעכלות גבוהה מאוד, ואינו מכיל תוספת סוכר.
 
 ### חטיף נובלוס מקלות בקר ואורז 80 גר'
 https://gurimbakfar.co.il/product/chtyp-nvblvs-mklvt-bkr-vavrz-80-gr-hrrk39
@@ -1479,13 +1486,6 @@ https://gurimbakfar.co.il/product/tsatsva-tmnvn-ktyph-mrshrsh-am-tsptsph-osq2dp
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781450720393-qzfqi8.webp
-
-### כיסוי מושב אחורי לכלב
-https://gurimbakfar.co.il/product/kysvy-mvshb-achvry-lklb-v70yuy
-- Price: 180.00 ILS
-- Availability: In stock
-- Category: אביזרים
-- Image: https://gurimbakfar.co.il/assets/product-1780860631624-oa086.webp
 
 ---
 

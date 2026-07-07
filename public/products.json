@@ -1,10 +1,36 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T18:51:52.549Z",
+  "generated_at": "2026-07-07T18:57:26.189Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 229,
+  "count": 230,
   "products": [
+    {
+      "id": "8a35f1be-c67a-4bc3-9191-2a77da1c08c0",
+      "slug": "chtyp-nvblvs-mklvt-kbsh-80-gr-d8oov4",
+      "name": "חטיף נובלוס מקלות כבש 80 גר'",
+      "name_translations": {
+        "en": "Nobilus Lamb Sticks Snack 80g",
+        "he": "חטיף נובלוס מקלות כבש 80 גר'",
+        "ru": "Лакомство Nobulus палочки из ягнёнка 80 г"
+      },
+      "description": "<p>רכיבים: כבש, בשר חזה ברווז, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול</p><p>ערכים תזונתיים</p><ul><li>חלבון גולמי: מינימום 30% </li><li>שומן גולמי: מקסימום 3% </li><li>סיבים גולמיים: מקסימום 1% </li><li>אפר גולמי: מקסימום 5% </li><li>לחות: מקסימום 18%</li></ul>",
+      "short_description": "חטיף לכלבים נובילוס (Nobilus) מקלות כבש באריזת 80 גרם הוא חטיף משלים, איכותי והיפואלרגני המיועד לפינוק, נשנוש או תגמול בזמן אילוף. החטיף מיוצר על בסיס בשר אמיתי כמרכיב עיקרי, מתאפיין ברמת טעימות ונעכלות גבוהה מאוד, ואינו מכיל תוספת סוכר.",
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-mklvt-kbsh-80-gr-d8oov4",
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-07-07T18:57:15.509Z"
+    },
     {
       "id": "89f1b196-afac-492a-a41e-7122cc875d1c",
       "slug": "chtyp-nvblvs-mklvt-bkr-vavrz-80-gr-hrrk39",
