@@ -1,23 +1,23 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T16:08:23.052Z",
+  "generated_at": "2026-07-07T16:10:14.209Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 220,
   "products": [
     {
       "id": "c75ab4b1-2890-4ff3-b3e5-9b9fe31f4fd3",
-      "slug": "chtyp-nvblvs-avp-kltsyvm-80-gr-kxm78p",
+      "slug": "chtyp-nvblvs-avp-kltsyvm-80-gr-887lwg",
       "name": "חטיף נובלוס עוף קלציום 80 גר",
       "name_translations": {
-        "en": "Nobulos Chicken Calcium Snack 80g",
+        "en": "Novelos Chicken Calcium Snack 80g",
         "he": "חטיף נובלוס עוף קלציום 80 גר",
-        "ru": "Лакомство Novelos курица кальций 80 гр"
+        "ru": "Лакомство Novelos куриное с кальцием 80 г"
       },
       "description": "<p>רכיבים: בשר חזה עוף, עצם סידן, קמח חיטה, עמילן, גליצרין צמחי, חלבון אפונה, סורביטול</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי מינימום 20%</li><li>שומן גולמי מקסימום 3%</li><li>סיבים גולמיים מקסימום 1%</li><li>אפר גולמי מקסימום 5%</li><li>לחות מקסימום 18%</li></ul>",
       "short_description": "חטיף נובלוס עצם קלציום (סידן) במעטפת עוף (80 גרם) הוא חטיף בריא. הוא מורכב מעצם סידן טבעית שעטופה בבשר חזה עוף אמיתי. החטיף מעסיק את הכלב, מנקה את השיניים, ומחזק את הלסת",
-      "sku": "200644",
-      "brand": "מיקס פור פטס 2020 בע\"מ",
+      "sku": null,
+      "brand": null,
       "price": 0,
       "base_price": 0,
       "sale_price": null,
@@ -25,25 +25,25 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-avp-kltsyvm-80-gr-kxm78p",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-avp-kltsyvm-80-gr-887lwg",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T16:04:59.936Z"
+      "updated_at": "2026-07-07T16:09:42.323Z"
     },
     {
       "id": "b96ba157-9c21-4236-8536-443d0df20634",
-      "slug": "chtyp-nvblvs-rtsvavt-avp-rkvt-259uh8",
+      "slug": "chtyp-nvblvs-rtsvavt-avp-rkvt-0v5ibm",
       "name": "חטיף נובלוס רצועות עוף רכות",
       "name_translations": {
-        "en": "Nobulos Soft Chicken Strips Snack",
+        "en": "Nobulos Soft Chicken Strips Treat",
         "he": "חטיף נובלוס רצועות עוף רכות",
         "ru": "Лакомство Novelos мягкие куриные полоски"
       },
-      "description": "<p>רכיבים עיקריים : בשר חזה עוף, חלבון אפונה, עמילן, גליצרין צמחי, סורביטול</p><p>ערכים תזונתיים </p><ul><li>חלבון גולמי מינימום 40%</li><li>שומן גולמי מקסימום 3%</li><li>סיבים גולמיים מקסימום 1%</li><li>אפר גולמי מקסימום 5%</li><li>לחות מקסימום 18%</li></ul><p><br></p>",
+      "description": "<p>רכיבים עיקריים : בשר חזה עוף, חלבון אפונה, עמילן, גליצרין צמחי, סורביטול</p><p>ערכים תזונתיים</p><ul><li>חלבון גולמי מינימום 40%</li><li>שומן גולמי מקסימום 3%</li><li>סיבים גולמיים מקסימום 1%</li><li>אפר גולמי מקסימום 5%</li><li>לחות מקסימום 18%</li></ul>",
       "short_description": "חטיף נובילוס רצועות עוף רכות הוא פינוק פרימיום לכלבים. הוא מכיל בשר עוף אמיתי, עשיר בחלבון ודל שומן. המרקם הרך מקל על הלעיסה. זה הופך אותו למושלם עבור כלבים מכל הגילאים, כולל גורים וכלבים מבוגרים.\nהחטיף מגיע באריזת 80 גרם עם סגירה חוזרת לשמירת הטריות. הרכיבים מבוססים על חזה עוף בשילוב עם חלבון אפונה ועמילן. הוא משמש מצוין כפינוק יומי או כפרס בזמן אילוף.",
-      "sku": "200643",
-      "brand": "מיקס פור פטס 2020 בע\"מ",
+      "sku": null,
+      "brand": null,
       "price": 0,
       "base_price": 0,
       "sale_price": null,
@@ -51,11 +51,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-rtsvavt-avp-rkvt-259uh8",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-rtsvavt-avp-rkvt-0v5ibm",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T15:56:31.630Z"
+      "updated_at": "2026-07-07T16:10:06.792Z"
     },
     {
       "id": "65a2372f-237d-444d-aace-a03aee891e38",
