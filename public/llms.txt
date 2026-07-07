@@ -331,10 +331,11 @@ https://gurimbakfar.co.il/product/chtyp-mkl-atsvt-ym-ml-2ebbf1
 - Description: חטיף מקלות אצות ים לכלבים בינוניים וגדולים 80 גרם
 
 ### צעצוע פעילות אינטראקטיבי TIROTTO לכלבים
-https://gurimbakfar.co.il/product/tsatsva-paylvt-ayntraktyby-tirotto-lklbym-0a3mpb
+https://gurimbakfar.co.il/product/tsatsva-paylvt-ayntraktyby-tirotto-lklbym-8eef1h
 - Price: 59.00 ILS
 - Availability: In stock
 - Category: צעצועים
+- Image: https://gurimbakfar.co.il/assets/product-1783424156679-wfxmh9.webp
 
 ### חטיף מקל אצות ים S/M
 https://gurimbakfar.co.il/product/chtyp-mkl-atsvt-ym-sm-6op4yn
