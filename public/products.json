@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T23:19:20.098Z",
+  "generated_at": "2026-07-07T23:20:53.751Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 244,
@@ -651,7 +651,7 @@
     },
     {
       "id": "a6a239e7-01ee-4797-8003-1bb2777e1d6a",
-      "slug": "chtyp-nvblvs-brvvz-pylh-rk-80-gr-9e5u7g",
+      "slug": "chtyp-nvblvs-brvvz-pylh-rk-80-gr-2roy2p",
       "name": "חטיף נובלוס ברווז פילה רך 80 גר'",
       "name_translations": {
         "en": "Nobilus Duck Fillet Soft Snack 80g",
@@ -671,15 +671,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-pylh-rk-80-gr-9e5u7g",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-pylh-rk-80-gr-2roy2p",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T23:18:48.466Z"
+      "updated_at": "2026-07-07T23:20:08.436Z"
     },
     {
       "id": "c75ab4b1-2890-4ff3-b3e5-9b9fe31f4fd3",
-      "slug": "chtyp-nvblvs-avp-kltsyvm-80-gr-hi243d",
+      "slug": "chtyp-nvblvs-avp-kltsyvm-80-gr-554f5u",
       "name": "חטיף נובלוס עוף קלציום 80 גר'",
       "name_translations": {
         "en": "Nobulos Chicken Calcium Snack 80g",
@@ -690,8 +690,8 @@
       "short_description": "חטיף נובלוס עצם קלציום (סידן) במעטפת עוף (80 גרם) הוא חטיף בריא. הוא מורכב מעצם סידן טבעית שעטופה בבשר חזה עוף אמיתי. החטיף מעסיק את הכלב, מנקה את השיניים, ומחזק את הלסת. \nיתרון נוסף - אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (זיפר) לשמירה על איכות החטיף לאורך זמן.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 12.5,
+      "base_price": 12.5,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -699,11 +699,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-avp-kltsyvm-80-gr-hi243d",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-avp-kltsyvm-80-gr-554f5u",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T21:45:03.854Z"
+      "updated_at": "2026-07-07T23:20:26.278Z"
     },
     {
       "id": "b96ba157-9c21-4236-8536-443d0df20634",
