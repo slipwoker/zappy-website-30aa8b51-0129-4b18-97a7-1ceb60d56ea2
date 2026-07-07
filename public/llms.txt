@@ -72,7 +72,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 230** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 231** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### חטיף נובלוס קוביות כבש אילוף 80 גר'
+https://gurimbakfar.co.il/product/chtyp-nvblvs-kvbyvt-kbsh-aylvp-80-gr-xwyh9p
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: חטיפים
+- Description: קוביות כבש 80 גרם - נובילוס NOBILUS הוא חטיף אילוף פרימיום פופולרי לכלבים, המגיע בצורת קוביות קטנות המותאמות במיוחד לביס מהיר בזמן אימון מבלי להפריע לרצף הלמידה. החטיף מבוסס על בשר כבש אמיתי כמרכיב עיקרי בשילוב בשר חזה ברווז, ומספק מקור חלבון איכותי ודל שומן.
 
 ### חטיף נובלוס מקלות כבש 80 גר'
 https://gurimbakfar.co.il/product/chtyp-nvblvs-mklvt-kbsh-80-gr-d8oov4
@@ -1479,13 +1486,6 @@ https://gurimbakfar.co.il/product/mshkvlt-gvmy-dntlyt-i3kjv5
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781450631767-q4nqtm.webp
-
-### צעצוע תמנון קטיפה מרשרש עם צפצפה
-https://gurimbakfar.co.il/product/tsatsva-tmnvn-ktyph-mrshrsh-am-tsptsph-osq2dp
-- Price: 35.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781450720393-qzfqi8.webp
 
 ---
 
