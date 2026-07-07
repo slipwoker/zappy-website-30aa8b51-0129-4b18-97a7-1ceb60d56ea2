@@ -75,10 +75,12 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 218** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### חטיף נובלוס סושי עוף
-https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-avp-v7lp7l
+https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-avp-731hok
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: חטיפים
+- SKU: 200642
+- Brand: מיקס פור פט 2020 בע"מ
 - Description: חטיפי נובילוס, חטיפים טעימים במיוחד המתאימים למתן כפינוק, לעיסה, ומושלמים כתוספת משלימה לאוכל. 80 גרם * מארז עם סגירה חוזרת, לשמירה על טריות * מושלם כחטיף התעסקות * מקור חלבון איכותי * חטיף דל שומן * בשר אמיתי כמרכיב עיקרי
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1783435604868-dfxn5d.webp
 
