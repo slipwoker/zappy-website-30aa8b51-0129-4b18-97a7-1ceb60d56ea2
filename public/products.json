@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T23:08:57.007Z",
+  "generated_at": "2026-07-07T23:10:44.427Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 244,
@@ -35,19 +35,19 @@
     },
     {
       "id": "d02028c5-495a-4a29-b6aa-6aa33ac38143",
-      "slug": "chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-pmtila",
+      "slug": "chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-04cb3x",
       "name": "חטיף נובלוס ברבקיו טיבון בקר 80 גר'",
       "name_translations": {
         "en": "Nobilus BBQ T-Bone Beef Snack 80g",
         "he": "חטיף נובלוס ברבקיו טיבון בקר 80 גר'",
-        "ru": "Лакомство Nobulus барбекю Тибон говядина 80 гр'"
+        "ru": "Лакомство Nobulus барбекю тибон говядина 80 гр'"
       },
-      "description": "<p>רכיבים: בשר חזה עוף, תוצרי לוואי של בקר, בשר חזה ברווז, קמח חיטה, חלבון סויה, קמח, עמילן סויה, גליצרין, ויטמין C, נתרן EVC, שומן.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 28% </li><li>שומן גולמי: מקסימום 3% </li><li>סיבים גולמיים: מקסימום 1% </li><li>אפר גולמי: מקסימום 5% </li><li>לחות: מקסימום 18%</li></ul>",
+      "description": "<p>רכיבים: בשר חזה עוף, תוצרי לוואי של בקר, בשר חזה ברווז, קמח חיטה, חלבון סויה, קמח, עמילן סויה, גליצרין, ויטמין C, נתרן EVC, שומן.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 28%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5%</li><li>לחות: מקסימום 18%</li></ul>",
       "short_description": "חטיף נובילוס (Nobilus) בטעם סטייק טיבון בקר / ברביקיו בקר במשקל 80 גרם הוא חטיף אולטרה-פרימיום איכותי וטעים המיועד לכלבים, המבוסס על בשר אמיתי כמרכיב עיקרי ומתאים כפינוק יומי או כפרס באילוף.\nאריזה: מגיע במארז נוח עם סגירה חוזרת (Ziploc) השומרת על טריות המוצר לאורך זמן.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 12.5,
+      "base_price": 12.5,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -55,27 +55,27 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-pmtila",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-04cb3x",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T22:49:40.127Z"
+      "updated_at": "2026-07-07T23:09:51.266Z"
     },
     {
       "id": "1c9bd934-e8a6-40e7-bce1-c6f304467716",
-      "slug": "chtyp-nvblvs-brbkyv-tslavt-kbsh-80-gr-t8bfgm",
+      "slug": "chtyp-nvblvs-brbkyv-tslavt-kbsh-80-gr-c3oqz2",
       "name": "חטיף נובלוס ברבקיו צלעות כבש 80 גר'",
       "name_translations": {
         "en": "Nobilus BBQ Lamb Ribs Treat 80g",
         "he": "חטיף נובלוס ברבקיו צלעות כבש 80 גר'",
         "ru": "Лакомство Nobilus барбекю рёбрышки ягнёнка 80 г"
       },
-      "description": "<p>רכיבים: בשר חזה עוף, תוצרי לוואי של כבש, בשר חזה ברווז, קמח חיטה, חלבון סויה, עמילן סויה, גליצרין, ויטמין C נתרן EVC, חומרי טעם וריח.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 28% </li><li>שומן גולמי: מקסימום 3% </li><li>סיבים גולמיים: מקסימום 1% </li><li>אפר גולמי: מקסימום 5% לחות: </li><li>מקסימום 18%</li></ul>",
+      "description": "<p>רכיבים: בשר חזה עוף, תוצרי לוואי של כבש, בשר חזה ברווז, קמח חיטה, חלבון סויה, עמילן סויה, גליצרין, ויטמין C נתרן EVC, חומרי טעם וריח.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 28%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5% לחות:</li><li>מקסימום 18%</li></ul>",
       "short_description": "חטיף נובילוס (Nobilus) בטעם ברביקיו צלעות כבש הוא חטיף לעיסה איכותי ודל שומן המיועד לכלבים, המגיע באריזת 80 גרם עם סגירה חוזרת לשמירה על הטריות.חטיף זה פופולרי מאוד כצופר, כפרס בזמן אילוף או כחטיף תעסקות טעים המבוסס על בשר אמיתי כמרכיב עיקרי.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 12.5,
+      "base_price": 12.5,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -83,27 +83,27 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tslavt-kbsh-80-gr-t8bfgm",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tslavt-kbsh-80-gr-c3oqz2",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T22:43:47.534Z"
+      "updated_at": "2026-07-07T23:10:04.114Z"
     },
     {
       "id": "55cd6023-2864-473e-b30b-3333c421b4f0",
-      "slug": "chtyp-nvblvs-dntly-mbrshvt-80-gr-xkj2w8",
+      "slug": "chtyp-nvblvs-dntly-mbrshvt-80-gr-bqal75",
       "name": "חטיף נובלוס דנטלי מברשות 80 גר'",
       "name_translations": {
         "en": "Nobilus Dental Toothbrush Snack 80g",
         "he": "חטיף נובלוס דנטלי מברשות 80 גר'",
-        "ru": "Лакомство Nobulus Dentaly в форме зубной щётки 80 г"
+        "ru": "Лакомство Nobilus Dental зубная щётка 80 г"
       },
-      "description": "<p>רכיבים: עמילן תירס, גליצרין צמחי, גלוטן, דגים, עוף, שמן סויה, מתחלב, סידן סטראט, נתרן נחושת כלורופילין.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 6% </li><li>שומן גולמי: מקסימום 3% </li><li>סיבים גולמיים: מקסימום 1% </li><li>אפר גולמי: מקסימום 5% </li><li>לחות: מקסימום 18%</li></ul>",
+      "description": "<p>רכיבים: עמילן תירס, גליצרין צמחי, גלוטן, דגים, עוף, שמן סויה, מתחלב, סידן סטראט, נתרן נחושת כלורופילין.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 6%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5%</li><li>לחות: מקסימום 18%</li></ul>",
       "short_description": "חטיף נובילוס (Nobilus) דנטלי בצורת מברשת שיניים (80 גרם) הוא חטיף לעיסה פונקציונלי לכלבים, המיועד לשמירה על היגיינת הפה. החטיף מגיע במארז עם סגירה חוזרת לשמירה על הטריות.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 12.5,
+      "base_price": 12.5,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -111,27 +111,27 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-dntly-mbrshvt-80-gr-xkj2w8",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-dntly-mbrshvt-80-gr-bqal75",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T22:39:15.146Z"
+      "updated_at": "2026-07-07T23:10:12.612Z"
     },
     {
       "id": "3c8339f6-921b-4917-a70a-005adaa88c47",
-      "slug": "chtyp-nvblvs-atypvt-shl-arnb-bmkl-kltsyvm-80-gr-oeb6u7",
+      "slug": "chtyp-nvblvs-atypvt-shl-arnb-bmkl-kltsyvm-80-gr-jclb48",
       "name": "חטיף נובלוס עטיפות של ארנב במקל קלציום 80 גר'",
       "name_translations": {
-        "en": "Nobilus Rabbit Wraps Calcium Stick Snack 80g",
+        "en": "Nobilus Snack Rabbit Wraps on Calcium Stick 80g",
         "he": "חטיף נובלוס עטיפות של ארנב במקל קלציום 80 גר'",
         "ru": "Лакомство Nobulus обёртки из кролика на кальциевой палочке 80 г"
       },
-      "description": "<p>רכיבים: ארנבת, עצם סידן, קמח חיטה, עמילן, גליצרין צמחי, חלבון אפונה, סורביטול.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 20% </li><li>שומן גולמי: מקסימום 3% </li><li>סיבים גולמיים: מקסימום 1% </li><li>אפר גולמי: מקסימום 5% </li><li>לחות: מקסימום 18%</li></ul>",
+      "description": "<p>רכיבים: ארנבת, עצם סידן, קמח חיטה, עמילן, גליצרין צמחי, חלבון אפונה, סורביטול.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 20%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5%</li><li>לחות: מקסימום 18%</li></ul>",
       "short_description": "חטיף נובילוס (Nobilus) ארנב על עצם סידן (מקל קלציום) במשקל 80 גרם הוא חטיף פרימיום איכותי והיפואלרגני המיועד לכלבים. החטיף מורכב מנתחי בשר ארנב אמיתי המלופפים סביב מקל סידן (קלציום), מה שמספק לכלב גם חוויית לעיסה טעימה וממושכת וגם תמיכה בבריאות העצמות והשיניים.\nאריזה: מגיע באריזת 80 גרם עם סגירה חוזרת (Ziploc) לשמירה מקסימלית על הטריות.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 12.5,
+      "base_price": 12.5,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -139,27 +139,27 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-atypvt-shl-arnb-bmkl-kltsyvm-80-gr-oeb6u7",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-atypvt-shl-arnb-bmkl-kltsyvm-80-gr-jclb48",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T22:35:41.642Z"
+      "updated_at": "2026-07-07T23:10:31.447Z"
     },
     {
       "id": "e26108a4-99f5-4767-be47-b405fcff9e47",
-      "slug": "chtyp-nvblvs-svshy-arnb-80-gr-70tnsi",
+      "slug": "chtyp-nvblvs-svshy-arnb-80-gr-rqdvw4",
       "name": "חטיף נובלוס סושי ארנב 80 גר'",
       "name_translations": {
         "en": "Nobilus Sushi Rabbit Snack 80g",
         "he": "חטיף נובלוס סושי ארנב 80 גר'",
         "ru": "Лакомство Nobilus Суши Кролик 80 г"
       },
-      "description": "<p>רכיבים: ארנבת, חזה עוף, בקלה, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 25% </li><li>שומן גולמי: מקסימום 3% </li><li>סיבים גולמיים: מקסימום 1% </li><li>אפר גולמי: מקסימום 5% </li><li>לחות: מקסימום 18%</li></ul>",
+      "description": "<p>רכיבים: ארנבת, חזה עוף, בקלה, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 25%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5%</li><li>לחות: מקסימום 18%</li></ul>",
       "short_description": "נובילוס חטיף לכלב סושי ארנב - 80 גרם הוא חטיף פרימיום בצורת ספירלה המיועד לכלבים, המיוצר על ידי המותג נובילוס (Nobilus).\nאריזה: 80 גרם עם סגירה חוזרת לשמירה על הטריות.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 12.5,
+      "base_price": 12.5,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -167,11 +167,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-arnb-80-gr-70tnsi",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-arnb-80-gr-rqdvw4",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T22:29:49.332Z"
+      "updated_at": "2026-07-07T23:10:39.412Z"
     },
     {
       "id": "38a00fb1-8b74-47cd-8161-31f59a0fe750",
