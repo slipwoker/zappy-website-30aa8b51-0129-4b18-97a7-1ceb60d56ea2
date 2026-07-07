@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T08:39:05.740Z",
+  "generated_at": "2026-07-07T08:42:50.385Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 221,
@@ -1385,29 +1385,31 @@
     },
     {
       "id": "77592c60-2898-4904-8a84-65a0bacce686",
-      "slug": "mzvn-klbym-rtvb-aysgrym-arvcht-slmvn-vpvrl-lklb-410-grm-742lf4",
+      "slug": "mzvn-klbym-rtvb-aysgrym-arvcht-slmvn-vpvrl-lklb-410-grm-pdkox0",
       "name": "מזון כלבים רטוב איסגרים ארוחת סלמון ופורל לכלב 410 גרם",
       "name_translations": {
-        "en": "Isgrims Wet Dog Food Salmon and Trout Meal for Dogs 410g",
+        "en": "Isegrim Wet Dog Food Salmon and Trout Meal for Dogs 410g",
         "he": "מזון כלבים רטוב איסגרים ארוחת סלמון ופורל לכלב 410 גרם",
-        "ru": "Влажный корм для собак Isgrims обед из лосося и форели для собак 410 грамм"
+        "ru": "Влажный корм для собак Isegrim ужин с лососем и форелью для собак 410 грамм"
       },
-      "description": "",
-      "short_description": null,
+      "description": "<p>Isegrim Roots מספקת את התזונה המקורית של האב הקדמון של כל הכלבים – הזאב. שימורי סופר פרימיום המציעים טעם ללא תחרות בזכות: מרכיבים טבעיים, 70% תכולת בשר, מגוון ירקות עשירים בויטמינים, שמנים מזינים ועשבי בר מובחרים.</p><p>נטול דגנים וגלוטן!</p><p>97% בשר וציר בשר!</p><p>3% ירקות, שמנים ועשבי בר.</p><p>מגיע באריזת פאווץ מהודרת ונוחה לאיחסון.</p><p><strong>רכיבים עיקריים:</strong></p><p>35% עוף, 27.5% ציר, 20% סלמון, 14.5% פורל, 1.5% ארטישוק ירושלמי, 1% מינרלים, 0.3% עשבי נחלים, 0.2% שמן חריע.</p>",
+      "short_description": "שימורים, לכלבים בוגרים מכל הגזעים, מהאיכות הגבוהה ביותר של המותג Isegrim Roots על בסיס עוף, דגי סלמון ופורל.",
       "sku": null,
       "brand": null,
       "price": 19.9,
       "base_price": 19.9,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783413605251-8qatrk.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-aysgrym-arvcht-slmvn-vpvrl-lklb-410-grm-742lf4",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-aysgrym-arvcht-slmvn-vpvrl-lklb-410-grm-pdkox0",
       "categories": [
         "שימורים ומעדנים"
       ],
-      "updated_at": "2026-07-07T08:22:29.436Z"
+      "updated_at": "2026-07-07T08:42:18.576Z"
     },
     {
       "id": "b068a1b8-bd42-47a7-ba89-f03de4e87048",
