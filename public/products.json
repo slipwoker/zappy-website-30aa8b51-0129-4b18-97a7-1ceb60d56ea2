@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T11:14:39.209Z",
+  "generated_at": "2026-07-07T11:16:47.157Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 221,
@@ -960,9 +960,7 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/myth-laxury-lklb-vlchtvl-nt8xxc",
-      "categories": [
-        "מיטות ומזרנים"
-      ],
+      "categories": [],
       "updated_at": "2026-07-07T08:22:46.731Z"
     },
     {
@@ -1292,9 +1290,7 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-2-lytr-mvkh-cm4ae8",
-      "categories": [
-        "כלי אוכל ושתיה"
-      ],
+      "categories": [],
       "updated_at": "2026-07-07T08:22:38.202Z"
     },
     {
