@@ -72,67 +72,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 196**
-
-### ���� ������ 10 �� - ���� XS
-https://gurimbakfar.co.il/product/10-xs-26hqbb
-- Price: 18.00 ILS
-- Availability: In stock
-- Category: ������ �������
-
-### �� ���� ������ ���� ���� GD ���
-https://gurimbakfar.co.il/product/gd-32d5fa
-- Price: 85.00 ILS
-- Availability: In stock
-- Category: ������ �������
-
-### �� ���� ������ ���� ���/ ������ ��� ������
-https://gurimbakfar.co.il/product/-w5al7s
-- Price: 59.00 ILS
-- Availability: In stock
-- Category: ������ �������
-
-### �� ���� ������ ���� ��� / ������ ��� ���
-https://gurimbakfar.co.il/product/-ooc37p
-- Price: 59.00 ILS
-- Availability: In stock
-- Category: ������ �������
-
-### �� ���� ������ ���� ���� ������ ��������
-https://gurimbakfar.co.il/product/-fz4y58
-- Price: 70.00 ILS
-- Availability: In stock
-- Category: ������ �������
-
-### �� ���� ������ ���� ���� GD ����
-https://gurimbakfar.co.il/product/gd-p45n3d
-- Price: 85.00 ILS
-- Availability: In stock
-- Category: ������ �������
-
-### �� ���� ������ ���� ���/ ������ ��� ����
-https://gurimbakfar.co.il/product/-l8wfjd
-- Price: 59.00 ILS
-- Availability: In stock
-- Category: ������ �������
-
-### ���� ����� Bitesy ����� �����
-https://gurimbakfar.co.il/product/bitesy-bsg1nj
-- Price: 309.00 ILS
-- Availability: In stock
-- Category: ���� ���
-
-### ���� ����� Bitesy ���� ����� ���� �����
-https://gurimbakfar.co.il/product/bitesy-epks3r
-- Price: 309.00 ILS
-- Availability: In stock
-- Category: ���� ���
-
-### ��� ����/Sam's Field ����� ���� 13 �"�
-https://gurimbakfar.co.il/product/sams-field-13-t69d9x
-- Price: 299.00 ILS
-- Availability: In stock
-- Category: ���� ���
+**Total active products: 186**
 
 ### ��� ����/Sam's Field ���� ��� 13 �"�
 https://gurimbakfar.co.il/product/sams-field-13-vynd4n
