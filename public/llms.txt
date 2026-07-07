@@ -72,7 +72,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 219** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 216** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### טריפל קראון לכלב בוגר גורמה כבש
 https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-gvrmh-kbsh-0shq34
@@ -354,27 +354,11 @@ https://gurimbakfar.co.il/product/tsatsva-laysh-masticosso-lhygyynt-hshynyym-lkl
 - Availability: In stock
 - Category: צעצועים
 
-### מעמד מוגבה לקערות אוכל ושתייה לכלבים 2 ליטר כחול
-https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-2-lytr-kchvl-6gr1kv
-- Price: 150.00 ILS
-- Availability: In stock
-
-### מעמד מוגבה לקערות אוכל ושתייה לכלבים 2 ליטר לילך
-https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-2-lytr-lylk-q5n2ky
-- Price: 150.00 ILS
-- Availability: In stock
-
 ### מעמד מוגבה לקערות אוכל ושתייה לכלבים
 https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-5dem3v
 - Price: 115.00 ILS
 - Availability: In stock
 - Image: https://gurimbakfar.co.il/assets/product-1783423310438-ta016.webp
-
-### מעמד מוגבה לקערות אוכל ושתייה לכלבים 1 ליטר לילך
-https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-1-lytr-lylk-domq8b
-- Price: 115.00 ILS
-- Availability: In stock
-- Image: https://gurimbakfar.co.il/assets/product-1783414139395-g30107.webp
 
 ### מזון כלבים רטוב איסגרים ארוחת הודו לכלב 410 גרם
 https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-lklb-410-grm-gkm428
@@ -1453,6 +1437,27 @@ https://gurimbakfar.co.il/product/tsatsva-laysh-dntly-teoo4v
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781434110890-kvzter.webp
+
+### ערכת צחצוח שיניים לכלבים בטעם עוף
+https://gurimbakfar.co.il/product/arkt-tschtsvch-shynyym-lklbym-btam-avp-jqa7h1
+- Price: 42.00 ILS
+- Availability: In stock
+- Category: מוצרי טיפוח
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781434062728-mt2u4b.webp
+
+### חבל S
+https://gurimbakfar.co.il/product/chbl-s-vx7dpr
+- Price: 7.00 ILS
+- Availability: In stock
+- Category: צעצועים
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781434018395-zc2gy.webp
+
+### ברווז מצפצף M
+https://gurimbakfar.co.il/product/brvvz-mtsptsp-m-o4vroa
+- Price: 40.00 ILS
+- Availability: In stock
+- Category: צעצועים
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781433973805-es62mg.webp
 
 ---
 

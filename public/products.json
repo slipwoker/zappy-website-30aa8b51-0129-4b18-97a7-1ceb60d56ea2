@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T11:30:09.758Z",
+  "generated_at": "2026-07-07T11:31:56.013Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 219,
+  "count": 216,
   "products": [
     {
       "id": "b81f25b9-288f-4d22-a010-9eb8c8211c2b",
@@ -1198,54 +1198,6 @@
       "updated_at": "2026-07-07T08:22:39.960Z"
     },
     {
-      "id": "af7d9ac3-2f2e-473a-87a2-e07ca7f98eb0",
-      "slug": "mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-2-lytr-kchvl-6gr1kv",
-      "name": "מעמד מוגבה לקערות אוכל ושתייה לכלבים 2 ליטר כחול",
-      "name_translations": {
-        "en": "Elevated Stand for Dog Food and Water Bowls 2 Liter Blue",
-        "he": "מעמד מוגבה לקערות אוכל ושתייה לכלבים 2 ליטר כחול",
-        "ru": "Подставка с подъёмом для мисок с едой и водой для собак 2 литра синяя"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 150,
-      "base_price": 150,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-2-lytr-kchvl-6gr1kv",
-      "categories": [],
-      "updated_at": "2026-07-07T08:22:40.222Z"
-    },
-    {
-      "id": "667001b0-2f86-402a-ad32-e51183a97c85",
-      "slug": "mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-2-lytr-lylk-q5n2ky",
-      "name": "מעמד מוגבה לקערות אוכל ושתייה לכלבים 2 ליטר לילך",
-      "name_translations": {
-        "en": "Elevated Stand for Dog Food and Water Bowls 2 Liter Lilac",
-        "he": "מעמד מוגבה לקערות אוכל ושתייה לכלבים 2 ליטר לילך",
-        "ru": "Подставка с подъёмом для мисок для еды и воды для собак 2 литра Лилах"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 150,
-      "base_price": 150,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-2-lytr-lylk-q5n2ky",
-      "categories": [],
-      "updated_at": "2026-07-07T08:22:28.100Z"
-    },
-    {
       "id": "e2979dc1-cb4b-465d-8e0c-baef7a8e1b0e",
       "slug": "mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-5dem3v",
       "name": "מעמד מוגבה לקערות אוכל ושתייה לכלבים",
@@ -1272,32 +1224,6 @@
       "url": "https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-5dem3v",
       "categories": [],
       "updated_at": "2026-07-07T11:29:42.212Z"
-    },
-    {
-      "id": "70b61793-0db9-4c66-8462-1514fca2c5b1",
-      "slug": "mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-1-lytr-lylk-domq8b",
-      "name": "מעמד מוגבה לקערות אוכל ושתייה לכלבים 1 ליטר לילך",
-      "name_translations": {
-        "en": "Elevated Stand for Dog Food and Water Bowls 1 Liter Lilac",
-        "he": "מעמד מוגבה לקערות אוכל ושתייה לכלבים 1 ליטר לילך",
-        "ru": "Подставка с подъёмом для мисок с едой и водой для собак 1 литр сиреневая"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 115,
-      "base_price": 115,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://gurimbakfar.co.il/assets/product-1783414139395-g30107.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-1-lytr-lylk-domq8b",
-      "categories": [],
-      "updated_at": "2026-07-07T08:49:38.952Z"
     },
     {
       "id": "663e5b75-fee5-4b1e-90b4-76f0c7fbf4dc",
