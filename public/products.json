@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T12:08:56.237Z",
+  "generated_at": "2026-07-07T12:11:02.726Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 215,
@@ -761,12 +761,12 @@
     },
     {
       "id": "7a652b8d-226b-4e45-9ae5-8ddfaad7d7cb",
-      "slug": "mzvn-klbym-bitesy-gvrym-slmvn-iyc3qn",
-      "name": "מזון כלבים Bitesy גורים סלמון",
+      "slug": "mzvn-klbym-bitesy-gvrym-slmvn-12-kg-utr1re",
+      "name": "מזון כלבים Bitesy גורים סלמון 12 ק\"ג",
       "name_translations": {
-        "en": "Bitesy Puppy Salmon Dog Food",
-        "he": "מזון כלבים Bitesy גורים סלמון",
-        "ru": "Корм для щенков Bitesy с лососем"
+        "en": "Bitesy Puppy Salmon Dog Food 12 kg",
+        "he": "מזון כלבים Bitesy גורים סלמון 12 ק\"ג",
+        "ru": "Корм для щенков Bitesy лосось 12 кг"
       },
       "description": "",
       "short_description": null,
@@ -776,14 +776,16 @@
       "base_price": 309,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783426203173-esm6je.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-bitesy-gvrym-slmvn-iyc3qn",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-bitesy-gvrym-slmvn-12-kg-utr1re",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-07T08:22:47.506Z"
+      "updated_at": "2026-07-07T12:10:31.173Z"
     },
     {
       "id": "24b55072-456f-4aa6-9cfc-e6cd5c500ec0",
