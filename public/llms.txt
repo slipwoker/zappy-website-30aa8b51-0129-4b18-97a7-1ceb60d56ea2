@@ -72,7 +72,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 226** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 227** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### חטיף נובלוס נקניקיות ברווז
+https://gurimbakfar.co.il/product/chtyp-nvblvs-nknykyvt-brvvz-hocacd
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: חטיפים
+- Description: חטיף נובילוס (Nobilus) נקניקיות ברווז הוא חטיף פרימיום משלים והיפואלרגני המיועד לכלבים. החטיף מגיע באריזה של 80 גרם עם סגירה חוזרת לשמירה על הטריות, ומתאים כצ'ופר, חטיף התעסקות או לעיסה לכלבים מכל הגזעים והגילאים.
 
 ### חטיף נובלוס מקל ברווז ואורז 80 גר'
 https://gurimbakfar.co.il/product/chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-qfhmok
@@ -1479,13 +1486,6 @@ https://gurimbakfar.co.il/product/chbl-xs-fxzwb0
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781450912224-7i6kmq.webp
-
-### כדור דנטלי קטן רך
-https://gurimbakfar.co.il/product/kdvr-dntly-ktn-rk-9tv9b5
-- Price: 10.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781451063928-biucx.webp
 
 ---
 
