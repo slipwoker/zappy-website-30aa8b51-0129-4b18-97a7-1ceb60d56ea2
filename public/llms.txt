@@ -72,7 +72,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 234** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 235** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### חטיף נובלוס פילה סלמון 80 גר'
+https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-slmvn-80-gr-xlsgj3
+- Price: 0.00 ILS
+- Availability: In stock
+- Description: נובילוס חטיף פילה סלמון לכלב 80 גרם הוא חטיף אולטרה-פרימיום איכותי וטעים המיועד לפינוק, אילוף או כתוספת משלימה למזון היומי של הכלב. אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (זיפר) לשמירה על איכות החטיף לאורך זמן.
+- Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783461171036-1002g.webp
 
 ### חטיף נובלוס פילה סלמון 80 גר'
 https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-slmvn-80-gr-2eq30w
@@ -1494,13 +1501,6 @@ https://gurimbakfar.co.il/product/shmn-byshvm-lbaly-chyym-petglow-3jcamm
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449919551-l46kzt.webp
-
-### שמן בישום לבעלי חיים PURE
-https://gurimbakfar.co.il/product/shmn-byshvm-lbaly-chyym-pure-dkdfjf
-- Price: 35.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449961983-aki1z.webp
 
 ---
 
