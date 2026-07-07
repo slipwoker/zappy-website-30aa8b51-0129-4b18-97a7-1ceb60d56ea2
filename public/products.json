@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T19:25:39.031Z",
+  "generated_at": "2026-07-07T19:26:48.142Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 234,
@@ -33,15 +33,15 @@
     },
     {
       "id": "d0b4ed3b-ca67-46b5-ac55-e68c6b19ba43",
-      "slug": "chtyp-nvblvs-nknykyvt-kbsh-80-gr-yfr187",
+      "slug": "chtyp-nvblvs-nknykyvt-kbsh-80-gr-kyqqk6",
       "name": "חטיף נובלוס נקניקיות כבש 80 גר'",
       "name_translations": {
-        "en": "Nobulos Lamb Sausage Treat 80g",
+        "en": "Nobilus Lamb Sausage Snack 80g",
         "he": "חטיף נובלוס נקניקיות כבש 80 גר'",
-        "ru": "Лакомство Nobulus сосиски из ягнёнка 80 г"
+        "ru": "Лакомство Nobilus сосиски из ягнёнка 80 г"
       },
-      "description": "<p>רכיבים: כבש, בשר חזה ברווז, חלבון אפונה, קמח חיטה, עמילן, מעטפת קולגן, גליצרין צמחי, סורביטול.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 35% </li><li>שומן גולמי: מקסימום 3% </li><li>סיבים גולמיים: מקסימום 1% </li><li>אפר גולמי: מקסימום 5% </li><li>לחות: מקסימום 18%</li></ul>",
-      "short_description": "Nobilus נובילוס חטיף נקניקיות כבש הוא חטיף פרימיום היפואלרגני המיועד לכלבים, המגיע באריזה של 80 גרם ומבוסס על שילוב של בשר כבש ובשר חזה ברווז.",
+      "description": "<p>רכיבים: כבש, בשר חזה ברווז, חלבון אפונה, קמח חיטה, עמילן, מעטפת קולגן, גליצרין צמחי, סורביטול.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 35%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5%</li><li>לחות: מקסימום 18%</li></ul>",
+      "short_description": " נובילוס Nobilus חטיף נקניקיות כבש הוא חטיף פרימיום היפואלרגני המיועד לכלבים, המגיע באריזה של 80 גרם ומבוסס על שילוב של בשר כבש ובשר חזה ברווז.\nיתרון נוסף - אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (זיפר) לשמירה על איכות החטיף לאורך זמן.",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -51,11 +51,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-nknykyvt-kbsh-80-gr-yfr187",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-nknykyvt-kbsh-80-gr-kyqqk6",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T19:12:57.549Z"
+      "updated_at": "2026-07-07T19:26:16.287Z"
     },
     {
       "id": "025e266b-8dc5-41b8-b373-9f2ec5ad1a07",
