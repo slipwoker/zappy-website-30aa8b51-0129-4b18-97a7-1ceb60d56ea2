@@ -4,7 +4,7 @@
     <title>גורים בכפר</title>
     <link>https://gurimbakfar.co.il</link>
     <description>Product feed for גורים בכפר</description>
-    <lastBuildDate>Tue, 07 Jul 2026 11:24:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 11:29:14 GMT</lastBuildDate>
     <item>
       <g:id>b81f25b9-288f-4d22-a010-9eb8c8211c2b</g:id>
       <g:title>טריפל קראון לכלב בוגר גורמה כבש</g:title>
@@ -578,13 +578,44 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>e2979dc1-cb4b-465d-8e0c-baef7a8e1b0e</g:id>
-      <g:title>מעמד מוגבה לקערות אוכל ושתייה לכלבים 1 ליטר מוקה</g:title>
-      <g:description>מעמד מוגבה לקערות אוכל ושתייה לכלבים 1 ליטר מוקה</g:description>
-      <g:link>https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-1-lytr-mvkh-f5ep77</g:link>
+      <g:id>e2979dc1-cb4b-465d-8e0c-baef7a8e1b0e__d46b0d15-db11-428e-b22c-b7a68355574a</g:id>
+      <g:title>מעמד מוגבה לקערות אוכל ושתייה לכלבים - מוקה</g:title>
+      <g:description>מעמד מוגבה לקערות אוכל ושתייה לכלבים</g:description>
+      <g:link>https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-5dem3v</g:link>
+      <g:item_group_id>e2979dc1-cb4b-465d-8e0c-baef7a8e1b0e</g:item_group_id>
       <g:image_link>https://gurimbakfar.co.il/assets/product-1783423310438-ta016.webp</g:image_link>
-      <g:additional_image_link>https://gurimbakfar.co.il/assets/product-1783423275856-lqxw8.webp</g:additional_image_link>
-      <g:additional_image_link>https://gurimbakfar.co.il/assets/product-1783423243650-lhivjk.webp</g:additional_image_link>
+      <g:additional_image_link>https://gurimbakfar.co.il/assets/product-1783423526036-k9ox5.webp</g:additional_image_link>
+      <g:additional_image_link>https://gurimbakfar.co.il/assets/product-1783423557365-cqxtkf.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>115.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>e2979dc1-cb4b-465d-8e0c-baef7a8e1b0e__ed5b8377-6de1-4e85-aa0b-884233f8e193</g:id>
+      <g:title>מעמד מוגבה לקערות אוכל ושתייה לכלבים - כחול</g:title>
+      <g:description>מעמד מוגבה לקערות אוכל ושתייה לכלבים</g:description>
+      <g:link>https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-5dem3v</g:link>
+      <g:item_group_id>e2979dc1-cb4b-465d-8e0c-baef7a8e1b0e</g:item_group_id>
+      <g:image_link>https://gurimbakfar.co.il/assets/product-1783423310438-ta016.webp</g:image_link>
+      <g:additional_image_link>https://gurimbakfar.co.il/assets/product-1783423526036-k9ox5.webp</g:additional_image_link>
+      <g:additional_image_link>https://gurimbakfar.co.il/assets/product-1783423557365-cqxtkf.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>115.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>e2979dc1-cb4b-465d-8e0c-baef7a8e1b0e__e2e3d40a-9de8-41a5-b5d9-c95989476df9</g:id>
+      <g:title>מעמד מוגבה לקערות אוכל ושתייה לכלבים - לילך</g:title>
+      <g:description>מעמד מוגבה לקערות אוכל ושתייה לכלבים</g:description>
+      <g:link>https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-5dem3v</g:link>
+      <g:item_group_id>e2979dc1-cb4b-465d-8e0c-baef7a8e1b0e</g:item_group_id>
+      <g:image_link>https://gurimbakfar.co.il/assets/product-1783423310438-ta016.webp</g:image_link>
+      <g:additional_image_link>https://gurimbakfar.co.il/assets/product-1783423526036-k9ox5.webp</g:additional_image_link>
+      <g:additional_image_link>https://gurimbakfar.co.il/assets/product-1783423557365-cqxtkf.webp</g:additional_image_link>
       <g:availability>in_stock</g:availability>
       <g:price>115.00 ILS</g:price>
       <g:condition>new</g:condition>

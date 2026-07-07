@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T11:24:44.175Z",
+  "generated_at": "2026-07-07T11:29:14.734Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 219,
@@ -1247,12 +1247,12 @@
     },
     {
       "id": "e2979dc1-cb4b-465d-8e0c-baef7a8e1b0e",
-      "slug": "mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-1-lytr-mvkh-f5ep77",
-      "name": "מעמד מוגבה לקערות אוכל ושתייה לכלבים 1 ליטר מוקה",
+      "slug": "mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-5dem3v",
+      "name": "מעמד מוגבה לקערות אוכל ושתייה לכלבים",
       "name_translations": {
-        "en": "Elevated Stand for Dog Food and Water Bowls 1 Liter Mocha",
-        "he": "מעמד מוגבה לקערות אוכל ושתייה לכלבים 1 ליטר מוקה",
-        "ru": "Подставка с подъёмом для мисок для еды и воды для собак 1 литр мокко"
+        "en": "Elevated Stand for Dog Food and Water Bowls",
+        "he": "מעמד מוגבה לקערות אוכל ושתייה לכלבים",
+        "ru": "Подставка с подъёмом для мисок с едой и водой для собак"
       },
       "description": "",
       "short_description": null,
@@ -1264,14 +1264,14 @@
       "currency": "ILS",
       "images": [
         "https://gurimbakfar.co.il/assets/product-1783423310438-ta016.webp",
-        "https://gurimbakfar.co.il/assets/product-1783423275856-lqxw8.webp",
-        "https://gurimbakfar.co.il/assets/product-1783423243650-lhivjk.webp"
+        "https://gurimbakfar.co.il/assets/product-1783423526036-k9ox5.webp",
+        "https://gurimbakfar.co.il/assets/product-1783423557365-cqxtkf.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-1-lytr-mvkh-f5ep77",
+      "url": "https://gurimbakfar.co.il/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-5dem3v",
       "categories": [],
-      "updated_at": "2026-07-07T11:23:22.029Z"
+      "updated_at": "2026-07-07T11:29:13.259Z"
     },
     {
       "id": "70b61793-0db9-4c66-8462-1514fca2c5b1",
