@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T21:01:31.163Z",
+  "generated_at": "2026-07-07T21:02:40.152Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 234,
@@ -62,7 +62,7 @@
       "slug": "chtyp-nvblvs-pylh-kbsh-80-gr-y015cl",
       "name": "חטיף נובלוס פילה כבש 80 גר'",
       "name_translations": {
-        "en": "Nobilus Lamb Fillet Treat 80g",
+        "en": "Nobilus Lamb Fillet Snack 80g",
         "he": "חטיף נובלוס פילה כבש 80 גר'",
         "ru": "Лакомство Nobulus филе ягнёнка 80 г"
       },
@@ -81,7 +81,7 @@
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T21:00:59.658Z"
+      "updated_at": "2026-07-07T21:02:08.295Z"
     },
     {
       "id": "f64205f1-dba4-4298-8609-5a5ed4c8e577",
