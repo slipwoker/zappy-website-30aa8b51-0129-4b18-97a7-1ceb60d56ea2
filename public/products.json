@@ -1,10 +1,38 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T21:55:48.594Z",
+  "generated_at": "2026-07-07T22:03:25.352Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 235,
+  "count": 236,
   "products": [
+    {
+      "id": "de3f54d8-7b51-47d4-9380-babf4fe7a760",
+      "slug": "chtyp-nvblvs-svshy-slmvn-80-gr-51tni4",
+      "name": "חטיף נובלוס סושי סלמון 80 גר'",
+      "name_translations": {
+        "en": "Nobilus Sushi Salmon Snack 80g",
+        "he": "חטיף נובלוס סושי סלמון 80 גר'",
+        "ru": "Лакомство Nobulus Суши Лосось 80 гр'"
+      },
+      "description": "<p>רכיבים: סלמון, חזה עוף, בקלה, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 25% </li><li>שומן גולמי: מקסימום 3% </li><li>סיבים גולמיים: מקסימום 1% </li><li>אפר גולמי: מקסימום 5% </li><li>לחות: מקסימום 18%</li></ul>",
+      "short_description": "חטיף נובילוס (Nobilus) פילה סלמון 80 גרם הוא חטיף אולטרה-פרימיום איכותי המיועד לכלבים. החטיף משלב נתחי פילה סלמון מובחרים, חזה עוף וחלבון אפונה, והוא מתאים מאוד כצ'ופר יומי, פרס באילוף או כתוספת מפתה למזון היבש.\n",
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1783461562150-59m0cd.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-slmvn-80-gr-51tni4",
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-07-07T22:02:53.750Z"
+    },
     {
       "id": "60f13aeb-8865-4f7d-9fc1-04e7bd9e9343",
       "slug": "chtyp-nvblvs-pylh-slmvn-80-gr-lv4e3w",
