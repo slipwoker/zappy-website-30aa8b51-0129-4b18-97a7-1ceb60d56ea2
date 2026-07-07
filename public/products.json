@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T15:27:27.303Z",
+  "generated_at": "2026-07-07T15:36:48.809Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 220,
@@ -57,14 +57,14 @@
     },
     {
       "id": "65a2372f-237d-444d-aace-a03aee891e38",
-      "slug": "chtyp-nvblvs-svshy-avp-kb8ze8",
+      "slug": "chtyp-nvblvs-svshy-avp-ekmh5v",
       "name": "חטיף נובלוס סושי עוף",
       "name_translations": {
-        "en": "Nobulos Chicken Sushi Snack",
+        "en": "Nobulos Sushi Chicken Snack",
         "he": "חטיף נובלוס סושי עוף",
         "ru": "Лакомство Novelos Суши с курицей"
       },
-      "description": "<p><strong>רכיבים:</strong> <strong>בשר חזה עוף, בקלה, קמח חיטה, עמילן, גליצרין ירקות, חלבון אפונה, סורביטול, מלח, אשלגן סורבט</strong>&nbsp;&nbsp;</p>",
+      "description": "<p><strong>רכיבים:</strong> <strong>חזה עוף, בקלה, חלבון אפונה, קמח חיטה, עמילן, גלייצרין צמחי, סורביטול</strong></p><p><strong>ערכים תזונתיים:</strong></p><ul><li>חלבון גולמי 25%</li><li>שומן גולמי עד 3%</li><li>סיבים גולמיים עד 1%</li><li>אפר גולמי עד 5%</li><li>לחות עד 18%</li></ul>",
       "short_description": "חטיפי נובילוס, חטיפים טעימים במיוחד המתאימים למתן כפינוק, לעיסה, ומושלמים כתוספת משלימה לאוכל. 80 גרם\n* מארז עם סגירה חוזרת, לשמירה על טריות\n* מושלם כחטיף התעסקות\n* מקור חלבון איכותי\n* חטיף דל שומן\n* בשר אמיתי כמרכיב עיקרי\n",
       "sku": "200642",
       "brand": "מיקס פור פט 2020 בע\"מ",
@@ -75,11 +75,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-avp-kb8ze8",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-avp-ekmh5v",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T15:13:12.319Z"
+      "updated_at": "2026-07-07T15:36:16.713Z"
     },
     {
       "id": "1b166e2a-f077-4c69-a54b-4bfbbd4eeb3b",
