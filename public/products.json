@@ -1,10 +1,30 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T15:55:59.644Z",
+  "generated_at": "2026-07-07T15:57:03.596Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 220,
+  "count": 221,
   "products": [
+    {
+      "id": "c75ab4b1-2890-4ff3-b3e5-9b9fe31f4fd3",
+      "slug": "chtyp-nvblvs-avp-kltsyvm-80-gr-kmver3",
+      "name": "חטיף נובלוס עוף קלציום 80 גר",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-avp-kltsyvm-80-gr-kmver3",
+      "categories": [],
+      "updated_at": "2026-07-07T15:57:01.521Z"
+    },
     {
       "id": "6334d386-a2ff-460d-81ab-ff38b968abcc",
       "slug": "chtyp-nvblvs-avp-kltsyvm-80-gr-enk0tm",
@@ -33,17 +53,17 @@
     },
     {
       "id": "b96ba157-9c21-4236-8536-443d0df20634",
-      "slug": "chtyp-nvblvs-rtsvavt-avp-rkvt-vsv92o",
+      "slug": "chtyp-nvblvs-rtsvavt-avp-rkvt-259uh8",
       "name": "חטיף נובלוס רצועות עוף רכות",
       "name_translations": {
-        "en": "Nobulos Soft Chicken Strips Treat",
+        "en": "Nobulos Soft Chicken Strips Snack",
         "he": "חטיף נובלוס רצועות עוף רכות",
         "ru": "Лакомство Novelos мягкие куриные полоски"
       },
       "description": "<p>רכיבים עיקריים : בשר חזה עוף, חלבון אפונה, עמילן, גליצרין צמחי, סורביטול</p><p>ערכים תזונתיים </p><ul><li>חלבון גולמי מינימום 40%</li><li>שומן גולמי מקסימום 3%</li><li>סיבים גולמיים מקסימום 1%</li><li>אפר גולמי מקסימום 5%</li><li>לחות מקסימום 18%</li></ul><p><br></p>",
       "short_description": "חטיף נובילוס רצועות עוף רכות הוא פינוק פרימיום לכלבים. הוא מכיל בשר עוף אמיתי, עשיר בחלבון ודל שומן. המרקם הרך מקל על הלעיסה. זה הופך אותו למושלם עבור כלבים מכל הגילאים, כולל גורים וכלבים מבוגרים.\nהחטיף מגיע באריזת 80 גרם עם סגירה חוזרת לשמירת הטריות. הרכיבים מבוססים על חזה עוף בשילוב עם חלבון אפונה ועמילן. הוא משמש מצוין כפינוק יומי או כפרס בזמן אילוף.",
-      "sku": null,
-      "brand": null,
+      "sku": "200643",
+      "brand": "מיקס פור פטס 2020 בע\"מ",
       "price": 0,
       "base_price": 0,
       "sale_price": null,
@@ -51,9 +71,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-rtsvavt-avp-rkvt-vsv92o",
-      "categories": [],
-      "updated_at": "2026-07-07T15:55:27.510Z"
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-rtsvavt-avp-rkvt-259uh8",
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-07-07T15:56:31.630Z"
     },
     {
       "id": "65a2372f-237d-444d-aace-a03aee891e38",

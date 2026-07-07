@@ -72,7 +72,12 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 220** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 221** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### חטיף נובלוס עוף קלציום 80 גר
+https://gurimbakfar.co.il/product/chtyp-nvblvs-avp-kltsyvm-80-gr-kmver3
+- Price: 0.00 ILS
+- Availability: In stock
 
 ### חטיף נובלוס עוף קלציום 80 גר
 https://gurimbakfar.co.il/product/chtyp-nvblvs-avp-kltsyvm-80-gr-enk0tm
@@ -83,9 +88,12 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-avp-kltsyvm-80-gr-enk0tm
 - Brand: מיקס פור  פטס בע"מ
 
 ### חטיף נובלוס רצועות עוף רכות
-https://gurimbakfar.co.il/product/chtyp-nvblvs-rtsvavt-avp-rkvt-vsv92o
+https://gurimbakfar.co.il/product/chtyp-nvblvs-rtsvavt-avp-rkvt-259uh8
 - Price: 0.00 ILS
 - Availability: In stock
+- Category: חטיפים
+- SKU: 200643
+- Brand: מיקס פור פטס 2020 בע"מ
 - Description: חטיף נובילוס רצועות עוף רכות הוא פינוק פרימיום לכלבים. הוא מכיל בשר עוף אמיתי, עשיר בחלבון ודל שומן. המרקם הרך מקל על הלעיסה. זה הופך אותו למושלם עבור כלבים מכל הגילאים, כולל גורים וכלבים מבוגרים. החטיף מגיע באריזת 80 גרם עם סגירה חוזרת לשמירת הטריות. הרכיבים מבוססים על חזה עוף בשילוב עם חלבון אפונה ועמילן. הוא משמש מצוין כפינוק יומי או כפרס בזמן אילוף.
 
 ### חטיף נובלוס סושי עוף
@@ -1481,13 +1489,6 @@ https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-chyvt-2akabn
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781118838806-1c9mj7.webp
-
-### הנריס דגים שלמים
-https://gurimbakfar.co.il/product/hnrys-dgym-shlmym-jc6752
-- Price: 26.00 ILS
-- Availability: In stock
-- Category: חטיפים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781451525050-euhnz.webp
 
 ---
 
