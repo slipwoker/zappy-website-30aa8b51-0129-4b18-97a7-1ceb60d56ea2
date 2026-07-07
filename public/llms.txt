@@ -72,7 +72,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 216** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 217** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### מתקן מים/אוכל אוטומטי עם קערת נירוסטה
+https://gurimbakfar.co.il/product/mtkn-mymavkl-avtvmty-am-kart-nyrvsth-971q9h
+- Price: 110.00 ILS
+- Availability: In stock
+- Category: כלי אוכל ושתייה
+- Description: מתקן מים/אוכל אוטומטי לכלב / לחתול הפועל על בסיס כוח הכבידה
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1783430120507-sc5sr.webp
 
 ### מתקן מים אוטומטי
 https://gurimbakfar.co.il/product/mtkn-mym-avtvmty-1iaijw
@@ -1478,13 +1486,6 @@ https://gurimbakfar.co.il/product/chbl-s-vx7dpr
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781434018395-zc2gy.webp
-
-### ברווז מצפצף M
-https://gurimbakfar.co.il/product/brvvz-mtsptsp-m-o4vroa
-- Price: 40.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781433973805-es62mg.webp
 
 ---
 

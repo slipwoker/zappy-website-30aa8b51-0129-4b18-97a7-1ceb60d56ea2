@@ -1,10 +1,38 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T13:13:02.878Z",
+  "generated_at": "2026-07-07T13:16:21.817Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 216,
+  "count": 217,
   "products": [
+    {
+      "id": "1b166e2a-f077-4c69-a54b-4bfbbd4eeb3b",
+      "slug": "mtkn-mymavkl-avtvmty-am-kart-nyrvsth-971q9h",
+      "name": "מתקן מים/אוכל אוטומטי עם קערת נירוסטה",
+      "name_translations": {
+        "en": "Automatic Water/Food Dispenser with Stainless Steel Bowl",
+        "he": "מתקן מים/אוכל אוטומטי עם קערת נירוסטה",
+        "ru": "Автоматическая поилка/кормушка с миской из нержавеющей стали"
+      },
+      "description": "",
+      "short_description": "מתקן מים/אוכל  אוטומטי לכלב / לחתול הפועל על בסיס כוח הכבידה",
+      "sku": null,
+      "brand": null,
+      "price": 110,
+      "base_price": 110,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783430120507-sc5sr.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mtkn-mymavkl-avtvmty-am-kart-nyrvsth-971q9h",
+      "categories": [
+        "כלי אוכל ושתייה"
+      ],
+      "updated_at": "2026-07-07T13:15:49.918Z"
+    },
     {
       "id": "07e43b43-65a5-42eb-a30f-3a52e637d6c3",
       "slug": "mtkn-mym-avtvmty-1iaijw",
