@@ -72,7 +72,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 228** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 229** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### חטיף נובלוס מקלות בקר ואורז 80 גר'
+https://gurimbakfar.co.il/product/chtyp-nvblvs-mklvt-bkr-vavrz-80-gr-pb9eaf
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: חטיפים
+- Description: חטיף הכלבים נובילוס (Nobilus) מקלות/רצועות בקר ואורז באריזת 80 גרם הוא חטיף פרימיום חצי קשיח, העשיר בחלבון ודל בשומן. החטיף מיוצר מבשר אמיתי כמרכיב עיקרי, קל לעיכול, ומתאים מאוד כצ'ופר יומיומי או כחטיף אילוף ותגמול שניתן לשבור בקלות לחתיכות קטנות.
 
 ### חטיף נובלוס סושי בקר
 https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-bkr-q49dac
@@ -1479,13 +1486,6 @@ https://gurimbakfar.co.il/product/kysvy-mvshb-achvry-lklb-v70yuy
 - Availability: In stock
 - Category: אביזרים
 - Image: https://gurimbakfar.co.il/assets/product-1780860631624-oa086.webp
-
-### שמפו לגורים bioline
-https://gurimbakfar.co.il/product/shmpv-lgvrym-bioline-ubep0o
-- Price: 40.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781433330227-qzhud6.webp
 
 ---
 
