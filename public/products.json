@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T06:56:25.998Z",
+  "generated_at": "2026-07-08T06:57:58.163Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 239,
+  "count": 238,
   "products": [
     {
       "id": "96fca75b-38ad-4bb4-8a1d-d00c08d8a04a",
@@ -1868,32 +1868,6 @@
         "צעצועים"
       ],
       "updated_at": "2026-07-07T08:22:44.952Z"
-    },
-    {
-      "id": "1767d21a-8aef-4e8e-9004-4f7118f27474",
-      "slug": "tsatsva-laysh-masticosso-lhygyynt-hshynyym-lklbym-maxi-53r71z",
-      "name": "צעצוע לעיסה Masticosso להיגיינת השיניים לכלבים - Maxi",
-      "name_translations": {
-        "en": "Masticosso Chew Toy for Dog Dental Hygiene - Maxi",
-        "he": "צעצוע לעיסה Masticosso להיגיינת השיניים לכלבים - Maxi",
-        "ru": "Жевательная игрушка Masticosso для гигиены зубов собак - Maxi"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 49,
-      "base_price": 49,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/tsatsva-laysh-masticosso-lhygyynt-hshynyym-lklbym-maxi-53r71z",
-      "categories": [
-        "צעצועים"
-      ],
-      "updated_at": "2026-07-07T08:22:39.960Z"
     },
     {
       "id": "e2979dc1-cb4b-465d-8e0c-baef7a8e1b0e",
