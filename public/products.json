@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T06:07:58.881Z",
+  "generated_at": "2026-07-08T06:09:10.486Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 239,
@@ -1026,7 +1026,7 @@
     },
     {
       "id": "2708101c-ba80-4c58-a122-b9ed83a8a038",
-      "slug": "rtmt-quick-fit-xxs-4ftjwy",
+      "slug": "rtmt-quick-fit-xxs-n9hgeq",
       "name": "רתמת Quick fit xxs",
       "name_translations": {
         "en": "Quick fit harness xxs",
@@ -1041,14 +1041,16 @@
       "base_price": 53,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1783490871865-xfrkvj.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rtmt-quick-fit-xxs-4ftjwy",
+      "url": "https://gurimbakfar.co.il/product/rtmt-quick-fit-xxs-n9hgeq",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-07T08:22:52.683Z"
+      "updated_at": "2026-07-08T06:08:42.549Z"
     },
     {
       "id": "f98ce8cf-6925-478f-9f53-780514d664f9",

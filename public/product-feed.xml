@@ -4,7 +4,7 @@
     <title>גורים בכפר</title>
     <link>https://gurimbakfar.co.il</link>
     <description>Product feed for גורים בכפר</description>
-    <lastBuildDate>Wed, 08 Jul 2026 06:07:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 06:09:10 GMT</lastBuildDate>
     <item>
       <g:id>96fca75b-38ad-4bb4-8a1d-d00c08d8a04a</g:id>
       <g:title>חטיף נובלוס ברבקיו שוק עוף 80 גר&apos;</g:title>
@@ -479,10 +479,40 @@
       <g:product_type>מזון יבש</g:product_type>
     </item>
     <item>
-      <g:id>2708101c-ba80-4c58-a122-b9ed83a8a038</g:id>
-      <g:title>רתמת Quick fit xxs</g:title>
+      <g:id>f340229d-7605-4384-9f9c-7d50e86b74b3</g:id>
+      <g:title>רתמת Quick fit xxs - S</g:title>
       <g:description>רתמת Quick fit xxs</g:description>
-      <g:link>https://gurimbakfar.co.il/product/rtmt-quick-fit-xxs-4ftjwy</g:link>
+      <g:link>https://gurimbakfar.co.il/product/rtmt-quick-fit-xxs-n9hgeq</g:link>
+      <g:item_group_id>2708101c-ba80-4c58-a122-b9ed83a8a038</g:item_group_id>
+      <g:image_link>https://gurimbakfar.co.il/assets/product-1783490871865-xfrkvj.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>53.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>קולרים ורצועות</g:product_type>
+    </item>
+    <item>
+      <g:id>8b4a2c11-027c-40d5-9197-e77c3dfa1a02</g:id>
+      <g:title>רתמת Quick fit xxs - XS</g:title>
+      <g:description>רתמת Quick fit xxs</g:description>
+      <g:link>https://gurimbakfar.co.il/product/rtmt-quick-fit-xxs-n9hgeq</g:link>
+      <g:item_group_id>2708101c-ba80-4c58-a122-b9ed83a8a038</g:item_group_id>
+      <g:image_link>https://gurimbakfar.co.il/assets/product-1783490871865-xfrkvj.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>53.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>קולרים ורצועות</g:product_type>
+    </item>
+    <item>
+      <g:id>e8a92b2f-4891-4130-903b-b7a4322fa1ff</g:id>
+      <g:title>רתמת Quick fit xxs - XXS</g:title>
+      <g:description>רתמת Quick fit xxs</g:description>
+      <g:link>https://gurimbakfar.co.il/product/rtmt-quick-fit-xxs-n9hgeq</g:link>
+      <g:item_group_id>2708101c-ba80-4c58-a122-b9ed83a8a038</g:item_group_id>
+      <g:image_link>https://gurimbakfar.co.il/assets/product-1783490871865-xfrkvj.webp</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>53.00 ILS</g:price>
       <g:condition>new</g:condition>
