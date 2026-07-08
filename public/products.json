@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T06:11:40.293Z",
+  "generated_at": "2026-07-08T06:28:03.494Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 239,
@@ -1026,7 +1026,7 @@
     },
     {
       "id": "2708101c-ba80-4c58-a122-b9ed83a8a038",
-      "slug": "rtmt-quick-fit-xxs-n9hgeq",
+      "slug": "rtmt-quick-fit-xxs-nxv9xl",
       "name": "רתמת Quick fit xxs",
       "name_translations": {
         "en": "Quick fit harness xxs",
@@ -1046,11 +1046,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rtmt-quick-fit-xxs-n9hgeq",
+      "url": "https://gurimbakfar.co.il/product/rtmt-quick-fit-xxs-nxv9xl",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-08T06:11:08.313Z"
+      "updated_at": "2026-07-08T06:27:31.783Z"
     },
     {
       "id": "f98ce8cf-6925-478f-9f53-780514d664f9",
