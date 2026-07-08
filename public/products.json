@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T06:40:34.073Z",
+  "generated_at": "2026-07-08T06:43:54.169Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 239,
@@ -904,27 +904,29 @@
     },
     {
       "id": "321f3e4a-3d56-43d4-9ee8-8567cf6a4103",
-      "slug": "styspkshn-kbsh-kq9gjc",
+      "slug": "styspkshn-kbsh-c5kliz",
       "name": "סטיספקשן כבש",
       "name_translations": {
         "en": "Satisfaction Lamb",
         "he": "סטיספקשן כבש",
-        "ru": "Сатисфекшн ягненок"
+        "ru": "Сатисфэкшн Ягнёнок"
       },
-      "description": "",
-      "short_description": null,
+      "description": "<p><strong>רכיבים:</strong>&nbsp;טלה מיובש (מינימום 14%), אורז (מינימום 12%), תירס, עופות מיובשים, גלוטן תירס, שמנים ושומנים, עיסת סלק, כבד הידרולי, ויטמינים ומינרלים. נוגדי חמצון וחומרים משמרים של UIT המורשים על ידי האיחוד האירופי.</p><p><br></p><p><strong>רכיבים אנליטיים:</strong> חלבון גולמי: 25%, חומר שומן גולמי: 15%, אפר גולמי: 7,5%, תאית גולמית: 2,5%, לחות: 8%, סידן: 1,5%, זרחן: 1%, ויטמין A: 18000 אול / ק”ג, ויטמין D3: 2000 אול / ק”ג, ויטמין E (DL-allpha טוקופרול אצטט): 120 מ”ג / ק”ג, נחושת (נחושת גופרתית פנטהידראט): 12 מ”ג / ק”ג. עם נוגדי חמצון וחומרים משמרים המורשים על ידי האיחוד האירופי.</p><p><br></p><p><strong>תוספים:</strong> ויטמין :A ויטמין מ”ג/ק”ג, ברזל: 75 מ”ג/ק”ג; יוד: 3.5 מ”ג/ק”ג; מנגן: copper sulfate pentahydrate): 10( נחושת 7.5 מ”ג/ק”ג; אבץ: 150 מ”ג/ק”ג; סלניום: 0.15 מ”ג/ק”ג. מכיל נוגדי חמצון וחומרים משמרים</p>",
+      "short_description": "פורמולת Satisfaction Pro Kennel התזונה המושלמת לכלבים בוגרים עם פעילות רגילה עד ממוצעת, פורמולה זו נבחרה בקפידה כדי לספק תזונה בריאה ותזונה מאוזנת לאורך חיי כלבי הבית, כלבי התצוגה וכלבי העבודה.",
       "sku": null,
       "brand": null,
       "price": 0,
       "base_price": 0,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1783492933423-ev14n6.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/styspkshn-kbsh-kq9gjc",
+      "url": "https://gurimbakfar.co.il/product/styspkshn-kbsh-c5kliz",
       "categories": [],
-      "updated_at": "2026-07-07T08:22:54.623Z"
+      "updated_at": "2026-07-08T06:43:22.448Z"
     },
     {
       "id": "2b22e787-aef8-4fe9-88a1-1a9bcaa5c8ee",
