@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T06:31:08.522Z",
+  "generated_at": "2026-07-08T06:32:41.947Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 239,
@@ -974,7 +974,7 @@
     },
     {
       "id": "0014ab6c-0f3e-41c4-874a-14b111e130cc",
-      "slug": "trypl-kravn-slmvn-hypvalrgny-h1p50z",
+      "slug": "trypl-kravn-slmvn-hypvalrgny-micau9",
       "name": "טריפל קראון סלמון היפואלרגני",
       "name_translations": {
         "en": "Triple Crown Salmon Hypoallergenic",
@@ -994,11 +994,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/trypl-kravn-slmvn-hypvalrgny-h1p50z",
+      "url": "https://gurimbakfar.co.il/product/trypl-kravn-slmvn-hypvalrgny-micau9",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-08T06:30:36.458Z"
+      "updated_at": "2026-07-08T06:32:10.161Z"
     },
     {
       "id": "db0ab119-0554-4225-8baa-9e2c4dd60ae5",
