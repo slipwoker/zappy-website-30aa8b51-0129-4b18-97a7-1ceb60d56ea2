@@ -72,7 +72,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 238** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 236** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### חטיף נובלוס ברבקיו שוק עוף 80 גר'
 https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-6przv4
@@ -413,18 +413,6 @@ https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-gdvl-tsbavny-mavyynym-2nr
 
 ### סט רתמה ורצועה לכלב גדול GD חום
 https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-gdvl-gd-chvm-qu2lmf
-- Price: 85.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
-
-### סט רתמה ורצועה לכלב גדול GD אפור
-https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-gdvl-gd-apvr-op68yq
-- Price: 85.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
-
-### סט רתמה ורצועה לכלב גדול GD כחול
-https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-gdvl-gd-kchvl-do5xn3
 - Price: 85.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
@@ -1530,6 +1518,20 @@ https://gurimbakfar.co.il/product/mbrsht-shynyym-dv-tsddy-k21ph9
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449807302-moy51e.webp
+
+### רצועות פלקסי
+https://gurimbakfar.co.il/product/rtsvavt-plksy-jnoo9p
+- Price: 30.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1780898526650-2onagi.webp
+
+### חגורת בטיחות לכלב Record
+https://gurimbakfar.co.il/product/chgvrt-btychvt-lklb-record-wx66xy
+- Price: 35.00 ILS
+- Availability: In stock
+- Category: אביזרים
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449877512-tzjlul.webp
 
 ---
 

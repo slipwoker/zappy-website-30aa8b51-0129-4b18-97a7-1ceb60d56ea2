@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T07:16:09.749Z",
+  "generated_at": "2026-07-08T07:19:56.775Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 238,
+  "count": 236,
   "products": [
     {
       "id": "96fca75b-38ad-4bb4-8a1d-d00c08d8a04a",
@@ -1269,58 +1269,6 @@
         "קולרים ורצועות"
       ],
       "updated_at": "2026-07-07T08:22:54.347Z"
-    },
-    {
-      "id": "da1d0eca-9345-4f5c-a954-789b99bda8ad",
-      "slug": "st-rtmh-vrtsvah-lklb-gdvl-gd-apvr-op68yq",
-      "name": "סט רתמה ורצועה לכלב גדול GD אפור",
-      "name_translations": {
-        "en": "GD Gray Large Dog Harness and Leash Set",
-        "he": "סט רתמה ורצועה לכלב גדול GD אפור",
-        "ru": "Комплект шлейки и поводка для большой собаки GD серый"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 85,
-      "base_price": 85,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-gdvl-gd-apvr-op68yq",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-07T08:22:50.341Z"
-    },
-    {
-      "id": "b2b78fda-0377-4cd9-a9f4-077a3bc7459b",
-      "slug": "st-rtmh-vrtsvah-lklb-gdvl-gd-kchvl-do5xn3",
-      "name": "סט רתמה ורצועה לכלב גדול GD כחול",
-      "name_translations": {
-        "en": "Harness and Leash Set for Large Dog GD Blue",
-        "he": "סט רתמה ורצועה לכלב גדול GD כחול",
-        "ru": "Комплект шлейки и поводка для большой собаки GD синий"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 85,
-      "base_price": 85,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-gdvl-gd-kchvl-do5xn3",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-07T08:22:49.135Z"
     },
     {
       "id": "e5fc91cb-06bd-4ad3-b193-ceb4331bb07d",
