@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T07:20:05.239Z",
+  "generated_at": "2026-07-08T07:35:30.886Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 236,
@@ -1246,12 +1246,12 @@
     },
     {
       "id": "4202abe4-435f-4039-977c-34009ecfcd3f",
-      "slug": "st-rtmh-vrtsvah-lklb-gdvl-gd-chvm-qu2lmf",
-      "name": "סט רתמה ורצועה לכלב גדול GD חום",
+      "slug": "st-rtmh-vrtsvah-lklb-gdvl-gd-wfny7b",
+      "name": "סט רתמה ורצועה לכלב גדול GD",
       "name_translations": {
-        "en": "Large Dog Harness and Leash Set GD Brown",
-        "he": "סט רתמה ורצועה לכלב גדול GD חום",
-        "ru": "Комплект шлейки и поводка для большой собаки GD коричневый"
+        "en": "Harness and Leash Set for Large Dog GD",
+        "he": "סט רתמה ורצועה לכלב גדול GD",
+        "ru": "Комплект шлейки и поводка для большой собаки GD"
       },
       "description": "",
       "short_description": null,
@@ -1261,14 +1261,19 @@
       "base_price": 85,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783495647607-6h1pbc.webp",
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783495680020-9lmc3k.webp",
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783495794965-zf5gx.webp",
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783496084366-4ni6if.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-gdvl-gd-chvm-qu2lmf",
+      "url": "https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-gdvl-gd-wfny7b",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-07T08:22:54.347Z"
+      "updated_at": "2026-07-08T07:35:25.870Z"
     },
     {
       "id": "e5fc91cb-06bd-4ad3-b193-ceb4331bb07d",
