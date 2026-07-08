@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T23:26:20.859Z",
+  "generated_at": "2026-07-08T05:52:54.204Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 244,
+  "count": 241,
   "products": [
     {
       "id": "96fca75b-38ad-4bb4-8a1d-d00c08d8a04a",
@@ -1231,84 +1231,6 @@
         "קולרים ורצועות"
       ],
       "updated_at": "2026-07-07T08:22:54.507Z"
-    },
-    {
-      "id": "2a1fcd94-b591-480f-a056-b1b15e84c1cd",
-      "slug": "kvlr-byysyk-20-mm-mydh-m-de38wx",
-      "name": "קולר בייסיק 20 ממ - מידה M",
-      "name_translations": {
-        "en": "Basic Collar 20mm - Size M",
-        "he": "קולר בייסיק 20 ממ - מידה M",
-        "ru": "Ошейник Базик 20 мм - размер M"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 30,
-      "base_price": 30,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kvlr-byysyk-20-mm-mydh-m-de38wx",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-07T08:22:51.489Z"
-    },
-    {
-      "id": "45cdb588-fa65-4155-81b9-2f029f1b79b9",
-      "slug": "kvlr-byysyk-25-mm-mydh-l-45xnqv",
-      "name": "קולר בייסיק 25 ממ - מידה L",
-      "name_translations": {
-        "en": "Basic Collar 25mm - Size L",
-        "he": "קולר בייסיק 25 ממ - מידה L",
-        "ru": "Ошейник Basic 25 мм - размер L"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 35,
-      "base_price": 35,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kvlr-byysyk-25-mm-mydh-l-45xnqv",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-07T08:22:50.792Z"
-    },
-    {
-      "id": "5639eece-f775-4458-bd63-a023d808e06c",
-      "slug": "kvlr-byysyk-15-mm-mydh-s-o2v0ee",
-      "name": "קולר בייסיק 15 ממ - מידה S",
-      "name_translations": {
-        "en": "Basic Collar 15mm - Size S",
-        "he": "קולר בייסיק 15 ממ - מידה S",
-        "ru": "Ошейник базовый 15 мм - размер S"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 25,
-      "base_price": 25,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kvlr-byysyk-15-mm-mydh-s-o2v0ee",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-07T08:22:52.185Z"
     },
     {
       "id": "f864d6b4-e1fd-4b19-a03c-9d9316ae67ec",
