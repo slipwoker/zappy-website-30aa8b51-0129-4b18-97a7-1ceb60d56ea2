@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T06:57:58.163Z",
+  "generated_at": "2026-07-08T07:01:21.212Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 238,
@@ -1845,12 +1845,12 @@
     },
     {
       "id": "a8e46184-bfd9-47c0-97f9-39b4cd5b793e",
-      "slug": "tsatsva-laysh-masticosso-lhygyynt-hshynyym-lklbym-mini-js7sds",
-      "name": "צעצוע לעיסה Masticosso להיגיינת השיניים לכלבים - Mini",
+      "slug": "tsatsva-laysh-masticosso-lhygyynt-hshynyym-lklbym-ujebdl",
+      "name": "צעצוע לעיסה Masticosso להיגיינת השיניים לכלבים",
       "name_translations": {
-        "en": "Masticosso Chew Toy for Dog Dental Hygiene - Mini",
-        "he": "צעצוע לעיסה Masticosso להיגיינת השיניים לכלבים - Mini",
-        "ru": "Жевательная игрушка Masticosso для гигиены зубов собак - Mini"
+        "en": "Masticosso Chew Toy for Dogs' Dental Hygiene",
+        "he": "צעצוע לעיסה Masticosso להיגיינת השיניים לכלבים",
+        "ru": "Жевательная игрушка Masticosso для гигиены зубов собак"
       },
       "description": "",
       "short_description": null,
@@ -1860,14 +1860,20 @@
       "base_price": 29,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1783493916641-r94xg.webp",
+        "https://gurimbakfar.co.il/assets/product-1783493922490-zqxtr6.webp",
+        "https://gurimbakfar.co.il/assets/product-1783493927694-b71ngn.webp",
+        "https://gurimbakfar.co.il/assets/product-1783493933065-ryxqdh.webp",
+        "https://gurimbakfar.co.il/assets/product-1783493938775-60hffo.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/tsatsva-laysh-masticosso-lhygyynt-hshynyym-lklbym-mini-js7sds",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-laysh-masticosso-lhygyynt-hshynyym-lklbym-ujebdl",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-07-07T08:22:44.952Z"
+      "updated_at": "2026-07-08T07:01:04.004Z"
     },
     {
       "id": "e2979dc1-cb4b-465d-8e0c-baef7a8e1b0e",
