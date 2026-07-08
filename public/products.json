@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T06:43:54.169Z",
+  "generated_at": "2026-07-08T06:56:17.257Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 239,
@@ -2744,12 +2744,12 @@
     },
     {
       "id": "959a08b2-6b02-45f4-ba8b-d76e18623e15",
-      "slug": "shrshrt-kvtsym-laylvp-shchvr-50-sm-avby-4-mm-h6evd3",
+      "slug": "shrshrt-kvtsym-laylvp-shchvr-50-sm-avby-4-mm-zazbrb",
       "name": "שרשרת קוצים לאילוף - שחור- 50 ס\"מ , עובי 4 מ\"מ",
       "name_translations": {
-        "en": "Training Prong Collar - Black - 50 cm, 4 mm Thickness",
+        "en": "Prong Training Collar - Black - 50 cm, 4 mm thickness",
         "he": "שרשרת קוצים לאילוף - שחור- 50 ס\"מ , עובי 4 מ\"מ",
-        "ru": "Строгий ошейник для дрессировки - черный - 50 см, толщина 4 мм"
+        "ru": "Строгий ошейник для дрессировки - чёрный - 50 см, толщина 4 мм"
       },
       "description": "",
       "short_description": null,
@@ -2759,14 +2759,16 @@
       "base_price": 55,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783493729046-9xlm42.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/shrshrt-kvtsym-laylvp-shchvr-50-sm-avby-4-mm-h6evd3",
+      "url": "https://gurimbakfar.co.il/product/shrshrt-kvtsym-laylvp-shchvr-50-sm-avby-4-mm-zazbrb",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-06-14T15:52:11.864Z"
+      "updated_at": "2026-07-08T06:55:54.185Z"
     },
     {
       "id": "3e9061e2-ceec-4fa3-816a-bb1007b2995b",
