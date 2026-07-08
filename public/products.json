@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T05:57:16.186Z",
+  "generated_at": "2026-07-08T06:07:58.881Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 241,
+  "count": 239,
   "products": [
     {
       "id": "96fca75b-38ad-4bb4-8a1d-d00c08d8a04a",
@@ -1049,58 +1049,6 @@
         "קולרים ורצועות"
       ],
       "updated_at": "2026-07-07T08:22:52.683Z"
-    },
-    {
-      "id": "37f9aeed-2e38-44a5-8b40-241b8c7c8d7b",
-      "slug": "rtmt-quick-fit-xs-k4kjpc",
-      "name": "רתמת Quick fit xs",
-      "name_translations": {
-        "en": "Quick fit harness xs",
-        "he": "רתמת Quick fit xs",
-        "ru": "Шлейка Quick fit xs"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 59,
-      "base_price": 59,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rtmt-quick-fit-xs-k4kjpc",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-07T08:22:54.165Z"
-    },
-    {
-      "id": "3a7655b6-017f-4a0d-b50e-56e5d439ac26",
-      "slug": "rtmt-quick-fit-s-2i7cjg",
-      "name": "רתמת Quick fit s",
-      "name_translations": {
-        "en": "Quick fit harness s",
-        "he": "רתמת Quick fit s",
-        "ru": "Шлейка Quick fit s"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 65,
-      "base_price": 65,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rtmt-quick-fit-s-2i7cjg",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-07T08:22:52.127Z"
     },
     {
       "id": "f98ce8cf-6925-478f-9f53-780514d664f9",

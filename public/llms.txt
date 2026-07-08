@@ -72,7 +72,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 241** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 239** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### חטיף נובלוס ברבקיו שוק עוף 80 גר'
 https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-6przv4
@@ -356,18 +356,6 @@ https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-avp-w6qiuk
 ### רתמת Quick fit xxs
 https://gurimbakfar.co.il/product/rtmt-quick-fit-xxs-4ftjwy
 - Price: 53.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
-
-### רתמת Quick fit xs
-https://gurimbakfar.co.il/product/rtmt-quick-fit-xs-k4kjpc
-- Price: 59.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
-
-### רתמת Quick fit s
-https://gurimbakfar.co.il/product/rtmt-quick-fit-s-2i7cjg
-- Price: 65.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 
@@ -1516,6 +1504,20 @@ https://gurimbakfar.co.il/product/kdvr-dntly-ktn-0lrc9s
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449689716-lx9h3d.webp
+
+### ערכת צחצוח שיניים לכלבים בטעם בקר
+https://gurimbakfar.co.il/product/arkt-tschtsvch-shynyym-lklbym-btam-bkr-cx1jij
+- Price: 35.00 ILS
+- Availability: In stock
+- Category: מוצרי טיפוח
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449730108-hbmwky.webp
+
+### רולר דבק 60 דפים
+https://gurimbakfar.co.il/product/rvlr-dbk-60-dpym-26gesj
+- Price: 25.00 ILS
+- Availability: In stock
+- Category: בית
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449768881-uyzpov.webp
 
 ---
 

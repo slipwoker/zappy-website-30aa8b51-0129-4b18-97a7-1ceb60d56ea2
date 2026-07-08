@@ -6862,20 +6862,6 @@ Availability: In stock
 
 ---
 
-### רתמת Quick fit xs
-URL: https://gurimbakfar.co.il/product/rtmt-quick-fit-xs-k4kjpc
-Price: 59.00 ILS
-Availability: In stock
-
----
-
-### רתמת Quick fit s
-URL: https://gurimbakfar.co.il/product/rtmt-quick-fit-s-2i7cjg
-Price: 65.00 ILS
-Availability: In stock
-
----
-
 ### רצועה בייסיק 15 ממ - מידה S
 URL: https://gurimbakfar.co.il/product/rtsvah-byysyk-15-mm-mydh-s-hkzokq
 Price: 32.00 ILS
