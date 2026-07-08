@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T06:35:45.344Z",
+  "generated_at": "2026-07-08T06:37:16.275Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 239,
@@ -952,7 +952,7 @@
     },
     {
       "id": "8127bf1a-dee7-4f7a-a467-5fcb3632a632",
-      "slug": "bvsh-lgvrym-mgza-gdvl-avp-g5eeks",
+      "slug": "bvsh-lgvrym-mgza-gdvl-avp-phtwlv",
       "name": "בוש לגורים מגזע גדול עוף",
       "name_translations": {
         "en": "Bosch for Large Breed Puppies Chicken",
@@ -967,12 +967,14 @@
       "base_price": 0,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783492588452-kftgf.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/bvsh-lgvrym-mgza-gdvl-avp-g5eeks",
+      "url": "https://gurimbakfar.co.il/product/bvsh-lgvrym-mgza-gdvl-avp-phtwlv",
       "categories": [],
-      "updated_at": "2026-07-07T08:22:54.034Z"
+      "updated_at": "2026-07-08T06:36:44.398Z"
     },
     {
       "id": "0014ab6c-0f3e-41c4-874a-14b111e130cc",
