@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T07:14:09.143Z",
+  "generated_at": "2026-07-09T13:14:31.732Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 236,
@@ -904,7 +904,7 @@
     },
     {
       "id": "321f3e4a-3d56-43d4-9ee8-8567cf6a4103",
-      "slug": "styspkshn-kbsh-c5kliz",
+      "slug": "styspkshn-kbsh-s3ay9o",
       "name": "סטיספקשן כבש",
       "name_translations": {
         "en": "Satisfaction Lamb",
@@ -915,8 +915,8 @@
       "short_description": "פורמולת Satisfaction Pro Kennel התזונה המושלמת לכלבים בוגרים עם פעילות רגילה עד ממוצעת, פורמולה זו נבחרה בקפידה כדי לספק תזונה בריאה ותזונה מאוזנת לאורך חיי כלבי הבית, כלבי התצוגה וכלבי העבודה.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 339,
+      "base_price": 339,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -924,9 +924,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/styspkshn-kbsh-c5kliz",
+      "url": "https://gurimbakfar.co.il/product/styspkshn-kbsh-s3ay9o",
       "categories": [],
-      "updated_at": "2026-07-08T06:43:22.448Z"
+      "updated_at": "2026-07-09T13:14:00.156Z"
     },
     {
       "id": "2b22e787-aef8-4fe9-88a1-1a9bcaa5c8ee",
