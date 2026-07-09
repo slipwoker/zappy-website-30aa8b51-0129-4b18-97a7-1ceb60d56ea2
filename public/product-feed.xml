@@ -4,7 +4,7 @@
     <title>גורים בכפר</title>
     <link>https://gurimbakfar.co.il</link>
     <description>Product feed for גורים בכפר</description>
-    <lastBuildDate>Thu, 09 Jul 2026 07:09:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 07:10:32 GMT</lastBuildDate>
     <item>
       <g:id>96fca75b-38ad-4bb4-8a1d-d00c08d8a04a</g:id>
       <g:title>חטיף נובלוס ברבקיו שוק עוף 80 גר&apos;</g:title>
@@ -1079,10 +1079,65 @@
       <g:product_type>קולרים ורצועות</g:product_type>
     </item>
     <item>
-      <g:id>a84d0e39-cd7b-4d21-b864-4436dea20d0b</g:id>
-      <g:title>סט רתמה ורצועה לכלב קטן / בינוני</g:title>
+      <g:id>18652373-44f6-43e0-9ec0-8e2d7facaa23</g:id>
+      <g:title>סט רתמה ורצועה לכלב קטן / בינוני - תכלת כתום</g:title>
       <g:description>סט רתמה ורצועה לכלב קטן / בינוני</g:description>
       <g:link>https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-otrsu6</g:link>
+      <g:item_group_id>a84d0e39-cd7b-4d21-b864-4436dea20d0b</g:item_group_id>
+      <g:image_link>https://gurimbakfar.co.il/assets/product-enhanced-1783496571585-jzuqk9.webp</g:image_link>
+      <g:additional_image_link>https://gurimbakfar.co.il/assets/product-enhanced-1783496699777-y0j8sc.webp</g:additional_image_link>
+      <g:additional_image_link>https://gurimbakfar.co.il/assets/product-enhanced-1783499287239-0bemd6.webp</g:additional_image_link>
+      <g:additional_image_link>https://gurimbakfar.co.il/assets/product-enhanced-1783499321192-5ou13g.webp</g:additional_image_link>
+      <g:additional_image_link>https://gurimbakfar.co.il/assets/product-enhanced-1783499422590-2oumh.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>59.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>קולרים ורצועות</g:product_type>
+    </item>
+    <item>
+      <g:id>3b047254-e77c-463b-bfe7-ffff9c2b408d</g:id>
+      <g:title>סט רתמה ורצועה לכלב קטן / בינוני - חום</g:title>
+      <g:description>סט רתמה ורצועה לכלב קטן / בינוני</g:description>
+      <g:link>https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-otrsu6</g:link>
+      <g:item_group_id>a84d0e39-cd7b-4d21-b864-4436dea20d0b</g:item_group_id>
+      <g:image_link>https://gurimbakfar.co.il/assets/product-enhanced-1783496571585-jzuqk9.webp</g:image_link>
+      <g:additional_image_link>https://gurimbakfar.co.il/assets/product-enhanced-1783496699777-y0j8sc.webp</g:additional_image_link>
+      <g:additional_image_link>https://gurimbakfar.co.il/assets/product-enhanced-1783499287239-0bemd6.webp</g:additional_image_link>
+      <g:additional_image_link>https://gurimbakfar.co.il/assets/product-enhanced-1783499321192-5ou13g.webp</g:additional_image_link>
+      <g:additional_image_link>https://gurimbakfar.co.il/assets/product-enhanced-1783499422590-2oumh.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>59.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>קולרים ורצועות</g:product_type>
+    </item>
+    <item>
+      <g:id>3463ea45-79c3-4788-8ac5-b145599ef779</g:id>
+      <g:title>סט רתמה ורצועה לכלב קטן / בינוני - כחול</g:title>
+      <g:description>סט רתמה ורצועה לכלב קטן / בינוני</g:description>
+      <g:link>https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-otrsu6</g:link>
+      <g:item_group_id>a84d0e39-cd7b-4d21-b864-4436dea20d0b</g:item_group_id>
+      <g:image_link>https://gurimbakfar.co.il/assets/product-enhanced-1783496571585-jzuqk9.webp</g:image_link>
+      <g:additional_image_link>https://gurimbakfar.co.il/assets/product-enhanced-1783496699777-y0j8sc.webp</g:additional_image_link>
+      <g:additional_image_link>https://gurimbakfar.co.il/assets/product-enhanced-1783499287239-0bemd6.webp</g:additional_image_link>
+      <g:additional_image_link>https://gurimbakfar.co.il/assets/product-enhanced-1783499321192-5ou13g.webp</g:additional_image_link>
+      <g:additional_image_link>https://gurimbakfar.co.il/assets/product-enhanced-1783499422590-2oumh.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>59.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>קולרים ורצועות</g:product_type>
+    </item>
+    <item>
+      <g:id>a6659d9e-3ac4-4574-801d-e4ca2e05961f</g:id>
+      <g:title>סט רתמה ורצועה לכלב קטן / בינוני - אפור שחור</g:title>
+      <g:description>סט רתמה ורצועה לכלב קטן / בינוני</g:description>
+      <g:link>https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-otrsu6</g:link>
+      <g:item_group_id>a84d0e39-cd7b-4d21-b864-4436dea20d0b</g:item_group_id>
       <g:image_link>https://gurimbakfar.co.il/assets/product-enhanced-1783496571585-jzuqk9.webp</g:image_link>
       <g:additional_image_link>https://gurimbakfar.co.il/assets/product-enhanced-1783496699777-y0j8sc.webp</g:additional_image_link>
       <g:additional_image_link>https://gurimbakfar.co.il/assets/product-enhanced-1783499287239-0bemd6.webp</g:additional_image_link>
