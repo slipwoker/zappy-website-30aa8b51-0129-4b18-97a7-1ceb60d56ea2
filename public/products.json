@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T06:56:08.819Z",
+  "generated_at": "2026-07-09T07:02:16.784Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 236,
@@ -982,19 +982,19 @@
     },
     {
       "id": "0014ab6c-0f3e-41c4-874a-14b111e130cc",
-      "slug": "trypl-kravn-slmvn-hypvalrgny-micau9",
+      "slug": "trypl-kravn-slmvn-hypvalrgny-84gz08",
       "name": "טריפל קראון סלמון היפואלרגני",
       "name_translations": {
         "en": "Triple Crown Salmon Hypoallergenic",
         "he": "טריפל קראון סלמון היפואלרגני",
-        "ru": "Triple Crown Salmon гипоаллергенный"
+        "ru": "Triple Crown Salmon Гипоаллергенный"
       },
       "description": "<p>מזון לכלבים עם עיכול רגיש או עדין‏ ‏מצוין עבור: כלבים בוגרים מכל הגזעים, רגישים או עם עיכול עדין.‏ ‏מזון מלא ומאוזן שפותח במיוחד עבור כלבים רגישים או כלבים עם עיכול עדין. טריפל קראון היפואלרגני סלמון משתמש בסלמון כמקור היחיד לחלבון ואורז מן החי, מה שעוזר לווסת את המעבר במעיים ובעל יכולת עיכול גבוהה המקלה על העיכול של חיית המחמד שלכם. בנוסף, סלמון עשיר בחומצות שומן חיוניות המסייעות בשמירה על עור ושיער בריאים ומבריקים.‏ עיכול קל. ‏עם ויטמינים ומינרלים.</p>",
       "short_description": null,
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 299,
+      "base_price": 299,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -1002,37 +1002,39 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/trypl-kravn-slmvn-hypvalrgny-micau9",
+      "url": "https://gurimbakfar.co.il/product/trypl-kravn-slmvn-hypvalrgny-84gz08",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-08T06:32:10.161Z"
+      "updated_at": "2026-07-09T07:02:06.272Z"
     },
     {
       "id": "db0ab119-0554-4225-8baa-9e2c4dd60ae5",
-      "slug": "trypl-kravn-lklb-bvgr-avp-w6qiuk",
+      "slug": "trypl-kravn-lklb-bvgr-avp-im7fv3",
       "name": "טריפל קראון לכלב בוגר עוף",
       "name_translations": {
         "en": "Triple Crown for Adult Dog Chicken",
         "he": "טריפל קראון לכלב בוגר עוף",
-        "ru": "Triple Crown для взрослых собак с курицей"
+        "ru": "Тройная Корона для взрослых собак с курицей"
       },
-      "description": "",
-      "short_description": null,
+      "description": "<p><br></p>",
+      "short_description": "מזון לכלבים מגזע גדול או ענק‏ ‏מצוין עבור: כלבים בוגרים מגזעים גדולים וענקיים.‏ ‏לכלבים מגזע גדול יש צרכי אנרגיה ספציפיים. מסיבה זו, סדרת טריפל קראון מציעה את Titandog MaxiAdult, מזון שלם שפותח במיוחד כדי לענות על צרכי האנרגיה והתזונה של כלבים מגזע גדול. הוא מכיל אספקת חלבון המספקת לשמירה על שרירים חזקים ואיזון סידן/זרחן, כמו גם כונדרוספרוטקטורים המסייעים בשמירה על בריאות העצמות והמפרקים.‏ ‏ צריכת חלבון אופטימלית‏ ‏ איזון סידן וזרחן‏ ‏ עם נוגדי חמצון טבעיים.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 269,
+      "base_price": 269,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783580422155-npjlxb.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-avp-w6qiuk",
+      "url": "https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-avp-im7fv3",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-07T08:22:53.581Z"
+      "updated_at": "2026-07-09T07:01:44.895Z"
     },
     {
       "id": "2708101c-ba80-4c58-a122-b9ed83a8a038",
