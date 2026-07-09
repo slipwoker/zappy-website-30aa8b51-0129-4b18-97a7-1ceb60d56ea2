@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T07:03:20.692Z",
+  "generated_at": "2026-07-09T07:03:57.444Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 236,
@@ -820,7 +820,7 @@
     },
     {
       "id": "b81f25b9-288f-4d22-a010-9eb8c8211c2b",
-      "slug": "trypl-kravn-lklb-bvgr-gvrmh-kbsh-0shq34",
+      "slug": "trypl-kravn-lklb-bvgr-gvrmh-kbsh-dmyds0",
       "name": "טריפל קראון לכלב בוגר גורמה כבש",
       "name_translations": {
         "en": "Triple Crown Adult Dog Gourmet Lamb",
@@ -831,8 +831,8 @@
       "short_description": null,
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 259,
+      "base_price": 259,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -840,11 +840,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-gvrmh-kbsh-0shq34",
+      "url": "https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-gvrmh-kbsh-dmyds0",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-07T08:34:57.345Z"
+      "updated_at": "2026-07-09T07:03:25.660Z"
     },
     {
       "id": "d7d3bd2c-659d-441c-b4cf-5e8cbb5add31",
