@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-13T15:57:46.967Z",
+  "generated_at": "2026-07-13T18:45:01.764Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 236,
@@ -1703,7 +1703,7 @@
     },
     {
       "id": "1809e69b-a59a-4d64-9eac-dca71e71378d",
-      "slug": "chtyp-rtsvavt-atsvt-ym-sm-knzbf0",
+      "slug": "chtyp-rtsvavt-atsvt-ym-sm-gtuchu",
       "name": "חטיף רצועות אצות ים S/M",
       "name_translations": {
         "en": "Seaweed Strips Snack S/M",
@@ -1721,11 +1721,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-rtsvavt-atsvt-ym-sm-knzbf0",
+      "url": "https://gurimbakfar.co.il/product/chtyp-rtsvavt-atsvt-ym-sm-gtuchu",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-13T15:57:15.143Z"
+      "updated_at": "2026-07-13T18:44:29.783Z"
     },
     {
       "id": "735226a1-dce5-4e8a-bd7c-f9eefb6ffbcc",
