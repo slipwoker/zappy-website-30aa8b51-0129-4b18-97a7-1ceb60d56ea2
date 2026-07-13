@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-13T14:57:29.867Z",
+  "generated_at": "2026-07-13T15:06:54.138Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 236,
@@ -1727,7 +1727,7 @@
     },
     {
       "id": "735226a1-dce5-4e8a-bd7c-f9eefb6ffbcc",
-      "slug": "chtyp-mkl-atsvt-ym-ml-jf7s2s",
+      "slug": "chtyp-mkl-atsvt-ym-ml-rifhb4",
       "name": "חטיף מקל אצות ים M/L",
       "name_translations": {
         "en": "Seaweed Stick Snack M/L",
@@ -1747,11 +1747,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-mkl-atsvt-ym-ml-jf7s2s",
+      "url": "https://gurimbakfar.co.il/product/chtyp-mkl-atsvt-ym-ml-rifhb4",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T11:51:05.813Z"
+      "updated_at": "2026-07-13T15:06:07.915Z"
     },
     {
       "id": "dc85bbc5-3368-4375-950e-d26bbc5e053b",
@@ -1786,7 +1786,7 @@
     },
     {
       "id": "48503db5-bce6-4aa6-8d4d-36f34861f717",
-      "slug": "chtyp-mkl-atsvt-ym-sm-je15dh",
+      "slug": "chtyp-mkl-atsvt-ym-sm-d4rxz9",
       "name": "חטיף מקל אצות ים S/M",
       "name_translations": {
         "en": "Seaweed Stick Snack S/M",
@@ -1806,11 +1806,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-mkl-atsvt-ym-sm-je15dh",
+      "url": "https://gurimbakfar.co.il/product/chtyp-mkl-atsvt-ym-sm-d4rxz9",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T11:50:35.482Z"
+      "updated_at": "2026-07-13T15:06:22.354Z"
     },
     {
       "id": "a8e46184-bfd9-47c0-97f9-39b4cd5b793e",

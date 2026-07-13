@@ -7559,7 +7559,7 @@ Availability: In stock
 ---
 
 ### חטיף מקל אצות ים M/L
-URL: https://gurimbakfar.co.il/product/chtyp-mkl-atsvt-ym-ml-jf7s2s
+URL: https://gurimbakfar.co.il/product/chtyp-mkl-atsvt-ym-ml-rifhb4
 Price: 16.90 ILS
 Availability: In stock
 
@@ -7573,7 +7573,7 @@ Availability: In stock
 ---
 
 ### חטיף מקל אצות ים S/M
-URL: https://gurimbakfar.co.il/product/chtyp-mkl-atsvt-ym-sm-je15dh
+URL: https://gurimbakfar.co.il/product/chtyp-mkl-atsvt-ym-sm-d4rxz9
 Price: 16.90 ILS
 Availability: In stock
 
