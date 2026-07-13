@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-13T14:35:36.031Z",
+  "generated_at": "2026-07-13T14:36:55.283Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 237,
@@ -37,7 +37,7 @@
     },
     {
       "id": "96fca75b-38ad-4bb4-8a1d-d00c08d8a04a",
-      "slug": "chtyp-nvblvs-brbkyv-shvk-avp-80-gr-tvxiv3",
+      "slug": "chtyp-nvblvs-brbkyv-shvk-avp-80-gr-ev7xpl",
       "name": "חטיף נובלוס ברבקיו שוק עוף 80 גר'",
       "name_translations": {
         "en": "Nobilus BBQ Chicken Drumstick Treat 80g",
@@ -57,15 +57,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-tvxiv3",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-ev7xpl",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-13T14:35:04.477Z"
+      "updated_at": "2026-07-13T14:36:23.687Z"
     },
     {
       "id": "d02028c5-495a-4a29-b6aa-6aa33ac38143",
-      "slug": "chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-04cb3x",
+      "slug": "chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-4lerfw",
       "name": "חטיף נובלוס ברבקיו טיבון בקר 80 גר'",
       "name_translations": {
         "en": "Nobilus BBQ T-Bone Beef Snack 80g",
@@ -85,11 +85,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-04cb3x",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-4lerfw",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T23:09:51.266Z"
+      "updated_at": "2026-07-13T14:35:53.442Z"
     },
     {
       "id": "1c9bd934-e8a6-40e7-bce1-c6f304467716",
