@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-13T15:51:06.948Z",
+  "generated_at": "2026-07-13T15:55:03.242Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 236,
@@ -1675,15 +1675,15 @@
     },
     {
       "id": "b60afca5-e9d5-4272-bbce-94193281d0f9",
-      "slug": "chtyp-rtsvavt-atsvt-ym-ml-fe76jo",
+      "slug": "chtyp-rtsvavt-atsvt-ym-ml-vd455y",
       "name": "חטיף רצועות אצות ים M/L",
       "name_translations": {
-        "en": "Seaweed Strip Treat M/L",
+        "en": "Seaweed Strips Treat M/L",
         "he": "חטיף רצועות אצות ים M/L",
         "ru": "Лакомство полоски из морских водорослей M/L"
       },
-      "description": "<p>רכיבים: עמילן תפוחי אדמה 25%, אבקת אצות ים 20%, שמרים 16%, ג'לטין בקר (מקור לקולגן), קמח אורז 14.64%, גליצרין צמחי 10%, קמח תירס 3%, סידן פחמתי 1%, אבקת ספירולינה 0.25%, אשלגן סורבט 0.05%, סידן פרופינאט 0.05%, קרמל פשוט 0.01%.</p><p>ערכים תזונתיים: </p><ul><li>חלבון גולמי 8%</li><li>שומן גולמי 2.1%</li><li>לחות 16%</li><li>סיבים גולמיים 1.8%</li><li>אפר גולמי 3%</li></ul>",
-      "short_description": "חטיף רצועות אצות ים לכלבים קטנים ובינוניים. משקל נקי 75 גר'.\nעשיר ברכיבים תזונתיים חיוניים ",
+      "description": "<p>רכיבים: עמילן תפוחי אדמה 25%, אבקת אצות ים 20%, שמרים 16%, ג'לטין בקר (מקור לקולגן), קמח אורז 14.64%, גליצרין צמחי 10%, קמח תירס 3%, סידן פחמתי 1%, אבקת ספירולינה 0.25%, אשלגן סורבט 0.05%, סידן פרופינאט 0.05%, קרמל פשוט 0.01%.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי 8%</li><li>שומן גולמי 2.1%</li><li>לחות 16%</li><li>סיבים גולמיים 1.8%</li><li>אפר גולמי 3%</li></ul>",
+      "short_description": "חטיף רצועות אצות ים לכלבים קטנים ובינוניים 80 גר'\nעשיר ברכיבים תזונתיים חיוניים ",
       "sku": null,
       "brand": "Native Way",
       "price": 16.9,
@@ -1695,11 +1695,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-rtsvavt-atsvt-ym-ml-fe76jo",
+      "url": "https://gurimbakfar.co.il/product/chtyp-rtsvavt-atsvt-ym-ml-vd455y",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-13T15:47:15.077Z"
+      "updated_at": "2026-07-13T15:55:01.384Z"
     },
     {
       "id": "1809e69b-a59a-4d64-9eac-dca71e71378d",
@@ -1729,14 +1729,14 @@
     },
     {
       "id": "735226a1-dce5-4e8a-bd7c-f9eefb6ffbcc",
-      "slug": "chtyp-mkl-atsvt-ym-ml-f88qjf",
+      "slug": "chtyp-mkl-atsvt-ym-ml-e2i5nq",
       "name": "חטיף מקל אצות ים M/L",
       "name_translations": {
         "en": "Seaweed Stick Snack M/L",
         "he": "חטיף מקל אצות ים M/L",
-        "ru": "Лакомство палочки из морских водорослей M/L"
+        "ru": "Лакомство палочка из морских водорослей M/L"
       },
-      "description": "",
+      "description": "<p>רכיבים: עמילן תפוחי אדמה 25%, אבקת אצות ים 20%, שמרים 16%, ג'לטין בקר (מקור לקולגן), קמח אורז 14.64%, גליצרין צמחי 10%, קמח תירס 3%, סידן פחמתי 1%, אבקת ספירולינה 0.25%, אשלגן סורבט 0.05%, סידן פרופינאט 0.05%, קרמל פשוט 0.01%.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי 8%</li><li>שומן גולמי 2.1%</li><li>לחות 16%</li><li>סיבים גולמיים 1.8%</li><li>אפר גולמי 3%</li></ul><p><br></p>",
       "short_description": "חטיף מקלות אצות ים לכלבים בינוניים וגדולים 80 גרם",
       "sku": null,
       "brand": "Native Way",
@@ -1749,11 +1749,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-mkl-atsvt-ym-ml-f88qjf",
+      "url": "https://gurimbakfar.co.il/product/chtyp-mkl-atsvt-ym-ml-e2i5nq",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-13T15:50:35.128Z"
+      "updated_at": "2026-07-13T15:54:31.647Z"
     },
     {
       "id": "dc85bbc5-3368-4375-950e-d26bbc5e053b",
