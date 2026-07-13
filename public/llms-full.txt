@@ -6892,9 +6892,11 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### סמוקיס עוגיות טבעיות לכלבים בטעם פיצה ובזיליקום
-URL: https://gurimbakfar.co.il/product/smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylykvm-uit1p6
+URL: https://gurimbakfar.co.il/product/smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylykvm-sots0x
 Price: 20.00 ILS
 Availability: In stock
+
+רכיבים עיקריים: קמח (חיטה ותפוחי אדמה), שומן צמחי, דבש, ביצים טריות, אבקת חלב ותערובת סופר פודס הכוללת חמוציות, ג'ינג'ר, כורכום, קינמון, מנטה ואורגנו. שימוש: החטיפים מתאימים כצ'ופר יומיומי או כפרס בזמן אילוף. תכולה: המארז הסטנדרטי מכיל 200 גר' של עוגיות.
 
 ---
 

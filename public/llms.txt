@@ -75,9 +75,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 237** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### סמוקיס עוגיות טבעיות לכלבים בטעם פיצה ובזיליקום
-https://gurimbakfar.co.il/product/smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylykvm-uit1p6
+https://gurimbakfar.co.il/product/smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylykvm-sots0x
 - Price: 20.00 ILS
 - Availability: In stock
+- Category: חטיפים
+- Description: חטיף פרימיום המיוצר מרכיבים איכותיים המוגדרים כראויים למאכל אדם
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783934698591-mid6em.webp
 
 ### חטיף נובלוס ברבקיו שוק עוף 80 גר'
