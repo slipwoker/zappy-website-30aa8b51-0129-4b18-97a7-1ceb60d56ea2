@@ -1,10 +1,38 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T13:32:14.436Z",
+  "generated_at": "2026-07-13T09:26:38.360Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 236,
+  "count": 237,
   "products": [
+    {
+      "id": "b74196a4-ca27-4263-8cfb-1f7c3c360c2d",
+      "slug": "smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylykvm-uit1p6",
+      "name": "סמוקיס עוגיות טבעיות לכלבים בטעם פיצה ובזיליקום",
+      "name_translations": {
+        "en": "Smokies Natural Dog Cookies in Pizza and Basil Flavor",
+        "he": "סמוקיס עוגיות טבעיות לכלבים בטעם פיצה ובזיליקום",
+        "ru": "Smokies натуральное печенье для собак со вкусом пиццы и базилика"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 20,
+      "base_price": 20,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1783934698591-mid6em.webp",
+        "https://gurimbakfar.co.il/assets/product-1783934714988-h8bpv.webp",
+        "https://gurimbakfar.co.il/assets/product-1783934741467-r6v554.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylykvm-uit1p6",
+      "categories": [],
+      "updated_at": "2026-07-13T09:26:06.956Z"
+    },
     {
       "id": "96fca75b-38ad-4bb4-8a1d-d00c08d8a04a",
       "slug": "chtyp-nvblvs-brbkyv-shvk-avp-80-gr-6przv4",
