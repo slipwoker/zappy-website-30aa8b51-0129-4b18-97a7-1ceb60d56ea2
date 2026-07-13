@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-13T15:12:06.429Z",
+  "generated_at": "2026-07-13T15:34:03.944Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 236,
@@ -1675,7 +1675,7 @@
     },
     {
       "id": "b60afca5-e9d5-4272-bbce-94193281d0f9",
-      "slug": "chtyp-rtsvavt-atsvt-ym-ml-pxnl9q",
+      "slug": "chtyp-rtsvavt-atsvt-ym-ml-6onc8k",
       "name": "חטיף רצועות אצות ים M/L",
       "name_translations": {
         "en": "Seaweed Strips Snack M/L",
@@ -1685,19 +1685,21 @@
       "description": "",
       "short_description": "חטיף רצועות אצות ים לכלבים קטנים ובינוניים 80 גרם",
       "sku": null,
-      "brand": null,
+      "brand": "Native Way",
       "price": 16.9,
       "base_price": 16.9,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1783956703529-mw3wro.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-rtsvavt-atsvt-ym-ml-pxnl9q",
+      "url": "https://gurimbakfar.co.il/product/chtyp-rtsvavt-atsvt-ym-ml-6onc8k",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T08:22:46.013Z"
+      "updated_at": "2026-07-13T15:33:32.191Z"
     },
     {
       "id": "1809e69b-a59a-4d64-9eac-dca71e71378d",
