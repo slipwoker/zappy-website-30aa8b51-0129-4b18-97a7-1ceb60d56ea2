@@ -1,20 +1,20 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-13T14:07:14.011Z",
+  "generated_at": "2026-07-13T14:18:48.033Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 237,
   "products": [
     {
       "id": "b74196a4-ca27-4263-8cfb-1f7c3c360c2d",
-      "slug": "smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylykvm-sots0x",
+      "slug": "smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylykvm-d0rh6d",
       "name": "סמוקיס עוגיות טבעיות לכלבים בטעם פיצה ובזיליקום",
       "name_translations": {
         "en": "Smokies Natural Dog Cookies in Pizza & Basil Flavor",
         "he": "סמוקיס עוגיות טבעיות לכלבים בטעם פיצה ובזיליקום",
         "ru": "Smokeys натуральное печенье для собак со вкусом пиццы и базилика"
       },
-      "description": "<p>רכיבים עיקריים: קמח (חיטה ותפוחי אדמה), שומן צמחי, דבש, ביצים טריות, אבקת חלב ותערובת סופר פודס הכוללת חמוציות, ג'ינג'ר, כורכום, קינמון, מנטה ואורגנו.</p><p>שימוש: החטיפים מתאימים כצ'ופר יומיומי או כפרס בזמן  אילוף.</p><p>תכולה: המארז הסטנדרטי מכיל 200 גר' של עוגיות.</p>",
+      "description": "<p>רכיבים עיקריים: קמח (חיטה ותפוחי אדמה), שומן צמחי, דבש, ביצים טריות, אבקת חלב ותערובת סופר פודס הכוללת חמוציות, ג'ינג'ר, כורכום, קינמון, מנטה ואורגנו.</p><p>שימוש: החטיפים מתאימים כצ'ופר יומיומי או כפרס בזמן אילוף.</p><p>תכולה: המארז הסטנדרטי מכיל 200 גר' של עוגיות.</p>",
       "short_description": "חטיף פרימיום המיוצר מרכיבים איכותיים המוגדרים כראויים למאכל אדם",
       "sku": null,
       "brand": null,
@@ -29,11 +29,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylykvm-sots0x",
+      "url": "https://gurimbakfar.co.il/product/smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylykvm-d0rh6d",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-13T09:33:04.429Z"
+      "updated_at": "2026-07-13T14:18:16.108Z"
     },
     {
       "id": "96fca75b-38ad-4bb4-8a1d-d00c08d8a04a",
