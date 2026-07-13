@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-13T14:41:38.262Z",
+  "generated_at": "2026-07-13T14:42:45.474Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 237,
@@ -205,12 +205,12 @@
     },
     {
       "id": "38a00fb1-8b74-47cd-8161-31f59a0fe750",
-      "slug": "chtyp-nvblvs-pylh-arnb-80-gr-cgmezn",
+      "slug": "chtyp-nvblvs-pylh-arnb-80-gr-cekqt0",
       "name": "חטיף נובלוס פילה ארנב 80 גר'",
       "name_translations": {
         "en": "Nobilus Rabbit Fillet Snack 80g",
         "he": "חטיף נובלוס פילה ארנב 80 גר'",
-        "ru": "Лакомство Nobilus филе кролика 80 г"
+        "ru": "Лакомство Nobilus Филе Кролика 80 г"
       },
       "description": "<p>רכיבים: ארנבת, בשר חזה עוף, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 30%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5%</li><li>לחות: מקסימום 18%</li></ul>",
       "short_description": "חטיף לכלבים נובילוס פילה ארנבת 80 גר - NOBILUS הוא חטיף אולטרה-פרימיום איכותי לכלבים, המיוצר על בסיס בשר ארנב וחזה עוף. לפי פרסומי החנויות המשווקות (כמו \"לה דוג\" ו\"המגרש של יוגב\"), מדובר בחטיף היפואלרגני, דל שומן וללא תוספת סוכר, המתאים מאוד גם לכלבים רגישים או מבוגרים.\nאריזה: 80 גרם, מגיעה לרוב עם סגירה חוזרת (פסגור) לשמירה על הטריות.",
@@ -225,15 +225,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-arnb-80-gr-cgmezn",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-arnb-80-gr-cekqt0",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-13T14:41:06.626Z"
+      "updated_at": "2026-07-13T14:42:13.285Z"
     },
     {
       "id": "53576aad-86b4-4efb-90d1-aab256826f58",
-      "slug": "chtyp-nvblvs-pylh-dg-kvd-80-gr-ue0c5k",
+      "slug": "chtyp-nvblvs-pylh-dg-kvd-80-gr-h4yxjs",
       "name": "חטיף נובלוס פילה דג קוד 80 גר'",
       "name_translations": {
         "en": "Nobilus Cod Fish Fillet Snack 80g",
@@ -253,11 +253,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-dg-kvd-80-gr-ue0c5k",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-dg-kvd-80-gr-h4yxjs",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T23:11:29.449Z"
+      "updated_at": "2026-07-13T14:42:28.228Z"
     },
     {
       "id": "de3f54d8-7b51-47d4-9380-babf4fe7a760",
