@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-13T14:40:06.777Z",
+  "generated_at": "2026-07-13T14:41:02.046Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 237,
@@ -126,7 +126,7 @@
       "name_translations": {
         "en": "Nobilus Dental Toothbrush Snack 80g",
         "he": "חטיף נובלוס דנטלי מברשות 80 גר'",
-        "ru": "Лакомство Nobilus Dental зубная щётка 80 г"
+        "ru": "Лакомство Nobilus Dental в форме зубной щётки 80 г"
       },
       "description": "<p>רכיבים: עמילן תירס, גליצרין צמחי, גלוטן, דגים, עוף, שמן סויה, מתחלב, סידן סטראט, נתרן נחושת כלורופילין.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 6%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5%</li><li>לחות: מקסימום 18%</li></ul>",
       "short_description": "חטיף נובילוס (Nobilus) דנטלי בצורת מברשת שיניים (80 גרם) הוא חטיף לעיסה פונקציונלי לכלבים, המיועד לשמירה על היגיינת הפה. החטיף מגיע במארז עם סגירה חוזרת לשמירה על הטריות.",
@@ -145,11 +145,11 @@
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-13T14:39:56.468Z"
+      "updated_at": "2026-07-13T14:40:07.857Z"
     },
     {
       "id": "3c8339f6-921b-4917-a70a-005adaa88c47",
-      "slug": "chtyp-nvblvs-atypvt-shl-arnb-bmkl-kltsyvm-80-gr-jclb48",
+      "slug": "chtyp-nvblvs-atypvt-shl-arnb-bmkl-kltsyvm-80-gr-fvobx8",
       "name": "חטיף נובלוס עטיפות של ארנב במקל קלציום 80 גר'",
       "name_translations": {
         "en": "Nobilus Snack Rabbit Wraps on Calcium Stick 80g",
@@ -169,20 +169,20 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-atypvt-shl-arnb-bmkl-kltsyvm-80-gr-jclb48",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-atypvt-shl-arnb-bmkl-kltsyvm-80-gr-fvobx8",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T23:10:31.447Z"
+      "updated_at": "2026-07-13T14:40:30.391Z"
     },
     {
       "id": "e26108a4-99f5-4767-be47-b405fcff9e47",
-      "slug": "chtyp-nvblvs-svshy-arnb-80-gr-rqdvw4",
+      "slug": "chtyp-nvblvs-svshy-arnb-80-gr-l7homo",
       "name": "חטיף נובלוס סושי ארנב 80 גר'",
       "name_translations": {
         "en": "Nobilus Sushi Rabbit Snack 80g",
         "he": "חטיף נובלוס סושי ארנב 80 גר'",
-        "ru": "Лакомство Nobilus Суши Кролик 80 г"
+        "ru": "Лакомство Nobilus Суши Кролик 80 гр'"
       },
       "description": "<p>רכיבים: ארנבת, חזה עוף, בקלה, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 25%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5%</li><li>לחות: מקסימום 18%</li></ul>",
       "short_description": "נובילוס חטיף לכלב סושי ארנב - 80 גרם הוא חטיף פרימיום בצורת ספירלה המיועד לכלבים, המיוצר על ידי המותג נובילוס (Nobilus).\nאריזה: 80 גרם עם סגירה חוזרת לשמירה על הטריות.",
@@ -197,15 +197,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-arnb-80-gr-rqdvw4",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-arnb-80-gr-l7homo",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T23:10:39.412Z"
+      "updated_at": "2026-07-13T14:40:45.371Z"
     },
     {
       "id": "38a00fb1-8b74-47cd-8161-31f59a0fe750",
-      "slug": "chtyp-nvblvs-pylh-arnb-80-gr-2jn8ww",
+      "slug": "chtyp-nvblvs-pylh-arnb-80-gr-cgmezn",
       "name": "חטיף נובלוס פילה ארנב 80 גר'",
       "name_translations": {
         "en": "Nobilus Rabbit Fillet Snack 80g",
@@ -225,11 +225,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-arnb-80-gr-2jn8ww",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-arnb-80-gr-cgmezn",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T23:10:59.634Z"
+      "updated_at": "2026-07-13T14:40:49.909Z"
     },
     {
       "id": "53576aad-86b4-4efb-90d1-aab256826f58",
