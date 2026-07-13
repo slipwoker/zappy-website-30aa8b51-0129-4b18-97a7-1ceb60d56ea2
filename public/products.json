@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-13T14:42:45.474Z",
+  "generated_at": "2026-07-13T14:42:59.570Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 237,
@@ -289,7 +289,7 @@
     },
     {
       "id": "60f13aeb-8865-4f7d-9fc1-04e7bd9e9343",
-      "slug": "chtyp-nvblvs-pylh-slmvn-80-gr-30zl7d",
+      "slug": "chtyp-nvblvs-pylh-slmvn-80-gr-kcdih6",
       "name": "חטיף נובלוס פילה סלמון 80 גר'",
       "name_translations": {
         "en": "Nobulos Salmon Fillet Snack 80g",
@@ -309,11 +309,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-slmvn-80-gr-30zl7d",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-slmvn-80-gr-kcdih6",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T23:13:08.720Z"
+      "updated_at": "2026-07-13T14:42:52.156Z"
     },
     {
       "id": "86d1fbb1-0b60-4ee4-85c2-1f3b5c6a4db2",
