@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-13T14:27:31.162Z",
+  "generated_at": "2026-07-13T14:29:14.621Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 237,
@@ -3210,7 +3210,7 @@
     },
     {
       "id": "9f66829a-ece8-4209-ac4f-9ae0958f2051",
-      "slug": "klvb-aylvp-lklbym-lgdt1f",
+      "slug": "klvb-aylvp-lklbym-9fvmtr",
       "name": "כלוב אילוף לכלבים",
       "name_translations": {
         "en": "Dog Training Crate",
@@ -3230,11 +3230,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/klvb-aylvp-lklbym-lgdt1f",
+      "url": "https://gurimbakfar.co.il/product/klvb-aylvp-lklbym-9fvmtr",
       "categories": [
         "כלובים וגדרות"
       ],
-      "updated_at": "2026-07-13T14:26:59.566Z"
+      "updated_at": "2026-07-13T14:28:43.087Z"
     },
     {
       "id": "2f8dee24-f97b-4532-b09c-21a45d4466f2",
