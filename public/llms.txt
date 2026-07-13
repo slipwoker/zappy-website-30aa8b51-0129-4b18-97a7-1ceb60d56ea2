@@ -72,7 +72,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 237** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 236** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### סמוקיס עוגיות טבעיות לכלבים בטעם פיצה ובזיליקום
 https://gurimbakfar.co.il/product/smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylykvm-z5rlvv
@@ -155,20 +155,12 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-slmvn-80-gr-2hq23m
 - Image: https://gurimbakfar.co.il/assets/product-1783461562150-59m0cd.webp
 
 ### חטיף נובלוס פילה סלמון 80 גר'
-https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-slmvn-80-gr-kcdih6
+https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-slmvn-80-gr-2fltzk
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: נובילוס חטיף פילה סלמון לכלב 80 גרם הוא חטיף אולטרה-פרימיום איכותי וטעים המיועד לפינוק, אילוף או כתוספת משלימה למזון היומי של הכלב. אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (זיפר) לשמירה על איכות החטיף לאורך זמן.
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783461171036-1002g.webp
-
-### חטיף נובלוס פילה סלמון 80 גר'
-https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-slmvn-80-gr-qdr7n7
-- Price: 12.50 ILS
-- Availability: In stock
-- Category: חטיפים
-- Description: נובילוס חטיף פילה סלמון לכלב 80 גרם הוא חטיף אולטרה-פרימיום איכותי וטעים המיועד לפינוק, אילוף או כתוספת משלימה למזון היומי של הכלב. יתרון נוסף - אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (זיפר) לשמירה על איכות החטיף לאורך זמן.
-- Image: https://gurimbakfar.co.il/assets/product-1783458146587-eg5pjc.webp
 
 ### חטיף נובלוס נקניקיות כבש 80 גר'
 https://gurimbakfar.co.il/product/chtyp-nvblvs-nknykyvt-kbsh-80-gr-bkfo5t
@@ -1540,6 +1532,13 @@ https://gurimbakfar.co.il/product/rtsvavt-plksy-jnoo9p
 - Availability: In stock
 - Category: קולרים ורצועות
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1780898526650-2onagi.webp
+
+### חגורת בטיחות לכלב Record
+https://gurimbakfar.co.il/product/chgvrt-btychvt-lklb-record-wx66xy
+- Price: 35.00 ILS
+- Availability: In stock
+- Category: אביזרים
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449877512-tzjlul.webp
 
 ---
 
