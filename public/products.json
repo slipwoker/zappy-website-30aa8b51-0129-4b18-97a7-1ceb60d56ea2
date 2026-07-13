@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-13T14:54:08.274Z",
+  "generated_at": "2026-07-13T14:55:04.797Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 236,
@@ -537,11 +537,11 @@
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-13T14:54:04.665Z"
+      "updated_at": "2026-07-13T14:54:17.270Z"
     },
     {
       "id": "aa4dc003-4597-4a90-95e7-259d072d61b7",
-      "slug": "chtyp-nvblvs-brvvz-vdg-kvd-80-gr-08rwxp",
+      "slug": "chtyp-nvblvs-brvvz-vdg-kvd-80-gr-r9xvi9",
       "name": "חטיף נובלוס ברווז ודג קוד 80 גר'",
       "name_translations": {
         "en": "Nobilus Duck & Cod Snack 80g",
@@ -561,20 +561,20 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-vdg-kvd-80-gr-08rwxp",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-vdg-kvd-80-gr-r9xvi9",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T23:15:23.291Z"
+      "updated_at": "2026-07-13T14:54:32.979Z"
     },
     {
       "id": "e1cee050-9a3d-43d4-9390-050151046343",
-      "slug": "chtyp-nvblvs-brvvz-svshy-80-gr-7llw8h",
+      "slug": "chtyp-nvblvs-brvvz-svshy-80-gr-ul4cc9",
       "name": "חטיף נובלוס ברווז סושי 80 גר'",
       "name_translations": {
         "en": "Nobulos Duck Sushi Snack 80g",
         "he": "חטיף נובלוס ברווז סושי 80 גר'",
-        "ru": "Лакомство Novelos с уткой Суши 80 г"
+        "ru": "Лакомство Novelos с уткой суши 80 г"
       },
       "description": "<p>רכיבים עיקריים: בשר חזה ברווז, בקלה, חלבון אפונה, קמח חיטה, עמילן, גליצרין צמחי, סורביטול</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 25%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5%</li><li>לחות: מקסימום 18%</li></ul>",
       "short_description": "חטיף נובילוס סושי ברווז (80 גרם) הוא חטיף פרימיום היפואלרגני ודל שומן לכלבים. הוא מעוצב בצורת סושי ספירלי ייחודי ומשלב בשר חזה ברווז איכותי יחד עם דג בקלה.",
@@ -589,11 +589,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-svshy-80-gr-7llw8h",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-svshy-80-gr-ul4cc9",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T23:15:57.109Z"
+      "updated_at": "2026-07-13T14:54:54.507Z"
     },
     {
       "id": "e603ab7e-c356-4d22-a563-1537547379b7",
