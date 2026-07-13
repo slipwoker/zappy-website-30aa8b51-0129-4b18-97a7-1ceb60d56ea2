@@ -6892,7 +6892,7 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### סמוקיס עוגיות טבעיות לכלבים בטעם פיצה ובזיליקום
-URL: https://gurimbakfar.co.il/product/smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylykvm-3rpxu9
+URL: https://gurimbakfar.co.il/product/smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylykvm-s2ek6j
 Price: 20.00 ILS
 Availability: In stock
 
