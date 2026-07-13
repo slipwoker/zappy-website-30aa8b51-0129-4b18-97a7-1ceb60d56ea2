@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-13T15:09:50.995Z",
+  "generated_at": "2026-07-13T15:12:06.429Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 236,
@@ -737,17 +737,17 @@
     },
     {
       "id": "65a2372f-237d-444d-aace-a03aee891e38",
-      "slug": "chtyp-nvblvs-svshy-avp-80-gr-7z2g7v",
+      "slug": "chtyp-nvblvs-svshy-avp-80-gr-tiq5j0",
       "name": "חטיף נובלוס סושי עוף 80 גר'",
       "name_translations": {
-        "en": "Nobulos Sushi Chicken Snack 80g",
+        "en": "Nobilus Sushi Chicken Snack 80g",
         "he": "חטיף נובלוס סושי עוף 80 גר'",
-        "ru": "Лакомство Novelos Суши с курицей 80 гр'"
+        "ru": "Лакомство Nobilus Суши с курицей 80 г"
       },
       "description": "<p><strong>רכיבים:</strong> <strong>חזה עוף, בקלה, חלבון אפונה, קמח חיטה, עמילן, גלייצרין צמחי, סורביטול</strong></p><p><strong>ערכים תזונתיים:</strong></p><ul><li>חלבון גולמי 25%</li><li>שומן גולמי עד 3%</li><li>סיבים גולמיים עד 1%</li><li>אפר גולמי עד 5%</li><li>לחות עד 18%</li></ul>",
       "short_description": "חטיפי נובילוס, חטיפים טעימים במיוחד המתאימים למתן כפינוק, לעיסה, ומושלמים כתוספת משלימה לאוכל. 80 גרם\n* מארז עם סגירה חוזרת, לשמירה על טריות\n* מושלם כחטיף התעסקות\n* מקור חלבון איכותי\n* חטיף דל שומן\n* בשר אמיתי כמרכיב עיקרי\n",
       "sku": null,
-      "brand": null,
+      "brand": "NOBILUS",
       "price": 12.5,
       "base_price": 12.5,
       "sale_price": null,
@@ -757,11 +757,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-avp-80-gr-7z2g7v",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-avp-80-gr-tiq5j0",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-13T14:55:22.702Z"
+      "updated_at": "2026-07-13T15:11:34.708Z"
     },
     {
       "id": "1b166e2a-f077-4c69-a54b-4bfbbd4eeb3b",

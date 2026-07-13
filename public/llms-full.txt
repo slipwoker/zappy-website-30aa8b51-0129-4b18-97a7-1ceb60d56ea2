@@ -6634,8 +6634,8 @@ gurimbakfar@gmail.com
 
 
 
-קראתי ואני מסכים/ה ל   תנאי השימוש  |
-מדיניות החזרות     ול     מדיניות הפרטיות
+קראתי ואני מסכים/ה ל  תנאי השימוש  |
+מדיניות החזרות    ול    מדיניות הפרטיות
 
 
 
@@ -7279,9 +7279,10 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס סושי עוף 80 גר'
-URL: https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-avp-80-gr-7z2g7v
+URL: https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-avp-80-gr-tiq5j0
 Price: 12.50 ILS
 Availability: In stock
+Brand: NOBILUS
 
 רכיבים: חזה עוף, בקלה, חלבון אפונה, קמח חיטה, עמילן, גלייצרין צמחי, סורביטול ערכים תזונתיים: חלבון גולמי 25% שומן גולמי עד 3% סיבים גולמיים עד 1% אפר גולמי עד 5% לחות עד 18%
 
