@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-13T14:49:20.637Z",
+  "generated_at": "2026-07-13T14:54:08.274Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 236,
@@ -457,7 +457,7 @@
     },
     {
       "id": "8d58d81e-03b5-44af-b820-b9cc434fad97",
-      "slug": "chtyp-nvblvs-svshy-bkr-pfmlub",
+      "slug": "chtyp-nvblvs-svshy-bkr-aw8qfa",
       "name": "חטיף נובלוס סושי בקר",
       "name_translations": {
         "en": "Nobilus Beef Sushi Snack",
@@ -477,18 +477,18 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-bkr-pfmlub",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-bkr-aw8qfa",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-13T14:48:48.694Z"
+      "updated_at": "2026-07-13T14:53:36.620Z"
     },
     {
       "id": "3dd0edc0-70f1-4ed4-96e5-496c254d7c90",
-      "slug": "chtyp-nvblvs-nknykyvt-brvvz-80-gr-htoyfn",
+      "slug": "chtyp-nvblvs-nknykyvt-brvvz-80-gr-dip46d",
       "name": "חטיף נובלוס נקניקיות ברווז 80 גר'",
       "name_translations": {
-        "en": "Nobilus Duck Sausage Snack 80g",
+        "en": "Nobilus Duck Sausage Treat 80g",
         "he": "חטיף נובלוס נקניקיות ברווז 80 גר'",
         "ru": "Лакомство Nobilus сосиски из утки 80 г"
       },
@@ -505,15 +505,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-nknykyvt-brvvz-80-gr-htoyfn",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-nknykyvt-brvvz-80-gr-dip46d",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T23:14:38.449Z"
+      "updated_at": "2026-07-13T14:54:02.430Z"
     },
     {
       "id": "86c8496c-d70e-47cd-8b09-3e73761efcf2",
-      "slug": "chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-qyh3w2",
+      "slug": "chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-2abwgm",
       "name": "חטיף נובלוס מקל ברווז ואורז 80 גר'",
       "name_translations": {
         "en": "Nobilus Duck & Rice Stick Snack 80g",
@@ -533,11 +533,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-qyh3w2",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-2abwgm",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-07T23:14:48.440Z"
+      "updated_at": "2026-07-13T14:54:04.665Z"
     },
     {
       "id": "aa4dc003-4597-4a90-95e7-259d072d61b7",
