@@ -6634,8 +6634,8 @@ gurimbakfar@gmail.com
 
 
 
-קראתי ואני מסכים/ה ל   תנאי השימוש  |
-מדיניות החזרות     ול     מדיניות הפרטיות
+קראתי ואני מסכים/ה ל  תנאי השימוש  |
+מדיניות החזרות    ול    מדיניות הפרטיות
 
 
 
@@ -7563,9 +7563,10 @@ Availability: In stock
 ---
 
 ### חטיף מקל אצות ים M/L
-URL: https://gurimbakfar.co.il/product/chtyp-mkl-atsvt-ym-ml-rifhb4
+URL: https://gurimbakfar.co.il/product/chtyp-mkl-atsvt-ym-ml-f88qjf
 Price: 16.90 ILS
 Availability: In stock
+Brand: Native Way
 
 ---
 
