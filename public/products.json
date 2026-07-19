@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T17:42:29.422Z",
+  "generated_at": "2026-07-19T17:46:31.509Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 235,
   "products": [
     {
       "id": "b3ddc539-aa39-4ae8-a68d-a38aa28758c0",
-      "slug": "trypl-kravn-lklb-bvgr-avp-i9vb51",
+      "slug": "trypl-kravn-lklb-bvgr-avp-avwnop",
       "name": "טריפל קראון לכלב בוגר עוף",
       "name_translations": {
         "en": "Triple Crown for Adult Dog Chicken",
@@ -22,14 +22,12 @@
       "base_price": 269,
       "sale_price": null,
       "currency": "ILS",
-      "images": [
-        "https://gurimbakfar.co.il/assets/product-enhanced-1784482799046-8n1yc.webp"
-      ],
+      "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-avp-i9vb51",
+      "url": "https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-avp-avwnop",
       "categories": [],
-      "updated_at": "2026-07-19T17:41:57.772Z"
+      "updated_at": "2026-07-19T17:44:38.047Z"
     },
     {
       "id": "b74196a4-ca27-4263-8cfb-1f7c3c360c2d",
