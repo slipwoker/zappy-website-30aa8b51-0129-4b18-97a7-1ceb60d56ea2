@@ -7045,7 +7045,7 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### סמס פילד/Sam's Field אווז הודו 13 ק"ג
-URL: https://gurimbakfar.co.il/product/sms-pyldsams-field-avvz-hvdv-13-kg-0hwk77
+URL: https://gurimbakfar.co.il/product/sms-pyldsams-field-avvz-hvdv-13-kg-pwlewr
 Price: 299.00 ILS
 Availability: In stock
 Brand: סמס פילד

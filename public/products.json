@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T19:44:49.234Z",
+  "generated_at": "2026-07-19T19:45:53.504Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 238,
   "products": [
     {
       "id": "cc4787d4-1ce1-4ffd-9947-a690c102449d",
-      "slug": "sms-pyldsams-field-avvz-hvdv-13-kg-0hwk77",
+      "slug": "sms-pyldsams-field-avvz-hvdv-13-kg-pwlewr",
       "name": "סמס פילד/Sam's Field אווז הודו 13 ק\"ג",
       "name_translations": {
         "en": "Sam's Field Goose & Turkey 13 kg",
@@ -23,15 +23,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1784490162954-5m5xl2.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1784490291964-vpsur.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/sms-pyldsams-field-avvz-hvdv-13-kg-0hwk77",
+      "url": "https://gurimbakfar.co.il/product/sms-pyldsams-field-avvz-hvdv-13-kg-pwlewr",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T19:44:17.499Z"
+      "updated_at": "2026-07-19T19:45:21.904Z"
     },
     {
       "id": "06a8a4d7-6c8f-403c-8f78-183989a091ec",

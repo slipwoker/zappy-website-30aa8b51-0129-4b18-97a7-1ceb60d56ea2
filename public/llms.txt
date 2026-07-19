@@ -75,13 +75,13 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 238** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### סמס פילד/Sam's Field אווז הודו 13 ק"ג
-https://gurimbakfar.co.il/product/sms-pyldsams-field-avvz-hvdv-13-kg-0hwk77
+https://gurimbakfar.co.il/product/sms-pyldsams-field-avvz-hvdv-13-kg-pwlewr
 - Price: 299.00 ILS
 - Availability: In stock
 - Category: מזון יבש
 - Brand: סמס פילד
 - Description: מזון Sam's Field אווז והודו 13 ק"ג הוא מזון סופר-פרימיום לכלבים בוגרים מגזע גדול. הפורמולה מכילה 70% בשר (אווז והודו), פירות, וירקות. היא אינה מכילה גלוטן ומועשרת בפרוביוטיקה, גלוקוזאמין וכונדרויטין לשמירה על המפרקים.
-- Image: https://gurimbakfar.co.il/assets/product-1784490162954-5m5xl2.webp
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1784490291964-vpsur.webp
 
 ### בוש מיני ג'וניור עוף
 https://gurimbakfar.co.il/product/bvsh-myny-gvnyvr-avp-08ib5l
