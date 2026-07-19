@@ -72,7 +72,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 235** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 234** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### סמוקיס עוגיות טבעיות לכלבים בטעם פיצה ובזיליקום
 https://gurimbakfar.co.il/product/smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylykvm-7tj771
@@ -759,14 +759,6 @@ https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-nvabv-avp-400-gr-kvkf9f
 - Category: שימורים ומעדנים
 - Description: Nuevo Adult – עוף בשר עוף עתיר חלבון, יחד עם כל המינרלים החשובים, מספק בסיס תזונתי אידיאלי לכלב שלכם. Nuevo Chicken קל לעיכול, בעל טעימות גבוהה, ויכול לסייע בשיפור מצב הפרווה. מקור החלבון מן החי מתאים לאופי התזונתי הטבעי של כלבים.
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1782662147123-g38sdq.webp
-
-### אדיקשן בוגר כבש (קיבה רגישה) 15 ק”ג
-https://gurimbakfar.co.il/product/adykshn-bvgr-kbsh-kybh-rgyshh-15-kg-sellpm
-- Price: 290.00 ILS
-- Availability: In stock
-- Category: מזון יבש
-- Description: המתכון המדהים והמעורר ביותר של המזון הופך אותו לתזונה מושלמת לכלבים בוגרים עם פעילות נורמלית או ממוצעת. מזון זה מספק תזונה אופטימלית דרך כל חייהם של כלבי הבית, כלבי התערוכה וכלבים עובדים. מוצר זה מיוצר תוך שימוש בחומרי גלם שנבחרו בקפידה תוך הקפדה רבה על הכנתו ואריזתו.
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1782328663555-bn7dy.webp
 
 ### תרסיס מרכך ללא שטיפה מיועד לעידוד צמיחת פרווה TAURO
 https://gurimbakfar.co.il/product/trsys-mrkk-lla-shtyph-myvad-laydvd-tsmycht-prvvh-tauro-b2adp3
@@ -1545,6 +1537,13 @@ https://gurimbakfar.co.il/product/shmn-byshvm-lbaly-chyym-petglow-3jcamm
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449919551-l46kzt.webp
+
+### שמן בישום לבעלי חיים PURE
+https://gurimbakfar.co.il/product/shmn-byshvm-lbaly-chyym-pure-dkdfjf
+- Price: 35.00 ILS
+- Availability: In stock
+- Category: מוצרי טיפוח
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449961983-aki1z.webp
 
 ---
 
