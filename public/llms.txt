@@ -75,10 +75,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 235** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### טריפל קראון לכלב בוגר עוף
-https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-avp-avwnop
+https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-avp-gg5xf0
 - Price: 269.00 ILS
 - Availability: In stock
 - Description: מזון לכלבים בוגרים. מיועד לכלבים בוגרים עם רמת פעילות ממוצעת ומשקל תקין.‏ ‏ הנוסחה המאוזנת שלו מספקת תזונה מלאה התורמת למצב גוף בריא, מה שהופך את טריפל קראון למוצר מתאים כדי לענות על כל הצרכים התזונתיים היומיים של הכלב הבוגר שלכם
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1784483517296-jasbplf.webp
 
 ### סמוקיס עוגיות טבעיות לכלבים בטעם פיצה ובזיליקום
 https://gurimbakfar.co.il/product/smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylykvm-7tj771
