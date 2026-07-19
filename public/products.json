@@ -1,10 +1,38 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T19:32:26.742Z",
+  "generated_at": "2026-07-19T19:44:49.234Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 237,
+  "count": 238,
   "products": [
+    {
+      "id": "cc4787d4-1ce1-4ffd-9947-a690c102449d",
+      "slug": "sms-pyldsams-field-avvz-hvdv-13-kg-0hwk77",
+      "name": "סמס פילד/Sam's Field אווז הודו 13 ק\"ג",
+      "name_translations": {
+        "en": "Sam's Field Goose & Turkey 13 kg",
+        "he": "סמס פילד/Sam's Field אווז הודו 13 ק\"ג",
+        "ru": "Сэмс Филд/Sam's Field Гусь Индейка 13 кг"
+      },
+      "description": "<p>רכיבים: אווז מיובש 26%, הודו מיובש 15%, תפו”א 12%, אורז, שומן כבד(משומר עם Techopherols, מקור של ויטמין E) , הודו טרי ללא עצמות 10%, אפונה ירוקה 2.5%, תפוחים מיובשים 2%, שמן סלמון 2%, כבד עוף, שמרי בירה, פטרוזיליה מיובשת 0.8%, גזר 1%, אגסים מיובשים 0.5%, ענבי שועל מיובשים 0.2%, גלוקוזמין 350 מג”/ק”ג, chondroitine sulphate 220 מ”ג/ק”ג, תמצית של יוקה שידיגרה 100 מ”ג/ק”ג, קמומיל 80 מ”ג/ק”ג</p><p>ערכים תזונתיים:</p><p>חלבון גולמי 25%, שומן גולמי 15%, סיבים תזונתיים גולמיים2.8%, עפר 6.5%, לחות 10%, סידן 1.3%, זרחן 1%, ליסין 1%, מתיונין 0.3%, טראונין 0.8%, טריפטופן 0.3%, ארגינין 1.2%</p><p><br></p>",
+      "short_description": "מזון Sam's Field אווז והודו 13 ק\"ג הוא מזון סופר-פרימיום לכלבים בוגרים מגזע גדול. הפורמולה מכילה 70% בשר (אווז והודו), פירות, וירקות. היא אינה מכילה גלוטן ומועשרת בפרוביוטיקה, גלוקוזאמין וכונדרויטין לשמירה על המפרקים. ",
+      "sku": null,
+      "brand": "סמס פילד",
+      "price": 299,
+      "base_price": 299,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1784490162954-5m5xl2.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/sms-pyldsams-field-avvz-hvdv-13-kg-0hwk77",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-19T19:44:17.499Z"
+    },
     {
       "id": "06a8a4d7-6c8f-403c-8f78-183989a091ec",
       "slug": "bvsh-myny-gvnyvr-avp-08ib5l",
