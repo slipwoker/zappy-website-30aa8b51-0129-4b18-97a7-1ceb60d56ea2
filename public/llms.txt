@@ -72,7 +72,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 236** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 235** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### סמוקיס עוגיות טבעיות לכלבים בטעם פיצה ובזיליקום
 https://gurimbakfar.co.il/product/smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylykvm-7tj771
@@ -314,13 +314,6 @@ https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-gvrmh-kbsh-d4g2t0
 - Category: מזון יבש
 - Description: מזון מצוין עבור: כלבים בוגרים מכל הגזעים עם רמת פעילות בינונית ומשקל תקין, לטיפוח מיוחד של העור והשיער.‏ ‏הנוסחה המאוזנת שלו מספקת תזונה מלאה התורמת למצב גוף בריא, מה שהופך את טריפל קראון למוצר מתאים כדי לענות על כל הצרכים התזונתיים היומיים של הכלב הבוגר שלכם. כבש מציע חומרים מזינים קלים מאוד לעיכול אפילו לכלבים הרגישים ביותר.‏ ‏ עם כבש ואורז.‏ ‏ חומצות שומן חיוניות.‏ ‏ עם מרכיבים עשירים נוגדי חמצון טבעיים.‏
 - Image: https://gurimbakfar.co.il/assets/product-1783413282939-drcrxq.webp
-
-### טריפל קראון לכלב בוגר גזע גדול עוף 14 ק"ג
-https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-gza-gdvl-avp-14-kg-ssbbmv
-- Price: 269.00 ILS
-- Availability: In stock
-- Category: מזון יבש
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1783492403453-bsvdg8.webp
 
 ### טריפל קראון לכלב פעיל 14 ק"ג
 https://gurimbakfar.co.il/product/trypl-kravn-lklb-payl-14-kg-wdpdji
@@ -1545,6 +1538,13 @@ https://gurimbakfar.co.il/product/chgvrt-btychvt-lklb-record-wx66xy
 - Availability: In stock
 - Category: אביזרים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449877512-tzjlul.webp
+
+### שמן בישום לבעלי חיים petglow
+https://gurimbakfar.co.il/product/shmn-byshvm-lbaly-chyym-petglow-3jcamm
+- Price: 35.00 ILS
+- Availability: In stock
+- Category: מוצרי טיפוח
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449919551-l46kzt.webp
 
 ---
 
