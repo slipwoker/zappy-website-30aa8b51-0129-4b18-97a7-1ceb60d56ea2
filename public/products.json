@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T19:27:35.998Z",
+  "generated_at": "2026-07-19T19:31:08.168Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 237,
@@ -1587,14 +1587,14 @@
     },
     {
       "id": "d8ff859b-8608-4f7e-9c4e-1586b22e04c2",
-      "slug": "sms-pyldsams-field-snyvr-lyyt-13-kg-19wjj8",
+      "slug": "sms-pyldsams-field-snyvr-lyyt-13-kg-ruyavy",
       "name": "סמס פילד/Sam's Field סניור לייט 13 ק\"ג",
       "name_translations": {
         "en": "Sam's Field Senior Light 13 kg",
         "he": "סמס פילד/Sam's Field סניור לייט 13 ק\"ג",
         "ru": "Sam's Field Сениор Лайт 13 кг"
       },
-      "description": "",
+      "description": "<p>רכיבים: כבש, אורז, תפוח אדמה, תירס, שומן עוף, שמן דג סלמון, חומרי טעם, תפוח עץ מיובש, שמרים יבשים, עגבניות, תמצית יוקה, גזר, מינרלים, מטיונין, ליזין, מנן אוליגו סכריד, פרוקטואוליגוסכרידים, חיידקים פרוביוטיים.</p><p>ערכים תזונתיים: חלבון:24%, שומן:9%, סיבים תזונתיים:3.5%, סידן: 1.5%</p>",
       "short_description": "מזון סופר פרמיום לכלבים בוגרים ומבוגרים מבית Sam’s Field, היפו אלרגני מופחת דגנים. מתאים לכלבים מבוגרים (סניור) או לכלבים שצריכים לרדת במשקל – מופחת קלוריות ומכיל סיבים העוזרים לתחושת שובע. על בסיס בשר כבש כמקור חלבון איכותי.",
       "sku": null,
       "brand": "סמס פילד",
@@ -1607,11 +1607,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/sms-pyldsams-field-snyvr-lyyt-13-kg-19wjj8",
+      "url": "https://gurimbakfar.co.il/product/sms-pyldsams-field-snyvr-lyyt-13-kg-ruyavy",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-07-19T19:30:36.428Z"
     },
     {
       "id": "5743891b-d44b-43b9-9c46-6f5c9da99e57",
@@ -2068,7 +2068,7 @@
     },
     {
       "id": "9e7fc6a5-3f27-4d81-86b9-2976fe4fdae5",
-      "slug": "sms-pyldsams-field-slvmvn-vtpvch-admh-13-kg-sakpwn",
+      "slug": "sms-pyldsams-field-slvmvn-vtpvch-admh-13-kg-46ay3u",
       "name": "סמס פילד/Sam's Field סלומון ותפוח אדמה 13 ק\"ג",
       "name_translations": {
         "en": "Sam's Field Salmon and Potato 13 kg",
@@ -2078,7 +2078,7 @@
       "description": "<p><strong>רכיבים:</strong></p><p>סלמון, תפו\"\"א, תירס, שומן עוף(משומר עם Technopherols, מקור של ויטמין E), שמן סלמון, טעמים טבעיים, תפוחים מיובשים, שמרי בירה, עגבניות, תמצית יוקה שיגידורה, גזרים, מינרלים, DL- מתיונין, L-לייסין, mannan-oligosaccharides, fructo-oligosaccharides, חיידקים פרוביוטים.</p><p><strong>ערכים תזונתיים:</strong></p><p>חלבון גולמי 25%, שומן גולמי14%, סיבים תזונתיים גולמיים 2%, עפר 5.5%, לחות 10%, סידן 1.1%, זרחן 0.9%.</p>",
       "short_description": "Sem’s Field Adult Salmon And Potato, סמס פילד מופחת דגנים סלמון ותפוחי אדמה מתאים לכלבים בוגרים מכל הגזעים ובכל הגדלים, מזון יבש סמס פילד מופחת דגנים מכיל 65% סלמון, פירות וירקות, בעל רמת נעכלות גבוהה, עשיר בפירות וירקות המשפרים את המערכת החיסונית, עשיר בחלבונים כמו סלמון המונעים אלרגיות , עשיר באומגה 3 ואומגה 6 המעניקים ברק לפרווה ושומרים על העור.",
       "sku": null,
-      "brand": null,
+      "brand": "סמס פילד",
       "price": 299,
       "base_price": 299,
       "sale_price": null,
@@ -2088,11 +2088,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/sms-pyldsams-field-slvmvn-vtpvch-admh-13-kg-sakpwn",
+      "url": "https://gurimbakfar.co.il/product/sms-pyldsams-field-slvmvn-vtpvch-admh-13-kg-46ay3u",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-07-19T19:30:56.052Z"
     },
     {
       "id": "37f4894e-8004-4732-bfed-5e2ea17c0a65",
