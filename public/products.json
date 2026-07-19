@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T19:10:10.151Z",
+  "generated_at": "2026-07-19T19:10:36.306Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 237,
@@ -1036,12 +1036,12 @@
     },
     {
       "id": "0014ab6c-0f3e-41c4-874a-14b111e130cc",
-      "slug": "trypl-kravn-slmvn-hypvalrgny-7ucx1w",
-      "name": "טריפל קראון סלמון היפואלרגני",
+      "slug": "trypl-kravn-slmvn-hypvalrgny-14-kg-tkhlkd",
+      "name": "טריפל קראון סלמון היפואלרגני 14 ק\"ג",
       "name_translations": {
-        "en": "Triple Crown Salmon Hypoallergenic",
-        "he": "טריפל קראון סלמון היפואלרגני",
-        "ru": "Triple Crown Лосось Гипоаллергенный"
+        "en": "Triple Crown Salmon Hypoallergenic 14 kg",
+        "he": "טריפל קראון סלמון היפואלרגני 14 ק\"ג",
+        "ru": "Triple Crown Лосось Гипоаллергенный 14 кг"
       },
       "description": "<p>מרכיבים</p><p>סלמון (סלמון מיובש, 10% סלמון טרי, סלמון הידרוליזט). תירס. אורז 15%. גלוטן תירס. שמן ציפורים. תפוח אדמה 7%. אורז סובין.מוצרים מן הצומח. סלק. שמרים. חומרים מינרלים. עוֹלֶשׁ. שמרים (מקור MOS). גלוקוזאמין. יוקה שידיגרה. כונדרויטין</p><p>ערכים תזונתיים:</p><p>‏חלבון גולמי‏ 28%</p><p>‏שמנים ושומנים גולמיים‏ 17%</p><p>‏סיבים גולמיים‏ 3,5%</p><p>‏אפר גולמי‏ 7%</p><p>‏סידן‏ 1.4%</p><p>‏זרחן‏ 0,9%</p>",
       "short_description": "מזון טריפל קראון סנסטיב סלמון (Triple Crown Sensitive) הוא מזון יבש היפואלרגני לכלבים, המבוסס על סלמון ואורז. הפורמולה מתאימה לכלבים בעלי עור רגיש או עיכול עדין.",
@@ -1056,11 +1056,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/trypl-kravn-slmvn-hypvalrgny-7ucx1w",
+      "url": "https://gurimbakfar.co.il/product/trypl-kravn-slmvn-hypvalrgny-14-kg-tkhlkd",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T19:08:51.974Z"
+      "updated_at": "2026-07-19T19:10:35.245Z"
     },
     {
       "id": "db0ab119-0554-4225-8baa-9e2c4dd60ae5",
