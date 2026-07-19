@@ -75,7 +75,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 236** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### בוש ג'וניור כבש ואורז לגורי כלבים מגזע בינוני
-https://gurimbakfar.co.il/product/bvsh-gvnyvr-kbsh-vavrz-lgvry-klbym-mgza-bynvny-kdbj0w
+https://gurimbakfar.co.il/product/bvsh-gvnyvr-kbsh-vavrz-lgvry-klbym-mgza-bynvny-w57iuh
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מזון יבש

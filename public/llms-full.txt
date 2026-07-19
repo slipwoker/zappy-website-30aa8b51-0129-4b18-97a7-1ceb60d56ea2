@@ -7045,7 +7045,7 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### בוש ג'וניור כבש ואורז לגורי כלבים מגזע בינוני
-URL: https://gurimbakfar.co.il/product/bvsh-gvnyvr-kbsh-vavrz-lgvry-klbym-mgza-bynvny-kdbj0w
+URL: https://gurimbakfar.co.il/product/bvsh-gvnyvr-kbsh-vavrz-lgvry-klbym-mgza-bynvny-w57iuh
 Price: 0.00 ILS
 Availability: In stock
 
