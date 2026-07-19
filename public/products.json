@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T19:47:13.572Z",
+  "generated_at": "2026-07-19T19:50:55.589Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 238,
@@ -1643,7 +1643,7 @@
     },
     {
       "id": "5743891b-d44b-43b9-9c46-6f5c9da99e57",
-      "slug": "adykshn-kbsh-klb-bvgr-15-kg-j2gjwb",
+      "slug": "adykshn-kbsh-klb-bvgr-15-kg-12ty96",
       "name": "אדיקשן כבש כלב בוגר 15 ק\"ג",
       "name_translations": {
         "en": "Addiction Lamb Adult Dog 15 kg",
@@ -1663,11 +1663,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/adykshn-kbsh-klb-bvgr-15-kg-j2gjwb",
+      "url": "https://gurimbakfar.co.il/product/adykshn-kbsh-klb-bvgr-15-kg-12ty96",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-07-19T19:49:53.054Z"
     },
     {
       "id": "b1437e92-9c4e-4a33-a559-f9433ac25293",
@@ -1699,7 +1699,7 @@
     },
     {
       "id": "b67325a3-e302-4739-926f-adcbc4bda696",
-      "slug": "adykshn-gvr-15-kg-l3ysjz",
+      "slug": "adykshn-gvr-15-kg-4qoez6",
       "name": "אדיקשן גור 15 ק\"ג",
       "name_translations": {
         "en": "Addiction Puppy 15 kg",
@@ -1719,15 +1719,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/adykshn-gvr-15-kg-l3ysjz",
+      "url": "https://gurimbakfar.co.il/product/adykshn-gvr-15-kg-4qoez6",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-07-19T19:50:34.950Z"
     },
     {
       "id": "3ac6b6c3-c1b1-4a95-8fea-c1acf3cecc98",
-      "slug": "adykshn-slmvn-klb-bvgr-15-kg-8r43ic",
+      "slug": "adykshn-slmvn-klb-bvgr-15-kg-3c8axk",
       "name": "אדיקשן סלמון כלב בוגר 15 ק\"ג",
       "name_translations": {
         "en": "Addiction Salmon Adult Dog 15 kg",
@@ -1737,7 +1737,7 @@
       "description": "<p><strong>רכיבים:</strong></p><p>חלבונים סלמון מיובש, תפוחי אדמה, תירס, אורז, שמנים ושומנים, סלמון hydrolysed, עיסת סלק, ויטמינים y מינרלים. עם חומרים נוגדי חמצון וחומרים מאושרים על ידי האיחוד האירופי.</p><p><br></p><p><strong>אנליזה:</strong></p><p>חלבון ברוטו: 28%, חומר גרוס ברוטו: 18%, אפר ברוטו: 7%, תאית ברוטו: 3,5%, לחות: 8%, סידן: 1,35%, זרחן: 0,9%, ויטמין A: 18000Ul / ק”ג, ויטמין D3: 1800 אול / ק”ג, ויטמין D (אלפא טוקופרול אצטט): 200 מ”ג לק”ג, נחושת (פחמימת נחושת): 10 מ”ג לק”ג. עם חומרים נוגדי חמצון וחומרים מאושרים על ידי האיחוד האירופי.</p>",
       "short_description": "המתכון המדהים והמעורר ביותר של המזון הופך אותו לתזונה מושלמת לכלבים בוגרים עם פעילות נורמלית או ממוצעת. מזון זה מספק תזונה אופטימלית דרך כל חייהם של כלבי הבית, כלבי התערוכה וכלבים עובדים. מוצר זה מיוצר תוך שימוש בחומרי גלם שנבחרו בקפידה תוך הקפדה רבה על הכנתו ואריזתו.",
       "sku": null,
-      "brand": null,
+      "brand": "אדיקשן",
       "price": 309,
       "base_price": 309,
       "sale_price": null,
@@ -1747,11 +1747,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/adykshn-slmvn-klb-bvgr-15-kg-8r43ic",
+      "url": "https://gurimbakfar.co.il/product/adykshn-slmvn-klb-bvgr-15-kg-3c8axk",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-07-19T19:50:52.591Z"
     },
     {
       "id": "b60afca5-e9d5-4272-bbce-94193281d0f9",
