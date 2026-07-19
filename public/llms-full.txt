@@ -7045,7 +7045,7 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### טריפל קראון לכלב בוגר עוף
-URL: https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-avp-gg5xf0
+URL: https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-avp-mt9nhy
 Price: 269.00 ILS
 Availability: In stock
 
@@ -7365,9 +7365,11 @@ Availability: In stock
 ---
 
 ### טריפל קראון לכלב בוגר עוף 14 ק"ג
-URL: https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-avp-14-kg-i2245w
+URL: https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-avp-14-kg-8rtxpt
 Price: 269.00 ILS
 Availability: In stock
+
+מרכיבים ‏בשר ומוצרים מן החי (עוף טרי 10% וכבד עופות שעבר הידרוליזה 2%), דגנים (תירס 10% ואורז 10%), שמנים ושומנים (שומן עופות), מוצרים מהצומח (עיסת סלק 2% ו עולש 0.5%), דגים, שמרים (מקור של MOS 0.1%), ביצים, חומרים מינרלים, יוקה schidigera, גלוקוזאמין וכונדרואיטין. ‏ערכים תזונתיים: ‏חלבון גולמי 24% – שמנים גולמיים ושומנים 14% – סיבים גולמיים 3% – אפר גולמי 8.5% – סידן 1.7% – התאמה של 1.2%
 
 ---
 
