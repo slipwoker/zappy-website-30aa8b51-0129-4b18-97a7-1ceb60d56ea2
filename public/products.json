@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T13:29:20.602Z",
+  "generated_at": "2026-07-19T13:29:31.153Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 236,
@@ -124,9 +124,9 @@
       "slug": "chtyp-nvblvs-dntly-mbrshvt-80-gr-4qadwf",
       "name": "חטיף נובלוס דנטלי מברשות 80 גר'",
       "name_translations": {
-        "en": "Nobilus Dental Toothbrush Snack 80g",
+        "en": "Nobilus Dental Toothbrush Chew Treat 80g",
         "he": "חטיף נובלוס דנטלי מברשות 80 גר'",
-        "ru": "Лакомство Nobilus Dental в форме зубной щётки 80 г"
+        "ru": "Лакомство Nobulus Dental в форме зубной щётки 80 г"
       },
       "description": "<p>רכיבים: עמילן תירס, גליצרין צמחי, גלוטן, דגים, עוף, שמן סויה, מתחלב, סידן סטראט, נתרן נחושת כלורופילין.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 6%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5%</li><li>לחות: מקסימום 18%</li></ul>",
       "short_description": "חטיף נובילוס (Nobilus) דנטלי בצורת מברשת שיניים (80 גרם) הוא חטיף לעיסה פונקציונלי לכלבים, המיועד לשמירה על היגיינת הפה. החטיף מגיע במארז עם סגירה חוזרת לשמירה על הטריות.",
@@ -145,11 +145,11 @@
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-19T13:29:11.810Z"
+      "updated_at": "2026-07-19T13:29:22.463Z"
     },
     {
       "id": "3c8339f6-921b-4917-a70a-005adaa88c47",
-      "slug": "chtyp-nvblvs-atypvt-shl-arnb-bmkl-kltsyvm-80-gr-fvobx8",
+      "slug": "chtyp-nvblvs-atypvt-shl-arnb-bmkl-kltsyvm-80-gr-57sm0v",
       "name": "חטיף נובלוס עטיפות של ארנב במקל קלציום 80 גר'",
       "name_translations": {
         "en": "Nobilus Snack Rabbit Wraps on Calcium Stick 80g",
@@ -169,15 +169,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-atypvt-shl-arnb-bmkl-kltsyvm-80-gr-fvobx8",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-atypvt-shl-arnb-bmkl-kltsyvm-80-gr-57sm0v",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-13T14:40:30.391Z"
+      "updated_at": "2026-07-19T13:29:20.801Z"
     },
     {
       "id": "e26108a4-99f5-4767-be47-b405fcff9e47",
-      "slug": "chtyp-nvblvs-svshy-arnb-80-gr-l7homo",
+      "slug": "chtyp-nvblvs-svshy-arnb-80-gr-6hq0ox",
       "name": "חטיף נובלוס סושי ארנב 80 גר'",
       "name_translations": {
         "en": "Nobilus Sushi Rabbit Snack 80g",
@@ -197,11 +197,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-arnb-80-gr-l7homo",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-arnb-80-gr-6hq0ox",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-13T14:40:45.371Z"
+      "updated_at": "2026-07-19T13:29:30.358Z"
     },
     {
       "id": "38a00fb1-8b74-47cd-8161-31f59a0fe750",
