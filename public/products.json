@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T19:19:11.096Z",
+  "generated_at": "2026-07-19T19:22:28.364Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 237,
@@ -1531,17 +1531,17 @@
     },
     {
       "id": "81eacf25-c1ea-4e80-a91c-db05e766dcf1",
-      "slug": "sms-pyldsams-field-bvgrym-gza-ktn-avp-8-kg-wuntm2",
+      "slug": "sms-pyldsams-field-bvgrym-gza-ktn-avp-8-kg-owzfyp",
       "name": "סמס פילד/Sam's Field בוגרים גזע קטן עוף 8 ק\"ג",
       "name_translations": {
         "en": "Sam's Field Adult Small Breed Chicken 8 kg",
         "he": "סמס פילד/Sam's Field בוגרים גזע קטן עוף 8 ק\"ג",
-        "ru": "סמס פילד/Sam's Field для взрослых собак малых пород с курицей 8 кг"
+        "ru": "סמס פילד/Sam's Field для взрослых малых пород курица 8 кг"
       },
       "description": "<p><strong>מזון לכלבים סם פילד/Sam's Field בוגרים גזע קטן:</strong></p><p><br></p><p>עוף, כבד עוף, תפוח אדמה, תירס, שומן עוף, שמן דג סלמון, חומרי טעם, תפוח עץ מיובש, שמרים יבשים, עגבניות, תמצית יוקה, גזר, מינרלים, מטיונין, ליזין, מנן אוליגו סכריד, פרוקטואוליגוסכרידים, חיידקים פרוביוטיים.</p><p><br></p><p><strong>תכולה תזונתית-סם פילד/Sam's Field בוגרים על בסיס עוף טרי ותפוח אדמה :</strong></p><p><br></p><p>חלבון : 28%, שומן: 17.0%, סיבים: 2.5%, אפר: % 6.6&nbsp;, לחות: 10.0%, סידן: 1.5%, זרחן: 1.0%</p>",
       "short_description": "מזון לכלבים בוגרים על בסיס עוף טרי ותפוח אדמה.\nסמס פילד/Sam's Field מזון מופחת דגנים עם 65% בשר טרי פירות וירקות.\nמזון לכלבים בוגרים גזע קטן במשקל עד 10 ק\"ג על בסיס עוף טרי ותפוח אדמה.",
       "sku": null,
-      "brand": "סם פילד",
+      "brand": "סמס פילד",
       "price": 200,
       "base_price": 200,
       "sale_price": null,
@@ -1551,11 +1551,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/sms-pyldsams-field-bvgrym-gza-ktn-avp-8-kg-wuntm2",
+      "url": "https://gurimbakfar.co.il/product/sms-pyldsams-field-bvgrym-gza-ktn-avp-8-kg-owzfyp",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-07-19T19:21:56.871Z"
     },
     {
       "id": "a76d93a7-c6ec-4300-b696-882045f354bf",
