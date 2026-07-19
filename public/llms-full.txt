@@ -6634,8 +6634,8 @@ gurimbakfar@gmail.com
 
 
 
-קראתי ואני מסכים/ה ל   תנאי השימוש  |
-מדיניות החזרות     ול     מדיניות הפרטיות
+קראתי ואני מסכים/ה ל  תנאי השימוש  |
+מדיניות החזרות    ול    מדיניות הפרטיות
 
 
 
@@ -7045,7 +7045,7 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### בוש מיני ג'וניור עוף
-URL: https://gurimbakfar.co.il/product/bvsh-myny-gvnyvr-avp-n3bjdv
+URL: https://gurimbakfar.co.il/product/bvsh-myny-gvnyvr-avp-yb892c
 Price: 0.00 ILS
 Availability: In stock
 

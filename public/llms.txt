@@ -75,9 +75,10 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 237** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### בוש מיני ג'וניור עוף
-https://gurimbakfar.co.il/product/bvsh-myny-gvnyvr-avp-n3bjdv
+https://gurimbakfar.co.il/product/bvsh-myny-gvnyvr-avp-yb892c
 - Price: 0.00 ILS
 - Availability: In stock
+- Category: מזון יבש
 - Description: מזון בוש מיני ג'וניור עוף (Bosch Mini Junior) הוא אוכל יבש פרימיום לגורי כלבים מגזע קטן המיועד מגיל גמילה ועד גיל שנה (משקל בוגר עד 15 ק"ג). הוא מתבסס על עוף טרי ומכיל גלוקוזאמין לשמירה על המפרקים.
 
 ### בוש ג'וניור כבש ואורז לגורי כלבים מגזע בינוני
