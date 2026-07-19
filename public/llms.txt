@@ -90,10 +90,12 @@ https://gurimbakfar.co.il/product/bvsh-gvnyvr-kbsh-vavrz-lgvry-klbym-mgza-bynvny
 - Brand: bosch
 - Description: מזון גורים בוש ג'וניור כבש ואורז (Bosch Junior Lamb & Rice) הוא מזון יבש ברמת סופר פרימיום, המיועד במיוחד לגורי כלבים בתהליך גדילה (בפרט מגזעים בינוניים וגדולים), ומותאם במיוחד לגורים בעלי קיבה רגישה או נטייה לאלרגיות.
 
-### טריפל קראון לכלב בוגר עוף
-https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-avp-mt9nhy
+### טריפל קראון לכלב בוגר עוף 14 ק"ג
+https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-avp-14-kg-79mg0c
 - Price: 269.00 ILS
 - Availability: In stock
+- Category: מזון יבש
+- Brand: טריפל קראון
 - Description: מזון לכלבים בוגרים. מיועד לכלבים בוגרים עם רמת פעילות ממוצעת ומשקל תקין.‏ ‏ הנוסחה המאוזנת שלו מספקת תזונה מלאה התורמת למצב גוף בריא, מה שהופך את טריפל קראון למוצר מתאים כדי לענות על כל הצרכים התזונתיים היומיים של הכלב הבוגר שלכם
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1784483517296-jasbplf.webp
 
