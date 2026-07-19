@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T19:54:56.301Z",
+  "generated_at": "2026-07-19T19:57:08.124Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 238,
@@ -1531,7 +1531,7 @@
     },
     {
       "id": "24b55072-456f-4aa6-9cfc-e6cd5c500ec0",
-      "slug": "mzvn-klbym-bitesy-bvgr-brvvz-avrz-vbtth-12-kg-zatepw",
+      "slug": "mzvn-klbym-bitesy-bvgr-brvvz-avrz-vbtth-12-kg-fkm6qu",
       "name": "מזון כלבים Bitesy בוגר ברווז אורז ובטטה 12 ק\"ג",
       "name_translations": {
         "en": "Bitesy Adult Dog Food Duck, Rice & Sweet Potato 12 kg",
@@ -1541,7 +1541,7 @@
       "description": "<p><strong>רכיבים :</strong></p><p>ברווז מיובש (32%), אורז (18%), בטטה מיובשת (16%), שומן הודו (12%), אפונה מיובשת, עיסת סלק מיובשת (5%), חלבון אפונה, רוטב ירקות (2%), שמן סלמון (1%), שמרים (1%) מינרלים, פרה-ביוטיקה משורש עולש (0.034%), פרה-ביוטיקה (MOS) (0.025%), גלוקוזמין (0.012%), MSM (תוסף תזונה) (0.011%), כונדרויטין (0.01%), שורש מניהוט (יוקה), חמוציות (0.005%), אצות, כורכום, עגבניה, פטרוזיליה.</p><p><br></p><p><strong>ערכים תזונתיים :</strong></p><p>חלבון גולמי: 29%, סיבים תזונתיים גולמיים: 2.5%, שומן גולמי: 18%, אפר גולמי: 8.5%, סידן: 1.7%, זרחן: 1.2%, אומגה 3: 0.3%, אומגה 6: 2.7%, לחות: 7.5%, חלבון ממרכיבים מן החי: 76%, סה\"כ מרכיבים מן החי: 45%, קק\"ל/100 גרם: 394.</p>",
       "short_description": "מזון כלבים Bitesy Platinum היפואלרגני על בסיס ברווז, אורז, בטטה וחמוציות לכלבים בוגרים\n\nמכיל בשר ברווז כחלבון יחיד (32%) אורז ובטטה – פחמימות איכותיות קלות לעיכול\nחמוציות ופטרוזליה לתזונה עשירה בחומרים מזינים. עם שמן סלמון – מסייע לעור בריא ופרווה מבריקה\nכולל ויטמינים, מינרלים ונוגדי חמצון חיוניים לחיוניות. גלוקוזמין – מסייע בהתפתחות בריאה של המפרקים\nתוצרת איטליה.",
       "sku": null,
-      "brand": "bitesy",
+      "brand": "Bitesy",
       "price": 309,
       "base_price": 309,
       "sale_price": null,
@@ -1551,11 +1551,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-bitesy-bvgr-brvvz-avrz-vbtth-12-kg-zatepw",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-bitesy-bvgr-brvvz-avrz-vbtth-12-kg-fkm6qu",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-07-19T19:55:19.173Z"
     },
     {
       "id": "81eacf25-c1ea-4e80-a91c-db05e766dcf1",
