@@ -72,7 +72,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 234** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 235** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### טריפל קראון לכלב בוגר עוף
+https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-avp-0liib4
+- Price: 269.00 ILS
+- Availability: In stock
+- Description: מזון לכלבים בוגרים. מיועד לכלבים בוגרים עם רמת פעילות ממוצעת ומשקל תקין.‏ ‏ הנוסחה המאוזנת שלו מספקת תזונה מלאה התורמת למצב גוף בריא, מה שהופך את טריפל קראון למוצר מתאים כדי לענות על כל הצרכים התזונתיים היומיים של הכלב הבוגר שלכם
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1784482799046-8n1yc.webp
 
 ### סמוקיס עוגיות טבעיות לכלבים בטעם פיצה ובזיליקום
 https://gurimbakfar.co.il/product/smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylykvm-7tj771
@@ -1537,13 +1544,6 @@ https://gurimbakfar.co.il/product/shmn-byshvm-lbaly-chyym-petglow-3jcamm
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449919551-l46kzt.webp
-
-### שמן בישום לבעלי חיים PURE
-https://gurimbakfar.co.il/product/shmn-byshvm-lbaly-chyym-pure-dkdfjf
-- Price: 35.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449961983-aki1z.webp
 
 ---
 
