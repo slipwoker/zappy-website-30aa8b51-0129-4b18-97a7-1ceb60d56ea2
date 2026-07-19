@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T20:26:23.050Z",
+  "generated_at": "2026-07-19T20:27:35.206Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 238,
@@ -4086,17 +4086,17 @@
     },
     {
       "id": "704cd86f-cdff-43f8-bbf4-e9b978611ac8",
-      "slug": "nature-wild-nyytsr-gvr-btam-brvvz-vhvdv-12-kg-a5jtvl",
+      "slug": "nature-wild-nyytsr-gvr-btam-brvvz-vhvdv-12-kg-zuvezx",
       "name": "NATURE WILD נייצר גור בטעם ברווז והודו 12 ק”ג",
       "name_translations": {
         "en": "NATURE WILD Puppy Duck & Turkey Flavor 12 kg",
         "he": "NATURE WILD נייצר גור בטעם ברווז והודו 12 ק”ג",
-        "ru": "NATURE WILD Нейчер для щенков со вкусом утки и индейки 12 кг"
+        "ru": "NATURE WILD נייצר корм для щенков со вкусом утки и индейки 12 кг"
       },
       "description": "<p><br></p>",
       "short_description": "פורמולה הוליסטית ללא דגנים לגורי כלבים, בשר הודו, עוף, וברווז, הוא מתכון מובחר המספק מזון שלם ומאוזן העשוי מרכיבים טבעיים וטריים באיכות הגבוהה ביותר.\n\n25% בשר הודו טרי | 14% בשר עוף מיובש | 5% בשר ברווז מיובש | 0% דגנים\n\nחלבונים באיכות גבוהה מקדמים יצירה ותחזוקה של מסת שריר, המספקים שומנים כמקור לאנרגיה.\nבשר טעים מאוד עם פרוטאינים בעל ערך ביולוגי גבוה העוזר לשמור על משקל בריא.\nחלבון בעל רמת נעכלות גבוהה, מספק חומצות אמינו נחוצות.\nחלבון תזונתי ברמה גבוהה.",
       "sku": null,
-      "brand": "NATURE ",
+      "brand": "nature",
       "price": 349,
       "base_price": 349,
       "sale_price": null,
@@ -4106,9 +4106,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/nature-wild-nyytsr-gvr-btam-brvvz-vhvdv-12-kg-a5jtvl",
-      "categories": [],
-      "updated_at": "2026-07-19T20:20:57.293Z"
+      "url": "https://gurimbakfar.co.il/product/nature-wild-nyytsr-gvr-btam-brvvz-vhvdv-12-kg-zuvezx",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-19T20:26:46.965Z"
     },
     {
       "id": "327168a0-2b6b-46d9-98e6-93c186ebc23d",
@@ -4140,7 +4142,7 @@
     },
     {
       "id": "63fd653c-3c98-4c5c-840e-554f417d478e",
-      "slug": "nature-wild-nyytsr-bvgr-btam-brvvz-vdg-12-kg-n53lso",
+      "slug": "nature-wild-nyytsr-bvgr-btam-brvvz-vdg-12-kg-egmty6",
       "name": "NATURE WILD נייצר בוגר בטעם ברווז ודג 12 ק”ג",
       "name_translations": {
         "en": "NATURE WILD Adult Duck & Fish Flavor 12 kg",
@@ -4150,7 +4152,7 @@
       "description": "<p><strong>מרכיבים:</strong> בשר ברווז מיובש (24%), דגים לבנים טריים (20%), עמילן אפונה, שומן עוף (10%), תפוחי אדמה, אפונה, שעועית רחבה, פשתן (2,5%), שמרים, חלבוני כבד הידרוליזה (2%) , עיסת סלק מיובש, מינרלים, קמח אצות (0,24%), תוצרת שמרים (MOS 0,16%), יוקה סקיגדרה (0,026%), אבקת שורש שן הארי (Taraxacum officinale W.) (0,02%), מיובשת קליפת רימון (Punica granatum) (0,02%), גזע אננס מיובש (Ananas sativus L.) (0,02%).</p><p><br></p><p><strong>רכיבים תזונתיים:</strong> לחות: 8,00%; חלבון גולמי: 31,00%; סיבים גולמיים: 2,70%; שומן גולמי: 17,50%; אפר גולמי: 8,90%.</p><p><br></p><p><strong>תוספים תזונתיים:</strong> ויטמין A-18500Ul/kg; ויטמין D3-1250Ul/kg; ויטמין E (a.r.alpha toc.Acet) -155mg/kg; קופר (קופר II גופרית. פנטהי)-14,5 מ”ג/ק”ג; ברזל (ברזל II פחמתי) -29 מ”ג/ק”ג; מנגן (תחמוצת מנגן II) -28mg/kg; אבץ (אבץ סולפט מונוהידראט) -65 מ”ג/ק”ג; יוד (אשלגן יודיד) -3,14 מ”ג/ק”ג; סלניום (נתרן סלניט) -0,15mg/kg.</p><p><br></p><p><strong>אנרגיה הניתנת למטבוליזם</strong> 3. 890 קק”ל/ק”ג.</p>",
       "short_description": "חלבונים באיכות גבוהה מקדמים יצירה ותחזוקה של מסת שריר, המספקים שומנים כמקור לאנרגיה.\nחלבון תזונתי ברמה גבוהה, עוזר להקל על עצבי מערכת העיכול וגירוי בעור.\nחומצות שומניות אומגה -3 ואומגה 6 תורמות לרווחת העור והפרווה וגורם לפרווה מבריקה יותר.\nמזון הוליסטי. נקי מתוספים סינתטיים. שמורה באופן טבעי.",
       "sku": null,
-      "brand": "NATURE",
+      "brand": "nature",
       "price": 339,
       "base_price": 339,
       "sale_price": null,
@@ -4160,11 +4162,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/nature-wild-nyytsr-bvgr-btam-brvvz-vdg-12-kg-n53lso",
+      "url": "https://gurimbakfar.co.il/product/nature-wild-nyytsr-bvgr-btam-brvvz-vdg-12-kg-egmty6",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T20:13:16.714Z"
+      "updated_at": "2026-07-19T20:27:03.476Z"
     },
     {
       "id": "00dffc6f-01bc-4e51-b369-4cd5461a4f1a",
