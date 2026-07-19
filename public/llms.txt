@@ -72,7 +72,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 235** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 236** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### בוש ג'וניור כבש ואורז לגורי כלבים מגזע בינוני
+https://gurimbakfar.co.il/product/bvsh-gvnyvr-kbsh-vavrz-lgvry-klbym-mgza-bynvny-kdbj0w
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: מזון יבש
+- Description: מזון גורים בוש ג'וניור כבש ואורז (Bosch Junior Lamb & Rice) הוא מזון יבש ברמת סופר פרימיום, המיועד במיוחד לגורי כלבים בתהליך גדילה (בפרט מגזעים בינוניים וגדולים), ומותאם במיוחד לגורים בעלי קיבה רגישה או נטייה לאלרגיות.
 
 ### טריפל קראון לכלב בוגר עוף
 https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-avp-mt9nhy
@@ -1538,13 +1545,6 @@ https://gurimbakfar.co.il/product/chgvrt-btychvt-lklb-record-wx66xy
 - Availability: In stock
 - Category: אביזרים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449877512-tzjlul.webp
-
-### שמן בישום לבעלי חיים petglow
-https://gurimbakfar.co.il/product/shmn-byshvm-lbaly-chyym-petglow-3jcamm
-- Price: 35.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449919551-l46kzt.webp
 
 ---
 
