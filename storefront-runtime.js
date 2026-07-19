@@ -14165,11 +14165,12 @@ async function loadRelatedProducts(currentProduct, t) {
 /* END ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 
 
-/* ZAPPY_PUBLISHED_ZOOM_WRAPPER_RUNTIME_V3 */
+/* ZAPPY_PUBLISHED_ZOOM_WRAPPER_RUNTIME_V4 */
 (function(){
   try {
-    if (window.__zappyPublishedZoomInitV3) return;
-    window.__zappyPublishedZoomInitV3 = true;
+    if (window.__zappyPublishedZoomInitV4) return;
+    window.__zappyPublishedZoomInitV4 = true;
+    window.__zappyPublishedZoomInitV3 = true; // legacy guard — keep stale V3 copies inert
 
     function isHeroBgWrapper(wrapper) {
       var img = wrapper.querySelector('img');
@@ -14183,14 +14184,25 @@ async function loadRelatedProducts(currentProduct, t) {
 
     // SYNC: These helpers must match sharedZoomCropMath.js
     function parseObjPos(op) {
-      var x = 50, y = 50;
+      var x = null, y = null;
       try {
-        if (typeof op === 'string') {
-          var m = op.match(/(-?\d+(?:\.\d+)?)%\s+(-?\d+(?:\.\d+)?)%/);
-          if (m) { x = parseFloat(m[1]); y = parseFloat(m[2]); }
+        if (typeof op === 'string' && op.trim()) {
+          var tokens = op.trim().toLowerCase().split(/\s+/).slice(0, 2);
+          for (var i = 0; i < tokens.length; i++) {
+            var tok = tokens[i];
+            var val;
+            if (tok === 'left') { x = 0; continue; }
+            if (tok === 'right') { x = 100; continue; }
+            if (tok === 'top') { y = 0; continue; }
+            if (tok === 'bottom') { y = 100; continue; }
+            if (tok === 'center') val = 50;
+            else if (/^-?\d*\.?\d+%$/.test(tok)) val = parseFloat(tok);
+            else val = 50;
+            if (x === null) x = val; else if (y === null) y = val;
+          }
         }
       } catch (e) {}
-      if (!isFinite(x)) x = 50; if (!isFinite(y)) y = 50;
+      if (x === null || !isFinite(x)) x = 50; if (y === null || !isFinite(y)) y = 50;
       return { x: Math.max(0, Math.min(100, x)), y: Math.max(0, Math.min(100, y)) };
     }
 
@@ -14199,6 +14211,12 @@ async function loadRelatedProducts(currentProduct, t) {
         return { w: 100, h: 100 };
       if (imgA >= contA) return { w: (imgA / contA) * 100, h: 100 };
       return { w: 100, h: (contA / imgA) * 100 };
+    }
+    function containPercents(imgA, contA) {
+      if (!isFinite(imgA) || imgA <= 0 || !isFinite(contA) || contA <= 0)
+        return { w: 100, h: 100 };
+      if (imgA >= contA) return { w: 100, h: (contA / imgA) * 100 };
+      return { w: (imgA / contA) * 100, h: 100 };
     }
 
     var IMAGE_SLOT_CLASS_TOKENS = ['image-wrap', 'image-tile', 'image-slot', 'card-image', 'card-media', 'media-wrap', 'portrait-wrap'];
@@ -14701,11 +14719,15 @@ async function loadRelatedProducts(currentProduct, t) {
       var imgA = nW / nH;
       var contA = rect.width / rect.height;
       var cover = coverPercents(imgA, contA);
+      var contain = containPercents(imgA, contA);
 
       var wPct = 100, hPct = 100;
       if (zoom >= 1) {
         wPct = cover.w * zoom;
         hPct = cover.h * zoom;
+      } else if (zoom <= 0.5) {
+        wPct = contain.w;
+        hPct = contain.h;
       } else {
         var t = (zoom - 0.5) / 0.5;
         if (!isFinite(t)) t = 0;
@@ -14739,6 +14761,9 @@ async function loadRelatedProducts(currentProduct, t) {
       for (var j = 0; j < zoomImgs.length; j++) {
         var img = zoomImgs[j];
         if (img.closest && img.closest('[data-zappy-zoom-wrapper="true"]')) continue;
+        // Carousel slide imgs are absolute cover-fill inside their slide —
+        // forcing position:relative + max-height here would collapse the slide.
+        if (img.closest && img.closest('.zappy-carousel-slide')) continue;
         img.style.setProperty('position', 'relative', 'important');
         img.style.setProperty('width', '100%', 'important');
         img.style.setProperty('height', 'auto', 'important');
@@ -14819,8 +14844,32 @@ async function loadRelatedProducts(currentProduct, t) {
           if (mSrc) img.src = mSrc;
           if (mPos) img.style.setProperty('object-position', mPos, 'important');
           if (mZoom > 1) {
-            img.style.setProperty('transform', 'scale(' + mZoom + ')', 'important');
-            img.style.setProperty('transform-origin', mPos || '50% 50%', 'important');
+            // Match the editor's wrapper-crop geometry (percentage pan window)
+            // instead of transform:scale — the scale path zooms around the
+            // focal point of the already-cropped view, which visibly diverges
+            // from what the user framed in the editor's Mobile Only tab.
+            var applyHeroMobileCrop = function() {
+              var rect = wrapper.getBoundingClientRect();
+              var nW = img.naturalWidth || 0, nH = img.naturalHeight || 0;
+              if (!rect || !rect.width || !rect.height || !(nW > 0 && nH > 0)) {
+                img.style.setProperty('transform', 'scale(' + mZoom + ')', 'important');
+                img.style.setProperty('transform-origin', mPos || '50% 50%', 'important');
+                return;
+              }
+              var cover = coverPercents(nW / nH, rect.width / rect.height);
+              var wP = cover.w * mZoom, hP = cover.h * mZoom;
+              var p = parseObjPos(mPos || img.getAttribute('data-zappy-object-position') || '50% 50%');
+              img.style.setProperty('position', 'absolute', 'important');
+              img.style.setProperty('left', ((100 - wP) * (p.x / 100)) + '%', 'important');
+              img.style.setProperty('top', ((100 - hP) * (p.y / 100)) + '%', 'important');
+              img.style.setProperty('width', wP + '%', 'important');
+              img.style.setProperty('height', hP + '%', 'important');
+              img.style.setProperty('object-fit', 'cover', 'important');
+              img.style.removeProperty('transform');
+              img.style.removeProperty('transform-origin');
+            };
+            if (img.complete && img.naturalWidth > 0) applyHeroMobileCrop();
+            else img.addEventListener('load', applyHeroMobileCrop, { once: true });
           }
         }
       }
@@ -14858,14 +14907,85 @@ async function loadRelatedProducts(currentProduct, t) {
 /* END ZAPPY_PUBLISHED_ZOOM_WRAPPER_RUNTIME */
 
 
-/* ZAPPY_PUBLISHED_MOBILE_IMAGE_SWAP_V2 */
+/* ZAPPY_PUBLISHED_MOBILE_IMAGE_SWAP_V3 */
 (function(){
   try {
-    if (window.__zappyMobileImageSwapInitV2) return;
-    window.__zappyMobileImageSwapInitV2 = true;
+    if (window.__zappyMobileImageSwapInitV3) return;
+    window.__zappyMobileImageSwapInitV3 = true;
+    window.__zappyMobileImageSwapInitV2 = true; // keep stale V2 copies inert
     var SEL = 'img[data-zappy-mobile-src],img[data-zappy-mobile-object-position],img[data-zappy-mobile-zoom]';
     var applied = false;
     function standalone(img){ return img && !img.closest('[data-zappy-zoom-wrapper="true"]'); }
+    // SYNC: must match sharedZoomCropMath.js
+    function parseOp(op){
+      var x=null,y=null;
+      try{
+        if(typeof op==='string'&&op.trim()){
+          var toks=op.trim().toLowerCase().split(/\s+/).slice(0,2);
+          for(var i=0;i<toks.length;i++){
+            var tk=toks[i],v;
+            if(tk==='left'){x=0;continue;} if(tk==='right'){x=100;continue;}
+            if(tk==='top'){y=0;continue;} if(tk==='bottom'){y=100;continue;}
+            if(tk==='center')v=50; else if(/^-?\d*\.?\d+%$/.test(tk))v=parseFloat(tk); else v=50;
+            if(x===null)x=v; else if(y===null)y=v;
+          }
+        }
+      }catch(e){}
+      if(x===null||!isFinite(x))x=50; if(y===null||!isFinite(y))y=50;
+      return {x:Math.max(0,Math.min(100,x)),y:Math.max(0,Math.min(100,y))};
+    }
+    // Editor-parity mobile zoom: reproduce the zoom-wrapper crop geometry
+    // using the img's PARENT as the crop box (the editor builds a transient
+    // wrapper in preview, but cleanSectionHtmlForSave removes it when desktop
+    // needs no zoom — so a mobile-only zoom ships as a standalone img).
+    // Falls back to the legacy transform:scale approximation whenever the
+    // geometry can't be measured, so something always applies.
+    function applyStandaloneMobileZoom(img, mZoom, mPos){
+      try {
+        var p = img.parentElement;
+        if (!p) return;
+        if (!p._zappyDesktop) p._zappyDesktop = { style: p.getAttribute('style') };
+        p.style.setProperty('overflow', 'hidden', 'important');
+        function legacyScale(){
+          img.style.setProperty('transform', 'scale(' + mZoom + ')', 'important');
+          img.style.setProperty('transform-origin', mPos || '50% 50%', 'important');
+        }
+        function run(){
+          try {
+            var rect = p.getBoundingClientRect ? p.getBoundingClientRect() : null;
+            var nW = img.naturalWidth || 0, nH = img.naturalHeight || 0;
+            if (!rect || !(rect.width > 0) || !(rect.height > 0) || !(nW > 0 && nH > 0)) { legacyScale(); return; }
+            // Lock the parent's current box BEFORE pulling the img out of flow,
+            // otherwise the parent collapses when the img was its height source.
+            try {
+              var pcs = window.getComputedStyle(p);
+              if (pcs && pcs.position === 'static') p.style.setProperty('position', 'relative', 'important');
+              p.style.setProperty('aspect-ratio', String(Math.round((rect.width / rect.height) * 10000) / 10000), 'important');
+            } catch(e0) {}
+            var imgA = nW / nH, contA = rect.width / rect.height;
+            var cw = 100, ch = 100;
+            if (imgA >= contA) { cw = (imgA / contA) * 100; } else { ch = (contA / imgA) * 100; }
+            var wP = cw * mZoom, hP = ch * mZoom;
+            var pos = parseOp(mPos || img.getAttribute('data-zappy-object-position') || '50% 50%');
+            img.style.setProperty('position', 'absolute', 'important');
+            img.style.setProperty('left', ((100 - wP) * (pos.x / 100)) + '%', 'important');
+            img.style.setProperty('top', ((100 - hP) * (pos.y / 100)) + '%', 'important');
+            img.style.setProperty('width', wP + '%', 'important');
+            img.style.setProperty('height', hP + '%', 'important');
+            img.style.setProperty('max-width', 'none', 'important');
+            img.style.setProperty('max-height', 'none', 'important');
+            img.style.setProperty('object-fit', 'cover', 'important');
+            img.style.setProperty('margin', '0', 'important');
+            if (img.style.removeProperty) { img.style.removeProperty('transform'); img.style.removeProperty('transform-origin'); }
+          } catch(e1) { try { legacyScale(); } catch(e2) {} }
+        }
+        if (img.complete && img.naturalWidth > 0) run();
+        else if (typeof img.addEventListener === 'function') {
+          legacyScale(); // immediate approximation, refined once dimensions load
+          img.addEventListener('load', run, { once: true });
+        } else legacyScale();
+      } catch(eZ) {}
+    }
     function applyMobile(){
       if (applied) return; applied = true;
       document.querySelectorAll(SEL).forEach(function(img){
@@ -14877,13 +14997,7 @@ async function loadRelatedProducts(currentProduct, t) {
         if (mSrc) img.src = mSrc;
         if (mPos) img.style.setProperty('object-position', mPos, 'important');
         if (isFinite(mZoom) && mZoom > 1) {
-          img.style.setProperty('transform', 'scale(' + mZoom + ')', 'important');
-          img.style.setProperty('transform-origin', mPos || '50% 50%', 'important');
-          var p = img.parentElement;
-          if (p) {
-            if (!p._zappyDesktop) p._zappyDesktop = { style: p.getAttribute('style') };
-            p.style.setProperty('overflow', 'hidden', 'important');
-          }
+          applyStandaloneMobileZoom(img, mZoom, mPos);
         }
       });
     }
@@ -14916,7 +15030,7 @@ async function loadRelatedProducts(currentProduct, t) {
     else init();
   } catch (eOuter) {}
 })();
-/* END ZAPPY_PUBLISHED_MOBILE_IMAGE_SWAP_V2 */
+/* END ZAPPY_PUBLISHED_MOBILE_IMAGE_SWAP_V3 */
 
 
 /* ZAPPY_MOBILE_MENU_TOGGLE_V3 */
@@ -16363,6 +16477,588 @@ function fixContrast(){
   });
   if (document.body) bodyObs.observe(document.body, { childList: true, subtree: true });
   else document.addEventListener('DOMContentLoaded', function() { bodyObs.observe(document.body, { childList: true, subtree: true }); });
+})();
+
+/* ZAPPY_INVENTORY_QTY_UX_V3 */
+;(function(){
+  try {
+    if (window.__zappyInventoryQtyUxInitV3) return;
+    window.__zappyInventoryQtyUxInitV3 = true;
+
+    var INV_LABELS = {"ar": {"onlyOneLeft": "تبقى قطعة واحدة فقط", "onlyXLeft": "تبقى {count} قطع فقط"}, "bg": {"onlyOneLeft": "Остава само 1", "onlyXLeft": "Остават само {count}"}, "de": {"onlyOneLeft": "Nur noch 1 auf Lager", "onlyXLeft": "Nur noch {count} auf Lager"}, "el": {"onlyOneLeft": "Απομένει μόνο 1", "onlyXLeft": "Απομένουν μόνο {count}"}, "en": {"onlyOneLeft": "Only 1 left in stock", "onlyXLeft": "Only {count} left in stock"}, "es": {"onlyOneLeft": "Solo queda 1 en stock", "onlyXLeft": "Solo quedan {count} en stock"}, "fr": {"onlyOneLeft": "Plus qu'1 en stock", "onlyXLeft": "Plus que {count} en stock"}, "he": {"onlyOneLeft": "נותר פריט אחד בלבד", "onlyXLeft": "נותרו רק {count} במלאי"}, "it": {"onlyOneLeft": "Ne resta solo 1", "onlyXLeft": "Ne restano solo {count}"}, "ja": {"onlyOneLeft": "残り1点のみ", "onlyXLeft": "残り{count}点のみ"}, "lt": {"onlyOneLeft": "Liko tik 1", "onlyXLeft": "Liko tik {count}"}, "pt": {"onlyOneLeft": "Só resta 1 em estoque", "onlyXLeft": "Só restam {count} em estoque"}, "ru": {"onlyOneLeft": "Остался только 1", "onlyXLeft": "Осталось только {count}"}, "th": {"onlyOneLeft": "เหลือเพียง 1 ชิ้น", "onlyXLeft": "เหลือเพียง {count} ชิ้น"}, "tr": {"onlyOneLeft": "Sadece 1 adet kaldı", "onlyXLeft": "Sadece {count} adet kaldı"}, "zh": {"onlyOneLeft": "仅剩 1 件", "onlyXLeft": "仅剩 {count} 件"}};
+
+    function resolveLang() {
+      try {
+        if (typeof window.getCurrentEcomLanguage === 'function') {
+          var l1 = window.getCurrentEcomLanguage();
+          if (l1) return String(l1).toLowerCase().split('-')[0];
+        }
+      } catch (e0) {}
+      try {
+        if (typeof window.getCurrentLanguage === 'function') {
+          var l = window.getCurrentLanguage();
+          if (l) return String(l).toLowerCase().split('-')[0];
+        }
+      } catch (e) {}
+      try {
+        if (window.zappyI18n && typeof window.zappyI18n.getCurrentLanguage === 'function') {
+          var l2 = window.zappyI18n.getCurrentLanguage();
+          if (l2) return String(l2).toLowerCase().split('-')[0];
+        }
+      } catch (e1) {}
+      try {
+        var dl = document.documentElement && (document.documentElement.lang || document.documentElement.getAttribute('lang'));
+        if (dl) return String(dl).toLowerCase().split('-')[0];
+      } catch (e2) {}
+      return 'en';
+    }
+
+    function patchEcomRuntimeText() {
+      try {
+        if (typeof window.ECOM_RUNTIME_TEXT !== 'object' || !window.ECOM_RUNTIME_TEXT) {
+          window.ECOM_RUNTIME_TEXT = {};
+        }
+        Object.keys(INV_LABELS).forEach(function(lang) {
+          var pack = INV_LABELS[lang] || {};
+          if (!window.ECOM_RUNTIME_TEXT[lang] || typeof window.ECOM_RUNTIME_TEXT[lang] !== 'object') {
+            window.ECOM_RUNTIME_TEXT[lang] = {};
+          }
+          window.ECOM_RUNTIME_TEXT[lang].onlyOneLeft = pack.onlyOneLeft;
+          window.ECOM_RUNTIME_TEXT[lang].onlyXLeft = pack.onlyXLeft;
+        });
+      } catch (e) {}
+    }
+    patchEcomRuntimeText();
+
+    function ecomText(key, fallback, vars) {
+      var lang = resolveLang();
+      var pack = INV_LABELS[lang] || INV_LABELS.en || {};
+      var packKey = (key === 'ecom_onlyOneLeft' || key === 'onlyOneLeft') ? 'onlyOneLeft'
+        : ((key === 'ecom_onlyXLeft' || key === 'onlyXLeft') ? 'onlyXLeft' : null);
+      var text = null;
+      if (packKey && pack[packKey]) text = pack[packKey];
+      if (!text) {
+        try {
+          if (window.ECOM_RUNTIME_TEXT && window.ECOM_RUNTIME_TEXT[lang] && window.ECOM_RUNTIME_TEXT[lang][packKey || key]) {
+            text = window.ECOM_RUNTIME_TEXT[lang][packKey || key];
+          }
+        } catch (e2) {}
+      }
+      if (!text) text = fallback || '';
+      if (vars && typeof vars === 'object') {
+        Object.keys(vars).forEach(function(k) {
+          text = String(text).split('{' + k + '}').join(String(vars[k]));
+        });
+      }
+      return text;
+    }
+
+    function productHasVariants(product) {
+      if (!product) return false;
+      if (Array.isArray(product.variants) && product.variants.length > 0) return true;
+      var cv = product.card_variants || product.cardVariants;
+      if (cv && Array.isArray(cv.matrix) && cv.matrix.length > 0) return true;
+      if (cv && Array.isArray(cv.options) && cv.options.length > 0) return true;
+      if (parseInt(product.variant_count || 0, 10) > 0) return true;
+      return false;
+    }
+
+    function resolveMax(product, variant) {
+      // Multi-variant products must not fall back to parent inventory_quantity
+      // until a concrete variant row is selected (matches baked syncPdpInventoryQtyUI).
+      // Pure fallback math only — do NOT call window.zappyInventoryQty.resolveMax
+      // (that is patchedResolveMax and would recurse).
+      if (productHasVariants(product) && !variant) return null;
+      if (!product) return null;
+      if (product.inventory_track === false) return null;
+      try {
+        var settings = window.__zappyStoreSettingsData;
+        if (settings && settings.inventory_tracking_enabled === false) return null;
+      } catch (e4) {}
+      var q = null;
+      if (variant && typeof variant === 'object') {
+        if (typeof variant.available === 'boolean' && variant.available === false) return 0;
+        if (variant.inventory_quantity != null) q = variant.inventory_quantity;
+        else if (variant.inventoryQuantity != null) q = variant.inventoryQuantity;
+      } else {
+        if (product.inventory_quantity != null) q = product.inventory_quantity;
+        else if (product.inventoryQuantity != null) q = product.inventoryQuantity;
+      }
+      if (q == null || q === '' || !isFinite(Number(q))) return null;
+      return Math.max(0, Math.floor(Number(q)));
+    }
+
+    function formatMsg(max) {
+      if (!(max > 0)) return '';
+      if (max === 1) return ecomText('onlyOneLeft', 'Only 1 left in stock');
+      return ecomText('onlyXLeft', 'Only {count} left in stock', { count: max });
+    }
+
+    function shouldShow(max, qty) {
+      if (max == null || !(max >= 0)) return false;
+      if (max <= 0) return false;
+      if (Number(qty) > max) return true;
+      return max <= 3;
+    }
+
+    function messageFor(max, qty) {
+      if (!shouldShow(max, qty)) return '';
+      if (max === 1) return ecomText('onlyOneLeft', 'Only 1 left in stock');
+      return ecomText('onlyXLeft', 'Only {count} left in stock', { count: max });
+    }
+
+    function setHint(el, text, show, isOver) {
+      if (!el) return;
+      if (show && text) {
+        el.textContent = text;
+        el.hidden = false;
+        el.style.display = 'block';
+        if (isOver) el.classList.add('is-over');
+        else el.classList.remove('is-over');
+      } else {
+        el.textContent = '';
+        el.hidden = true;
+        el.style.display = 'none';
+        el.classList.remove('is-over');
+      }
+    }
+
+    function ensurePdpHint() {
+      var row = document.querySelector('.product-add-row');
+      if (!row || !row.parentNode) return document.getElementById('product-qty-stock-hint');
+      var existing = document.getElementById('product-qty-stock-hint');
+      if (existing) {
+        if (existing.parentNode !== row.parentNode || existing.nextElementSibling !== row) {
+          row.parentNode.insertBefore(existing, row);
+        }
+        return existing;
+      }
+      var hint = document.createElement('div');
+      hint.id = 'product-qty-stock-hint';
+      hint.className = 'product-qty-stock-hint';
+      hint.setAttribute('role', 'status');
+      hint.setAttribute('aria-live', 'polite');
+      hint.hidden = true;
+      hint.style.cssText = 'display:none;width:100%;margin:0 0 0.5rem;font-size:0.875rem;font-weight:600;color:#b45309;line-height:1.3;';
+      row.parentNode.insertBefore(hint, row);
+      return hint;
+    }
+
+    function ensureQvHint(root) {
+      if (!root) return null;
+      var actions = root.querySelector('.zappy-qv-actions');
+      var existing = root.querySelector('.zappy-qv-stock-hint');
+      if (existing && actions && actions.parentNode) {
+        if (existing.parentNode !== actions.parentNode || existing.nextElementSibling !== actions) {
+          actions.parentNode.insertBefore(existing, actions);
+        }
+        return existing;
+      }
+      if (existing) return existing;
+      if (!actions || !actions.parentNode) return null;
+      var hint = document.createElement('div');
+      hint.className = 'zappy-qv-stock-hint product-qty-stock-hint';
+      hint.setAttribute('role', 'status');
+      hint.setAttribute('aria-live', 'polite');
+      hint.hidden = true;
+      hint.style.cssText = 'display:none;width:100%;margin:0 0 0.5rem;font-size:0.875rem;font-weight:600;color:#b45309;line-height:1.3;';
+      actions.parentNode.insertBefore(hint, actions);
+      return hint;
+    }
+
+    function readQty(input) {
+      if (!input) return 1;
+      var n = parseFloat(input.value);
+      return isFinite(n) && n > 0 ? n : 1;
+    }
+
+    function findPdpAtc() {
+      return document.getElementById('add-to-cart-btn')
+        || document.querySelector('.product-add-row .add-to-cart')
+        || document.querySelector('.product-info .add-to-cart');
+    }
+
+    function resolveQvVariant(product) {
+      if (!product) return null;
+      try {
+        var modal = document.getElementById('zappy-qv-modal') || document.querySelector('.zappy-qv-modal');
+        if (!modal) return null;
+        var selected = modal.querySelectorAll('[data-qv-opt].selected');
+        var cv = product.card_variants || product.cardVariants || null;
+        var matrix = (cv && cv.matrix) || product.variants || [];
+        if (!Array.isArray(matrix)) matrix = [];
+        var optionKeys = (cv && Array.isArray(cv.options))
+          ? cv.options.map(function(o) { return o && o.key; }).filter(Boolean)
+          : [];
+        // Incomplete selection on a multi-option product → no variant yet.
+        if (optionKeys.length > 0) {
+          if (!selected || selected.length < optionKeys.length) return null;
+        } else if (productHasVariants(product) && (!selected || !selected.length) && matrix.length > 1) {
+          return null;
+        }
+        if (selected && selected.length && matrix.length) {
+          var opts = {};
+          for (var i = 0; i < selected.length; i++) {
+            var btn = selected[i];
+            var name = btn.getAttribute('data-qv-opt');
+            var val = btn.getAttribute('data-qv-val') || btn.getAttribute('data-value') || (btn.textContent || '').trim();
+            if (name) opts[name] = val;
+          }
+          for (var r = 0; r < matrix.length; r++) {
+            var row = matrix[r];
+            var attrs = row.attributes || row.options || row.option_values || {};
+            var ok = true;
+            Object.keys(opts).forEach(function(k) {
+              if (String(attrs[k]) !== String(opts[k])) ok = false;
+            });
+            if (ok) return row;
+          }
+          return null;
+        }
+        if (matrix.length === 1) return matrix[0];
+      } catch (e) {}
+      return null;
+    }
+
+    function lookupCardProduct(slugOrId) {
+      try {
+        if (typeof window.zappyGetCardProduct === 'function') {
+          var p = window.zappyGetCardProduct(slugOrId);
+          if (p) return p;
+        }
+      } catch (e) {}
+      try {
+        var reg = window.__zappyCardProducts || {};
+        if (reg[slugOrId]) return reg[slugOrId];
+        for (var key in reg) {
+          if (reg[key] && (reg[key].slug === slugOrId || String(reg[key].id) === String(slugOrId))) return reg[key];
+        }
+      } catch (e2) {}
+      return null;
+    }
+
+    // Capture prior syncs BEFORE we install wrappers. Never replace a full baked
+    // qv/pdp sync with our slim fallback — that dropped variant/booking ATC logic.
+    var priorPdpSync = null;
+    var priorQvSync = null;
+    try {
+      if (typeof window.syncPdpInventoryQtyUI === 'function' && !window.syncPdpInventoryQtyUI.__zappyInvQtyUx) {
+        priorPdpSync = window.syncPdpInventoryQtyUI;
+      }
+    } catch (e) {}
+    try {
+      if (typeof window.qvSyncInventoryQtyUI === 'function' && !window.qvSyncInventoryQtyUI.__zappyInvQtyUx) {
+        priorQvSync = window.qvSyncInventoryQtyUI;
+      }
+    } catch (e) {}
+
+    /** Fallback PDP sync for old bundles that never baked syncPdpInventoryQtyUI. */
+    function fallbackSyncPdp() {
+      try {
+        patchEcomRuntimeText();
+        var product = window.currentProduct || window.__zappyCurrentProduct || null;
+        if (!product) return;
+        var variant = window.selectedVariant || null;
+        var max = resolveMax(product, variant);
+        var input = document.getElementById('product-quantity');
+        var qty = readQty(input);
+        var hint = ensurePdpHint();
+        var show = shouldShow(max, qty);
+        setHint(hint, show ? messageFor(max, qty) : '', show, max != null && qty > max);
+        if (input) {
+          if (max != null && max >= 0) {
+            input.setAttribute('max', String(Math.max(max, 1)));
+            input.dataset.inventoryMax = String(max);
+          } else {
+            input.setAttribute('max', '9999');
+            delete input.dataset.inventoryMax;
+          }
+        }
+        var atc = findPdpAtc();
+        if (atc && max != null && qty > max) {
+          atc.disabled = true;
+          atc.style.opacity = '0.5';
+          atc.style.cursor = 'not-allowed';
+          atc.classList.add('is-qty-over-stock');
+        } else if (atc && atc.classList.contains('is-qty-over-stock')) {
+          // Only clear OUR over-stock flag — do not re-enable when variants are incomplete.
+          atc.classList.remove('is-qty-over-stock');
+          if (!productHasVariants(product) || variant) {
+            if (!(variant && (variant.available === false || variant.stock_status === 'out_of_stock'))) {
+              atc.disabled = false;
+              atc.style.opacity = '1';
+              atc.style.cursor = 'pointer';
+            }
+          }
+        }
+      } catch (err) {}
+    }
+
+    /** Fallback QV sync — inventory only; never owns variant/booking button labels. */
+    function fallbackSyncQv() {
+      try {
+        patchEcomRuntimeText();
+        var product = window.__zappyQvProduct || null;
+        if (!product) return;
+        var variant = resolveQvVariant(product);
+        var max = resolveMax(product, variant);
+        var modal = document.getElementById('zappy-qv-modal');
+        if (!modal || modal.hidden) return;
+        var input = modal.querySelector('#zappy-qv-qty-input') || modal.querySelector('.zappy-qv-qty-input');
+        var qty = readQty(input);
+        var hint = ensureQvHint(modal);
+        var show = shouldShow(max, qty);
+        setHint(hint, show ? messageFor(max, qty) : '', show, max != null && qty > max);
+        if (input) {
+          if (max != null && max >= 0) {
+            input.setAttribute('max', String(Math.max(max, 1)));
+            input.setAttribute('data-inventory-max', String(max));
+          } else {
+            input.removeAttribute('data-inventory-max');
+          }
+        }
+        var plus = modal.querySelector('[data-qv-qty="1"]');
+        if (plus && max != null) {
+          var atCap = qty >= max;
+          plus.disabled = atCap;
+          plus.setAttribute('aria-disabled', atCap ? 'true' : 'false');
+        }
+        var atc = modal.querySelector('button.zappy-qv-addcart');
+        if (!atc) return;
+        // Only DISABLE when over stock. Never re-enable here — incomplete
+        // options / booking / OOS are owned by the baked qvSync when present.
+        if (max != null && qty > max) {
+          atc.disabled = true;
+          atc.classList.add('is-disabled', 'is-qty-over-stock');
+        } else if (atc.classList.contains('is-qty-over-stock')) {
+          atc.classList.remove('is-qty-over-stock');
+          // Re-enable only when a variant is resolved (or product has none).
+          if (!productHasVariants(product) || variant) {
+            if (!(variant && variant.available === false)) {
+              atc.disabled = false;
+              atc.classList.remove('is-disabled');
+            }
+          }
+        }
+      } catch (err) {}
+    }
+
+    function syncPdp() {
+      patchEcomRuntimeText();
+      ensurePdpHint();
+      if (priorPdpSync) {
+        try { priorPdpSync(); } catch (e) {}
+        ensurePdpHint();
+        return;
+      }
+      fallbackSyncPdp();
+    }
+
+    function syncQv() {
+      patchEcomRuntimeText();
+      try {
+        if (window.qvState && window.qvState.product) window.__zappyQvProduct = window.qvState.product;
+      } catch (e0) {}
+      var modal = document.getElementById('zappy-qv-modal');
+      ensureQvHint(modal);
+      if (priorQvSync) {
+        try { priorQvSync(); } catch (e) {}
+        ensureQvHint(modal);
+        return;
+      }
+      fallbackSyncQv();
+    }
+
+    var baseUtil = (window.zappyInventoryQty && typeof window.zappyInventoryQty === 'object')
+      ? window.zappyInventoryQty
+      : {};
+    var origResolveMax = (typeof baseUtil.resolveMax === 'function') ? baseUtil.resolveMax : null;
+    function patchedResolveMax(product, variant) {
+      if (productHasVariants(product) && !variant) return null;
+      if (origResolveMax) {
+        try { return origResolveMax(product, variant); } catch (e) {}
+      }
+      return resolveMax(product, variant);
+    }
+    function patchedApplyHint(el, available, requestedQty) {
+      try {
+        if (el && el.id === 'product-qty-stock-hint') {
+          el = ensurePdpHint() || el;
+        } else if (el && el.classList && el.classList.contains('zappy-qv-stock-hint')) {
+          el = ensureQvHint(document.getElementById('zappy-qv-modal')) || el;
+        }
+        var qty = requestedQty;
+        var show = shouldShow(available, qty);
+        setHint(el, show ? messageFor(available, qty) : '', show, available != null && Number(qty) > available);
+      } catch (e) {
+        try {
+          if (typeof baseUtil.applyHint === 'function' && baseUtil.applyHint !== patchedApplyHint) {
+            baseUtil.applyHint(el, available, requestedQty);
+          }
+        } catch (e2) {}
+      }
+    }
+    window.zappyInventoryQty = Object.assign({}, baseUtil, {
+      LOW_STOCK_HINT_MAX: 3,
+      formatMessage: function(available) { return formatMsg(available); },
+      applyHint: patchedApplyHint,
+      resolveMax: patchedResolveMax,
+      resolveMaxAvailableQty: function(p, v) { return patchedResolveMax(p, v); },
+      qtyExceedsAvailable: function(q, max) { return max != null && max >= 0 && Number(q) > max; },
+      shouldShowLowStockHint: function(max, q) { return shouldShow(max, q); }
+    });
+    if (typeof window.zappyInventoryQty.qtyExceeds !== 'function') {
+      window.zappyInventoryQty.qtyExceeds = function(available, requestedQty) {
+        return available != null && Number(requestedQty) > available;
+      };
+    }
+
+    window.syncPdpInventoryQtyUI = syncPdp;
+    window.syncPdpInventoryQtyUI.__zappyInvQtyUx = true;
+    window.qvSyncInventoryQtyUI = syncQv;
+    window.qvSyncInventoryQtyUI.__zappyInvQtyUx = true;
+
+    function wrapAdjust() {
+      try {
+        if (typeof window.adjustQuantity === 'function' && !window.adjustQuantity.__zappyInvV3) {
+          var orig = window.adjustQuantity;
+          window.adjustQuantity = function(delta) {
+            var ret = orig.apply(this, arguments);
+            try {
+              var product = window.currentProduct || window.__zappyCurrentProduct;
+              var max = patchedResolveMax(product, window.selectedVariant || null);
+              var input = document.getElementById('product-quantity');
+              if (input && max != null && delta > 0) {
+                var q = readQty(input);
+                if (q > max) input.value = String(max);
+              }
+            } catch (e) {}
+            syncPdp();
+            return ret;
+          };
+          window.adjustQuantity.__zappyInvV3 = true;
+        }
+      } catch (e) {}
+    }
+
+    function wrapQvOpen() {
+      try {
+        if (typeof window.zappyOpenQuickView !== 'function' || window.zappyOpenQuickView.__zappyInvV3) return;
+        var orig = window.zappyOpenQuickView;
+        window.zappyOpenQuickView = function(slugOrId, preselected) {
+          try {
+            var card = lookupCardProduct(slugOrId);
+            if (card) window.__zappyQvProduct = card;
+          } catch (e) {}
+          var ret = orig.apply(this, arguments);
+          // Defer so baked qvRender/qvRefresh (local) runs first; then our
+          // wrapper calls priorQvSync if exported, else inventory-only fallback.
+          setTimeout(syncQv, 80);
+          setTimeout(syncQv, 400);
+          setTimeout(syncQv, 1000);
+          return ret;
+        };
+        window.zappyOpenQuickView.__zappyInvV3 = true;
+      } catch (e) {}
+    }
+
+    function wrapFetch() {
+      try {
+        if (!window.fetch || window.fetch.__zappyInvV3) return;
+        var origFetch = window.fetch;
+        window.fetch = function(input, init) {
+          var url = '';
+          try { url = typeof input === 'string' ? input : (input && input.url) || ''; } catch (e) {}
+          var p = origFetch.apply(this, arguments);
+          if (url && url.indexOf('/api/ecommerce/storefront/products/') !== -1) {
+            p.then(function(res) {
+              try {
+                res.clone().json().then(function(data) {
+                  if (data && data.success && data.data) {
+                    var full = data.data;
+                    var prev = window.__zappyQvProduct || {};
+                    window.__zappyQvProduct = Object.assign({}, full, {
+                      card_variants: full.card_variants || prev.card_variants || null
+                    });
+                    setTimeout(syncQv, 60);
+                    setTimeout(syncQv, 250);
+                  }
+                }).catch(function(){});
+              } catch (e2) {}
+              return res;
+            }).catch(function(){});
+          }
+          return p;
+        };
+        window.fetch.__zappyInvV3 = true;
+      } catch (e) {}
+    }
+
+    function bindDom() {
+      try {
+        document.addEventListener('input', function(ev) {
+          var t = ev.target;
+          if (!t) return;
+          if (t.id === 'product-quantity' || (t.closest && t.closest('.product-quantity'))) syncPdp();
+          if (t.id === 'zappy-qv-qty-input' || (t.closest && t.closest('.zappy-qv-qty'))) syncQv();
+        }, true);
+        document.addEventListener('click', function(ev) {
+          var t = ev.target;
+          if (!t || !t.closest) return;
+          if (t.closest('.product-quantity, .quantity-selector, .variant-option, [data-variant], .swatch, .product-options, [data-option]')) {
+            setTimeout(syncPdp, 0);
+            setTimeout(syncPdp, 60);
+          }
+          if (t.closest('[data-qv-opt], [data-qv-qty], .zappy-qv-qty, #zappy-qv-modal')) {
+            setTimeout(syncQv, 0);
+            setTimeout(syncQv, 80);
+          }
+        }, true);
+      } catch (e) {}
+    }
+
+    // Late capture: baked QV may assign window.qvSyncInventoryQtyUI after us.
+    function recapturePriors() {
+      try {
+        if (!priorQvSync && typeof window.qvSyncInventoryQtyUI === 'function'
+            && !window.qvSyncInventoryQtyUI.__zappyInvQtyUx) {
+          priorQvSync = window.qvSyncInventoryQtyUI;
+          window.qvSyncInventoryQtyUI = syncQv;
+          window.qvSyncInventoryQtyUI.__zappyInvQtyUx = true;
+        }
+      } catch (e) {}
+      try {
+        if (!priorPdpSync && typeof window.syncPdpInventoryQtyUI === 'function'
+            && !window.syncPdpInventoryQtyUI.__zappyInvQtyUx) {
+          priorPdpSync = window.syncPdpInventoryQtyUI;
+          window.syncPdpInventoryQtyUI = syncPdp;
+          window.syncPdpInventoryQtyUI.__zappyInvQtyUx = true;
+        }
+      } catch (e2) {}
+    }
+
+    wrapAdjust();
+    wrapQvOpen();
+    wrapFetch();
+    bindDom();
+    setTimeout(wrapAdjust, 500);
+    setTimeout(wrapQvOpen, 500);
+    setTimeout(wrapQvOpen, 1500);
+    setTimeout(recapturePriors, 0);
+    setTimeout(recapturePriors, 500);
+    setTimeout(recapturePriors, 1500);
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', function() {
+        syncPdp();
+        setTimeout(syncPdp, 400);
+      });
+    } else {
+      syncPdp();
+      setTimeout(syncPdp, 400);
+    }
+    setTimeout(syncPdp, 1200);
+  } catch (e) {}
 })();
 
 
@@ -20857,9 +21553,10 @@ function withConsent(category, callback) {
   } catch (e) {}
 })();
 
-/* ZAPPY_ANNOUNCEMENT_HEADER_SYNC_V3 */
+/* ZAPPY_ANNOUNCEMENT_HEADER_SYNC_V4 */
 (function(){
-  if (window.__zappyAnnouncementHeaderSyncV3) return;
+  if (window.__zappyAnnouncementHeaderSyncV4) return;
+  window.__zappyAnnouncementHeaderSyncV4 = true;
   window.__zappyAnnouncementHeaderSyncV3 = true;
   window.__zappyAnnouncementHeaderSyncV2 = true;
   window.__zappyAnnouncementHeaderSyncV1 = true; // legacy guards
@@ -20932,17 +21629,35 @@ function withConsent(category, callback) {
     document.documentElement.style.setProperty('--zappy-header-stack-height', totalHeight + 'px');
     document.body.style.setProperty('padding-top', totalHeight + 'px', 'important');
 
-    // Transparent nav: pull hero behind the fixed stack immediately (do NOT
-    // wait for lazy storefront-runtime.js — that delay was the ~10s gray bar).
-    // Keep selectors aligned with ZAPPY_ANNOUNCEMENT_HEADER_OFFSET_CSS_V2 —
+    // Transparent nav: pull hero behind the fixed stack immediately.
+    // Measure the navbar itself rather than trusting --nav-bg, which can be
+    // absent on older published pages or during stylesheet failure. Critical
+    // CSS also paints known opaque navbar colors before this runtime executes.
+    // Keep selectors aligned with ZAPPY_ANNOUNCEMENT_HEADER_OFFSET_CSS_V3 —
     // never underlap bare main>section:first-child (catalog /products pages).
-    var navBgValue = '';
-    try { navBgValue = getComputedStyle(document.documentElement).getPropertyValue('--nav-bg').trim(); } catch (e) {}
-    if (!navBgValue || navBgValue === 'transparent') {
-      var heroEl = document.querySelector('section[data-hero-type^="fullscreen"], .index-hero-section, main > section[class*="hero"]:first-of-type');
-      if (heroEl && totalHeight > 0) {
+    var heroEl = document.querySelector('section[data-hero-type^="fullscreen"], .index-hero-section, main > section[class*="hero"]:first-of-type');
+    if (heroEl && totalHeight > 0) {
+      var headerIsTransparent = false;
+      try {
+        var headerStyle = getComputedStyle(header);
+        var backgroundColor = headerStyle.backgroundColor || '';
+        var backgroundImage = headerStyle.backgroundImage || 'none';
+        var alphaMatch = backgroundColor.match(/rgba?\([^)]*[,\s]([0-9.]+)\s*\)$/i);
+        headerIsTransparent =
+          backgroundImage === 'none' &&
+          (backgroundColor === 'transparent' || (alphaMatch && parseFloat(alphaMatch[1]) < 0.3));
+      } catch (e) {}
+      if (headerIsTransparent) {
         heroEl.style.setProperty('margin-top', '-' + totalHeight + 'px', 'important');
         heroEl.style.setProperty('padding-top', totalHeight + 'px', 'important');
+        heroEl.setAttribute('data-zappy-nav-underlap', 'true');
+      } else if (
+        heroEl.getAttribute('data-zappy-nav-underlap') === 'true' ||
+        (heroEl.style.marginTop === '-' + totalHeight + 'px' && heroEl.style.paddingTop === totalHeight + 'px')
+      ) {
+        heroEl.style.removeProperty('margin-top');
+        heroEl.style.removeProperty('padding-top');
+        heroEl.removeAttribute('data-zappy-nav-underlap');
       }
     }
   }

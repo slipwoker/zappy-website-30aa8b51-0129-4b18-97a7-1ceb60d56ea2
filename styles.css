@@ -18915,6 +18915,112 @@ main,
 }
 
 /* ==END ZAPPY V2 E-COMMERCE THEME CSS== */
+
+.navbar #zappy-nav-category-links,
+.navbar ul.sub-menu.zappy-nav-more-menu {
+  background: #000000 !important;
+}
+
+.navbar #zappy-nav-category-links a,
+.navbar ul.sub-menu.zappy-nav-more-menu a,
+.navbar #zappy-nav-category-links li,
+.navbar ul.sub-menu.zappy-nav-more-menu li {
+  color: #FFFFFF !important;
+}
+
+.navbar #zappy-nav-category-links a:hover,
+.navbar ul.sub-menu.zappy-nav-more-menu a:hover {
+  color: var(--nav-text-hover) !important;
+  background: rgba(255, 255, 255, 0.1) !important;
+}
+
+.navbar.scrolled ~ #zappy-catalog-menu .catalog-menu-item {
+  color: #FFFFFF !important;
+}
+
+.navbar.scrolled ~ #zappy-catalog-menu .catalog-menu-all {
+  color: #FFFFFF !important;
+}
+
+.navbar #navMenu.active li a {
+  color: #FFFFFF !important;
+}
+
+.navbar #navMenu.active li .menu-group-title {
+  color: #FFFFFF !important;
+}
+
+.navbar:has(#navMenu.active) .mobile-toggle {
+  color: #FFFFFF !important;
+}
+
+.navbar:has(#navMenu.active) .phone-header-btn {
+  color: #FFFFFF !important;
+}
+
+.navbar:has(#navMenu.active) .mobile-toggle svg {
+  color: #FFFFFF !important;
+}
+
+.navbar:has(#navMenu.active) .phone-header-btn svg {
+  color: #FFFFFF !important;
+}
+
+.navbar .nav-menu .sub-menu li a {
+  color: #FFFFFF !important;
+}
+
+.navbar.scrolled ~ .zappy-catalog-menu .catalog-menu-item {
+  color: #FFFFFF !important;
+}
+
+.navbar.scrolled ~ .zappy-catalog-menu .catalog-menu-all {
+  color: #FFFFFF !important;
+}
+
+.navbar.scrolled .nav-menu > li > a {
+  color: #FFFFFF !important;
+}
+
+.navbar.scrolled .nav-menu > .nav-item > a {
+  color: #FFFFFF !important;
+}
+
+.navbar.scrolled .cart-link.nav-cart {
+  color: #FFFFFF !important;
+}
+
+.navbar.scrolled .login-link.nav-login {
+  color: #FFFFFF !important;
+}
+
+.navbar .nav-menu.active li a {
+  color: #FFFFFF !important;
+}
+
+.navbar .nav-menu.active li .menu-group-title {
+  color: #FFFFFF !important;
+}
+
+.navbar .nav-menu.active .mobile-submenu-toggle {
+  color: #FFFFFF !important;
+}
+
+.navbar:has(.nav-menu.active) .mobile-toggle {
+  color: #FFFFFF !important;
+}
+
+.navbar:has(.nav-menu.active) .phone-header-btn {
+  color: #FFFFFF !important;
+}
+
+.navbar:has(.nav-menu.active) .mobile-toggle svg {
+  color: #FFFFFF !important;
+}
+
+.navbar:has(.nav-menu.active) .phone-header-btn svg {
+  color: #FFFFFF !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
@@ -18941,7 +19047,7 @@ main,
 }
 
 
-/* ZAPPY_ANNOUNCEMENT_HEADER_OFFSET_CSS_V2 */
+/* ZAPPY_ANNOUNCEMENT_HEADER_OFFSET_CSS_V3 */
 :root {
   --zappy-header-stack-height: calc(var(--zappy-announcement-height, 40px) + var(--header-height, 72px));
 }
@@ -18959,6 +19065,7 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
   margin-top: calc(-1 * var(--zappy-header-stack-height)) !important;
   padding-top: calc(var(--zappy-header-stack-height)) !important;
 }
+
 
 
 /* ZAPPY_MOBILE_CATEGORIES_SUBMENU_CSS_V1 */
