@@ -1,16 +1,16 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T13:22:03.146Z",
+  "generated_at": "2026-07-19T13:29:20.602Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 236,
   "products": [
     {
       "id": "b74196a4-ca27-4263-8cfb-1f7c3c360c2d",
-      "slug": "smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylykvm-z5rlvv",
+      "slug": "smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylykvm-7tj771",
       "name": "סמוקיס עוגיות טבעיות לכלבים בטעם פיצה ובזיליקום",
       "name_translations": {
-        "en": "Smokies Natural Dog Cookies in Pizza and Basil Flavor",
+        "en": "Smokies Natural Dog Cookies in Pizza & Basil Flavor",
         "he": "סמוקיס עוגיות טבעיות לכלבים בטעם פיצה ובזיליקום",
         "ru": "Smokeys натуральное печенье для собак со вкусом пиццы и базилика"
       },
@@ -29,15 +29,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylykvm-z5rlvv",
+      "url": "https://gurimbakfar.co.il/product/smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylykvm-7tj771",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-13T14:25:44.645Z"
+      "updated_at": "2026-07-19T13:28:20.074Z"
     },
     {
       "id": "96fca75b-38ad-4bb4-8a1d-d00c08d8a04a",
-      "slug": "chtyp-nvblvs-brbkyv-shvk-avp-80-gr-ev7xpl",
+      "slug": "chtyp-nvblvs-brbkyv-shvk-avp-80-gr-k46lbu",
       "name": "חטיף נובלוס ברבקיו שוק עוף 80 גר'",
       "name_translations": {
         "en": "Nobilus BBQ Chicken Drumstick Treat 80g",
@@ -57,20 +57,20 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-ev7xpl",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-k46lbu",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-13T14:36:23.687Z"
+      "updated_at": "2026-07-19T13:28:36.215Z"
     },
     {
       "id": "d02028c5-495a-4a29-b6aa-6aa33ac38143",
-      "slug": "chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-4lerfw",
+      "slug": "chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-2ma0at",
       "name": "חטיף נובלוס ברבקיו טיבון בקר 80 גר'",
       "name_translations": {
         "en": "Nobilus BBQ T-Bone Beef Snack 80g",
         "he": "חטיף נובלוס ברבקיו טיבון בקר 80 גר'",
-        "ru": "Лакомство Nobulus барбекю тибон говядина 80 гр'"
+        "ru": "Лакомство Nobulus барбекю Тибон говядина 80 г"
       },
       "description": "<p>רכיבים: בשר חזה עוף, תוצרי לוואי של בקר, בשר חזה ברווז, קמח חיטה, חלבון סויה, קמח, עמילן סויה, גליצרין, ויטמין C, נתרן EVC, שומן.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 28%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5%</li><li>לחות: מקסימום 18%</li></ul>",
       "short_description": "חטיף נובילוס (Nobilus) בטעם סטייק טיבון בקר / ברביקיו בקר במשקל 80 גרם הוא חטיף אולטרה-פרימיום איכותי וטעים המיועד לכלבים, המבוסס על בשר אמיתי כמרכיב עיקרי ומתאים כפינוק יומי או כפרס באילוף.\nאריזה: מגיע במארז נוח עם סגירה חוזרת (Ziploc) השומרת על טריות המוצר לאורך זמן.",
@@ -85,15 +85,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-4lerfw",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-2ma0at",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-13T14:35:53.442Z"
+      "updated_at": "2026-07-19T13:28:48.613Z"
     },
     {
       "id": "1c9bd934-e8a6-40e7-bce1-c6f304467716",
-      "slug": "chtyp-nvblvs-brbkyv-tslavt-kbsh-80-gr-y8u8bj",
+      "slug": "chtyp-nvblvs-brbkyv-tslavt-kbsh-80-gr-2erv3i",
       "name": "חטיף נובלוס ברבקיו צלעות כבש 80 גר'",
       "name_translations": {
         "en": "Nobilus BBQ Lamb Ribs Treat 80g",
@@ -113,15 +113,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tslavt-kbsh-80-gr-y8u8bj",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tslavt-kbsh-80-gr-2erv3i",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-13T14:39:52.098Z"
+      "updated_at": "2026-07-19T13:28:58.159Z"
     },
     {
       "id": "55cd6023-2864-473e-b30b-3333c421b4f0",
-      "slug": "chtyp-nvblvs-dntly-mbrshvt-80-gr-nkppco",
+      "slug": "chtyp-nvblvs-dntly-mbrshvt-80-gr-4qadwf",
       "name": "חטיף נובלוס דנטלי מברשות 80 גר'",
       "name_translations": {
         "en": "Nobilus Dental Toothbrush Snack 80g",
@@ -141,11 +141,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-dntly-mbrshvt-80-gr-nkppco",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-dntly-mbrshvt-80-gr-4qadwf",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-13T14:40:07.857Z"
+      "updated_at": "2026-07-19T13:29:11.810Z"
     },
     {
       "id": "3c8339f6-921b-4917-a70a-005adaa88c47",

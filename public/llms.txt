@@ -75,7 +75,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 236** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### סמוקיס עוגיות טבעיות לכלבים בטעם פיצה ובזיליקום
-https://gurimbakfar.co.il/product/smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylykvm-z5rlvv
+https://gurimbakfar.co.il/product/smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylykvm-7tj771
 - Price: 20.00 ILS
 - Availability: In stock
 - Category: חטיפים
@@ -83,7 +83,7 @@ https://gurimbakfar.co.il/product/smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylyk
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783934698591-mid6em.webp
 
 ### חטיף נובלוס ברבקיו שוק עוף 80 גר'
-https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-ev7xpl
+https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-k46lbu
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
@@ -91,7 +91,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-ev7xpl
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783464739061-immko8.webp
 
 ### חטיף נובלוס ברבקיו טיבון בקר 80 גר'
-https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-4lerfw
+https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-2ma0at
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
@@ -99,7 +99,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-4lerfw
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783464427466-wndd0c.webp
 
 ### חטיף נובלוס ברבקיו צלעות כבש 80 גר'
-https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tslavt-kbsh-80-gr-y8u8bj
+https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tslavt-kbsh-80-gr-2erv3i
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
@@ -107,7 +107,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tslavt-kbsh-80-gr-y8u8bj
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783464090406-vdupbg.webp
 
 ### חטיף נובלוס דנטלי מברשות 80 גר'
-https://gurimbakfar.co.il/product/chtyp-nvblvs-dntly-mbrshvt-80-gr-nkppco
+https://gurimbakfar.co.il/product/chtyp-nvblvs-dntly-mbrshvt-80-gr-4qadwf
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים

@@ -6634,8 +6634,8 @@ gurimbakfar@gmail.com
 
 
 
-קראתי ואני מסכים/ה ל   תנאי השימוש  |
-מדיניות החזרות     ול     מדיניות הפרטיות
+קראתי ואני מסכים/ה ל  תנאי השימוש  |
+מדיניות החזרות    ול    מדיניות הפרטיות
 
 
 
@@ -7045,7 +7045,7 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### סמוקיס עוגיות טבעיות לכלבים בטעם פיצה ובזיליקום
-URL: https://gurimbakfar.co.il/product/smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylykvm-z5rlvv
+URL: https://gurimbakfar.co.il/product/smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylykvm-7tj771
 Price: 20.00 ILS
 Availability: In stock
 
@@ -7054,7 +7054,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס ברבקיו שוק עוף 80 גר'
-URL: https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-ev7xpl
+URL: https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-k46lbu
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7063,7 +7063,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס ברבקיו טיבון בקר 80 גר'
-URL: https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-4lerfw
+URL: https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-2ma0at
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7072,7 +7072,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס ברבקיו צלעות כבש 80 גר'
-URL: https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tslavt-kbsh-80-gr-y8u8bj
+URL: https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tslavt-kbsh-80-gr-2erv3i
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7081,7 +7081,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס דנטלי מברשות 80 גר'
-URL: https://gurimbakfar.co.il/product/chtyp-nvblvs-dntly-mbrshvt-80-gr-nkppco
+URL: https://gurimbakfar.co.il/product/chtyp-nvblvs-dntly-mbrshvt-80-gr-4qadwf
 Price: 12.50 ILS
 Availability: In stock
 
