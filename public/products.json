@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T19:08:16.063Z",
+  "generated_at": "2026-07-19T19:08:49.650Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 237,
@@ -903,9 +903,9 @@
       "slug": "trypl-kravn-lklb-bvgr-gvrmh-kbsh-3oecgq",
       "name": "טריפל קראון לכלב בוגר גורמה כבש",
       "name_translations": {
-        "en": "Triple Crown Gourmet Lamb for Adult Dogs",
+        "en": "Triple Crown Adult Dog Gourmet Lamb",
         "he": "טריפל קראון לכלב בוגר גורמה כבש",
-        "ru": "Triple Crown для взрослых собак Гурмэ Ягнёнок"
+        "ru": "Triple Crown для взрослых собак Гурме Ягнёнок"
       },
       "description": "<p>מרכיבים</p><p>‏דגנים (6% אורז), בשר ומוצרי לוואי מהחי (8% עופות, 6% כבש), שמנים ושומנים (10% שומן עופות), תוצרי לוואי ממקור צמחי, תוצרי לוואי של דגים ודגים, חומרים מינרליים, פירות (תפוח 1000 מ\"ג/ק\"ג ואוכמניות 1000 מ\"ג/ק\"ג) 500 מ\"ג/ק\"ג.</p><p>רכיבים תזונתיים:</p><p>‏חלבון גולמי: 27% – שמנים גולמיים ושומנים: 15% – סיבים גולמיים: 2% – חומר לא אורגני: 8% – לחות 10% – סידן – 2% – זרחן 1.30%.</p>",
       "short_description": "טריפל קראון גורמה כבש ואורז (Triple Crown Gourmet Dog Lamb & Rice) הוא מזון יבש מלא ברמת פרימיום, המיוצר בספרד ומיועד לכלבים בוגרים מכל הגזעים בעלי רמת פעילות ממוצעת. הנוסחה מבוססת על בשר כבש כמקור חלבון חלופי, והיא מתאימה במיוחד לכלבים בעלי מערכת עיכול רגישה או כאלה המפתחים אי-סבילות לחלבונים נפוצים אחרים כמו עוף.",
@@ -924,7 +924,7 @@
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T19:07:58.271Z"
+      "updated_at": "2026-07-19T19:08:17.533Z"
     },
     {
       "id": "5efd3725-7d46-466a-bda9-9cf9ce814777",
@@ -1036,7 +1036,7 @@
     },
     {
       "id": "0014ab6c-0f3e-41c4-874a-14b111e130cc",
-      "slug": "trypl-kravn-slmvn-hypvalrgny-jl571q",
+      "slug": "trypl-kravn-slmvn-hypvalrgny-7ucx1w",
       "name": "טריפל קראון סלמון היפואלרגני",
       "name_translations": {
         "en": "Triple Crown Salmon Hypoallergenic",
@@ -1046,7 +1046,7 @@
       "description": "<p>מרכיבים</p><p>סלמון (סלמון מיובש, 10% סלמון טרי, סלמון הידרוליזט). תירס. אורז 15%. גלוטן תירס. שמן ציפורים. תפוח אדמה 7%. אורז סובין.מוצרים מן הצומח. סלק. שמרים. חומרים מינרלים. עוֹלֶשׁ. שמרים (מקור MOS). גלוקוזאמין. יוקה שידיגרה. כונדרויטין</p><p>ערכים תזונתיים:</p><p>‏חלבון גולמי‏ 28%</p><p>‏שמנים ושומנים גולמיים‏ 17%</p><p>‏סיבים גולמיים‏ 3,5%</p><p>‏אפר גולמי‏ 7%</p><p>‏סידן‏ 1.4%</p><p>‏זרחן‏ 0,9%</p>",
       "short_description": "מזון טריפל קראון סנסטיב סלמון (Triple Crown Sensitive) הוא מזון יבש היפואלרגני לכלבים, המבוסס על סלמון ואורז. הפורמולה מתאימה לכלבים בעלי עור רגיש או עיכול עדין.",
       "sku": null,
-      "brand": null,
+      "brand": "טריפל קראון",
       "price": 299,
       "base_price": 299,
       "sale_price": null,
@@ -1056,11 +1056,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/trypl-kravn-slmvn-hypvalrgny-jl571q",
+      "url": "https://gurimbakfar.co.il/product/trypl-kravn-slmvn-hypvalrgny-7ucx1w",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T18:12:12.483Z"
+      "updated_at": "2026-07-19T19:08:38.392Z"
     },
     {
       "id": "db0ab119-0554-4225-8baa-9e2c4dd60ae5",
