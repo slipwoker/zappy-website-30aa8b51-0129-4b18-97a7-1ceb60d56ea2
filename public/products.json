@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T19:31:08.168Z",
+  "generated_at": "2026-07-19T19:31:43.622Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 237,
@@ -2068,7 +2068,7 @@
     },
     {
       "id": "9e7fc6a5-3f27-4d81-86b9-2976fe4fdae5",
-      "slug": "sms-pyldsams-field-slvmvn-vtpvch-admh-13-kg-46ay3u",
+      "slug": "sms-pyldsams-field-slvmvn-vtpvch-admh-13-kg-h5y5qt",
       "name": "סמס פילד/Sam's Field סלומון ותפוח אדמה 13 ק\"ג",
       "name_translations": {
         "en": "Sam's Field Salmon and Potato 13 kg",
@@ -2084,15 +2084,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-1783339959602-debelp.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1784489484204-3josz7.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/sms-pyldsams-field-slvmvn-vtpvch-admh-13-kg-46ay3u",
+      "url": "https://gurimbakfar.co.il/product/sms-pyldsams-field-slvmvn-vtpvch-admh-13-kg-h5y5qt",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T19:30:56.052Z"
+      "updated_at": "2026-07-19T19:31:36.316Z"
     },
     {
       "id": "37f4894e-8004-4732-bfed-5e2ea17c0a65",
