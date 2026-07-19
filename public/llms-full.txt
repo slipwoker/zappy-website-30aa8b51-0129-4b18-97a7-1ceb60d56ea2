@@ -7044,6 +7044,15 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 
 ## Product Catalog
 
+### בוש מיני ג'וניור עוף
+URL: https://gurimbakfar.co.il/product/bvsh-myny-gvnyvr-avp-n3bjdv
+Price: 0.00 ILS
+Availability: In stock
+
+רכיבים: &nbsp; עוף טרי (25%), תירס, קמח בשר עוף, אורז, דוחן, שומן בעלי חיים, עיסת סלק (ללא סוכר), חלבון hydrolysed, קמח דגים, פשתים, גרגרים (יבשים), קמח בשר, אפונה, שמרים (מיובש, 0.1 % mannan oligosaccharides, 0.06% β-glucans), שמן דגים, קולוסטרום (0,3%), נתרן כלורי, תמצית שבלול ירוק (0,1%), עולש (מיובש), אשלגן כלורי. ערכים תזונתיים: חלבון 26%, שומן 17%, סיבים גולמיים 2.5%, אפר גולמי 6%, סידן 1.2%, זרחן 0.90%.
+
+---
+
 ### בוש ג'וניור כבש ואורז לגורי כלבים מגזע בינוני
 URL: https://gurimbakfar.co.il/product/bvsh-gvnyvr-kbsh-vavrz-lgvry-klbym-mgza-bynvny-w57iuh
 Price: 0.00 ILS

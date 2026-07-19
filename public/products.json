@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T18:51:38.951Z",
+  "generated_at": "2026-07-19T18:57:57.050Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 236,
+  "count": 237,
   "products": [
+    {
+      "id": "06a8a4d7-6c8f-403c-8f78-183989a091ec",
+      "slug": "bvsh-myny-gvnyvr-avp-n3bjdv",
+      "name": "בוש מיני ג'וניור עוף",
+      "name_translations": {
+        "en": "Bosch Mini Junior Chicken",
+        "he": "בוש מיני ג'וניור עוף",
+        "ru": "Bosch Mini Junior Курица"
+      },
+      "description": "<p><strong>רכיבים:</strong>&nbsp;</p><p>עוף טרי (25%), תירס, קמח בשר עוף, אורז, דוחן, שומן בעלי חיים, עיסת סלק (ללא סוכר), חלבון hydrolysed, קמח דגים, פשתים, גרגרים (יבשים), קמח בשר, אפונה, שמרים (מיובש, 0.1 % mannan oligosaccharides, 0.06% β-glucans), שמן דגים, קולוסטרום (0,3%), נתרן כלורי, תמצית שבלול ירוק (0,1%), עולש (מיובש), אשלגן כלורי.</p><p><strong>ערכים תזונתיים:</strong></p><p>חלבון 26%, שומן 17%, סיבים גולמיים 2.5%, אפר גולמי 6%, סידן 1.2%, זרחן 0.90%.</p>",
+      "short_description": "מזון בוש מיני ג'וניור עוף (Bosch Mini Junior) הוא אוכל יבש פרימיום לגורי כלבים מגזע קטן המיועד מגיל גמילה ועד גיל שנה (משקל בוגר עד 15 ק\"ג). הוא מתבסס על עוף טרי ומכיל גלוקוזאמין לשמירה על המפרקים.",
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/bvsh-myny-gvnyvr-avp-n3bjdv",
+      "categories": [],
+      "updated_at": "2026-07-19T18:57:04.563Z"
+    },
     {
       "id": "f7af80bf-b4a4-41e3-b77c-7ebde5f94101",
       "slug": "bvsh-gvnyvr-kbsh-vavrz-lgvry-klbym-mgza-bynvny-w57iuh",
