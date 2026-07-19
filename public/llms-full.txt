@@ -7045,18 +7045,20 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### בוש מיני ג'וניור עוף
-URL: https://gurimbakfar.co.il/product/bvsh-myny-gvnyvr-avp-yb892c
+URL: https://gurimbakfar.co.il/product/bvsh-myny-gvnyvr-avp-08ib5l
 Price: 0.00 ILS
 Availability: In stock
+Brand: bosch
 
 רכיבים: &nbsp; עוף טרי (25%), תירס, קמח בשר עוף, אורז, דוחן, שומן בעלי חיים, עיסת סלק (ללא סוכר), חלבון hydrolysed, קמח דגים, פשתים, גרגרים (יבשים), קמח בשר, אפונה, שמרים (מיובש, 0.1 % mannan oligosaccharides, 0.06% β-glucans), שמן דגים, קולוסטרום (0,3%), נתרן כלורי, תמצית שבלול ירוק (0,1%), עולש (מיובש), אשלגן כלורי. ערכים תזונתיים: חלבון 26%, שומן 17%, סיבים גולמיים 2.5%, אפר גולמי 6%, סידן 1.2%, זרחן 0.90%.
 
 ---
 
 ### בוש ג'וניור כבש ואורז לגורי כלבים מגזע בינוני
-URL: https://gurimbakfar.co.il/product/bvsh-gvnyvr-kbsh-vavrz-lgvry-klbym-mgza-bynvny-w57iuh
+URL: https://gurimbakfar.co.il/product/bvsh-gvnyvr-kbsh-vavrz-lgvry-klbym-mgza-bynvny-4xby4d
 Price: 0.00 ILS
 Availability: In stock
+Brand: bosch
 
 רכיבים:&nbsp; עוף טרי (20%), אורז (20%), אורז מלא,&nbsp;כבש (10%), קמח אורז, גרגרים (יבשים), שומן בעלי חיים, עיסת סלק (ללא סוכר), קמח בשר עוף,&nbsp;קמח בשר, hydrolysed חלבון אורז, שמן דגים, אפונה, שמרים (מיובש, 0.1%, קולוסטרום (0,3%), אשלגן כלורי, נתרן כלורי, 1%), עולש (מיובש). ערכים תזונתיים: חלבון 25%, שומן 13%, סיבים גולמיים 2.5%, אפר גולמי 7.3%, סידן 1.3%, זרחן 0.95%.
 
@@ -7330,9 +7332,10 @@ Availability: In stock
 ---
 
 ### טריפל קראון לכלב בוגר גורמה כבש
-URL: https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-gvrmh-kbsh-crxt3z
+URL: https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-gvrmh-kbsh-3oecgq
 Price: 259.00 ILS
 Availability: In stock
+Brand: טריפל קראון
 
 מרכיבים ‏דגנים (6% אורז), בשר ומוצרי לוואי מהחי (8% עופות, 6% כבש), שמנים ושומנים (10% שומן עופות), תוצרי לוואי ממקור צמחי, תוצרי לוואי של דגים ודגים, חומרים מינרליים, פירות (תפוח 1000 מ"ג/ק"ג ואוכמניות 1000 מ"ג/ק"ג) 500 מ"ג/ק"ג. רכיבים תזונתיים: ‏חלבון גולמי: 27% – שמנים גולמיים ושומנים: 15% – סיבים גולמיים: 2% – חומר לא אורגני: 8% – לחות 10% – סידן – 2% – זרחן 1.30%.
 
@@ -7365,9 +7368,10 @@ Availability: In stock
 ---
 
 ### בוש לגורים מגזע גדול עוף
-URL: https://gurimbakfar.co.il/product/bvsh-lgvrym-mgza-gdvl-avp-tlim1c
+URL: https://gurimbakfar.co.il/product/bvsh-lgvrym-mgza-gdvl-avp-9drk49
 Price: 40.00 ILS
 Availability: In stock
+Brand: bosch
 
 אוכל לגורים גזע גדול- רכיבים: &nbsp; עוף טרי (25%), אורז, שעורה, בשר עופות, תירס, עיסת סלק (ללא סוכר), שומן מן החי, חלבון hydrolysed, קמח דגים, אבקת ביצים, פשתן, אפונה, שמרים (מיובש, 0.1% manan oligosaccharides, 0.06 % β-glucans), שמן דגים, קולוסטרום (0,3%), נתרן כלורי, תמצית שבלולים ירוקים (0,1%), אשלגן כלורי, עולש (מיובש). BOSCH MAXI JUNIOR תכולה תזונתית:&nbsp; חלבון 24%, שומן 12%, סיבים גולמיים 2.5%, אפר גולמי 6%, סידן 1.2%, זרחן 0.9%.
 

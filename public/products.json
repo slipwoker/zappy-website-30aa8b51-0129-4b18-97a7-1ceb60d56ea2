@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T19:04:07.460Z",
+  "generated_at": "2026-07-19T19:08:16.063Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 237,
   "products": [
     {
       "id": "06a8a4d7-6c8f-403c-8f78-183989a091ec",
-      "slug": "bvsh-myny-gvnyvr-avp-yb892c",
+      "slug": "bvsh-myny-gvnyvr-avp-08ib5l",
       "name": "בוש מיני ג'וניור עוף",
       "name_translations": {
         "en": "Bosch Mini Junior Chicken",
@@ -17,7 +17,7 @@
       "description": "<p><strong>רכיבים:</strong>&nbsp;</p><p>עוף טרי (25%), תירס, קמח בשר עוף, אורז, דוחן, שומן בעלי חיים, עיסת סלק (ללא סוכר), חלבון hydrolysed, קמח דגים, פשתים, גרגרים (יבשים), קמח בשר, אפונה, שמרים (מיובש, 0.1 % mannan oligosaccharides, 0.06% β-glucans), שמן דגים, קולוסטרום (0,3%), נתרן כלורי, תמצית שבלול ירוק (0,1%), עולש (מיובש), אשלגן כלורי.</p><p><strong>ערכים תזונתיים:</strong></p><p>חלבון 26%, שומן 17%, סיבים גולמיים 2.5%, אפר גולמי 6%, סידן 1.2%, זרחן 0.90%.</p>",
       "short_description": "מזון בוש מיני ג'וניור עוף (Bosch Mini Junior) הוא אוכל יבש פרימיום לגורי כלבים מגזע קטן המיועד מגיל גמילה ועד גיל שנה (משקל בוגר עד 15 ק\"ג). הוא מתבסס על עוף טרי ומכיל גלוקוזאמין לשמירה על המפרקים.",
       "sku": null,
-      "brand": null,
+      "brand": "bosch",
       "price": 0,
       "base_price": 0,
       "sale_price": null,
@@ -25,25 +25,25 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/bvsh-myny-gvnyvr-avp-yb892c",
+      "url": "https://gurimbakfar.co.il/product/bvsh-myny-gvnyvr-avp-08ib5l",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T19:03:36.050Z"
+      "updated_at": "2026-07-19T19:06:02.452Z"
     },
     {
       "id": "f7af80bf-b4a4-41e3-b77c-7ebde5f94101",
-      "slug": "bvsh-gvnyvr-kbsh-vavrz-lgvry-klbym-mgza-bynvny-w57iuh",
+      "slug": "bvsh-gvnyvr-kbsh-vavrz-lgvry-klbym-mgza-bynvny-4xby4d",
       "name": "בוש ג'וניור כבש ואורז לגורי כלבים מגזע בינוני",
       "name_translations": {
         "en": "Bosch Junior Lamb & Rice for Medium Breed Puppies",
         "he": "בוש ג'וניור כבש ואורז לגורי כלבים מגזע בינוני",
-        "ru": "Bosch Junior ягнёнок и рис для щенков средних пород"
+        "ru": "Bosch Junior Ягнёнок и рис для щенков средних пород"
       },
       "description": "<p><strong>רכיבים:&nbsp;</strong></p><p>עוף טרי (20%), אורז (20%), אורז מלא,&nbsp;כבש (10%), קמח אורז, גרגרים (יבשים), שומן בעלי חיים, עיסת סלק (ללא סוכר), קמח בשר עוף,&nbsp;קמח בשר, hydrolysed חלבון אורז, שמן דגים, אפונה, שמרים (מיובש, 0.1%, קולוסטרום (0,3%), אשלגן כלורי, נתרן כלורי, 1%), עולש (מיובש).</p><p><strong>ערכים תזונתיים:</strong></p><p>חלבון 25%, שומן 13%, סיבים גולמיים 2.5%, אפר גולמי 7.3%, סידן 1.3%, זרחן 0.95%.</p>",
       "short_description": "מזון גורים בוש ג'וניור כבש ואורז (Bosch Junior Lamb & Rice) הוא מזון יבש ברמת סופר פרימיום, המיועד במיוחד לגורי כלבים בתהליך גדילה (בפרט מגזעים בינוניים וגדולים), ומותאם במיוחד לגורים בעלי קיבה רגישה או נטייה לאלרגיות.",
       "sku": null,
-      "brand": null,
+      "brand": "bosch",
       "price": 0,
       "base_price": 0,
       "sale_price": null,
@@ -51,11 +51,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/bvsh-gvnyvr-kbsh-vavrz-lgvry-klbym-mgza-bynvny-w57iuh",
+      "url": "https://gurimbakfar.co.il/product/bvsh-gvnyvr-kbsh-vavrz-lgvry-klbym-mgza-bynvny-4xby4d",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T18:50:26.014Z"
+      "updated_at": "2026-07-19T19:07:44.749Z"
     },
     {
       "id": "b3ddc539-aa39-4ae8-a68d-a38aa28758c0",
@@ -900,7 +900,7 @@
     },
     {
       "id": "b81f25b9-288f-4d22-a010-9eb8c8211c2b",
-      "slug": "trypl-kravn-lklb-bvgr-gvrmh-kbsh-crxt3z",
+      "slug": "trypl-kravn-lklb-bvgr-gvrmh-kbsh-3oecgq",
       "name": "טריפל קראון לכלב בוגר גורמה כבש",
       "name_translations": {
         "en": "Triple Crown Gourmet Lamb for Adult Dogs",
@@ -910,7 +910,7 @@
       "description": "<p>מרכיבים</p><p>‏דגנים (6% אורז), בשר ומוצרי לוואי מהחי (8% עופות, 6% כבש), שמנים ושומנים (10% שומן עופות), תוצרי לוואי ממקור צמחי, תוצרי לוואי של דגים ודגים, חומרים מינרליים, פירות (תפוח 1000 מ\"ג/ק\"ג ואוכמניות 1000 מ\"ג/ק\"ג) 500 מ\"ג/ק\"ג.</p><p>רכיבים תזונתיים:</p><p>‏חלבון גולמי: 27% – שמנים גולמיים ושומנים: 15% – סיבים גולמיים: 2% – חומר לא אורגני: 8% – לחות 10% – סידן – 2% – זרחן 1.30%.</p>",
       "short_description": "טריפל קראון גורמה כבש ואורז (Triple Crown Gourmet Dog Lamb & Rice) הוא מזון יבש מלא ברמת פרימיום, המיוצר בספרד ומיועד לכלבים בוגרים מכל הגזעים בעלי רמת פעילות ממוצעת. הנוסחה מבוססת על בשר כבש כמקור חלבון חלופי, והיא מתאימה במיוחד לכלבים בעלי מערכת עיכול רגישה או כאלה המפתחים אי-סבילות לחלבונים נפוצים אחרים כמו עוף.",
       "sku": null,
-      "brand": null,
+      "brand": "טריפל קראון",
       "price": 259,
       "base_price": 259,
       "sale_price": null,
@@ -920,11 +920,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-gvrmh-kbsh-crxt3z",
+      "url": "https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-gvrmh-kbsh-3oecgq",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T18:06:01.382Z"
+      "updated_at": "2026-07-19T19:07:58.271Z"
     },
     {
       "id": "5efd3725-7d46-466a-bda9-9cf9ce814777",
@@ -1008,17 +1008,17 @@
     },
     {
       "id": "8127bf1a-dee7-4f7a-a467-5fcb3632a632",
-      "slug": "bvsh-lgvrym-mgza-gdvl-avp-tlim1c",
+      "slug": "bvsh-lgvrym-mgza-gdvl-avp-9drk49",
       "name": "בוש לגורים מגזע גדול עוף",
       "name_translations": {
         "en": "Bosch Large Breed Puppy Chicken",
         "he": "בוש לגורים מגזע גדול עוף",
-        "ru": "Bosch для щенков крупных пород с курицей"
+        "ru": "Bosch для щенков крупных пород курица"
       },
       "description": "<p><strong>אוכל לגורים גזע גדול- רכיבים:</strong></p><p><strong>&nbsp;</strong>עוף טרי (25%), אורז, שעורה, בשר עופות, תירס, עיסת סלק (ללא סוכר), שומן מן החי, חלבון hydrolysed, קמח דגים, אבקת ביצים, פשתן, אפונה, שמרים (מיובש, 0.1% manan oligosaccharides, 0.06 % β-glucans), שמן דגים, קולוסטרום (0,3%), נתרן כלורי, תמצית שבלולים ירוקים (0,1%), אשלגן כלורי, עולש (מיובש).</p><p><br></p><p><strong>BOSCH MAXI JUNIOR תכולה תזונתית:&nbsp;</strong></p><p>חלבון 24%, שומן 12%, סיבים גולמיים 2.5%, אפר גולמי 6%, סידן 1.2%, זרחן 0.9%.</p>",
       "short_description": "מזון לגורי כלבים מגזעים גדולים מקסי ג'וניור מומלץ לגורים של כלבים מגיל גמילה עד גיל שנה שבבגרותם ישקלו מעל 25 ק\"ג. בוש ג'וניור מכיל רכיבים אשר מחזקים את המערכת החיסונית ותורמים לחיזוק הפלורה הטובה במעי. מכיל גלוקוזאמין מקונכיות שבלול לשמירה על אגן וסחוסים חזקים וגמישים. המזון מכיל עוף טרי כרכיב עיקרי על מנת להבטיח את רמת טעימות המזון. מזון לכלב תוצרת בוש גרמניה ברמת סופר פרימיום. BOSCH MAXI JUNIOR",
       "sku": null,
-      "brand": null,
+      "brand": "bosch",
       "price": 40,
       "base_price": 40,
       "sale_price": null,
@@ -1028,11 +1028,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/bvsh-lgvrym-mgza-gdvl-avp-tlim1c",
+      "url": "https://gurimbakfar.co.il/product/bvsh-lgvrym-mgza-gdvl-avp-9drk49",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T18:32:36.898Z"
+      "updated_at": "2026-07-19T19:06:54.640Z"
     },
     {
       "id": "0014ab6c-0f3e-41c4-874a-14b111e130cc",
