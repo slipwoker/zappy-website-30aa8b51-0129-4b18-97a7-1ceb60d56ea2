@@ -7046,7 +7046,7 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### קולר חגורה לכלב גדול
-URL: https://gurimbakfar.co.il/product/kvlr-chgvrh-lklb-gdvl-wrp6mz
+URL: https://gurimbakfar.co.il/product/kvlr-chgvrh-lklb-gdvl-gftv9x
 Price: 75.00 ILS
 Availability: In stock
 SKU: PR-1051

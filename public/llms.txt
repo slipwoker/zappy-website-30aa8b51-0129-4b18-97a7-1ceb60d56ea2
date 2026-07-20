@@ -76,12 +76,13 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 240** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### קולר חגורה לכלב גדול
-https://gurimbakfar.co.il/product/kvlr-chgvrh-lklb-gdvl-wrp6mz
+https://gurimbakfar.co.il/product/kvlr-chgvrh-lklb-gdvl-gftv9x
 - Price: 75.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 - SKU: PR-1051
 - Brand: JOHNDEERE
+- Image: https://gurimbakfar.co.il/assets/product-ai-fit-1784555878307-1l2pem.webp
 
 ### קולר חגורה לכלב גדול
 https://gurimbakfar.co.il/product/kvlr-chgvrh-lklb-gdvl-ap5ka7
