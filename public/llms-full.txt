@@ -7563,7 +7563,7 @@ Availability: In stock
 ---
 
 ### סט רתמה ורצועה לכלב גדול צבעוני מעויינים
-URL: https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-gdvl-tsbavny-mavyynym-kkt095
+URL: https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-gdvl-tsbavny-mavyynym-xjq5vy
 Price: 70.00 ILS
 Availability: In stock
 
@@ -7571,20 +7571,6 @@ Availability: In stock
 
 ### סט רתמה ורצועה לכלב קטן/בינוני
 URL: https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktnbynvny-ytv9py
-Price: 59.00 ILS
-Availability: In stock
-
----
-
-### סט רתמה ורצועה לכלב קטן/ בינוני צבע סגול
-URL: https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-sgvl-qm267w
-Price: 59.00 ILS
-Availability: In stock
-
----
-
-### סט רתמה ורצועה לכלב קטן/ בינוני צבע טורקיז
-URL: https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-tvrkyz-f65g44
 Price: 59.00 ILS
 Availability: In stock
 

@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T16:53:46.535Z",
+  "generated_at": "2026-07-20T16:54:30.081Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 248,
+  "count": 246,
   "products": [
     {
       "id": "36148dee-db63-463e-9686-a740dccd327b",
@@ -1591,12 +1591,12 @@
     },
     {
       "id": "2003aa08-e7f6-4412-95ba-5f9da5433534",
-      "slug": "st-rtmh-vrtsvah-lklb-gdvl-tsbavny-mavyynym-kkt095",
+      "slug": "st-rtmh-vrtsvah-lklb-gdvl-tsbavny-mavyynym-xjq5vy",
       "name": "סט רתמה ורצועה לכלב גדול צבעוני מעויינים",
       "name_translations": {
         "en": "Colorful Diamond Pattern Harness and Leash Set for Large Dogs",
         "he": "סט רתמה ורצועה לכלב גדול צבעוני מעויינים",
-        "ru": "Набор шлейки и поводка для большой собаки, цветной ромбовидный узор"
+        "ru": "Комплект шлейки и поводка для большой собаки, разноцветный с ромбами"
       },
       "description": "",
       "short_description": null,
@@ -1611,11 +1611,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-gdvl-tsbavny-mavyynym-kkt095",
+      "url": "https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-gdvl-tsbavny-mavyynym-xjq5vy",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-20T16:53:14.693Z"
+      "updated_at": "2026-07-20T16:53:58.473Z"
     },
     {
       "id": "4202abe4-435f-4039-977c-34009ecfcd3f",
@@ -1648,60 +1648,6 @@
         "קולרים ורצועות"
       ],
       "updated_at": "2026-07-20T16:47:09.170Z"
-    },
-    {
-      "id": "e5fc91cb-06bd-4ad3-b193-ceb4331bb07d",
-      "slug": "st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-sgvl-qm267w",
-      "name": "סט רתמה ורצועה לכלב קטן/ בינוני צבע סגול",
-      "name_translations": {
-        "en": "Harness and Leash Set for Small/Medium Dog - Purple",
-        "he": "סט רתמה ורצועה לכלב קטן/ בינוני צבע סגול",
-        "ru": "Комплект шлейки и поводка для маленькой/средней собаки, фиолетовый цвет"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 59,
-      "base_price": 59,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://gurimbakfar.co.il/assets/product-enhanced-1783423936175-n4gsh.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-sgvl-qm267w",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
-    },
-    {
-      "id": "2a76d888-666a-4d95-b799-c9ca5b0ead63",
-      "slug": "st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-tvrkyz-f65g44",
-      "name": "סט רתמה ורצועה לכלב קטן/ בינוני צבע טורקיז",
-      "name_translations": {
-        "en": "Harness and Leash Set for Small/Medium Dog - Turquoise Color",
-        "he": "סט רתמה ורצועה לכלב קטן/ בינוני צבע טורקיז",
-        "ru": "Комплект шлейки и поводка для маленькой/средней собаки, цвет бирюзовый"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 59,
-      "base_price": 59,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-tvrkyz-f65g44",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
     },
     {
       "id": "051cb33a-9a06-4fc9-a24c-7ac0dc15e092",

@@ -73,7 +73,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 248** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 246** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### רתמת פרפקט זברה XL
 https://gurimbakfar.co.il/product/rtmt-prpkt-zbrh-xl-ue4b7v
@@ -541,7 +541,7 @@ https://gurimbakfar.co.il/product/pets-project-kvlr-byysyk-lklb-bmgvvn-mydvt-k0k
 - Image: https://gurimbakfar.co.il/assets/product-1783426395882-scen7.webp
 
 ### סט רתמה ורצועה לכלב גדול צבעוני מעויינים
-https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-gdvl-tsbavny-mavyynym-kkt095
+https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-gdvl-tsbavny-mavyynym-xjq5vy
 - Price: 70.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
@@ -553,19 +553,6 @@ https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktnbynvny-ytv9py
 - Availability: In stock
 - Category: קולרים ורצועות
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1783496084366-4ni6if.webp
-
-### סט רתמה ורצועה לכלב קטן/ בינוני צבע סגול
-https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-sgvl-qm267w
-- Price: 59.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1783423936175-n4gsh.webp
-
-### סט רתמה ורצועה לכלב קטן/ בינוני צבע טורקיז
-https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-tvrkyz-f65g44
-- Price: 59.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
 
 ### סט רתמה ורצועה לכלב קטן/ בינוני צבע כתום
 https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-ktvm-wi4662
@@ -1592,6 +1579,20 @@ https://gurimbakfar.co.il/product/arkt-tschtsvch-shynyym-lklbym-kvll-mshchh-mbrs
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449239449-isaixh.webp
+
+### סט צעצועי לעיסה לכלב 4 חלקים צבע ורוד
+https://gurimbakfar.co.il/product/st-tsatsvay-laysh-lklb-4-chlkym-tsba-vrvd-4x70r9
+- Price: 30.00 ILS
+- Availability: In stock
+- Category: צעצועים
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781451482646-42qbvf.webp
+
+### מזרקת מים חיצונית 1.4 ליטר Petstar
+https://gurimbakfar.co.il/product/mzrkt-mym-chytsvnyt-14-lytr-petstar-l954l1
+- Price: 85.00 ILS
+- Availability: In stock
+- Category: כלי אוכל ושתייה
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1780898660548-exsfsp.webp
 
 ---
 
