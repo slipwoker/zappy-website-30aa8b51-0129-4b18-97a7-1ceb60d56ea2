@@ -76,7 +76,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 247** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### Pets Project רצועה בד צבעוני ג'ירפה
-https://gurimbakfar.co.il/product/pets-project-rtsvah-bd-tsbavny-gyrph-lrndd2
+https://gurimbakfar.co.il/product/pets-project-rtsvah-bd-tsbavny-gyrph-v3410q
 - Price: 0.00 ILS
 - Availability: In stock
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1784560506394-5x8edq.webp
