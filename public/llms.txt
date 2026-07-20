@@ -73,7 +73,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 238** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 239** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### קולר חגורה לכלב גדול
+https://gurimbakfar.co.il/product/kvlr-chgvrh-lklb-gdvl-q4z6w8
+- Price: 65.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+- SKU: PR-1045
+- Brand: PRODUCT PELEG
+- Description: קולר המתאים לכלבים מגזעים גדולים
 
 ### סמס פילד/Sam's Field אווז הודו 13 ק"ג
 https://gurimbakfar.co.il/product/sms-pyldsams-field-avvz-hvdv-13-kg-pwlewr
@@ -1558,13 +1567,6 @@ https://gurimbakfar.co.il/product/rvlr-dbk-60-dpym-26gesj
 - Availability: In stock
 - Category: בית
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449768881-uyzpov.webp
-
-### מברשת שיניים דו צדדי
-https://gurimbakfar.co.il/product/mbrsht-shynyym-dv-tsddy-k21ph9
-- Price: 17.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449807302-moy51e.webp
 
 ---
 
