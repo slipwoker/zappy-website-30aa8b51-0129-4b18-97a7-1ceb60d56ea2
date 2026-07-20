@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T13:40:18.715Z",
+  "generated_at": "2026-07-20T13:41:07.804Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 240,
@@ -38,7 +38,7 @@
       "name_translations": {
         "en": "Belt Collar for Large Dog",
         "he": "קולר חגורה לכלב גדול",
-        "ru": "Ошейник-пояс для крупной собаки"
+        "ru": "Ошейник-пояс для большой собаки"
       },
       "description": "<p>רוחב 45 מ\"מ</p><p>היקף מינימלי 61 ס\"מ</p><p>היקף מקסימלי 70 ס\"מ</p>",
       "short_description": "קולר המתאים לכלבים מגזעים גדולים",
@@ -58,7 +58,7 @@
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-20T13:38:40.502Z"
+      "updated_at": "2026-07-20T13:38:55.778Z"
     },
     {
       "id": "cc4787d4-1ce1-4ffd-9947-a690c102449d",
