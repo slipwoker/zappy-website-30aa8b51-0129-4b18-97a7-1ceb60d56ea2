@@ -7046,7 +7046,7 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### Pets Project רצועה בייסיק לכלב במגוון מידות וצבעים
-URL: https://gurimbakfar.co.il/product/pets-project-rtsvah-byysyk-lklb-bmgvvn-mydvt-vtsbaym-0cqth4
+URL: https://gurimbakfar.co.il/product/pets-project-rtsvah-byysyk-lklb-bmgvvn-mydvt-vtsbaym-euz3oy
 Price: 0.00 ILS
 Availability: In stock
 Brand: Pets Project
