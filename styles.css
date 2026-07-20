@@ -21166,6 +21166,20 @@ main,
 .navbar .zappy-products-dropdown .sub-menu a {
   color: #000000 !important;
 }
+
+.hero-gpv ~ .site-footer .footer-social .social-link,
+.breeds-section ~ .site-footer .footer-social .social-link,
+.puppies-journey-section ~ .site-footer .footer-social .social-link,
+.gcv-why-section ~ .site-footer .footer-social .social-link {
+  color: #FFFFFF !important;
+}
+
+.hero-gpv ~ .site-footer .footer-social .social-link i,
+.breeds-section ~ .site-footer .footer-social .social-link i,
+.puppies-journey-section ~ .site-footer .footer-social .social-link i,
+.gcv-why-section ~ .site-footer .footer-social .social-link i {
+  color: #FFFFFF !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
