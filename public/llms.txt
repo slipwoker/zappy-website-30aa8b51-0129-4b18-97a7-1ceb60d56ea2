@@ -73,7 +73,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 239** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 240** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### קולר חגורה לכלב גדול
+https://gurimbakfar.co.il/product/kvlr-chgvrh-lklb-gdvl-wrp6mz
+- Price: 75.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+- SKU: PR-1051
+- Brand: JOHNDEERE
 
 ### קולר חגורה לכלב גדול
 https://gurimbakfar.co.il/product/kvlr-chgvrh-lklb-gdvl-q4z6w8
@@ -1560,13 +1568,6 @@ https://gurimbakfar.co.il/product/arkt-tschtsvch-shynyym-lklbym-btam-bkr-cx1jij
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449730108-hbmwky.webp
-
-### רולר דבק 60 דפים
-https://gurimbakfar.co.il/product/rvlr-dbk-60-dpym-26gesj
-- Price: 25.00 ILS
-- Availability: In stock
-- Category: בית
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449768881-uyzpov.webp
 
 ---
 

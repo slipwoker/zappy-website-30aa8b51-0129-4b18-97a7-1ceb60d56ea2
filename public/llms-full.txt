@@ -7046,6 +7046,15 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### קולר חגורה לכלב גדול
+URL: https://gurimbakfar.co.il/product/kvlr-chgvrh-lklb-gdvl-wrp6mz
+Price: 75.00 ILS
+Availability: In stock
+SKU: PR-1051
+Brand: JOHNDEERE
+
+---
+
+### קולר חגורה לכלב גדול
 URL: https://gurimbakfar.co.il/product/kvlr-chgvrh-lklb-gdvl-q4z6w8
 Price: 65.00 ILS
 Availability: In stock
