@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T15:41:07.899Z",
+  "generated_at": "2026-07-20T15:43:17.460Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 247,
@@ -1366,7 +1366,7 @@
     },
     {
       "id": "2708101c-ba80-4c58-a122-b9ed83a8a038",
-      "slug": "rtmt-quick-fit-xxs-8brgjr",
+      "slug": "rtmt-quick-fit-xxs-4ajpda",
       "name": "רתמת Quick fit xxs",
       "name_translations": {
         "en": "Quick fit harness xxs",
@@ -1376,7 +1376,7 @@
       "description": "",
       "short_description": null,
       "sku": null,
-      "brand": null,
+      "brand": "Pets Project",
       "price": 53,
       "base_price": 53,
       "sale_price": null,
@@ -1386,11 +1386,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rtmt-quick-fit-xxs-8brgjr",
+      "url": "https://gurimbakfar.co.il/product/rtmt-quick-fit-xxs-4ajpda",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-20T15:40:35.926Z"
+      "updated_at": "2026-07-20T15:42:45.268Z"
     },
     {
       "id": "f98ce8cf-6925-478f-9f53-780514d664f9",
