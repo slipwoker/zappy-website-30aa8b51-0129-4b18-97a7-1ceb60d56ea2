@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T16:12:29.261Z",
+  "generated_at": "2026-07-20T16:17:51.017Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 248,
@@ -170,12 +170,12 @@
     },
     {
       "id": "b85c44ac-8b0f-453b-8871-49c8f6f7b310",
-      "slug": "rtsvah-lklb-ihpn2e",
-      "name": "רצועה לכלב ",
+      "slug": "rtsvah-lklb-pr-1130-279d2k",
+      "name": "רצועה לכלב PR-1130",
       "name_translations": {
-        "en": "Dog Leash ",
-        "he": "רצועה לכלב ",
-        "ru": "Поводок для собаки "
+        "en": "Dog Leash PR-1130",
+        "he": "רצועה לכלב PR-1130",
+        "ru": "Поводок для собаки PR-1130"
       },
       "description": "<p>רוחב 30 מ\"מ</p><p>אורך 147 ס\"מ</p>",
       "short_description": "רצועה עבה ואיכותית לכלב גדול",
@@ -185,14 +185,16 @@
       "base_price": 53,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1784564211099-4t2s0l.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rtsvah-lklb-ihpn2e",
+      "url": "https://gurimbakfar.co.il/product/rtsvah-lklb-pr-1130-279d2k",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-20T14:18:22.517Z"
+      "updated_at": "2026-07-20T16:17:41.626Z"
     },
     {
       "id": "639f54f8-5a53-440a-b0b3-e96894ee7223",
