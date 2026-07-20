@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T15:58:46.826Z",
+  "generated_at": "2026-07-20T16:04:39.189Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 248,
@@ -193,7 +193,7 @@
     },
     {
       "id": "639f54f8-5a53-440a-b0b3-e96894ee7223",
-      "slug": "rtsvah-lklb-1zwgb8",
+      "slug": "rtsvah-lklb-6tm6vn",
       "name": "רצועה לכלב ",
       "name_translations": {
         "en": "Dog Leash ",
@@ -208,14 +208,16 @@
       "base_price": 50,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1784563419577-gpav0o.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rtsvah-lklb-1zwgb8",
+      "url": "https://gurimbakfar.co.il/product/rtsvah-lklb-6tm6vn",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-20T14:13:37.305Z"
+      "updated_at": "2026-07-20T16:04:07.156Z"
     },
     {
       "id": "2b158e86-511f-49f6-bd82-929a7edf3356",
