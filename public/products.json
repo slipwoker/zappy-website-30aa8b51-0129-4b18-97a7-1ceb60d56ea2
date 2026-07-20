@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T16:56:19.231Z",
+  "generated_at": "2026-07-20T16:57:06.757Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 242,
@@ -1619,7 +1619,7 @@
     },
     {
       "id": "4202abe4-435f-4039-977c-34009ecfcd3f",
-      "slug": "st-rtmh-vrtsvah-lklb-ktnbynvny-ytv9py",
+      "slug": "st-rtmh-vrtsvah-lklb-ktnbynvny-lnm7ii",
       "name": "סט רתמה ורצועה לכלב קטן/בינוני",
       "name_translations": {
         "en": "Harness and Leash Set for Small/Medium Dog",
@@ -1635,19 +1635,19 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1784565969133-h9q9t3.webp",
         "https://gurimbakfar.co.il/assets/product-enhanced-1783496084366-4ni6if.webp",
         "https://gurimbakfar.co.il/assets/product-enhanced-1783495647607-6h1pbc.webp",
         "https://gurimbakfar.co.il/assets/product-enhanced-1783495680020-9lmc3k.webp",
-        "https://gurimbakfar.co.il/assets/product-enhanced-1783495794965-zf5gx.webp",
-        "https://gurimbakfar.co.il/assets/product-enhanced-1784565969133-h9q9t3.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783495794965-zf5gx.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktnbynvny-ytv9py",
+      "url": "https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktnbynvny-lnm7ii",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-20T16:47:09.170Z"
+      "updated_at": "2026-07-20T16:56:35.017Z"
     },
     {
       "id": "7a652b8d-226b-4e45-9ae5-8ddfaad7d7cb",
