@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T13:59:56.284Z",
+  "generated_at": "2026-07-20T14:00:57.608Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 240,
   "products": [
     {
       "id": "2b158e86-511f-49f6-bd82-929a7edf3356",
-      "slug": "kvlr-chgvrh-lklb-gdvl-gftv9x",
+      "slug": "kvlr-chgvrh-lklb-gdvl-giwkf2",
       "name": "קולר חגורה לכלב גדול",
       "name_translations": {
         "en": "Belt Collar for Large Dog",
@@ -23,15 +23,16 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-ai-fit-1784555878307-1l2pem.webp"
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1784555878307-1l2pem.webp",
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1784555994342-jua0lm.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kvlr-chgvrh-lklb-gdvl-gftv9x",
+      "url": "https://gurimbakfar.co.il/product/kvlr-chgvrh-lklb-gdvl-giwkf2",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-20T13:59:24.513Z"
+      "updated_at": "2026-07-20T14:00:44.576Z"
     },
     {
       "id": "ce699fbd-1df5-4ba5-b51c-6db478d7cc7d",
