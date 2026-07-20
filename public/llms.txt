@@ -73,7 +73,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 240** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 241** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### רצועה לכלב 
+https://gurimbakfar.co.il/product/rtsvah-lklb-6e2fha
+- Price: 50.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+- SKU: PR-11255
+- Brand: PRODUCT PELEG
+- Description: רצועה עבה ואיכותית
 
 ### קולר חגורה לכלב גדול
 https://gurimbakfar.co.il/product/kvlr-chgvrh-lklb-gdvl-giwkf2
@@ -1563,13 +1572,6 @@ https://gurimbakfar.co.il/product/kdvr-dntly-ktn-0lrc9s
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449689716-lx9h3d.webp
-
-### ערכת צחצוח שיניים לכלבים בטעם בקר
-https://gurimbakfar.co.il/product/arkt-tschtsvch-shynyym-lklbym-btam-bkr-cx1jij
-- Price: 35.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449730108-hbmwky.webp
 
 ---
 
