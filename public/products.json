@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T16:18:13.700Z",
+  "generated_at": "2026-07-20T16:18:47.779Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 248,
@@ -147,9 +147,9 @@
       "slug": "rtsvah-lklb-gdvlank-pr-1140-hf3b1s",
       "name": "רצועה לכלב גדול/ענק PR-1140",
       "name_translations": {
-        "en": "Leash for Large/Giant Dog",
-        "he": "רצועה לכלב גדול/ענק",
-        "ru": "Поводок для большой/гигантской собаки"
+        "en": "Leash for Large/Giant Dog PR-1140",
+        "he": "רצועה לכלב גדול/ענק PR-1140",
+        "ru": "Поводок для большой/гигантской собаки PR-1140"
       },
       "description": "<p>רוחב 40 מ\"מ</p><p>אורך 150 ס\"מ</p>",
       "short_description": "רצועה עבה ואיכותית ",
@@ -166,7 +166,7 @@
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-20T16:18:01.214Z"
+      "updated_at": "2026-07-20T16:18:16.037Z"
     },
     {
       "id": "b85c44ac-8b0f-453b-8871-49c8f6f7b310",
