@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T15:27:56.259Z",
+  "generated_at": "2026-07-20T15:28:13.227Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 247,
@@ -10,7 +10,7 @@
       "slug": "pets-project-rtsvah-bd-tsbavny-gyrph-e6s1ws",
       "name": "Pets Project רצועה בד צבעוני ג'ירפה",
       "name_translations": {
-        "en": "Pets Project Colorful Fabric Leash Giraffe",
+        "en": "Pets Project Colorful Fabric Giraffe Leash",
         "he": "Pets Project רצועה בד צבעוני ג'ירפה",
         "ru": "Pets Project поводок тканевый цветной жираф"
       },
@@ -31,7 +31,7 @@
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-20T15:26:21.819Z"
+      "updated_at": "2026-07-20T15:26:43.936Z"
     },
     {
       "id": "49cec01c-17e0-4ba4-9b10-70130f74f63d",
