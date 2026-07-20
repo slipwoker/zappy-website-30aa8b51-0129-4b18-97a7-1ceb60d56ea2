@@ -1,20 +1,20 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T14:49:09.127Z",
+  "generated_at": "2026-07-20T14:50:25.440Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 246,
   "products": [
     {
       "id": "49cec01c-17e0-4ba4-9b10-70130f74f63d",
-      "slug": "pets-project-rtsvah-byysyk-lklb-bmgvvn-mydvt-vtsbaym-ilx751",
+      "slug": "pets-project-rtsvah-byysyk-lklb-bmgvvn-mydvt-vtsbaym-0cqth4",
       "name": "Pets Project רצועה בייסיק לכלב במגוון מידות וצבעים",
       "name_translations": {
-        "en": "Pets Project Basic Dog Leash in a Variety of Sizes and Colors",
+        "en": "Pets Project Basic Leash for Dogs in a Variety of Sizes and Colors",
         "he": "Pets Project רצועה בייסיק לכלב במגוון מידות וצבעים",
-        "ru": "Pets Project базовый поводок для собак в разных размерах и цветах"
+        "ru": "Pets Project поводок базовый для собак в разных размерах и цветах"
       },
-      "description": "",
+      "description": "<p>רצועת ניילון פטס פרוג'קט במבחר צבעים לגורים וכלבים קטנים, עשויה ניילון איכותי ועמיד, עם קליפס תפיסה לרצועת הקולר.</p><p>יש לבחור מידה רצויה :</p><ul><li>XS – אורך 1.5 מטר, רוחב 1 ס\"מ</li><li>S – אורך 1.5 מטר, רוחב 1.5 ס\"מ</li><li>M – אורך 1.5 מטר, רוחב 2 ס\"מ</li><li>L – אורך 1.5 מטר, רוחב 2.5 ס\"מ</li></ul><p><br></p>",
       "short_description": null,
       "sku": null,
       "brand": "Pets Project",
@@ -25,11 +25,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/pets-project-rtsvah-byysyk-lklb-bmgvvn-mydvt-vtsbaym-ilx751",
+      "url": "https://gurimbakfar.co.il/product/pets-project-rtsvah-byysyk-lklb-bmgvvn-mydvt-vtsbaym-0cqth4",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-20T14:48:37.382Z"
+      "updated_at": "2026-07-20T14:49:53.559Z"
     },
     {
       "id": "dc677c5f-1fd7-4550-a972-356f980061bf",
