@@ -73,7 +73,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 247** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 248** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### רתמת פרפקט זברה XL
+https://gurimbakfar.co.il/product/rtmt-prpkt-zbrh-xl-ue4b7v
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+- Brand: Pets Project
+- Description: רתמה איכותית ונוחה מבית Pets Project, המעניקה שילוב מושלם של שליטה, נוחות ובטיחות. דגם Perfect מתוכנן להתאמה מדויקת לגוף הכלב, עם חלוקת לחץ נכונה שמפחיתה עומס מהצוואר ומבטיחה חוויית טיול נעימה. עשויה חומרים עמידים וקלים, עם רצועות מתכווננות להתאמה אישית ויציבה עם סגירה כפולה לאבטחה. מגיעה עם ידית אחזקה על גב הרתמה. אידיאלית לשימוש יומיומי ומתאימה לכלבים גדולים
 
 ### Pets Project רצועה בד צבעוני ג'ירפה
 https://gurimbakfar.co.il/product/pets-project-rtsvah-bd-tsbavny-gyrph-e6s1ws
@@ -1578,13 +1586,6 @@ https://gurimbakfar.co.il/product/arkt-tschtsvch-shynyym-lklbym-kvll-mshchh-mbrs
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449239449-isaixh.webp
-
-### סט צעצועי לעיסה לכלב 4 חלקים צבע ורוד
-https://gurimbakfar.co.il/product/st-tsatsvay-laysh-lklb-4-chlkym-tsba-vrvd-4x70r9
-- Price: 30.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781451482646-42qbvf.webp
 
 ---
 
