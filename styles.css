@@ -20982,6 +20982,12 @@ main,
   color: #000000 !important;
 }
 }
+
+@media (min-width: 769px) {
+#navMenu > li > a[href="/contact"] {
+  display: inline-block !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
