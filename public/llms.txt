@@ -73,7 +73,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 244** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 245** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### רצועה לכלב קטן/בינוני
+https://gurimbakfar.co.il/product/rtsvah-lklb-ktnbynvny-yxswnu
+- Price: 30.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+- SKU: PR-11200
+- Brand: PRODUCT PELEG
+- Description: רצועה עבה ואיכותית לכלב קטן/בינוני
 
 ### רצועה לכלב
 https://gurimbakfar.co.il/product/rtsvah-lklb-ljlya5
@@ -1571,13 +1580,6 @@ https://gurimbakfar.co.il/product/mbrsht-avnybrslyt-kshh-advmh-hylkbr
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449364410-36grpk.webp
-
-### מברשת freedog
-https://gurimbakfar.co.il/product/mbrsht-freedog-ip8x9x
-- Price: 55.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449317230-uuzxmq.webp
 
 ---
 
