@@ -73,7 +73,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 242** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 243** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### רצועה לכלב
+https://gurimbakfar.co.il/product/rtsvah-lklb-43jz5j
+- Price: 68.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+- SKU: PR-1140
+- Brand: PRODUCT PELEG
+- Description: רצועה עבה ואיכותית
 
 ### רצועה לכלב 
 https://gurimbakfar.co.il/product/rtsvah-lklb-ihpn2e
@@ -1567,13 +1576,6 @@ https://gurimbakfar.co.il/product/kdvr-mshchk-alsty-gauldp
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449405837-ddn8wk.webp
-
-### משחת שיניים bioline
-https://gurimbakfar.co.il/product/mshcht-shynyym-bioline-d64o17
-- Price: 30.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449468516-kivhhc.webp
 
 ---
 

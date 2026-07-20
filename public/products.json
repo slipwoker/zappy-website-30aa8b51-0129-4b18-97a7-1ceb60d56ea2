@@ -1,10 +1,36 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T14:19:05.610Z",
+  "generated_at": "2026-07-20T14:21:31.451Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 242,
+  "count": 243,
   "products": [
+    {
+      "id": "df522b2b-f0ad-42c4-983e-6a019e64cf12",
+      "slug": "rtsvah-lklb-43jz5j",
+      "name": "רצועה לכלב",
+      "name_translations": {
+        "en": "Dog Leash",
+        "he": "רצועה לכלב",
+        "ru": "Поводок для собаки"
+      },
+      "description": "<p>רוחב 40 מ\"מ</p><p>אורך 150 ס\"מ </p>",
+      "short_description": "רצועה עבה ואיכותית ",
+      "sku": "PR-1140",
+      "brand": "PRODUCT PELEG",
+      "price": 68,
+      "base_price": 68,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/rtsvah-lklb-43jz5j",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-07-20T14:20:59.671Z"
+    },
     {
       "id": "b85c44ac-8b0f-453b-8871-49c8f6f7b310",
       "slug": "rtsvah-lklb-ihpn2e",
