@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T16:04:39.189Z",
+  "generated_at": "2026-07-20T16:05:52.746Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 248,
@@ -193,12 +193,12 @@
     },
     {
       "id": "639f54f8-5a53-440a-b0b3-e96894ee7223",
-      "slug": "rtsvah-lklb-6tm6vn",
-      "name": "רצועה לכלב ",
+      "slug": "rtsvah-lklb-pr-11255-pt51z3",
+      "name": "רצועה לכלב PR-11255",
       "name_translations": {
-        "en": "Dog Leash ",
-        "he": "רצועה לכלב ",
-        "ru": "Поводок для собаки "
+        "en": "Dog Leash PR-11255",
+        "he": "רצועה לכלב PR-11255",
+        "ru": "Поводок для собаки PR-11255"
       },
       "description": "<p>רוחב 25 מ\"מ</p><p>אורך 164 ס\"מ</p>",
       "short_description": "רצועה עבה ואיכותית ",
@@ -213,11 +213,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rtsvah-lklb-6tm6vn",
+      "url": "https://gurimbakfar.co.il/product/rtsvah-lklb-pr-11255-pt51z3",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-20T16:04:07.156Z"
+      "updated_at": "2026-07-20T16:05:23.372Z"
     },
     {
       "id": "2b158e86-511f-49f6-bd82-929a7edf3356",

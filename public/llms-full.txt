@@ -7117,8 +7117,8 @@ Brand: PRODUCT PELEG
 
 ---
 
-### רצועה לכלב 
-URL: https://gurimbakfar.co.il/product/rtsvah-lklb-6tm6vn
+### רצועה לכלב PR-11255
+URL: https://gurimbakfar.co.il/product/rtsvah-lklb-pr-11255-pt51z3
 Price: 50.00 ILS
 Availability: In stock
 SKU: PR-11255
