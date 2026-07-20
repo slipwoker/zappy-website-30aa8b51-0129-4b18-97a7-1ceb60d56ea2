@@ -7046,7 +7046,7 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### רצועה לכלב 
-URL: https://gurimbakfar.co.il/product/rtsvah-lklb-u91c2y
+URL: https://gurimbakfar.co.il/product/rtsvah-lklb-ihpn2e
 Price: 53.00 ILS
 Availability: In stock
 SKU: PR-1130
