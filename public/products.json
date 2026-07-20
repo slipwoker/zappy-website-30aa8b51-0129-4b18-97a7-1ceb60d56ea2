@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T16:18:47.779Z",
+  "generated_at": "2026-07-20T16:21:34.426Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 248,
@@ -144,7 +144,7 @@
     },
     {
       "id": "df522b2b-f0ad-42c4-983e-6a019e64cf12",
-      "slug": "rtsvah-lklb-gdvlank-pr-1140-hf3b1s",
+      "slug": "rtsvah-lklb-gdvlank-pr-1140-xqhwv2",
       "name": "רצועה לכלב גדול/ענק PR-1140",
       "name_translations": {
         "en": "Leash for Large/Giant Dog PR-1140",
@@ -159,14 +159,16 @@
       "base_price": 68,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1784564400922-h741y6.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rtsvah-lklb-gdvlank-pr-1140-hf3b1s",
+      "url": "https://gurimbakfar.co.il/product/rtsvah-lklb-gdvlank-pr-1140-xqhwv2",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-20T16:18:16.037Z"
+      "updated_at": "2026-07-20T16:20:49.836Z"
     },
     {
       "id": "b85c44ac-8b0f-453b-8871-49c8f6f7b310",

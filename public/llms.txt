@@ -121,13 +121,14 @@ https://gurimbakfar.co.il/product/rtsvah-lklb-bynvnygdvl-r8410o
 - Description: רצועה עבה ואיכותית לכלב גדול
 
 ### רצועה לכלב גדול/ענק PR-1140
-https://gurimbakfar.co.il/product/rtsvah-lklb-gdvlank-pr-1140-hf3b1s
+https://gurimbakfar.co.il/product/rtsvah-lklb-gdvlank-pr-1140-xqhwv2
 - Price: 68.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 - SKU: PR-1140
 - Brand: PRODUCT PELEG
 - Description: רצועה עבה ואיכותית
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1784564400922-h741y6.webp
 
 ### רצועה לכלב PR-1130
 https://gurimbakfar.co.il/product/rtsvah-lklb-pr-1130-279d2k

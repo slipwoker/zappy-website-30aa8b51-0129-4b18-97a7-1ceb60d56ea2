@@ -4,7 +4,7 @@
     <title>גורים בכפר</title>
     <link>https://gurimbakfar.co.il</link>
     <description>Product feed for גורים בכפר</description>
-    <lastBuildDate>Mon, 20 Jul 2026 16:18:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 16:21:34 GMT</lastBuildDate>
     <item>
       <g:id>41d113c3-0be0-4983-9ac2-67d9e5372055</g:id>
       <g:title>רתמת פרפקט זברה XL - S</g:title>
@@ -178,10 +178,26 @@
       <g:product_type>קולרים ורצועות</g:product_type>
     </item>
     <item>
-      <g:id>df522b2b-f0ad-42c4-983e-6a019e64cf12</g:id>
-      <g:title>רצועה לכלב גדול/ענק PR-1140</g:title>
+      <g:id>e0eaff82-fb1f-41bf-8c2f-74d0ae59deb0</g:id>
+      <g:title>רצועה לכלב גדול/ענק PR-1140 - Blue</g:title>
       <g:description>רצועה עבה ואיכותית</g:description>
-      <g:link>https://gurimbakfar.co.il/product/rtsvah-lklb-gdvlank-pr-1140-hf3b1s</g:link>
+      <g:link>https://gurimbakfar.co.il/product/rtsvah-lklb-gdvlank-pr-1140-xqhwv2</g:link>
+      <g:item_group_id>df522b2b-f0ad-42c4-983e-6a019e64cf12</g:item_group_id>
+      <g:image_link>https://gurimbakfar.co.il/assets/product-enhanced-1784564400922-h741y6.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>68.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>PRODUCT PELEG</g:brand>
+      <g:mpn>PR-1140</g:mpn>
+      <g:product_type>קולרים ורצועות</g:product_type>
+    </item>
+    <item>
+      <g:id>ffa1c283-a1fd-4a2b-8e88-fe8f05ba4ed9</g:id>
+      <g:title>רצועה לכלב גדול/ענק PR-1140 - Black</g:title>
+      <g:description>רצועה עבה ואיכותית</g:description>
+      <g:link>https://gurimbakfar.co.il/product/rtsvah-lklb-gdvlank-pr-1140-xqhwv2</g:link>
+      <g:item_group_id>df522b2b-f0ad-42c4-983e-6a019e64cf12</g:item_group_id>
+      <g:image_link>https://gurimbakfar.co.il/assets/product-enhanced-1784564400922-h741y6.webp</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>68.00 ILS</g:price>
       <g:condition>new</g:condition>
