@@ -73,7 +73,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 246** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 245** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### רתמת פרפקט זברה XL
 https://gurimbakfar.co.il/product/rtmt-prpkt-zbrh-xl-ue4b7v
@@ -553,12 +553,6 @@ https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktnbynvny-ytv9py
 - Availability: In stock
 - Category: קולרים ורצועות
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1783496084366-4ni6if.webp
-
-### סט רתמה ורצועה לכלב קטן/ בינוני צבע כתום
-https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-ktvm-wi4662
-- Price: 59.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
 
 ### סט רתמה ורצועה לכלב קטן/ בינוני
 https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-qv5gk6
@@ -1593,6 +1587,13 @@ https://gurimbakfar.co.il/product/mzrkt-mym-chytsvnyt-14-lytr-petstar-l954l1
 - Availability: In stock
 - Category: כלי אוכל ושתייה
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1780898660548-exsfsp.webp
+
+### מברשת אוניברסלית קשה אדומה
+https://gurimbakfar.co.il/product/mbrsht-avnybrslyt-kshh-advmh-hylkbr
+- Price: 65.00 ILS
+- Availability: In stock
+- Category: מוצרי טיפוח
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449364410-36grpk.webp
 
 ---
 

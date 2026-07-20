@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T16:54:30.081Z",
+  "generated_at": "2026-07-20T16:54:38.934Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 246,
+  "count": 245,
   "products": [
     {
       "id": "36148dee-db63-463e-9686-a740dccd327b",
@@ -1648,32 +1648,6 @@
         "קולרים ורצועות"
       ],
       "updated_at": "2026-07-20T16:47:09.170Z"
-    },
-    {
-      "id": "051cb33a-9a06-4fc9-a24c-7ac0dc15e092",
-      "slug": "st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-ktvm-wi4662",
-      "name": "סט רתמה ורצועה לכלב קטן/ בינוני צבע כתום",
-      "name_translations": {
-        "en": "Harness and Leash Set for Small/Medium Dog - Orange Color",
-        "he": "סט רתמה ורצועה לכלב קטן/ בינוני צבע כתום",
-        "ru": "Комплект шлейки и поводка для маленькой/средней собаки, оранжевый цвет"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 59,
-      "base_price": 59,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-ktvm-wi4662",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
     },
     {
       "id": "dc22116e-0938-4b3e-b621-bb76ec4935bf",
