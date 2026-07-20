@@ -7057,7 +7057,7 @@ Brand: PRODUCT PELEG
 ---
 
 ### רצועה לכלב בינוני/גדול
-URL: https://gurimbakfar.co.il/product/rtsvah-lklb-bynvnygdvl-61ehmm
+URL: https://gurimbakfar.co.il/product/rtsvah-lklb-bynvnygdvl-r8410o
 Price: 40.00 ILS
 Availability: In stock
 SKU: PR-1125
@@ -7067,8 +7067,8 @@ Brand: PRODUCT PELEG
 
 ---
 
-### רצועה לכלב
-URL: https://gurimbakfar.co.il/product/rtsvah-lklb-43jz5j
+### רצועה לכלב גדול/ענק
+URL: https://gurimbakfar.co.il/product/rtsvah-lklb-gdvlank-apkdcq
 Price: 68.00 ILS
 Availability: In stock
 SKU: PR-1140

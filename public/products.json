@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T14:39:13.449Z",
+  "generated_at": "2026-07-20T14:40:57.720Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 245,
@@ -33,7 +33,7 @@
     },
     {
       "id": "deed40d3-b582-4492-a158-49455cdddd75",
-      "slug": "rtsvah-lklb-bynvnygdvl-61ehmm",
+      "slug": "rtsvah-lklb-bynvnygdvl-r8410o",
       "name": "רצועה לכלב בינוני/גדול",
       "name_translations": {
         "en": "Leash for Medium/Large Dog",
@@ -51,22 +51,22 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rtsvah-lklb-bynvnygdvl-61ehmm",
+      "url": "https://gurimbakfar.co.il/product/rtsvah-lklb-bynvnygdvl-r8410o",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-20T14:38:41.821Z"
+      "updated_at": "2026-07-20T14:39:32.372Z"
     },
     {
       "id": "df522b2b-f0ad-42c4-983e-6a019e64cf12",
-      "slug": "rtsvah-lklb-43jz5j",
-      "name": "רצועה לכלב",
+      "slug": "rtsvah-lklb-gdvlank-apkdcq",
+      "name": "רצועה לכלב גדול/ענק",
       "name_translations": {
-        "en": "Dog Leash",
-        "he": "רצועה לכלב",
-        "ru": "Поводок для собаки"
+        "en": "Leash for Large/Giant Dog",
+        "he": "רצועה לכלב גדול/ענק",
+        "ru": "Поводок для большой/гигантской собаки"
       },
-      "description": "<p>רוחב 40 מ\"מ</p><p>אורך 150 ס\"מ </p>",
+      "description": "<p>רוחב 40 מ\"מ</p><p>אורך 150 ס\"מ</p>",
       "short_description": "רצועה עבה ואיכותית ",
       "sku": "PR-1140",
       "brand": "PRODUCT PELEG",
@@ -77,11 +77,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rtsvah-lklb-43jz5j",
+      "url": "https://gurimbakfar.co.il/product/rtsvah-lklb-gdvlank-apkdcq",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-20T14:20:59.671Z"
+      "updated_at": "2026-07-20T14:40:25.964Z"
     },
     {
       "id": "b85c44ac-8b0f-453b-8871-49c8f6f7b310",
