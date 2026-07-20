@@ -4,12 +4,39 @@
     <title>גורים בכפר</title>
     <link>https://gurimbakfar.co.il</link>
     <description>Product feed for גורים בכפר</description>
-    <lastBuildDate>Mon, 20 Jul 2026 14:16:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 14:17:24 GMT</lastBuildDate>
     <item>
-      <g:id>b85c44ac-8b0f-453b-8871-49c8f6f7b310</g:id>
-      <g:title>רצועה לכלב </g:title>
+      <g:id>09ed6ad6-efa1-4bd1-8f5f-5ddae670bdcb</g:id>
+      <g:title>רצועה לכלב  - Black</g:title>
       <g:description>רצועה עבה ואיכותית לכלב גדול</g:description>
       <g:link>https://gurimbakfar.co.il/product/rtsvah-lklb-u91c2y</g:link>
+      <g:item_group_id>b85c44ac-8b0f-453b-8871-49c8f6f7b310</g:item_group_id>
+      <g:availability>in_stock</g:availability>
+      <g:price>53.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>PRODUCT PELEG</g:brand>
+      <g:mpn>PR-1130</g:mpn>
+      <g:product_type>קולרים ורצועות</g:product_type>
+    </item>
+    <item>
+      <g:id>91ba6e30-4e20-4d2c-a3a2-c0e3193320b3</g:id>
+      <g:title>רצועה לכלב  - Blue</g:title>
+      <g:description>רצועה עבה ואיכותית לכלב גדול</g:description>
+      <g:link>https://gurimbakfar.co.il/product/rtsvah-lklb-u91c2y</g:link>
+      <g:item_group_id>b85c44ac-8b0f-453b-8871-49c8f6f7b310</g:item_group_id>
+      <g:availability>in_stock</g:availability>
+      <g:price>53.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>PRODUCT PELEG</g:brand>
+      <g:mpn>PR-1130</g:mpn>
+      <g:product_type>קולרים ורצועות</g:product_type>
+    </item>
+    <item>
+      <g:id>26c29420-3c56-4dfb-b00e-8c85db8a9b74</g:id>
+      <g:title>רצועה לכלב  - Red</g:title>
+      <g:description>רצועה עבה ואיכותית לכלב גדול</g:description>
+      <g:link>https://gurimbakfar.co.il/product/rtsvah-lklb-u91c2y</g:link>
+      <g:item_group_id>b85c44ac-8b0f-453b-8871-49c8f6f7b310</g:item_group_id>
       <g:availability>in_stock</g:availability>
       <g:price>53.00 ILS</g:price>
       <g:condition>new</g:condition>
