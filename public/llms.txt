@@ -73,7 +73,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 243** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 242** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### רתמת פרפקט זברה XL
 https://gurimbakfar.co.il/product/rtmt-prpkt-zbrh-xl-ue4b7v
@@ -774,13 +774,6 @@ https://gurimbakfar.co.il/product/dly-mym-nyrvsth-7-lytr-m51gqr
 - Availability: In stock
 - Category: כלי אוכל ושתייה
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1783282965829-9bdvpc.webp
-
-### סט רתמה ורצועה לכלב קטן בינוני אדום
-https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-advm-s1yspk
-- Price: 59.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1783260276767-bi4w8s.webp
 
 ### מזון כלבים רטוב איסגרים ארוחת הודו ובקר לגור כלב 410 גרם
 https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-vbkr-lgvr-klb-410-grm-uof84d
@@ -1595,6 +1588,13 @@ https://gurimbakfar.co.il/product/kdvr-mshchk-alsty-gauldp
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449405837-ddn8wk.webp
+
+### משחת שיניים bioline
+https://gurimbakfar.co.il/product/mshcht-shynyym-bioline-d64o17
+- Price: 30.00 ILS
+- Availability: In stock
+- Category: מוצרי טיפוח
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449468516-kivhhc.webp
 
 ---
 
