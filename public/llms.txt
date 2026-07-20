@@ -73,7 +73,13 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 246** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 247** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### Pets Project רצועה בד צבעוני ג'ירפה
+https://gurimbakfar.co.il/product/pets-project-rtsvah-bd-tsbavny-gyrph-lrndd2
+- Price: 0.00 ILS
+- Availability: In stock
+- Image: https://gurimbakfar.co.il/assets/product-ai-fit-1784560506394-5x8edq.webp
 
 ### Pets Project רצועה בייסיק לכלב במגוון מידות וצבעים
 https://gurimbakfar.co.il/product/pets-project-rtsvah-byysyk-lklb-bmgvvn-mydvt-vtsbaym-yvr3xk
@@ -1575,13 +1581,6 @@ https://gurimbakfar.co.il/product/st-tsatsvay-laysh-lklb-4-chlkym-tsba-vrvd-4x70
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781451482646-42qbvf.webp
-
-### מזרקת מים חיצונית 1.4 ליטר Petstar
-https://gurimbakfar.co.il/product/mzrkt-mym-chytsvnyt-14-lytr-petstar-l954l1
-- Price: 85.00 ILS
-- Availability: In stock
-- Category: כלי אוכל ושתייה
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1780898660548-exsfsp.webp
 
 ---
 

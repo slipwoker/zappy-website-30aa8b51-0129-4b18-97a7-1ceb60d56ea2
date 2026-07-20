@@ -1,10 +1,36 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T15:08:03.628Z",
+  "generated_at": "2026-07-20T15:17:34.781Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 246,
+  "count": 247,
   "products": [
+    {
+      "id": "ee6e634a-9bda-4867-bf6d-b583103eb7c6",
+      "slug": "pets-project-rtsvah-bd-tsbavny-gyrph-lrndd2",
+      "name": "Pets Project רצועה בד צבעוני ג'ירפה",
+      "name_translations": {
+        "en": "Pets Project Colorful Fabric Leash Giraffe",
+        "he": "Pets Project רצועה בד צבעוני ג'ירפה",
+        "ru": "Pets Project поводок тканевый цветной жираф"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1784560506394-5x8edq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/pets-project-rtsvah-bd-tsbavny-gyrph-lrndd2",
+      "categories": [],
+      "updated_at": "2026-07-20T15:17:27.718Z"
+    },
     {
       "id": "49cec01c-17e0-4ba4-9b10-70130f74f63d",
       "slug": "pets-project-rtsvah-byysyk-lklb-bmgvvn-mydvt-vtsbaym-yvr3xk",
