@@ -20988,6 +20988,184 @@ main,
   display: inline-block !important;
 }
 }
+
+.navbar #zappy-nav-category-links,
+.navbar .zappy-products-dropdown .sub-menu {
+  background: #FFFFFF !important;
+  background-color: #FFFFFF !important;
+}
+
+.navbar #zappy-nav-category-links a,
+.navbar #zappy-nav-category-links li,
+.navbar .zappy-products-dropdown .sub-menu a,
+.navbar .zappy-products-dropdown .sub-menu li {
+  color: #000000 !important;
+}
+
+@media (min-width: 769px) {
+.navbar:not(.scrolled) .zappy-products-dropdown .sub-menu a,
+  .navbar:not(.scrolled) .nav-menu .sub-menu a,
+  .navbar:not(.scrolled) .sub-menu li a,
+  .navbar:not(.scrolled) .sub-menu a {
+  color: #000000 !important;
+}
+
+.navbar:not(.scrolled) .zappy-products-dropdown .sub-menu,
+  .navbar:not(.scrolled) .sub-menu {
+  background: #FFFFFF !important;
+  background-color: #FFFFFF !important;
+}
+}
+
+.navbar #zappy-nav-category-links a:hover,
+.navbar .zappy-products-dropdown .sub-menu a:hover {
+  background-color: #f0f0f0 !important;
+  color: #000000 !important;
+}
+
+.navbar.scrolled ~ #zappy-catalog-menu .catalog-menu-item {
+  color: #000000 !important;
+}
+
+.navbar.scrolled ~ #zappy-catalog-menu .catalog-menu-all {
+  color: #000000 !important;
+}
+
+.navbar #navMenu.active li a {
+  color: #000000 !important;
+}
+
+.navbar #navMenu.active li .menu-group-title {
+  color: #000000 !important;
+}
+
+.navbar:has(#navMenu.active) .mobile-toggle {
+  color: #000000 !important;
+}
+
+.navbar:has(#navMenu.active) .phone-header-btn {
+  color: #000000 !important;
+}
+
+.navbar:has(#navMenu.active) .mobile-toggle svg {
+  color: #000000 !important;
+}
+
+.navbar:has(#navMenu.active) .phone-header-btn svg {
+  color: #000000 !important;
+}
+
+.navbar #zappy-nav-category-links li {
+  color: #000000 !important;
+}
+
+.navbar #zappy-nav-category-links a {
+  color: #000000 !important;
+}
+
+.navbar .nav-menu > .nav-item > a {
+  color: #000000 !important;
+}
+
+.navbar .nav-menu .sub-menu a {
+  color: #000000 !important;
+}
+
+.navbar .nav-menu .sub-menu li a {
+  color: #000000 !important;
+}
+
+.navbar .cart-link.nav-cart svg {
+  color: #000000 !important;
+}
+
+.navbar .login-link.nav-login svg {
+  color: #000000 !important;
+}
+
+.navbar.scrolled ~ .zappy-catalog-menu .catalog-menu-item {
+  color: #000000 !important;
+}
+
+.navbar.scrolled ~ .zappy-catalog-menu .catalog-menu-all {
+  color: #000000 !important;
+}
+
+.navbar.scrolled .nav-menu > li > a {
+  color: #000000 !important;
+}
+
+.navbar.scrolled .nav-menu > .nav-item > a {
+  color: #000000 !important;
+}
+
+.navbar.scrolled a:not(.nav-cta-btn) {
+  color: #000000 !important;
+}
+
+.navbar.scrolled .navbar-brand a {
+  color: #000000 !important;
+}
+
+.navbar.scrolled .mobile-toggle svg {
+  color: #000000 !important;
+}
+
+.navbar.scrolled .cart-link.nav-cart {
+  color: #000000 !important;
+}
+
+.navbar.scrolled .login-link.nav-login {
+  color: #000000 !important;
+}
+
+.navbar .nav-menu.active li a {
+  color: #000000 !important;
+}
+
+.navbar .nav-menu.active li .menu-group-title {
+  color: #000000 !important;
+}
+
+.navbar .nav-menu.active .mobile-submenu-toggle {
+  color: #000000 !important;
+}
+
+.navbar:has(.nav-menu.active) .mobile-toggle {
+  color: #000000 !important;
+}
+
+.navbar:has(.nav-menu.active) .phone-header-btn {
+  color: #000000 !important;
+}
+
+.navbar:has(.nav-menu.active) .mobile-toggle svg {
+  color: #000000 !important;
+}
+
+.navbar:has(.nav-menu.active) .phone-header-btn svg {
+  color: #000000 !important;
+}
+
+.navbar .nav-search-results button.search-view-all {
+  color: #000000 !important;
+}
+
+.navbar ul.sub-menu.zappy-nav-more-menu a {
+  color: #000000 !important;
+}
+
+.navbar ul.sub-menu.zappy-nav-more-menu li {
+  color: #000000 !important;
+}
+
+.navbar a:not(.nav-cta-btn):not(.cart-link):not(.login-link):not(.nav-search-toggle) {
+  color: #000000 !important;
+}
+
+.navbar .zappy-products-dropdown .sub-menu a {
+  color: #000000 !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
