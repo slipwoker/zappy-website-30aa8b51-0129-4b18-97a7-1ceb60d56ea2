@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T14:37:41.764Z",
+  "generated_at": "2026-07-20T14:39:13.449Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 245,
@@ -33,12 +33,12 @@
     },
     {
       "id": "deed40d3-b582-4492-a158-49455cdddd75",
-      "slug": "rtsvah-lklb-ljlya5",
-      "name": "רצועה לכלב",
+      "slug": "rtsvah-lklb-bynvnygdvl-61ehmm",
+      "name": "רצועה לכלב בינוני/גדול",
       "name_translations": {
-        "en": "Dog Leash",
-        "he": "רצועה לכלב",
-        "ru": "Поводок для собаки"
+        "en": "Leash for Medium/Large Dog",
+        "he": "רצועה לכלב בינוני/גדול",
+        "ru": "Поводок для средней/крупной собаки"
       },
       "description": "<p>רוחב 40 מ\"מ</p><p>אורך 150 ס\"מ</p>",
       "short_description": "רצועה עבה ואיכותית לכלב גדול ",
@@ -51,11 +51,11 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rtsvah-lklb-ljlya5",
+      "url": "https://gurimbakfar.co.il/product/rtsvah-lklb-bynvnygdvl-61ehmm",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-20T14:34:01.667Z"
+      "updated_at": "2026-07-20T14:38:41.821Z"
     },
     {
       "id": "df522b2b-f0ad-42c4-983e-6a019e64cf12",
