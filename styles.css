@@ -19021,6 +19021,193 @@ main,
 .navbar:has(.nav-menu.active) .phone-header-btn svg {
   color: #FFFFFF !important;
 }
+/* Batch: Navbar white background with black text across all pages, desktop and mobile */
+/* === NAVBAR WHITE BG + BLACK TEXT === */
+
+/* Desktop & Mobile: navbar background white */
+.navbar, nav.navbar, #main-navbar {
+  background-color: #FFFFFF !important;
+  background: #FFFFFF !important;
+  background-image: none !important;
+}
+
+/* Desktop: all nav links black */
+.navbar .nav-menu > li > a,
+.navbar .nav-menu > .nav-item > a,
+.navbar .nav-link,
+.navbar .navbar-nav .nav-link,
+.navbar a:not(.nav-cta-btn):not(.cart-link):not(.login-link):not(.nav-search-toggle),
+.navbar .nav-brand a,
+.navbar .logo-link {
+  color: #000000 !important;
+}
+
+/* Desktop: hover stays green */
+.navbar .nav-menu > li > a:hover,
+.navbar .nav-link:hover,
+.navbar a:not(.nav-cta-btn):hover {
+  color: #2F6B4F !important;
+}
+
+/* Desktop: hamburger, phone, brand text black */
+.navbar .mobile-toggle,
+.navbar .phone-header-btn,
+.navbar .navbar-brand,
+.navbar .dropdown-toggle {
+  color: #000000 !important;
+}
+
+/* Desktop: SVG strokes black */
+.navbar .mobile-toggle svg path,
+.navbar .phone-header-btn svg path {
+  stroke: #000000 !important;
+}
+
+/* Desktop: submenu white bg, black text */
+.navbar .sub-menu,
+.navbar ul.sub-menu,
+.navbar .nav-menu .sub-menu,
+.navbar .zappy-products-dropdown .sub-menu {
+  background-color: #FFFFFF !important;
+}
+.navbar .sub-menu a,
+.navbar .sub-menu li a,
+.navbar .nav-menu .sub-menu a {
+  color: #000000 !important;
+}
+.navbar .sub-menu a:hover {
+  color: #2F6B4F !important;
+  background-color: rgba(0,0,0,0.05) !important;
+}
+
+/* Desktop: mobile submenu toggle black */
+.navbar .mobile-submenu-toggle {
+  color: #000000 !important;
+}
+
+/* Desktop: lang switcher */
+.navbar .lang-switcher-current {
+  color: #000000 !important;
+}
+.navbar .lang-switcher-current svg {
+  fill: #000000 !important;
+}
+
+/* Desktop: catalog menu white */
+.zappy-catalog-menu, #zappy-catalog-menu {
+  background-color: #FFFFFF !important;
+  background: #FFFFFF !important;
+}
+.zappy-catalog-menu .catalog-menu-item,
+.zappy-catalog-menu .catalog-menu-all {
+  color: #000000 !important;
+}
+
+/* Desktop: nav-ecommerce icons (cart, login, search) */
+.navbar .cart-link.nav-cart,
+.navbar .login-link.nav-login,
+.navbar .nav-search-toggle,
+.navbar .search-toggle {
+  color: #000000 !important;
+}
+.navbar .cart-link.nav-cart svg,
+.navbar .login-link.nav-login svg,
+.navbar .nav-search-toggle svg {
+  stroke: #000000 !important;
+}
+
+/* Mobile: all the same overrides */
+@media (max-width: 768px) {
+  .navbar, nav.navbar, #main-navbar,
+  .navbar.scrolled, .navbar.active, .navbar.open, .navbar.menu-open,
+  body.menu-open .navbar, body.nav-open .navbar, body.mobile-menu-open .navbar,
+  .navbar:has(.nav-menu.active), .navbar:has(#navMenu.active) {
+    background-color: #FFFFFF !important;
+    background: #FFFFFF !important;
+    background-image: none !important;
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+  }
+
+  /* Mobile menu panel white */
+  .nav-menu, .nav-menu.active, #navMenu, #navMenu.active,
+  .mobile-menu, .mobile-menu.active {
+    background-color: #FFFFFF !important;
+    background: #FFFFFF !important;
+  }
+
+  /* Mobile: all nav links black */
+  .nav-menu a, .nav-menu > li > a, #navMenu a, #navMenu > li > a,
+  .nav-menu .nav-link, #navMenu .nav-link {
+    color: #000000 !important;
+  }
+  .nav-menu a:hover, #navMenu a:hover {
+    color: #2F6B4F !important;
+  }
+
+  /* Mobile: submenu */
+  .nav-menu .sub-menu a, #navMenu .sub-menu a {
+    color: #000000 !important;
+  }
+
+  /* Mobile: hamburger, phone, brand */
+  .navbar .mobile-toggle,
+  .navbar .phone-header-btn,
+  .navbar .navbar-brand,
+  .navbar .nav-brand a,
+  .navbar .logo-link,
+  .navbar.scrolled .mobile-toggle,
+  .navbar.scrolled .phone-header-btn,
+  .navbar.active .mobile-toggle,
+  .navbar.active .phone-header-btn,
+  body.menu-open .navbar .mobile-toggle,
+  body.menu-open .navbar .phone-header-btn,
+  .navbar:has(.nav-menu.active) .mobile-toggle,
+  .navbar:has(.nav-menu.active) .phone-header-btn {
+    color: #000000 !important;
+  }
+
+  /* Mobile: SVG strokes */
+  .navbar .mobile-toggle svg path,
+  .navbar .phone-header-btn svg path,
+  .navbar.scrolled .mobile-toggle svg path,
+  .navbar.active .mobile-toggle svg path,
+  body.menu-open .navbar .mobile-toggle svg path {
+    stroke: #000000 !important;
+  }
+
+  /* Mobile: submenu toggle */
+  .navbar .mobile-submenu-toggle {
+    color: #000000 !important;
+  }
+
+  /* Mobile: lang switcher in menu */
+  .mobile-lang-toggle,
+  .mobile-lang-option {
+    color: #000000 !important;
+  }
+
+  /* Mobile: catalog menu */
+  .zappy-catalog-menu, #zappy-catalog-menu {
+    background-color: #FFFFFF !important;
+  }
+  .zappy-catalog-menu .catalog-menu-item,
+  .zappy-catalog-menu .catalog-menu-all {
+    color: #000000 !important;
+  }
+
+  /* Mobile: cart, login icons */
+  .navbar .cart-link.nav-cart,
+  .navbar .login-link.nav-login,
+  .navbar .nav-search-toggle {
+    color: #000000 !important;
+  }
+  .navbar .cart-link.nav-cart svg,
+  .navbar .login-link.nav-login svg,
+  .navbar .nav-search-toggle svg {
+    stroke: #000000 !important;
+  }
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
