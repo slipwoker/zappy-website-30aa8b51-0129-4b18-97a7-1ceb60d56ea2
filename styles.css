@@ -20973,16 +20973,12 @@ main,
 }
 
 @media (max-width: 768px) {
-.nav-menu li,
-  #navMenu li,
-  .nav-menu a,
-  #navMenu a,
-  .nav-menu span,
-  #navMenu span,
-  .nav-menu .menu-group-title,
-  #navMenu .menu-group-title,
-  .nav-menu button,
-  #navMenu button {
+.navbar #zappy-nav-category-links li,
+  .navbar #zappy-nav-category-links li a,
+  .navbar .zappy-nav-parent,
+  .navbar .zappy-nav-child,
+  .navbar .zappy-nav-parent a,
+  .navbar .zappy-nav-child a {
   color: #000000 !important;
 }
 }
