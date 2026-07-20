@@ -7046,9 +7046,10 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### Pets Project רצועה בד צבעוני ג'ירפה
-URL: https://gurimbakfar.co.il/product/pets-project-rtsvah-bd-tsbavny-gyrph-v3410q
+URL: https://gurimbakfar.co.il/product/pets-project-rtsvah-bd-tsbavny-gyrph-jnopjf
 Price: 0.00 ILS
 Availability: In stock
+Brand: Pets Project
 
 ---
 

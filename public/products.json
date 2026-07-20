@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T15:23:06.211Z",
+  "generated_at": "2026-07-20T15:23:54.388Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 247,
   "products": [
     {
       "id": "ee6e634a-9bda-4867-bf6d-b583103eb7c6",
-      "slug": "pets-project-rtsvah-bd-tsbavny-gyrph-v3410q",
+      "slug": "pets-project-rtsvah-bd-tsbavny-gyrph-jnopjf",
       "name": "Pets Project רצועה בד צבעוני ג'ירפה",
       "name_translations": {
         "en": "Pets Project Colorful Fabric Leash Giraffe",
@@ -17,7 +17,7 @@
       "description": "",
       "short_description": null,
       "sku": null,
-      "brand": null,
+      "brand": "Pets Project",
       "price": 0,
       "base_price": 0,
       "sale_price": null,
@@ -27,9 +27,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/pets-project-rtsvah-bd-tsbavny-gyrph-v3410q",
-      "categories": [],
-      "updated_at": "2026-07-20T15:22:34.386Z"
+      "url": "https://gurimbakfar.co.il/product/pets-project-rtsvah-bd-tsbavny-gyrph-jnopjf",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-07-20T15:23:53.403Z"
     },
     {
       "id": "49cec01c-17e0-4ba4-9b10-70130f74f63d",
