@@ -20947,6 +20947,45 @@ main,
     stroke: #000000 !important;
   }
 }
+
+@media (max-width: 768px) {
+.nav-ecommerce-icons a,
+  .nav-ecommerce-icons button,
+  .nav-icons-left a,
+  .nav-icons-left button,
+  .nav-icons-right a,
+  .nav-icons-right button {
+  color: #000000 !important;
+}
+
+.nav-ecommerce-icons svg,
+  .nav-icons-left svg,
+  .nav-icons-right svg {
+  stroke: #000000 !important;
+  fill: none !important;
+}
+
+.nav-ecommerce-icons svg path,
+  .nav-icons-left svg path,
+  .nav-icons-right svg path {
+  stroke: #000000 !important;
+}
+}
+
+@media (max-width: 768px) {
+.nav-menu li,
+  #navMenu li,
+  .nav-menu a,
+  #navMenu a,
+  .nav-menu span,
+  #navMenu span,
+  .nav-menu .menu-group-title,
+  #navMenu .menu-group-title,
+  .nav-menu button,
+  #navMenu button {
+  color: #000000 !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
