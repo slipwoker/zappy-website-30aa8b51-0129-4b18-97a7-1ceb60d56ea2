@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T16:10:52.139Z",
+  "generated_at": "2026-07-20T16:12:14.173Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 248,
@@ -89,7 +89,7 @@
     },
     {
       "id": "dc677c5f-1fd7-4550-a972-356f980061bf",
-      "slug": "rtsvah-lklb-ktnbynvny-pr-11200-qb5kfy",
+      "slug": "rtsvah-lklb-ktnbynvny-pr-11200-yr5dds",
       "name": "רצועה לכלב קטן/בינוני PR-11200",
       "name_translations": {
         "en": "Leash for Small/Medium Dog PR-11200",
@@ -106,15 +106,15 @@
       "currency": "ILS",
       "images": [
         "https://gurimbakfar.co.il/assets/product-ai-fit-1784563708552-ptfj5.webp",
-        "https://gurimbakfar.co.il/assets/product-1784563793081-h9ognv.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1784563873380-nryzrm.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rtsvah-lklb-ktnbynvny-pr-11200-qb5kfy",
+      "url": "https://gurimbakfar.co.il/product/rtsvah-lklb-ktnbynvny-pr-11200-yr5dds",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-20T16:10:20.521Z"
+      "updated_at": "2026-07-20T16:11:57.476Z"
     },
     {
       "id": "deed40d3-b582-4492-a158-49455cdddd75",
