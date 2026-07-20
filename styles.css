@@ -21180,6 +21180,18 @@ main,
 .gcv-why-section ~ .site-footer .footer-social .social-link i {
   color: #FFFFFF !important;
 }
+
+body:has(.gcv-why-section) .site-footer .footer-social .social-link {
+  color: #FFFFFF !important;
+}
+
+body:has(.gcv-why-section) .site-footer .footer-social .social-link i {
+  color: #FFFFFF !important;
+}
+
+.gcv-why-section ~ .site-footer .footer-social .social-link i {
+  color: #FFFFFF !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
