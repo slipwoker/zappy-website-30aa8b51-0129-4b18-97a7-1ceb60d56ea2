@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T16:43:07.116Z",
+  "generated_at": "2026-07-20T16:47:16.616Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 248,
@@ -1617,34 +1617,35 @@
     },
     {
       "id": "4202abe4-435f-4039-977c-34009ecfcd3f",
-      "slug": "st-rtmh-vrtsvah-lklb-gdvl-gd-wfny7b",
-      "name": "סט רתמה ורצועה לכלב גדול GD",
+      "slug": "st-rtmh-vrtsvah-lklb-ktnbynvny-ytv9py",
+      "name": "סט רתמה ורצועה לכלב קטן/בינוני",
       "name_translations": {
-        "en": "Harness and Leash Set for Large Dog GD",
-        "he": "סט רתמה ורצועה לכלב גדול GD",
-        "ru": "Комплект шлейки и поводка для большой собаки GD"
+        "en": "Harness and Leash Set for Small/Medium Dog",
+        "he": "סט רתמה ורצועה לכלב קטן/בינוני",
+        "ru": "Комплект шлейки и поводка для маленькой/средней собаки"
       },
       "description": "",
       "short_description": null,
       "sku": null,
       "brand": null,
-      "price": 85,
-      "base_price": 85,
+      "price": 59,
+      "base_price": 59,
       "sale_price": null,
       "currency": "ILS",
       "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783496084366-4ni6if.webp",
         "https://gurimbakfar.co.il/assets/product-enhanced-1783495647607-6h1pbc.webp",
         "https://gurimbakfar.co.il/assets/product-enhanced-1783495680020-9lmc3k.webp",
         "https://gurimbakfar.co.il/assets/product-enhanced-1783495794965-zf5gx.webp",
-        "https://gurimbakfar.co.il/assets/product-enhanced-1783496084366-4ni6if.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1784565969133-h9q9t3.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-gdvl-gd-wfny7b",
+      "url": "https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktnbynvny-ytv9py",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-20T16:41:57.054Z"
+      "updated_at": "2026-07-20T16:47:09.170Z"
     },
     {
       "id": "e5fc91cb-06bd-4ad3-b193-ceb4331bb07d",
