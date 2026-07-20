@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T18:23:25.665Z",
+  "generated_at": "2026-07-20T18:24:11.388Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 242,
@@ -4911,7 +4911,7 @@
     },
     {
       "id": "cddaf0f1-b326-467b-a1ec-6ffcbce0d10a",
-      "slug": "papy-rvl-k835l8",
+      "slug": "papy-rvl-i5dq1s",
       "name": "פאפי רול",
       "name_translations": {
         "en": "Puppy Roll",
@@ -4922,8 +4922,8 @@
       "short_description": null,
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 59,
+      "base_price": 59,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -4931,11 +4931,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/papy-rvl-k835l8",
+      "url": "https://gurimbakfar.co.il/product/papy-rvl-i5dq1s",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-07-20T18:23:39.386Z"
     },
     {
       "id": "576ae0e2-4b9b-4a7c-b6c9-5f32449276cd",
