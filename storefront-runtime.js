@@ -13983,6 +13983,70 @@ async function loadRelatedProducts(currentProduct, t) {
 }
 /* ==ZAPPY E-COMMERCE JS END== */
 
+/* ZAPPY_CUSTOM_JS_START:60c57210e571 */
+(function () {
+  function __zappyCustomInit() {
+    try {
+// Watch for the dynamic "More" dropdown and undo it whenever it appears
+(function() {
+  function removeMoreAndRestoreContact() {
+    var moreItem = document.querySelector('#navMenu > .zappy-nav-more-item');
+    if (!moreItem) return;
+    
+    var navMenu = document.getElementById('navMenu');
+    if (!navMenu) return;
+    
+    // Get the submenu items and move them before the "more" item
+    var submenu = moreItem.querySelector('.sub-menu');
+    if (!submenu) return;
+    
+    var items = submenu.querySelectorAll('li');
+    items.forEach(function(li) {
+      navMenu.insertBefore(li, moreItem);
+    });
+    
+    // Remove the "more" item
+    moreItem.remove();
+    
+    console.log('[FixNav] Removed "More" dropdown, restored contact link');
+  }
+  
+  // Try immediately first
+  removeMoreAndRestoreContact();
+  
+  // Then watch for any future additions to navMenu
+  var navMenu = document.getElementById('navMenu');
+  if (!navMenu) return;
+  
+  var observer = new MutationObserver(function(mutations) {
+    // Check if "more" item appeared
+    if (navMenu.querySelector('.zappy-nav-more-item')) {
+      removeMoreAndRestoreContact();
+    }
+  });
+  
+  observer.observe(navMenu, { childList: true, subtree: false });
+  
+  // Also run after window load and a few times to catch late script execution
+  window.addEventListener('load', function() {
+    removeMoreAndRestoreContact();
+    setTimeout(removeMoreAndRestoreContact, 300);
+    setTimeout(removeMoreAndRestoreContact, 1000);
+    setTimeout(removeMoreAndRestoreContact, 2000);
+  });
+})();
+    } catch (e) {
+      if (typeof console !== 'undefined' && console.warn) { console.warn('[zappy-custom-js]', e); }
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', __zappyCustomInit);
+  } else {
+    __zappyCustomInit();
+  }
+})();
+/* ZAPPY_CUSTOM_JS_END:60c57210e571 */
+
 
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){
