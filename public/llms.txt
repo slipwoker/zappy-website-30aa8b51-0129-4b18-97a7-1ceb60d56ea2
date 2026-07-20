@@ -73,7 +73,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 243** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 244** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### רצועה לכלב
+https://gurimbakfar.co.il/product/rtsvah-lklb-ljlya5
+- Price: 40.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+- SKU: PR-1125
+- Brand: PRODUCT PELEG
+- Description: רצועה עבה ואיכותית לכלב גדול
 
 ### רצועה לכלב
 https://gurimbakfar.co.il/product/rtsvah-lklb-43jz5j
@@ -1569,13 +1578,6 @@ https://gurimbakfar.co.il/product/mbrsht-freedog-ip8x9x
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449317230-uuzxmq.webp
-
-### כדור משחק אלסטי
-https://gurimbakfar.co.il/product/kdvr-mshchk-alsty-gauldp
-- Price: 30.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449405837-ddn8wk.webp
 
 ---
 

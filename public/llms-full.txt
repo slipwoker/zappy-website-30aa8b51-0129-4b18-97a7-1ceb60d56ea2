@@ -7046,6 +7046,17 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### רצועה לכלב
+URL: https://gurimbakfar.co.il/product/rtsvah-lklb-ljlya5
+Price: 40.00 ILS
+Availability: In stock
+SKU: PR-1125
+Brand: PRODUCT PELEG
+
+רוחב 40 מ"מ אורך 150 ס"מ
+
+---
+
+### רצועה לכלב
 URL: https://gurimbakfar.co.il/product/rtsvah-lklb-43jz5j
 Price: 68.00 ILS
 Availability: In stock
