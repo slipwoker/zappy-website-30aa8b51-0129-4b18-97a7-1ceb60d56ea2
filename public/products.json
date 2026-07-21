@@ -1,34 +1,10 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T08:33:26.662Z",
+  "generated_at": "2026-07-21T08:35:34.228Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 243,
+  "count": 242,
   "products": [
-    {
-      "id": "044be22d-d6ba-457d-92eb-3a251de57ccc",
-      "slug": "bdykh-j4v38d",
-      "name": "בדיקה",
-      "name_translations": {
-        "en": "Check",
-        "he": "בדיקה",
-        "ru": "Проверка"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 1,
-      "base_price": 1,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/bdykh-j4v38d",
-      "categories": [],
-      "updated_at": "2026-07-21T08:00:19.864Z"
-    },
     {
       "id": "36148dee-db63-463e-9686-a740dccd327b",
       "slug": "rtmt-prpkt-zbrh-xl-ue4b7v",

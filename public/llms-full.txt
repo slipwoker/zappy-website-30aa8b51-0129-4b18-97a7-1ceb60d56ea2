@@ -7096,13 +7096,6 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 
 ## Product Catalog
 
-### בדיקה
-URL: https://gurimbakfar.co.il/product/bdykh-j4v38d
-Price: 1.00 ILS
-Availability: In stock
-
----
-
 ### רתמת פרפקט זברה XL
 URL: https://gurimbakfar.co.il/product/rtmt-prpkt-zbrh-xl-ue4b7v
 Price: 0.00 ILS
