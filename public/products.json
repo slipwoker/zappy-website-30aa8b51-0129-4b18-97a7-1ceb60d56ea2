@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T10:24:22.140Z",
+  "generated_at": "2026-07-22T10:26:29.825Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 239,
+  "count": 237,
   "products": [
     {
       "id": "ee6e634a-9bda-4867-bf6d-b583103eb7c6",
@@ -1352,58 +1352,6 @@
         "קולרים ורצועות"
       ],
       "updated_at": "2026-07-20T15:42:45.268Z"
-    },
-    {
-      "id": "f98ce8cf-6925-478f-9f53-780514d664f9",
-      "slug": "rtsvah-byysyk-15-mm-mydh-s-hkzokq",
-      "name": "רצועה בייסיק 15 ממ - מידה S",
-      "name_translations": {
-        "en": "Basic Leash 15mm - Size S",
-        "he": "רצועה בייסיק 15 ממ - מידה S",
-        "ru": "Базовый поводок 15 мм - размер S"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 32,
-      "base_price": 32,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rtsvah-byysyk-15-mm-mydh-s-hkzokq",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
-    },
-    {
-      "id": "f56e24e5-67a3-4fa0-9577-4ca8dc3ae91a",
-      "slug": "rtsvah-byysyk-10-mm-mydh-xs-0ia52r",
-      "name": "רצועה בייסיק 10 ממ - מידה XS",
-      "name_translations": {
-        "en": "Basic Leash 10mm - Size XS",
-        "he": "רצועה בייסיק 10 ממ - מידה XS",
-        "ru": "Поводок базовый 10 мм - размер XS"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 30,
-      "base_price": 30,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rtsvah-byysyk-10-mm-mydh-xs-0ia52r",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
     },
     {
       "id": "24ddd12b-be31-432d-addd-0be4f5b245a2",
