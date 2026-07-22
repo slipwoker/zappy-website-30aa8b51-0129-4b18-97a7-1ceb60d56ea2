@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T13:19:26.277Z",
+  "generated_at": "2026-07-22T13:26:54.692Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 221,
   "products": [
     {
       "id": "40790259-7d9a-40a5-85b0-a3d0a5f00cfb",
-      "slug": "pyylvt-3bhctw",
+      "slug": "pyylvt-4re3f0",
       "name": "פיילוט",
       "name_translations": {
         "en": "Pilot",
@@ -25,9 +25,9 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/pyylvt-3bhctw",
+      "url": "https://gurimbakfar.co.il/product/pyylvt-4re3f0",
       "categories": [],
-      "updated_at": "2026-07-22T13:16:39.473Z"
+      "updated_at": "2026-07-22T13:26:22.813Z"
     },
     {
       "id": "ee6e634a-9bda-4867-bf6d-b583103eb7c6",
