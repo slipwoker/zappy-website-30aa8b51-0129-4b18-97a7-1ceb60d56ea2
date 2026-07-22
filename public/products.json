@@ -1,36 +1,10 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T08:39:40.232Z",
+  "generated_at": "2026-07-22T10:12:30.607Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 242,
+  "count": 241,
   "products": [
-    {
-      "id": "36148dee-db63-463e-9686-a740dccd327b",
-      "slug": "rtmt-prpkt-zbrh-xl-ue4b7v",
-      "name": "רתמת פרפקט זברה XL",
-      "name_translations": {
-        "en": "Perfect Zebra Harness XL",
-        "he": "רתמת פרפקט זברה XL",
-        "ru": "Шлейка Perfect Zebra XL"
-      },
-      "description": "",
-      "short_description": "רתמה איכותית ונוחה מבית Pets Project, המעניקה שילוב מושלם של שליטה, נוחות ובטיחות. דגם Perfect מתוכנן להתאמה מדויקת לגוף הכלב, עם חלוקת לחץ נכונה שמפחיתה עומס מהצוואר ומבטיחה חוויית טיול נעימה. עשויה חומרים עמידים וקלים, עם רצועות מתכווננות להתאמה אישית ויציבה עם סגירה כפולה לאבטחה. מגיעה עם ידית אחזקה על גב הרתמה. אידיאלית לשימוש יומיומי ומתאימה לכלבים גדולים",
-      "sku": null,
-      "brand": "Pets Project",
-      "price": 0,
-      "base_price": 0,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rtmt-prpkt-zbrh-xl-ue4b7v",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-20T15:48:40.099Z"
-    },
     {
       "id": "ee6e634a-9bda-4867-bf6d-b583103eb7c6",
       "slug": "pets-project-rtsvah-bd-tsbavny-gyrph-e6s1ws",
