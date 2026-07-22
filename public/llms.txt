@@ -73,7 +73,12 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 220** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 221** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### פיילוט
+https://gurimbakfar.co.il/product/pyylvt-3bhctw
+- Price: 1.00 ILS
+- Availability: In stock
 
 ### Pets Project רצועה בד צבעוני ג'ירפה
 https://gurimbakfar.co.il/product/pets-project-rtsvah-bd-tsbavny-gyrph-e6s1ws
@@ -1597,13 +1602,6 @@ https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-chyvt-2akabn
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781118838806-1c9mj7.webp
-
-### הנריס דגים שלמים
-https://gurimbakfar.co.il/product/hnrys-dgym-shlmym-jc6752
-- Price: 26.00 ILS
-- Availability: In stock
-- Category: חטיפים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781451525050-euhnz.webp
 
 ---
 
