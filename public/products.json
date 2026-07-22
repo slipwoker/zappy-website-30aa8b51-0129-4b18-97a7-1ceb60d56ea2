@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T10:26:51.728Z",
+  "generated_at": "2026-07-22T10:29:53.272Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 237,
+  "count": 220,
   "products": [
     {
       "id": "ee6e634a-9bda-4867-bf6d-b583103eb7c6",
@@ -32,34 +32,6 @@
         "קולרים ורצועות"
       ],
       "updated_at": "2026-07-20T15:26:43.936Z"
-    },
-    {
-      "id": "49cec01c-17e0-4ba4-9b10-70130f74f63d",
-      "slug": "pets-project-rtsvah-byysyk-lklb-bmgvvn-mydvt-vtsbaym-yvr3xk",
-      "name": "Pets Project רצועה בייסיק לכלב במגוון מידות וצבעים",
-      "name_translations": {
-        "en": "Pets Project Basic Dog Leash in a Variety of Sizes and Colors",
-        "he": "Pets Project רצועה בייסיק לכלב במגוון מידות וצבעים",
-        "ru": "Pets Project поводок базовый для собак в различных размерах и цветах"
-      },
-      "description": "<p>רצועת ניילון פטס פרוג'קט במבחר צבעים לגורים וכלבים קטנים, עשויה ניילון איכותי ועמיד, עם קליפס תפיסה לרצועת הקולר.</p><p>יש לבחור מידה רצויה :</p><ul><li>XS – אורך 1.5 מטר, רוחב 1 ס\"מ</li><li>S – אורך 1.5 מטר, רוחב 1.5 ס\"מ</li><li>M – אורך 1.5 מטר, רוחב 2 ס\"מ</li><li>L – אורך 1.5 מטר, רוחב 2.5 ס\"מ</li></ul>",
-      "short_description": null,
-      "sku": null,
-      "brand": "Pets Project",
-      "price": 0,
-      "base_price": 0,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://gurimbakfar.co.il/assets/product-enhanced-1784559865215-0t6ccg.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/pets-project-rtsvah-byysyk-lklb-bmgvvn-mydvt-vtsbaym-yvr3xk",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-20T15:07:31.551Z"
     },
     {
       "id": "dc677c5f-1fd7-4550-a972-356f980061bf",
@@ -1216,32 +1188,6 @@
       "updated_at": "2026-07-19T13:32:38.738Z"
     },
     {
-      "id": "2b22e787-aef8-4fe9-88a1-1a9bcaa5c8ee",
-      "slug": "brande-mzvn-mla-lklbym-bvgrym-tg5tyq",
-      "name": "Brande מזון מלא לכלבים בוגרים",
-      "name_translations": {
-        "en": "Brande Complete Food for Adult Dogs",
-        "he": "Brande מזון מלא לכלבים בוגרים",
-        "ru": "Brande полнорационный корм для взрослых собак"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 0,
-      "base_price": 0,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://gurimbakfar.co.il/assets/product-enhanced-1783580123121-jxgval.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/brande-mzvn-mla-lklbym-bvgrym-tg5tyq",
-      "categories": [],
-      "updated_at": "2026-07-19T13:32:38.738Z"
-    },
-    {
       "id": "8127bf1a-dee7-4f7a-a467-5fcb3632a632",
       "slug": "bvsh-lgvrym-mgza-gdvl-avp-9drk49",
       "name": "בוש לגורים מגזע גדול עוף",
@@ -1352,84 +1298,6 @@
         "קולרים ורצועות"
       ],
       "updated_at": "2026-07-20T15:42:45.268Z"
-    },
-    {
-      "id": "24ddd12b-be31-432d-addd-0be4f5b245a2",
-      "slug": "rtsvah-bd-tsbavny-20-mm-mydh-m-xekwkf",
-      "name": "רצועה בד צבעוני 20 ממ - מידה M",
-      "name_translations": {
-        "en": "Colorful Fabric Leash 20mm - Size M",
-        "he": "רצועה בד צבעוני 20 ממ - מידה M",
-        "ru": "Тканевый цветной поводок 20 мм - размер M"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 32,
-      "base_price": 32,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rtsvah-bd-tsbavny-20-mm-mydh-m-xekwkf",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
-    },
-    {
-      "id": "2a4b00f6-3cc8-412a-9d7d-b25b46870a3c",
-      "slug": "rtsvah-bd-tsbavny-15-mm-mydh-s-6a7j4e",
-      "name": "רצועה בד צבעוני 15 ממ - מידה S",
-      "name_translations": {
-        "en": "Colorful Fabric Leash 15mm - Size S",
-        "he": "רצועה בד צבעוני 15 ממ - מידה S",
-        "ru": "Тканевый цветной поводок 15 мм - размер S"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 32,
-      "base_price": 32,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rtsvah-bd-tsbavny-15-mm-mydh-s-6a7j4e",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
-    },
-    {
-      "id": "95c24bcd-2b7a-4eb0-8051-543db9ba2fbf",
-      "slug": "rtsvah-bd-tsbavny-10-mm-mydh-xs-ff72g0",
-      "name": "רצועה בד צבעוני 10 ממ - מידה XS",
-      "name_translations": {
-        "en": "Colorful Fabric Leash 10mm - Size XS",
-        "he": "רצועה בד צבעוני 10 ממ - מידה XS",
-        "ru": "Тканевый цветной поводок 10 мм - размер XS"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 30,
-      "base_price": 30,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rtsvah-bd-tsbavny-10-mm-mydh-xs-ff72g0",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
     },
     {
       "id": "f864d6b4-e1fd-4b19-a03c-9d9316ae67ec",
@@ -1794,32 +1662,6 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-rtsvavt-atsvt-ym-ml-vd455y",
-      "categories": [
-        "חטיפים"
-      ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
-    },
-    {
-      "id": "1809e69b-a59a-4d64-9eac-dca71e71378d",
-      "slug": "chtyp-rtsvavt-atsvt-ym-sm-gtuchu",
-      "name": "חטיף רצועות אצות ים S/M",
-      "name_translations": {
-        "en": "Seaweed Strips Snack S/M",
-        "he": "חטיף רצועות אצות ים S/M",
-        "ru": "Лакомство полоски из морских водорослей S/M"
-      },
-      "description": "<p>רכיבים: עמילן תפוחי אדמה 25%, אבקת אצות ים 20%, שמרים 16%, ג'לטין בקר (מקור לקולגן), קמח אורז 14.64%, גליצרין צמחי 10%, קמח תירס 3%, סידן פחמתי 1%, אבקת ספירולינה 0.25%, אשלגן סורבט 0.05%, סידן פרופינאט 0.05%, קרמל פשוט 0.01%.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי 8%</li><li>שומן גולמי 2.1%</li><li>לחות 16%</li><li>סיבים גולמיים 1.8%</li><li>אפר גולמי 3%</li></ul><p><br></p>",
-      "short_description": "חטיף רצועות אצות ים לכלבים בינוניים וגדולים 80 גרם",
-      "sku": null,
-      "brand": "Native Way",
-      "price": 16.9,
-      "base_price": 16.9,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-rtsvavt-atsvt-ym-sm-gtuchu",
       "categories": [
         "חטיפים"
       ],
@@ -2710,32 +2552,6 @@
       "updated_at": "2026-07-19T13:32:38.738Z"
     },
     {
-      "id": "68568027-8bd0-41f6-b63a-c907fae1a591",
-      "slug": "shrshrt-kvtsym-laylvp-nykl-60-sm-avby-4-mm-rtcdsd",
-      "name": "שרשרת קוצים לאילוף - ניקל- 60 ס\"מ עובי 4 מ\"מ",
-      "name_translations": {
-        "en": "Prong Training Collar - Nickel - 60 cm Thickness 4 mm",
-        "he": "שרשרת קוצים לאילוף - ניקל- 60 ס\"מ עובי 4 מ\"מ",
-        "ru": "Строгий ошейник для дрессировки - никель - 60 см толщина 4 мм"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 55,
-      "base_price": 55,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/shrshrt-kvtsym-laylvp-nykl-60-sm-avby-4-mm-rtcdsd",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
-    },
-    {
       "id": "959a08b2-6b02-45f4-ba8b-d76e18623e15",
       "slug": "shrshrt-kvtsym-laylvp-shchvr-50-sm-avby-4-mm-zazbrb",
       "name": "שרשרת קוצים לאילוף - שחור- 50 ס\"מ , עובי 4 מ\"מ",
@@ -2758,84 +2574,6 @@
       "in_stock": true,
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/shrshrt-kvtsym-laylvp-shchvr-50-sm-avby-4-mm-zazbrb",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
-    },
-    {
-      "id": "3e9061e2-ceec-4fa3-816a-bb1007b2995b",
-      "slug": "shrshrt-aylvp-55-sm-avby-25-mm-l5tx2t",
-      "name": "שרשרת אילוף 55 ס\"מ עובי 2.5 מ\"מ",
-      "name_translations": {
-        "en": "Training Chain 55 cm Thickness 2.5 mm",
-        "he": "שרשרת אילוף 55 ס\"מ עובי 2.5 מ\"מ",
-        "ru": "Дрессировочная цепочка 55 см толщина 2.5 мм"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 65,
-      "base_price": 65,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/shrshrt-aylvp-55-sm-avby-25-mm-l5tx2t",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
-    },
-    {
-      "id": "6ee8af45-c8d6-4c50-bc29-85447c6c1523",
-      "slug": "shrshrt-aylvp-65-sm-avby-35-mm-vzf1th",
-      "name": "שרשרת אילוף 65 ס\"מ עובי 3.5 מ\"מ",
-      "name_translations": {
-        "en": "Training Chain 65 cm Thickness 3.5 mm",
-        "he": "שרשרת אילוף 65 ס\"מ עובי 3.5 מ\"מ",
-        "ru": "Цепь для дрессировки 65 см толщина 3.5 мм"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 75,
-      "base_price": 75,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/shrshrt-aylvp-65-sm-avby-35-mm-vzf1th",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
-    },
-    {
-      "id": "bfa09a8d-ca91-4b0d-8d36-da20ca9143cf",
-      "slug": "shrshrt-aylvp-60-sm-avby-3-mm-0ld6q9",
-      "name": "שרשרת אילוף 60 ס\"מ עובי 3 מ\"מ ",
-      "name_translations": {
-        "en": "Training Chain 60 cm Thickness 3 mm",
-        "he": "שרשרת אילוף 60 ס\"מ עובי 3 מ\"מ ",
-        "ru": "Цепочка для дрессировки 60 см толщина 3 мм"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 75,
-      "base_price": 75,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/shrshrt-aylvp-60-sm-avby-3-mm-0ld6q9",
       "categories": [
         "קולרים ורצועות"
       ],
@@ -3039,84 +2777,6 @@
       "updated_at": "2026-07-19T13:32:38.738Z"
     },
     {
-      "id": "820f524d-a64c-4220-887b-d312863d1f7a",
-      "slug": "st-kvlrrtsvah-hdpsym-shvnym-l-kvlr-6338-sm-rtsvah-15025-sm-p8wmsa",
-      "name": "סט קולר+רצועה הדפסים שונים L (קולר 63*38 ס\"מ - רצועה 150*25 ס\"מ)",
-      "name_translations": {
-        "en": "Collar + Leash Set Various Prints L (Collar 63*38 cm - Leash 150*25 cm)",
-        "he": "סט קולר+רצועה הדפסים שונים L (קולר 63*38 ס\"מ - רצועה 150*25 ס\"מ)",
-        "ru": "Набор ошейник+поводок различные принты L (ошейник 63*38 см - поводок 150*25 см)"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 60,
-      "base_price": 60,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/st-kvlrrtsvah-hdpsym-shvnym-l-kvlr-6338-sm-rtsvah-15025-sm-p8wmsa",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
-    },
-    {
-      "id": "76969d00-3f0b-4a12-b8ec-b60562cdf348",
-      "slug": "st-kvlrrtsvah-hdpsym-shvnym-m-kvlr-4227-sm-rtsvah-15020-sm-d4epyy",
-      "name": "סט קולר+רצועה הדפסים שונים M (קולר 42*27 ס\"מ - רצועה 150*20 ס\"מ)",
-      "name_translations": {
-        "en": "Collar + Leash Set Various Prints M (Collar 42*27 cm - Leash 150*20 cm)",
-        "he": "סט קולר+רצועה הדפסים שונים M (קולר 42*27 ס\"מ - רצועה 150*20 ס\"מ)",
-        "ru": "Набор ошейник+поводок различные принты M (ошейник 42*27 см - поводок 150*20 см)"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 60,
-      "base_price": 60,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/st-kvlrrtsvah-hdpsym-shvnym-m-kvlr-4227-sm-rtsvah-15020-sm-d4epyy",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
-    },
-    {
-      "id": "fc4e1ce3-58bc-47a4-9065-b39b8698c3ec",
-      "slug": "st-kvlrpamvnrtsvah-12010-sm-tvrkyz-yrvk-zvhr-tshvb-sgvl-viy3bu",
-      "name": "סט קולר+פעמון+רצועה 120*10 ס\"מ טורקיז, ירוק זוהר, צהוב, סגול",
-      "name_translations": {
-        "en": "Collar + Bell + Leash Set 120*10 cm Turquoise, Bright Green, Yellow, Purple",
-        "he": "סט קולר+פעמון+רצועה 120*10 ס\"מ טורקיז, ירוק זוהר, צהוב, סגול",
-        "ru": "Набор ошейник+колокольчик+поводок 120*10 см бирюзовый, ярко-зеленый, желтый, фиолетовый"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 20,
-      "base_price": 20,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/st-kvlrpamvnrtsvah-12010-sm-tvrkyz-yrvk-zvhr-tshvb-sgvl-viy3bu",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
-    },
-    {
       "id": "bad8310f-72e4-4f9f-a543-1656dd4ae268",
       "slug": "rtsvah-nyylvn-prydvg-mydh-m-nj1ujy",
       "name": "רצועה ניילון פרידוג מידה M",
@@ -3141,114 +2801,6 @@
       "url": "https://gurimbakfar.co.il/product/rtsvah-nyylvn-prydvg-mydh-m-nj1ujy",
       "categories": [
         "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
-    },
-    {
-      "id": "296d4164-9020-4aaf-92ff-92c71ef24e14",
-      "slug": "rtsvah-nyylvn-prydvg-s15120-bvrdv-tvskj1",
-      "name": "רצועה ניילון פרידוג S15*120 בורדו",
-      "name_translations": {
-        "en": "Nylon Leash Freedog S15*120 Burgundy",
-        "he": "רצועה ניילון פרידוג S15*120 בורדו",
-        "ru": "Поводок нейлоновый Freedog S15*120 бордовый"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 30,
-      "base_price": 30,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rtsvah-nyylvn-prydvg-s15120-bvrdv-tvskj1",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
-    },
-    {
-      "id": "dab772b6-afae-4de3-96f3-26e3d4b0f36a",
-      "slug": "rtsvah-nyylvn-prydvg-xs-10120-vrvd-shchvr-kchvl-yrvk-advm-unwzuu",
-      "name": "רצועה ניילון פרידוג XS 10*120 ורוד, שחור, כחול, ירוק, אדום",
-      "name_translations": {
-        "en": "Freedog Nylon Leash XS 10*120 Pink, Black, Blue, Green, Red",
-        "he": "רצועה ניילון פרידוג XS 10*120 ורוד, שחור, כחול, ירוק, אדום",
-        "ru": "Поводок нейлоновый Freedog XS 10*120 розовый, черный, синий, зеленый, красный"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 20,
-      "base_price": 20,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rtsvah-nyylvn-prydvg-xs-10120-vrvd-shchvr-kchvl-yrvk-advm-unwzuu",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
-    },
-    {
-      "id": "c18b94dc-acce-48bd-83b8-3f40ea13db4f",
-      "slug": "gdr-aylvp-lklbym-l1aeyn",
-      "name": "גדר אילוף לכלבים",
-      "name_translations": {
-        "en": "Dog Training Fence",
-        "he": "גדר אילוף לכלבים",
-        "ru": "Забор для дрессировки собак"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 0,
-      "base_price": 0,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://gurimbakfar.co.il/assets/product-1782159865970-28hekd.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/gdr-aylvp-lklbym-l1aeyn",
-      "categories": [
-        "כלובים וגדרות"
-      ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
-    },
-    {
-      "id": "9f66829a-ece8-4209-ac4f-9ae0958f2051",
-      "slug": "klvb-aylvp-lklbym-9fvmtr",
-      "name": "כלוב אילוף לכלבים",
-      "name_translations": {
-        "en": "Dog Training Crate",
-        "he": "כלוב אילוף לכלבים",
-        "ru": "Клетка для дрессировки собак"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 0,
-      "base_price": 0,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://gurimbakfar.co.il/assets/product-1782157508007-mvdxj.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/klvb-aylvp-lklbym-9fvmtr",
-      "categories": [
-        "כלובים וגדרות"
       ],
       "updated_at": "2026-07-19T13:32:38.738Z"
     },

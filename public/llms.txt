@@ -73,7 +73,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 237** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 220** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### Pets Project רצועה בד צבעוני ג'ירפה
 https://gurimbakfar.co.il/product/pets-project-rtsvah-bd-tsbavny-gyrph-e6s1ws
@@ -83,15 +83,6 @@ https://gurimbakfar.co.il/product/pets-project-rtsvah-bd-tsbavny-gyrph-e6s1ws
 - Brand: Pets Project
 - Description: רצועה אופנתית לכלב
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1784560506394-5x8edq.webp
-
-### Pets Project רצועה בייסיק לכלב במגוון מידות וצבעים
-https://gurimbakfar.co.il/product/pets-project-rtsvah-byysyk-lklb-bmgvvn-mydvt-vtsbaym-yvr3xk
-- Price: 0.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
-- Brand: Pets Project
-- Description: רצועת ניילון פטס פרוג'קט במבחר צבעים לגורים וכלבים קטנים, עשויה ניילון איכותי ועמיד, עם קליפס תפיסה לרצועת הקולר. יש לבחור מידה רצויה : XS – אורך 1.5 מטר, רוחב 1 ס"מ S – אורך 1.5 מטר, רוחב 1.5 ס"מ M – אורך 1.5 מטר, רוחב 2 ס"מ L – אורך 1.5 מטר, רוחב 2.5 ס"מ
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1784559865215-0t6ccg.webp
 
 ### רצועה לכלב קטן/בינוני PR-11200
 https://gurimbakfar.co.il/product/rtsvah-lklb-ktnbynvny-pr-11200-yr5dds
@@ -438,12 +429,6 @@ https://gurimbakfar.co.il/product/styspkshn-kbsh-s3ay9o
 - Description: פורמולת Satisfaction Pro Kennel התזונה המושלמת לכלבים בוגרים עם פעילות רגילה עד ממוצעת, פורמולה זו נבחרה בקפידה כדי לספק תזונה בריאה ותזונה מאוזנת לאורך חיי כלבי הבית, כלבי התצוגה וכלבי העבודה.
 - Image: https://gurimbakfar.co.il/assets/product-1783492933423-ev14n6.webp
 
-### Brande מזון מלא לכלבים בוגרים
-https://gurimbakfar.co.il/product/brande-mzvn-mla-lklbym-bvgrym-tg5tyq
-- Price: 0.00 ILS
-- Availability: In stock
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1783580123121-jxgval.webp
-
 ### בוש לגורים מגזע גדול עוף
 https://gurimbakfar.co.il/product/bvsh-lgvrym-mgza-gdvl-avp-9drk49
 - Price: 40.00 ILS
@@ -478,24 +463,6 @@ https://gurimbakfar.co.il/product/rtmt-quick-fit-xxs-4ajpda
 - Category: קולרים ורצועות
 - Brand: Pets Project
 - Image: https://gurimbakfar.co.il/assets/product-1783490871865-xfrkvj.webp
-
-### רצועה בד צבעוני 20 ממ - מידה M
-https://gurimbakfar.co.il/product/rtsvah-bd-tsbavny-20-mm-mydh-m-xekwkf
-- Price: 32.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
-
-### רצועה בד צבעוני 15 ממ - מידה S
-https://gurimbakfar.co.il/product/rtsvah-bd-tsbavny-15-mm-mydh-s-6a7j4e
-- Price: 32.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
-
-### רצועה בד צבעוני 10 ממ - מידה XS
-https://gurimbakfar.co.il/product/rtsvah-bd-tsbavny-10-mm-mydh-xs-ff72g0
-- Price: 30.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
 
 ### Pets Project קולר בייסיק לכלב במגוון מידות
 https://gurimbakfar.co.il/product/pets-project-kvlr-byysyk-lklb-bmgvvn-mydvt-k0kpfl
@@ -606,14 +573,6 @@ https://gurimbakfar.co.il/product/chtyp-rtsvavt-atsvt-ym-ml-vd455y
 - Brand: Native Way
 - Description: חטיף רצועות אצות ים לכלבים קטנים ובינוניים 80 גר' עשיר ברכיבים תזונתיים חיוניים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1783957583565-jzvzpr.webp
-
-### חטיף רצועות אצות ים S/M
-https://gurimbakfar.co.il/product/chtyp-rtsvavt-atsvt-ym-sm-gtuchu
-- Price: 16.90 ILS
-- Availability: In stock
-- Category: חטיפים
-- Brand: Native Way
-- Description: חטיף רצועות אצות ים לכלבים בינוניים וגדולים 80 גרם
 
 ### חטיף מקל אצות ים M/L
 https://gurimbakfar.co.il/product/chtyp-mkl-atsvt-ym-ml-e2i5nq
@@ -855,36 +814,12 @@ https://gurimbakfar.co.il/product/kvlr-kvtsym-laylvp-50-sm-avby-3-mm-451t09
 - Category: קולרים ורצועות
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1782153446876-h993w.webp
 
-### שרשרת קוצים לאילוף - ניקל- 60 ס"מ עובי 4 מ"מ
-https://gurimbakfar.co.il/product/shrshrt-kvtsym-laylvp-nykl-60-sm-avby-4-mm-rtcdsd
-- Price: 55.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
-
 ### שרשרת קוצים לאילוף - שחור- 50 ס"מ , עובי 4 מ"מ
 https://gurimbakfar.co.il/product/shrshrt-kvtsym-laylvp-shchvr-50-sm-avby-4-mm-zazbrb
 - Price: 55.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1783493729046-9xlm42.webp
-
-### שרשרת אילוף 55 ס"מ עובי 2.5 מ"מ
-https://gurimbakfar.co.il/product/shrshrt-aylvp-55-sm-avby-25-mm-l5tx2t
-- Price: 65.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
-
-### שרשרת אילוף 65 ס"מ עובי 3.5 מ"מ
-https://gurimbakfar.co.il/product/shrshrt-aylvp-65-sm-avby-35-mm-vzf1th
-- Price: 75.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
-
-### שרשרת אילוף 60 ס"מ עובי 3 מ"מ 
-https://gurimbakfar.co.il/product/shrshrt-aylvp-60-sm-avby-3-mm-0ld6q9
-- Price: 75.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
 
 ### רצועה 125*20 ס"מ צבע בז'-חום
 https://gurimbakfar.co.il/product/rtsvah-12520-sm-tsba-bz-chvm-k3vq58
@@ -935,56 +870,12 @@ https://gurimbakfar.co.il/product/chtyp-syybr-dvg-lklb-btam-arnbt-x3nacr
 - Category: חטיפים
 - Image: https://gurimbakfar.co.il/assets/product-1781771635193-g78vbs.webp
 
-### סט קולר+רצועה הדפסים שונים L (קולר 63*38 ס"מ - רצועה 150*25 ס"מ)
-https://gurimbakfar.co.il/product/st-kvlrrtsvah-hdpsym-shvnym-l-kvlr-6338-sm-rtsvah-15025-sm-p8wmsa
-- Price: 60.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
-
-### סט קולר+רצועה הדפסים שונים M (קולר 42*27 ס"מ - רצועה 150*20 ס"מ)
-https://gurimbakfar.co.il/product/st-kvlrrtsvah-hdpsym-shvnym-m-kvlr-4227-sm-rtsvah-15020-sm-d4epyy
-- Price: 60.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
-
-### סט קולר+פעמון+רצועה 120*10 ס"מ טורקיז, ירוק זוהר, צהוב, סגול
-https://gurimbakfar.co.il/product/st-kvlrpamvnrtsvah-12010-sm-tvrkyz-yrvk-zvhr-tshvb-sgvl-viy3bu
-- Price: 20.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
-
 ### רצועה ניילון פרידוג מידה M
 https://gurimbakfar.co.il/product/rtsvah-nyylvn-prydvg-mydh-m-nj1ujy
 - Price: 33.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 - Image: https://gurimbakfar.co.il/assets/product-1781771727666-z8uzk7.webp
-
-### רצועה ניילון פרידוג S15*120 בורדו
-https://gurimbakfar.co.il/product/rtsvah-nyylvn-prydvg-s15120-bvrdv-tvskj1
-- Price: 30.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
-
-### רצועה ניילון פרידוג XS 10*120 ורוד, שחור, כחול, ירוק, אדום
-https://gurimbakfar.co.il/product/rtsvah-nyylvn-prydvg-xs-10120-vrvd-shchvr-kchvl-yrvk-advm-unwzuu
-- Price: 20.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
-
-### גדר אילוף לכלבים
-https://gurimbakfar.co.il/product/gdr-aylvp-lklbym-l1aeyn
-- Price: 0.00 ILS
-- Availability: In stock
-- Category: כלובים וגדרות
-- Image: https://gurimbakfar.co.il/assets/product-1782159865970-28hekd.webp
-
-### כלוב אילוף לכלבים
-https://gurimbakfar.co.il/product/klvb-aylvp-lklbym-9fvmtr
-- Price: 0.00 ILS
-- Availability: In stock
-- Category: כלובים וגדרות
-- Image: https://gurimbakfar.co.il/assets/product-1782157508007-mvdxj.webp
 
 ### הנריס חמאת בוטנים טבעית
 https://gurimbakfar.co.il/product/hnrys-chmat-bvtnym-tbayt-yh6a9h
@@ -1594,6 +1485,125 @@ https://gurimbakfar.co.il/product/rtsvavt-plksy-jnoo9p
 - Availability: In stock
 - Category: קולרים ורצועות
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1780898526650-2onagi.webp
+
+### חגורת בטיחות לכלב Record
+https://gurimbakfar.co.il/product/chgvrt-btychvt-lklb-record-wx66xy
+- Price: 35.00 ILS
+- Availability: In stock
+- Category: אביזרים
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449877512-tzjlul.webp
+
+### שמן בישום לבעלי חיים petglow
+https://gurimbakfar.co.il/product/shmn-byshvm-lbaly-chyym-petglow-3jcamm
+- Price: 35.00 ILS
+- Availability: In stock
+- Category: מוצרי טיפוח
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449919551-l46kzt.webp
+
+### שמן בישום לבעלי חיים PURE
+https://gurimbakfar.co.il/product/shmn-byshvm-lbaly-chyym-pure-dkdfjf
+- Price: 35.00 ILS
+- Availability: In stock
+- Category: מוצרי טיפוח
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449961983-aki1z.webp
+
+### קוצץ ציפורניים Petsproject
+https://gurimbakfar.co.il/product/kvtsts-tsypvrnyym-petsproject-zvyroj
+- Price: 79.00 ILS
+- Availability: In stock
+- Category: מוצרי טיפוח
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781450306935-lm0zas.webp
+
+### טבעת לאימון כלבים
+https://gurimbakfar.co.il/product/tbat-laymvn-klbym-4g5jxq
+- Price: 25.00 ILS
+- Availability: In stock
+- Category: צעצועים
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781450589408-99unfi.webp
+
+### משקולת גומי דנטלית
+https://gurimbakfar.co.il/product/mshkvlt-gvmy-dntlyt-i3kjv5
+- Price: 25.00 ILS
+- Availability: In stock
+- Category: צעצועים
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781450631767-q4nqtm.webp
+
+### צעצוע תמנון קטיפה מרשרש עם צפצפה
+https://gurimbakfar.co.il/product/tsatsva-tmnvn-ktyph-mrshrsh-am-tsptsph-osq2dp
+- Price: 35.00 ILS
+- Availability: In stock
+- Category: צעצועים
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781450720393-qzfqi8.webp
+
+### כיסוי מושב אחורי לכלב
+https://gurimbakfar.co.il/product/kysvy-mvshb-achvry-lklb-v70yuy
+- Price: 180.00 ILS
+- Availability: In stock
+- Category: אביזרים
+- Image: https://gurimbakfar.co.il/assets/product-1780860631624-oa086.webp
+
+### שמפו לגורים bioline
+https://gurimbakfar.co.il/product/shmpv-lgvrym-bioline-ubep0o
+- Price: 40.00 ILS
+- Availability: In stock
+- Category: מוצרי טיפוח
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781433330227-qzhud6.webp
+
+### חבל XS
+https://gurimbakfar.co.il/product/chbl-xs-fxzwb0
+- Price: 5.00 ILS
+- Availability: In stock
+- Category: צעצועים
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781450912224-7i6kmq.webp
+
+### כדור דנטלי קטן רך
+https://gurimbakfar.co.il/product/kdvr-dntly-ktn-rk-9tv9b5
+- Price: 10.00 ILS
+- Availability: In stock
+- Category: צעצועים
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781451063928-biucx.webp
+
+### משחק האכלה מתגלגל
+https://gurimbakfar.co.il/product/mshchk-haklh-mtglgl-4izint
+- Price: 55.00 ILS
+- Availability: In stock
+- Category: צעצועים
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781451109152-gbvitw.webp
+
+### תרסיס בישום petglow
+https://gurimbakfar.co.il/product/trsys-byshvm-petglow-8o1uv3
+- Price: 35.00 ILS
+- Availability: In stock
+- Category: מוצרי טיפוח
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781451149225-d25pcr.webp
+
+### מברשת אובלית קטנה רקורד
+https://gurimbakfar.co.il/product/mbrsht-avblyt-ktnh-rkvrd-4q0chf
+- Price: 65.00 ILS
+- Availability: In stock
+- Category: מוצרי טיפוח
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449198949-fg4h4.webp
+
+### הנריס בולי סטיק
+https://gurimbakfar.co.il/product/hnrys-bvly-styk-vp0jgi
+- Price: 39.00 ILS
+- Availability: In stock
+- Category: חטיפים
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449138802-xuj7sa.webp
+
+### בובות לכלבים צוואר חבל חיות
+https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-chyvt-2akabn
+- Price: 35.00 ILS
+- Availability: In stock
+- Category: צעצועים
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781118838806-1c9mj7.webp
+
+### הנריס דגים שלמים
+https://gurimbakfar.co.il/product/hnrys-dgym-shlmym-jc6752
+- Price: 26.00 ILS
+- Availability: In stock
+- Category: חטיפים
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781451525050-euhnz.webp
 
 ---
 
