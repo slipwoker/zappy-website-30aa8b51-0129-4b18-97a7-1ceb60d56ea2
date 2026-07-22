@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T12:31:17.842Z",
+  "generated_at": "2026-07-22T12:44:47.554Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 220,
@@ -3824,12 +3824,12 @@
     },
     {
       "id": "83370db5-72e3-4764-bbe4-9a0ba4ead358",
-      "slug": "styspkshn-lgvrym-mkl-hgzaym-vklbvt-bsvp-hhryvn-vbmhlk-hhnkh-avp-20-kg-bs0huv",
+      "slug": "styspkshn-lgvrym-mkl-hgzaym-vklbvt-bsvp-hhryvn-vbmhlk-hhnkh-avp-20-kg-ix4tbc",
       "name": "סטיספקשן לגורים מכל הגזעים וכלבות בסוף ההריון ובמהלך ההנקה עוף 20 ק\"ג",
       "name_translations": {
-        "en": "Satisfaction for puppies of all breeds and pregnant/nursing bitches Chicken 20 kg",
+        "en": "Satisfaction for Puppies of All Breeds and Bitches at the End of Pregnancy and During Nursing Chicken 20 kg",
         "he": "סטיספקשן לגורים מכל הגזעים וכלבות בסוף ההריון ובמהלך ההנקה עוף 20 ק\"ג",
-        "ru": "Сатисфакшн для щенков всех пород и сук в конце беременности и в период лактации курица 20 кг"
+        "ru": "Satisfaction для щенков всех пород и сук в конце беременности и в период лактации, курица 20 кг"
       },
       "description": "<p><strong>רכיבים:</strong> עוף טרי ללא עצמות (24%), אורז, קמח אורז, חלבוני עופות מיובשים, גלוטן תירס, שומן עוף, עיסת סלק, שמרי בירה, כבד עוף שעבר הידרוליזה, ביצה מיובשת שלמה, מונוקלציום פוספט, תמציות לימון עשירות בביופלבונואידים, טאורין, יוקה schidigera , L-Carnitine, ויטמינים ומינרלים, עם נוגדי חמצון וחומרים משמרים המורשים על ידי האיחוד האירופי</p><p><br></p><p><strong>רכיבים אנליטיים:</strong> לחות: 8%, חלבון ברוטו: 32%, שומנים ברוטו: 21%, סיבים ברוטו: 2%, אפר ברוטו: 7%, סידן: 1, 5%, זרחן: 1%, ויטמין A: 21240 IU/ק”ג., ויטמין D: 2000 IU/kg, ויטמין E: 141 מ”ג/ק”ג, Cu: 22 מ”ג/ק”ג.</p><p><br></p><p><strong>תוספים:</strong> ויטמין 14.23 מ”ג/ק”ג, ביוטין: 0.24 מ”ג/ק”ג, ברזל: 231 . מ”ג/ק”ג, יוד: 2.8 מ”ג/ק”ג, מנגן: 105</p><p>קרניטין: 50 – L- מ”ג/ק”ג, אבץ: 197 מ”ג/ק”ג, סלניום 0.32 מ”ג/ק”ג, טאורין: 1,002 מ”ג/ק”ג ו</p>",
       "short_description": "המזון עם תכולת חלבון עשירה (24% עוף טרי וביצה מבושלת) ואנרגיה (חלבוני עופות מיובשים, שומן עוף ואורז) וצריכה מאוזנת של סידן וזרחן. גודלם של הכופתיות קטן מספיק כדי להיתפס על ידי לסתות קטנות, אבל גם לא קטן מדי בשביל לעיסה.\n\nסטיספקשן מגדלים לגורים PRO PUPPY START: מבטיח את רמת העיכול וספיגת המרכיבים הגבוה ביותר במהלך התקופה העדינה ביותר של חיי הכלב: גמילה",
@@ -3842,13 +3842,13 @@
       "images": [
         "https://gurimbakfar.co.il/assets/product-1781513646418-vx59ij.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/styspkshn-lgvrym-mkl-hgzaym-vklbvt-bsvp-hhryvn-vbmhlk-hhnkh-avp-20-kg-bs0huv",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://gurimbakfar.co.il/product/styspkshn-lgvrym-mkl-hgzaym-vklbvt-bsvp-hhryvn-vbmhlk-hhnkh-avp-20-kg-ix4tbc",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-07-22T12:44:15.630Z"
     },
     {
       "id": "7cbef393-9f02-4398-a517-62c32db78c27",
