@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-23T21:35:11.136Z",
+  "generated_at": "2026-07-23T21:36:29.195Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 227,
@@ -320,7 +320,7 @@
     },
     {
       "id": "06a8a4d7-6c8f-403c-8f78-183989a091ec",
-      "slug": "bvsh-myny-gvnyvr-avp-81er3k",
+      "slug": "bvsh-myny-gvnyvr-avp-aufble",
       "name": "בוש מיני ג'וניור עוף",
       "name_translations": {
         "en": "Bosch Mini Junior Chicken",
@@ -336,15 +336,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-ai-fit-1784842340355-fp2fcs.webp"
+        "https://gurimbakfar.co.il/assets/product-1784842519708-r0bjz9.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/bvsh-myny-gvnyvr-avp-81er3k",
+      "url": "https://gurimbakfar.co.il/product/bvsh-myny-gvnyvr-avp-aufble",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-23T21:33:12.829Z"
+      "updated_at": "2026-07-23T21:35:57.176Z"
     },
     {
       "id": "f7af80bf-b4a4-41e3-b77c-7ebde5f94101",
