@@ -1,18 +1,18 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-23T21:30:00.957Z",
+  "generated_at": "2026-07-23T21:31:18.599Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 227,
   "products": [
     {
       "id": "da3ab1c6-e986-4de3-a584-da857177245f",
-      "slug": "rtmt-prpkt-tsba-shchvr-s-z73yf1",
+      "slug": "rtmt-prpkt-tsba-shchvr-s-oneses",
       "name": "רתמת פרפקט צבע שחור S",
       "name_translations": {
         "en": "Perfect Harness Black Color S",
         "he": "רתמת פרפקט צבע שחור S",
-        "ru": "Шлейка Perfect цвет черный S"
+        "ru": "Шлейка Perfect цвет чёрный S"
       },
       "description": "",
       "short_description": null,
@@ -22,14 +22,16 @@
       "base_price": 99,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1784842205849-4t4y3a.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rtmt-prpkt-tsba-shchvr-s-z73yf1",
+      "url": "https://gurimbakfar.co.il/product/rtmt-prpkt-tsba-shchvr-s-oneses",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-23T21:29:28.761Z"
+      "updated_at": "2026-07-23T21:30:46.824Z"
     },
     {
       "id": "36148dee-db63-463e-9686-a740dccd327b",

@@ -76,11 +76,12 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 227** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### רתמת פרפקט צבע שחור S
-https://gurimbakfar.co.il/product/rtmt-prpkt-tsba-shchvr-s-z73yf1
+https://gurimbakfar.co.il/product/rtmt-prpkt-tsba-shchvr-s-oneses
 - Price: 99.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 - Brand: Pets Project
+- Image: https://gurimbakfar.co.il/assets/product-ai-fit-1784842205849-4t4y3a.webp
 
 ### רתמת פרפקט זברה XL
 https://gurimbakfar.co.il/product/rtmt-prpkt-zbrh-xl-xjgdac
