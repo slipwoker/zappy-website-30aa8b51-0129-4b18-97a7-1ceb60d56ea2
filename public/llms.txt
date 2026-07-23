@@ -73,7 +73,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 222** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 223** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### Pets Project רצועה בד צבעוני ג'ירפה
 https://gurimbakfar.co.il/product/pets-project-rtsvah-bd-tsbavny-gyrph-e6s1ws
@@ -423,11 +423,19 @@ https://gurimbakfar.co.il/product/trypl-kravn-lklb-payl-14-kg-8xaozn
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1783492499432-3yx6mn.webp
 
 ### סטיספקשן כבש
-https://gurimbakfar.co.il/product/styspkshn-kbsh-s3ay9o
+https://gurimbakfar.co.il/product/styspkshn-kbsh-9vanr7
 - Price: 339.00 ILS
 - Availability: In stock
+- Category: מזון יבש
 - Description: פורמולת Satisfaction Pro Kennel התזונה המושלמת לכלבים בוגרים עם פעילות רגילה עד ממוצעת, פורמולה זו נבחרה בקפידה כדי לספק תזונה בריאה ותזונה מאוזנת לאורך חיי כלבי הבית, כלבי התצוגה וכלבי העבודה.
 - Image: https://gurimbakfar.co.il/assets/product-1783492933423-ev14n6.webp
+
+### Brande מזון מלא לכלבים בוגרים
+https://gurimbakfar.co.il/product/brande-mzvn-mla-lklbym-bvgrym-fncnrg
+- Price: 150.00 ILS
+- Availability: In stock
+- Category: מזון יבש
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1783580123121-jxgval.webp
 
 ### בוש לגורים מגזע גדול עוף
 https://gurimbakfar.co.il/product/bvsh-lgvrym-mgza-gdvl-avp-9drk49
@@ -1597,13 +1605,6 @@ https://gurimbakfar.co.il/product/mbrsht-avblyt-ktnh-rkvrd-4q0chf
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449198949-fg4h4.webp
-
-### הנריס בולי סטיק
-https://gurimbakfar.co.il/product/hnrys-bvly-styk-vp0jgi
-- Price: 39.00 ILS
-- Availability: In stock
-- Category: חטיפים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449138802-xuj7sa.webp
 
 ---
 

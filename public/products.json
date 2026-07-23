@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-23T21:05:42.081Z",
+  "generated_at": "2026-07-23T21:08:00.405Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 222,
+  "count": 223,
   "products": [
     {
       "id": "ee6e634a-9bda-4867-bf6d-b583103eb7c6",
@@ -1161,12 +1161,12 @@
     },
     {
       "id": "321f3e4a-3d56-43d4-9ee8-8567cf6a4103",
-      "slug": "styspkshn-kbsh-s3ay9o",
+      "slug": "styspkshn-kbsh-9vanr7",
       "name": "סטיספקשן כבש",
       "name_translations": {
         "en": "Satisfaction Lamb",
         "he": "סטיספקשן כבש",
-        "ru": "Сатисфэкшн Ягнёнок"
+        "ru": "Сатисфакшн Ягнёнок"
       },
       "description": "<p><strong>רכיבים:</strong>&nbsp;טלה מיובש (מינימום 14%), אורז (מינימום 12%), תירס, עופות מיובשים, גלוטן תירס, שמנים ושומנים, עיסת סלק, כבד הידרולי, ויטמינים ומינרלים. נוגדי חמצון וחומרים משמרים של UIT המורשים על ידי האיחוד האירופי.</p><p><br></p><p><strong>רכיבים אנליטיים:</strong> חלבון גולמי: 25%, חומר שומן גולמי: 15%, אפר גולמי: 7,5%, תאית גולמית: 2,5%, לחות: 8%, סידן: 1,5%, זרחן: 1%, ויטמין A: 18000 אול / ק”ג, ויטמין D3: 2000 אול / ק”ג, ויטמין E (DL-allpha טוקופרול אצטט): 120 מ”ג / ק”ג, נחושת (נחושת גופרתית פנטהידראט): 12 מ”ג / ק”ג. עם נוגדי חמצון וחומרים משמרים המורשים על ידי האיחוד האירופי.</p><p><br></p><p><strong>תוספים:</strong> ויטמין :A ויטמין מ”ג/ק”ג, ברזל: 75 מ”ג/ק”ג; יוד: 3.5 מ”ג/ק”ג; מנגן: copper sulfate pentahydrate): 10( נחושת 7.5 מ”ג/ק”ג; אבץ: 150 מ”ג/ק”ג; סלניום: 0.15 מ”ג/ק”ג. מכיל נוגדי חמצון וחומרים משמרים</p>",
       "short_description": "פורמולת Satisfaction Pro Kennel התזונה המושלמת לכלבים בוגרים עם פעילות רגילה עד ממוצעת, פורמולה זו נבחרה בקפידה כדי לספק תזונה בריאה ותזונה מאוזנת לאורך חיי כלבי הבית, כלבי התצוגה וכלבי העבודה.",
@@ -1181,9 +1181,39 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/styspkshn-kbsh-s3ay9o",
-      "categories": [],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "url": "https://gurimbakfar.co.il/product/styspkshn-kbsh-9vanr7",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-23T21:07:28.452Z"
+    },
+    {
+      "id": "2b22e787-aef8-4fe9-88a1-1a9bcaa5c8ee",
+      "slug": "brande-mzvn-mla-lklbym-bvgrym-fncnrg",
+      "name": "Brande מזון מלא לכלבים בוגרים",
+      "name_translations": {
+        "en": "Brande Complete Food for Adult Dogs",
+        "he": "Brande מזון מלא לכלבים בוגרים",
+        "ru": "Brande полнорационный корм для взрослых собак"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 150,
+      "base_price": 150,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783580123121-jxgval.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/brande-mzvn-mla-lklbym-bvgrym-fncnrg",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-23T21:07:49.980Z"
     },
     {
       "id": "8127bf1a-dee7-4f7a-a467-5fcb3632a632",
