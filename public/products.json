@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-23T15:50:36.017Z",
+  "generated_at": "2026-07-23T15:53:00.180Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 220,
@@ -292,12 +292,12 @@
     },
     {
       "id": "b74196a4-ca27-4263-8cfb-1f7c3c360c2d",
-      "slug": "chtyp-nvblvs-brbkyv-shvk-avp-80-gr-i0bcay",
-      "name": "חטיף נובלוס ברבקיו שוק עוף 80 גר'",
+      "slug": "chtyp-nvblvs-brbkyv-shvk-avp-80-gr-10-b-100-3rhh7s",
+      "name": "חטיף נובלוס ברבקיו שוק עוף 80 גר' 10 ב 100",
       "name_translations": {
-        "en": "Nobilus BBQ Chicken Drumstick Treat 80g",
-        "he": "חטיף נובלוס ברבקיו שוק עוף 80 גר'",
-        "ru": "Лакомство Nobulus барбекю куриная ножка 80 г"
+        "en": "Nobilus BBQ Chicken Drumstick Treat 80g 10 for 100",
+        "he": "חטיף נובלוס ברבקיו שוק עוף 80 גר' 10 ב 100",
+        "ru": "Лакомство Nobulus барбекю куриная голень 80 гр' 10 за 100"
       },
       "description": "<p>רכיבים: בשר חזה עוף, בשר חזה ברווז, קמח חיטה, קמח חלבון סויה, עמילן סויה, גליצרין, ויטמין C, נתרן EVC, חומרי טעם וריח.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 28%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5%</li><li>לחות: מקסימום 18%</li></ul>",
       "short_description": "חטיף נובילוס (Nobilus) בטעם שוק עוף ברביקיו (80 גרם) הוא חטיף פרימיום פופולרי ועשיר בחלבון המיועד לפינוק, אימון ותעסוקה של כלבים.\nאריזה: מארז נוח במשקל 80 גרם הכולל סגירה חוזרת (Ziploc) לשמירה מרבית על הטריות.",
@@ -312,11 +312,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-i0bcay",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-10-b-100-3rhh7s",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-23T15:50:04.317Z"
+      "updated_at": "2026-07-23T15:52:49.396Z"
     },
     {
       "id": "96fca75b-38ad-4bb4-8a1d-d00c08d8a04a",
