@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-23T21:33:45.322Z",
+  "generated_at": "2026-07-23T21:35:11.136Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 227,
@@ -348,7 +348,7 @@
     },
     {
       "id": "f7af80bf-b4a4-41e3-b77c-7ebde5f94101",
-      "slug": "bvsh-gvnyvr-kbsh-vavrz-lgvry-klbym-mgza-bynvny-hdj47t",
+      "slug": "bvsh-gvnyvr-kbsh-vavrz-lgvry-klbym-mgza-bynvny-raeuc0",
       "name": "בוש ג'וניור כבש ואורז לגורי כלבים מגזע בינוני",
       "name_translations": {
         "en": "Bosch Junior Lamb & Rice for Medium Breed Puppies",
@@ -359,18 +359,18 @@
       "short_description": "מזון גורים בוש ג'וניור כבש ואורז (Bosch Junior Lamb & Rice) הוא מזון יבש ברמת סופר פרימיום, המיועד במיוחד לגורי כלבים בתהליך גדילה (בפרט מגזעים בינוניים וגדולים), ומותאם במיוחד לגורים בעלי קיבה רגישה או נטייה לאלרגיות.",
       "sku": null,
       "brand": "bosch",
-      "price": 0,
-      "base_price": 0,
+      "price": 40,
+      "base_price": 40,
       "sale_price": null,
       "currency": "ILS",
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/bvsh-gvnyvr-kbsh-vavrz-lgvry-klbym-mgza-bynvny-hdj47t",
+      "url": "https://gurimbakfar.co.il/product/bvsh-gvnyvr-kbsh-vavrz-lgvry-klbym-mgza-bynvny-raeuc0",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-23T21:17:01.560Z"
+      "updated_at": "2026-07-23T21:34:39.405Z"
     },
     {
       "id": "b3ddc539-aa39-4ae8-a68d-a38aa28758c0",
