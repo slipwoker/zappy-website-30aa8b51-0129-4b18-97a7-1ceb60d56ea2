@@ -73,7 +73,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 224** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 226** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### רתמת פרפקט זברה XL
 https://gurimbakfar.co.il/product/rtmt-prpkt-zbrh-xl-zyd3kh
@@ -169,6 +169,22 @@ https://gurimbakfar.co.il/product/sms-pyldsams-field-avvz-hvdv-13-kg-pwlewr
 - Brand: סמס פילד
 - Description: מזון Sam's Field אווז והודו 13 ק"ג הוא מזון סופר-פרימיום לכלבים בוגרים מגזע גדול. הפורמולה מכילה 70% בשר (אווז והודו), פירות, וירקות. היא אינה מכילה גלוטן ומועשרת בפרוביוטיקה, גלוקוזאמין וכונדרויטין לשמירה על המפרקים.
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1784490291964-vpsur.webp
+
+### בוש מיני ג'וניור עוף
+https://gurimbakfar.co.il/product/bvsh-myny-gvnyvr-avp-s6on1r
+- Price: 40.00 ILS
+- Availability: In stock
+- Category: מזון יבש
+- Brand: bosch
+- Description: מזון בוש מיני ג'וניור עוף (Bosch Mini Junior) הוא אוכל יבש פרימיום לגורי כלבים מגזע קטן המיועד מגיל גמילה ועד גיל שנה (משקל בוגר עד 15 ק"ג). הוא מתבסס על עוף טרי ומכיל גלוקוזאמין לשמירה על המפרקים.
+
+### בוש ג'וניור כבש ואורז לגורי כלבים מגזע בינוני
+https://gurimbakfar.co.il/product/bvsh-gvnyvr-kbsh-vavrz-lgvry-klbym-mgza-bynvny-hdj47t
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: מזון יבש
+- Brand: bosch
+- Description: מזון גורים בוש ג'וניור כבש ואורז (Bosch Junior Lamb & Rice) הוא מזון יבש ברמת סופר פרימיום, המיועד במיוחד לגורי כלבים בתהליך גדילה (בפרט מגזעים בינוניים וגדולים), ומותאם במיוחד לגורים בעלי קיבה רגישה או נטייה לאלרגיות.
 
 ### טריפל קראון לכלב בוגר עוף 14 ק"ג
 https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-avp-14-kg-79mg0c
@@ -1593,20 +1609,6 @@ https://gurimbakfar.co.il/product/kdvr-dntly-ktn-rk-9tv9b5
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781451063928-biucx.webp
-
-### משחק האכלה מתגלגל
-https://gurimbakfar.co.il/product/mshchk-haklh-mtglgl-4izint
-- Price: 55.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781451109152-gbvitw.webp
-
-### תרסיס בישום petglow
-https://gurimbakfar.co.il/product/trsys-byshvm-petglow-8o1uv3
-- Price: 35.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781451149225-d25pcr.webp
 
 ---
 
