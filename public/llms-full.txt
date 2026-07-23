@@ -7754,7 +7754,7 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### רתמת פרפקט זברה XL
-URL: https://gurimbakfar.co.il/product/rtmt-prpkt-zbrh-xl-zyd3kh
+URL: https://gurimbakfar.co.il/product/rtmt-prpkt-zbrh-xl-xjgdac
 Price: 150.00 ILS
 Availability: In stock
 Brand: Pets Project

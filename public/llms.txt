@@ -76,12 +76,13 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 226** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### רתמת פרפקט זברה XL
-https://gurimbakfar.co.il/product/rtmt-prpkt-zbrh-xl-zyd3kh
+https://gurimbakfar.co.il/product/rtmt-prpkt-zbrh-xl-xjgdac
 - Price: 150.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 - Brand: Pets Project
 - Description: רתמה איכותית ונוחה מבית Pets Project, המעניקה שילוב מושלם של שליטה, נוחות ובטיחות. דגם Perfect מתוכנן להתאמה מדויקת לגוף הכלב, עם חלוקת לחץ נכונה שמפחיתה עומס מהצוואר ומבטיחה חוויית טיול נעימה. עשויה חומרים עמידים וקלים, עם רצועות מתכווננות להתאמה אישית ויציבה עם סגירה כפולה לאבטחה. מגיעה עם ידית אחזקה על גב הרתמה. אידיאלית לשימוש יומיומי ומתאימה לכלבים גדולים
+- Image: https://gurimbakfar.co.il/assets/product-ai-fit-1784842041195-5wgccq.webp
 
 ### Pets Project רצועה בד צבעוני ג'ירפה
 https://gurimbakfar.co.il/product/pets-project-rtsvah-bd-tsbavny-gyrph-e6s1ws
