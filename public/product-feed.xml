@@ -4,7 +4,7 @@
     <title>גורים בכפר</title>
     <link>https://gurimbakfar.co.il</link>
     <description>Product feed for גורים בכפר</description>
-    <lastBuildDate>Thu, 23 Jul 2026 16:09:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 21:04:44 GMT</lastBuildDate>
     <item>
       <g:id>9c6da46f-2e07-4247-98dd-d913ba490b65</g:id>
       <g:title>Pets Project רצועה בד צבעוני ג&apos;ירפה - ג&apos;ירפה / XS</g:title>
@@ -2380,6 +2380,76 @@
       <g:brand>גורים בכפר</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
       <g:product_type>קולרים ורצועות</g:product_type>
+    </item>
+    <item>
+      <g:id>dbc8bf89-bf06-4446-97c9-a5928810b2e1</g:id>
+      <g:title>כלוב אילוף לכלבים - 121 ס&quot;מ</g:title>
+      <g:description>כלוב אילוף לכלבים</g:description>
+      <g:link>https://gurimbakfar.co.il/product/klvb-aylvp-lklbym-mfyzxg</g:link>
+      <g:item_group_id>9f66829a-ece8-4209-ac4f-9ae0958f2051</g:item_group_id>
+      <g:image_link>https://gurimbakfar.co.il/assets/product-1782157508007-mvdxj.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>360.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>כלובים וגדרות</g:product_type>
+    </item>
+    <item>
+      <g:id>ea6c6865-5c02-4532-b70a-82e35859ca31</g:id>
+      <g:title>כלוב אילוף לכלבים - 107 ס&quot;מ</g:title>
+      <g:description>כלוב אילוף לכלבים</g:description>
+      <g:link>https://gurimbakfar.co.il/product/klvb-aylvp-lklbym-mfyzxg</g:link>
+      <g:item_group_id>9f66829a-ece8-4209-ac4f-9ae0958f2051</g:item_group_id>
+      <g:image_link>https://gurimbakfar.co.il/assets/product-1782157508007-mvdxj.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>330.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>כלובים וגדרות</g:product_type>
+    </item>
+    <item>
+      <g:id>6c259a32-f094-4127-96aa-62b81272e45a</g:id>
+      <g:title>כלוב אילוף לכלבים - 91 ס&quot;מ</g:title>
+      <g:description>כלוב אילוף לכלבים</g:description>
+      <g:link>https://gurimbakfar.co.il/product/klvb-aylvp-lklbym-mfyzxg</g:link>
+      <g:item_group_id>9f66829a-ece8-4209-ac4f-9ae0958f2051</g:item_group_id>
+      <g:image_link>https://gurimbakfar.co.il/assets/product-1782157508007-mvdxj.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>250.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>כלובים וגדרות</g:product_type>
+    </item>
+    <item>
+      <g:id>d1b79d98-a77a-4d35-9970-dc581cf58964</g:id>
+      <g:title>כלוב אילוף לכלבים - 76 ס&quot;מ</g:title>
+      <g:description>כלוב אילוף לכלבים</g:description>
+      <g:link>https://gurimbakfar.co.il/product/klvb-aylvp-lklbym-mfyzxg</g:link>
+      <g:item_group_id>9f66829a-ece8-4209-ac4f-9ae0958f2051</g:item_group_id>
+      <g:image_link>https://gurimbakfar.co.il/assets/product-1782157508007-mvdxj.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>220.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>כלובים וגדרות</g:product_type>
+    </item>
+    <item>
+      <g:id>5b9a8dcd-18d1-4687-bd01-4e0bdbec83a7</g:id>
+      <g:title>כלוב אילוף לכלבים - 61 ס&quot;מ</g:title>
+      <g:description>כלוב אילוף לכלבים</g:description>
+      <g:link>https://gurimbakfar.co.il/product/klvb-aylvp-lklbym-mfyzxg</g:link>
+      <g:item_group_id>9f66829a-ece8-4209-ac4f-9ae0958f2051</g:item_group_id>
+      <g:image_link>https://gurimbakfar.co.il/assets/product-1782157508007-mvdxj.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>150.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>כלובים וגדרות</g:product_type>
     </item>
     <item>
       <g:id>2f8dee24-f97b-4532-b09c-21a45d4466f2</g:id>
