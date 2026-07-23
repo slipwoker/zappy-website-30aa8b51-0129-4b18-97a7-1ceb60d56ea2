@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-23T21:04:44.772Z",
+  "generated_at": "2026-07-23T21:05:42.081Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 221,
+  "count": 222,
   "products": [
     {
       "id": "ee6e634a-9bda-4867-bf6d-b583103eb7c6",
@@ -2801,6 +2801,34 @@
         "קולרים ורצועות"
       ],
       "updated_at": "2026-07-19T13:32:38.738Z"
+    },
+    {
+      "id": "c18b94dc-acce-48bd-83b8-3f40ea13db4f",
+      "slug": "gdr-aylvp-lklbym-d9eh2x",
+      "name": "גדר אילוף לכלבים",
+      "name_translations": {
+        "en": "Dog Training Fence",
+        "he": "גדר אילוף לכלבים",
+        "ru": "Забор для дрессировки собак"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 190,
+      "base_price": 190,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1782159865970-28hekd.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/gdr-aylvp-lklbym-d9eh2x",
+      "categories": [
+        "כלובים וגדרות"
+      ],
+      "updated_at": "2026-07-23T21:05:10.226Z"
     },
     {
       "id": "9f66829a-ece8-4209-ac4f-9ae0958f2051",

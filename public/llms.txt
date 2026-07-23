@@ -73,7 +73,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 221** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 222** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### Pets Project רצועה בד צבעוני ג'ירפה
 https://gurimbakfar.co.il/product/pets-project-rtsvah-bd-tsbavny-gyrph-e6s1ws
@@ -877,6 +877,13 @@ https://gurimbakfar.co.il/product/rtsvah-nyylvn-prydvg-mydh-m-nj1ujy
 - Category: קולרים ורצועות
 - Image: https://gurimbakfar.co.il/assets/product-1781771727666-z8uzk7.webp
 
+### גדר אילוף לכלבים
+https://gurimbakfar.co.il/product/gdr-aylvp-lklbym-d9eh2x
+- Price: 190.00 ILS
+- Availability: In stock
+- Category: כלובים וגדרות
+- Image: https://gurimbakfar.co.il/assets/product-1782159865970-28hekd.webp
+
 ### כלוב אילוף לכלבים
 https://gurimbakfar.co.il/product/klvb-aylvp-lklbym-mfyzxg
 - Price: 150.00 ILS
@@ -1597,13 +1604,6 @@ https://gurimbakfar.co.il/product/hnrys-bvly-styk-vp0jgi
 - Availability: In stock
 - Category: חטיפים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449138802-xuj7sa.webp
-
-### בובות לכלבים צוואר חבל חיות
-https://gurimbakfar.co.il/product/bvbvt-lklbym-tsvvar-chbl-chyvt-2akabn
-- Price: 35.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781118838806-1c9mj7.webp
 
 ---
 
