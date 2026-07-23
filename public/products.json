@@ -1,10 +1,36 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-23T21:28:24.705Z",
+  "generated_at": "2026-07-23T21:30:00.957Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 226,
+  "count": 227,
   "products": [
+    {
+      "id": "da3ab1c6-e986-4de3-a584-da857177245f",
+      "slug": "rtmt-prpkt-tsba-shchvr-s-z73yf1",
+      "name": "רתמת פרפקט צבע שחור S",
+      "name_translations": {
+        "en": "Perfect Harness Black Color S",
+        "he": "רתמת פרפקט צבע שחור S",
+        "ru": "Шлейка Perfect цвет черный S"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": "Pets Project",
+      "price": 99,
+      "base_price": 99,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/rtmt-prpkt-tsba-shchvr-s-z73yf1",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-07-23T21:29:28.761Z"
+    },
     {
       "id": "36148dee-db63-463e-9686-a740dccd327b",
       "slug": "rtmt-prpkt-zbrh-xl-xjgdac",

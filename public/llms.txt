@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 226** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 227** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### רתמת פרפקט צבע שחור S
+https://gurimbakfar.co.il/product/rtmt-prpkt-tsba-shchvr-s-z73yf1
+- Price: 99.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+- Brand: Pets Project
 
 ### רתמת פרפקט זברה XL
 https://gurimbakfar.co.il/product/rtmt-prpkt-zbrh-xl-xjgdac
@@ -1603,13 +1610,6 @@ https://gurimbakfar.co.il/product/chbl-xs-fxzwb0
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781450912224-7i6kmq.webp
-
-### כדור דנטלי קטן רך
-https://gurimbakfar.co.il/product/kdvr-dntly-ktn-rk-9tv9b5
-- Price: 10.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781451063928-biucx.webp
 
 ---
 
