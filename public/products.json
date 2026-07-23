@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-23T15:30:02.165Z",
+  "generated_at": "2026-07-23T15:31:32.922Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 220,
@@ -292,33 +292,31 @@
     },
     {
       "id": "b74196a4-ca27-4263-8cfb-1f7c3c360c2d",
-      "slug": "smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylykvm-iana3p",
-      "name": "סמוקיס עוגיות טבעיות לכלבים בטעם פיצה ובזיליקום",
+      "slug": "chtyp-nvblvs-brbkyv-shvk-avp-80-gr-46sv71",
+      "name": "חטיף נובלוס ברבקיו שוק עוף 80 גר'",
       "name_translations": {
-        "en": "Smokies Natural Dog Cookies in Pizza and Basil Flavor",
-        "he": "סמוקיס עוגיות טבעיות לכלבים בטעם פיצה ובזיליקום",
-        "ru": "Smokeys натуральное печенье для собак со вкусом пиццы и базилика"
+        "en": "Nobilus BBQ Chicken Drumstick Treat 80g",
+        "he": "חטיף נובלוס ברבקיו שוק עוף 80 גר'",
+        "ru": "Лакомство Nobilus барбекю куриная голень 80 г"
       },
-      "description": "<p>רכיבים עיקריים: קמח (חיטה ותפוחי אדמה), שומן צמחי, דבש, ביצים טריות, אבקת חלב ותערובת סופר פודס הכוללת חמוציות, ג'ינג'ר, כורכום, קינמון, מנטה ואורגנו.</p><p>שימוש: החטיפים מתאימים כצ'ופר יומיומי או כפרס בזמן אילוף.</p><p>תכולה: המארז הסטנדרטי מכיל 200 גר' של עוגיות.</p>",
-      "short_description": "חטיף פרימיום המיוצר מרכיבים איכותיים המוגדרים כראויים למאכל אדם",
+      "description": "<p>רכיבים: בשר חזה עוף, בשר חזה ברווז, קמח חיטה, קמח חלבון סויה, עמילן סויה, גליצרין, ויטמין C, נתרן EVC, חומרי טעם וריח.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 28%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5%</li><li>לחות: מקסימום 18%</li></ul>",
+      "short_description": "חטיף נובילוס (Nobilus) בטעם שוק עוף ברביקיו (80 גרם) הוא חטיף פרימיום פופולרי ועשיר בחלבון המיועד לפינוק, אימון ותעסוקה של כלבים.\nאריזה: מארז נוח במשקל 80 גרם הכולל סגירה חוזרת (Ziploc) לשמירה מרבית על הטריות.",
       "sku": null,
       "brand": null,
-      "price": 20,
-      "base_price": 20,
+      "price": 12.5,
+      "base_price": 12.5,
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-ai-fit-1783934698591-mid6em.webp",
-        "https://gurimbakfar.co.il/assets/product-1783934714988-h8bpv.webp",
-        "https://gurimbakfar.co.il/assets/product-1783934741467-r6v554.webp"
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1783464739061-immko8.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/smvkys-avgyvt-tbayvt-lklbym-btam-pytsh-vbzylykvm-iana3p",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-46sv71",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-23T15:29:30.088Z"
+      "updated_at": "2026-07-23T15:31:00.812Z"
     },
     {
       "id": "96fca75b-38ad-4bb4-8a1d-d00c08d8a04a",
