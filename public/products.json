@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-23T21:53:24.093Z",
+  "generated_at": "2026-07-23T22:17:46.343Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 227,
@@ -348,7 +348,7 @@
     },
     {
       "id": "f7af80bf-b4a4-41e3-b77c-7ebde5f94101",
-      "slug": "bvsh-gvnyvr-kbsh-vavrz-lgvry-klbym-mgza-bynvny-raeuc0",
+      "slug": "bvsh-gvnyvr-kbsh-vavrz-lgvry-klbym-mgza-bynvny-usajph",
       "name": "בוש ג'וניור כבש ואורז לגורי כלבים מגזע בינוני",
       "name_translations": {
         "en": "Bosch Junior Lamb & Rice for Medium Breed Puppies",
@@ -363,14 +363,16 @@
       "base_price": 40,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1784844989085-yryiw7.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/bvsh-gvnyvr-kbsh-vavrz-lgvry-klbym-mgza-bynvny-raeuc0",
+      "url": "https://gurimbakfar.co.il/product/bvsh-gvnyvr-kbsh-vavrz-lgvry-klbym-mgza-bynvny-usajph",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-23T21:34:39.405Z"
+      "updated_at": "2026-07-23T22:17:14.546Z"
     },
     {
       "id": "b3ddc539-aa39-4ae8-a68d-a38aa28758c0",
