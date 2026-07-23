@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-23T21:41:56.194Z",
+  "generated_at": "2026-07-23T21:47:00.762Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 227,
@@ -1695,31 +1695,33 @@
     },
     {
       "id": "b1437e92-9c4e-4a33-a559-f9433ac25293",
-      "slug": "myth-laxury-lklb-vlchtvl-gj9ke8",
+      "slug": "myth-laxury-lklb-vlchtvl-sg5qub",
       "name": "מיטה LAXURY לכלב ולחתול",
       "name_translations": {
         "en": "LAXURY Bed for Dogs and Cats",
         "he": "מיטה LAXURY לכלב ולחתול",
-        "ru": "Кровать LAXURY для собаки и кошки"
+        "ru": "Кровать LAXURY для собак и кошек"
       },
       "description": "<p>מיטה בעלת מראה אלגנטי ויוקרתי בעלת בסיס מוגבה</p>",
       "short_description": "מראה אלגנטי ויוקרתי",
       "sku": null,
-      "brand": null,
+      "brand": "Pets Project",
       "price": 379,
       "base_price": 379,
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-enhanced-1783424730256-5m6khm.webp"
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1784843129694-4pqg5a.webp",
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783424730256-5m6khm.webp",
+        "https://gurimbakfar.co.il/assets/product-1784842911634-c27ur5.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/myth-laxury-lklb-vlchtvl-gj9ke8",
+      "url": "https://gurimbakfar.co.il/product/myth-laxury-lklb-vlchtvl-sg5qub",
       "categories": [
         "מיטות ומזרונים"
       ],
-      "updated_at": "2026-07-23T21:40:29.164Z"
+      "updated_at": "2026-07-23T21:46:29.003Z"
     },
     {
       "id": "b67325a3-e302-4739-926f-adcbc4bda696",
