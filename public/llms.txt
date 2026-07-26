@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 227** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 228** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### בוש אדולט עוף ודוחן
+https://gurimbakfar.co.il/product/bvsh-advlt-avp-vdvchn-6plal4
+- Price: 100.00 ILS
+- Availability: In stock
+- Description: מזון לכלבים בוש אדולט עוף ודוחן (Bosch Adult) הוא אוכל יבש איכותי לכלבים בוגרים מגיל 12 חודשים ומעלה, המכיל 30% בשר עוף טרי ו-17.5% דוחן, ומיוצר ללא חיטה כדי להתאים לכלבים בעלי רגישויות תזונתיות.
+- Image: https://gurimbakfar.co.il/assets/product-1785096718383-b1s9d.webp
 
 ### בוש אדולט כבש ואורז
 https://gurimbakfar.co.il/product/bvsh-advlt-kbsh-vavrz-9vakkx
@@ -1607,13 +1614,6 @@ https://gurimbakfar.co.il/product/shmpv-lgvrym-bioline-ubep0o
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781433330227-qzhud6.webp
-
-### חבל XS
-https://gurimbakfar.co.il/product/chbl-xs-fxzwb0
-- Price: 5.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781450912224-7i6kmq.webp
 
 ---
 
