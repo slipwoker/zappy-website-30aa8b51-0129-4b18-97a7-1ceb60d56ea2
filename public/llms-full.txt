@@ -7754,9 +7754,10 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### בוש אדולט כבש ואורז
-URL: https://gurimbakfar.co.il/product/bvsh-advlt-kbsh-vavrz-vlmqh6
-Price: 0.00 ILS
+URL: https://gurimbakfar.co.il/product/bvsh-advlt-kbsh-vavrz-9vakkx
+Price: 100.00 ILS
 Availability: In stock
+Brand: bosch
 
 ---
 

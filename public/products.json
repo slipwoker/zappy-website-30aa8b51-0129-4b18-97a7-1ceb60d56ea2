@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-26T20:06:28.762Z",
+  "generated_at": "2026-07-26T20:07:33.022Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 227,
   "products": [
     {
       "id": "31eacbc5-97dc-4d36-b4c9-c4746e60b261",
-      "slug": "bvsh-advlt-kbsh-vavrz-vlmqh6",
+      "slug": "bvsh-advlt-kbsh-vavrz-9vakkx",
       "name": "בוש אדולט כבש ואורז",
       "name_translations": {
         "en": "Bosch Adult Lamb & Rice",
@@ -17,9 +17,9 @@
       "description": "",
       "short_description": "בוש אדולט כבש ואורז (Bosch Adult Lamb & Rice) הוא מזון יבש ברמת סופר-פרימיום תוצרת גרמניה, המיועד לכלבים בוגרים מכל הגזעים ומותאם במיוחד לכלבים בעלי רגישויות במערכת העיכול או נטייה לאלרגיות בעור.",
       "sku": null,
-      "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "brand": "bosch",
+      "price": 100,
+      "base_price": 100,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -27,9 +27,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/bvsh-advlt-kbsh-vavrz-vlmqh6",
-      "categories": [],
-      "updated_at": "2026-07-26T20:05:10.038Z"
+      "url": "https://gurimbakfar.co.il/product/bvsh-advlt-kbsh-vavrz-9vakkx",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-26T20:07:28.087Z"
     },
     {
       "id": "da3ab1c6-e986-4de3-a584-da857177245f",
