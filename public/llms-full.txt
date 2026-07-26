@@ -7754,9 +7754,10 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### בוש אדולט עוף ודוחן
-URL: https://gurimbakfar.co.il/product/bvsh-advlt-avp-vdvchn-6plal4
+URL: https://gurimbakfar.co.il/product/bvsh-advlt-avp-vdvchn-yfx26s
 Price: 100.00 ILS
 Availability: In stock
+Brand: bosch
 
 ---
 

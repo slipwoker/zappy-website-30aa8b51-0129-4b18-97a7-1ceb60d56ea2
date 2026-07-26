@@ -76,9 +76,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 228** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### בוש אדולט עוף ודוחן
-https://gurimbakfar.co.il/product/bvsh-advlt-avp-vdvchn-6plal4
+https://gurimbakfar.co.il/product/bvsh-advlt-avp-vdvchn-yfx26s
 - Price: 100.00 ILS
 - Availability: In stock
+- Category: מזון יבש
+- Brand: bosch
 - Description: מזון לכלבים בוש אדולט עוף ודוחן (Bosch Adult) הוא אוכל יבש איכותי לכלבים בוגרים מגיל 12 חודשים ומעלה, המכיל 30% בשר עוף טרי ו-17.5% דוחן, ומיוצר ללא חיטה כדי להתאים לכלבים בעלי רגישויות תזונתיות.
 - Image: https://gurimbakfar.co.il/assets/product-1785096718383-b1s9d.webp
 
