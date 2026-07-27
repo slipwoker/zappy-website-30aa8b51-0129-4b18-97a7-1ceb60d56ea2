@@ -76,10 +76,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 229** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### רתמה לכלב גדול
-https://gurimbakfar.co.il/product/rtmh-lklb-gdvl-rd6jxj
+https://gurimbakfar.co.il/product/rtmh-lklb-gdvl-aspf92
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
+- Description: רתמה המתאימה לכלב גדול עם סקוטש להצמדת נלווים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1785170915788-g8nj6.webp
 
 ### בוש אדולט עוף ודוחן

@@ -7754,7 +7754,7 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### רתמה לכלב גדול
-URL: https://gurimbakfar.co.il/product/rtmh-lklb-gdvl-rd6jxj
+URL: https://gurimbakfar.co.il/product/rtmh-lklb-gdvl-aspf92
 Price: 0.00 ILS
 Availability: In stock
 
