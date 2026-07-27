@@ -1,10 +1,38 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-27T16:46:08.589Z",
+  "generated_at": "2026-07-27T16:52:16.955Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 228,
+  "count": 229,
   "products": [
+    {
+      "id": "661b63d7-124c-4aa0-a463-4ece76e52bc5",
+      "slug": "rtmh-lklb-gdvl-rd6jxj",
+      "name": "רתמה לכלב גדול",
+      "name_translations": {
+        "en": "Harness for Large Dog",
+        "he": "רתמה לכלב גדול",
+        "ru": "Шлейка для большой собаки"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1785170915788-g8nj6.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/rtmh-lklb-gdvl-rd6jxj",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-07-27T16:48:54.498Z"
+    },
     {
       "id": "295d41fb-4423-4157-ba57-a1dcc699be1e",
       "slug": "bvsh-advlt-avp-vdvchn-yfx26s",

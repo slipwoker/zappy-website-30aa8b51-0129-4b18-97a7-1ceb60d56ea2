@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 228** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 229** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### רתמה לכלב גדול
+https://gurimbakfar.co.il/product/rtmh-lklb-gdvl-rd6jxj
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1785170915788-g8nj6.webp
 
 ### בוש אדולט עוף ודוחן
 https://gurimbakfar.co.il/product/bvsh-advlt-avp-vdvchn-yfx26s
@@ -1609,13 +1616,6 @@ https://gurimbakfar.co.il/product/kysvy-mvshb-achvry-lklb-v70yuy
 - Availability: In stock
 - Category: אביזרים
 - Image: https://gurimbakfar.co.il/assets/product-1780860631624-oa086.webp
-
-### שמפו לגורים bioline
-https://gurimbakfar.co.il/product/shmpv-lgvrym-bioline-ubep0o
-- Price: 40.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781433330227-qzhud6.webp
 
 ---
 
