@@ -76,7 +76,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 229** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### רתמה לכלב גדול
-https://gurimbakfar.co.il/product/rtmh-lklb-gdvl-aspf92
+https://gurimbakfar.co.il/product/rtmh-lklb-gdvl-10ohaq
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
