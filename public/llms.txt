@@ -188,15 +188,6 @@ https://gurimbakfar.co.il/product/kvlr-chgvrh-lklb-gdvl-m3sbrd
 - Description: קולר המתאים לכלבים מגזעים גדולים
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1784564899964-w3ys94.webp
 
-### סמס פילד/Sam's Field אווז הודו 13 ק"ג
-https://gurimbakfar.co.il/product/sms-pyldsams-field-avvz-hvdv-13-kg-pwlewr
-- Price: 299.00 ILS
-- Availability: In stock
-- Category: מזון יבש
-- Brand: סמס פילד
-- Description: מזון Sam's Field אווז והודו 13 ק"ג הוא מזון סופר-פרימיום לכלבים בוגרים מגזע גדול. הפורמולה מכילה 70% בשר (אווז והודו), פירות, וירקות. היא אינה מכילה גלוטן ומועשרת בפרוביוטיקה, גלוקוזאמין וכונדרויטין לשמירה על המפרקים.
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1784490291964-vpsur.webp
-
 ### בוש מיני ג'וניור עוף
 https://gurimbakfar.co.il/product/bvsh-myny-gvnyvr-avp-aufble
 - Price: 40.00 ILS
@@ -223,6 +214,15 @@ https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-avp-14-kg-79mg0c
 - Brand: טריפל קראון
 - Description: מזון לכלבים בוגרים. מיועד לכלבים בוגרים עם רמת פעילות ממוצעת ומשקל תקין.‏ ‏ הנוסחה המאוזנת שלו מספקת תזונה מלאה התורמת למצב גוף בריא, מה שהופך את טריפל קראון למוצר מתאים כדי לענות על כל הצרכים התזונתיים היומיים של הכלב הבוגר שלכם
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1784483517296-jasbplf.webp
+
+### טריפל קראון לכלב בוגר גורמה כבש 14 ק"ג
+https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-gvrmh-kbsh-14-kg-pxuesf
+- Price: 259.00 ILS
+- Availability: In stock
+- Category: מזון יבש
+- Brand: טריפל קראון
+- Description: טריפל קראון גורמה כבש ואורז (Triple Crown Gourmet Dog Lamb & Rice) הוא מזון יבש מלא ברמת פרימיום, המיוצר בספרד ומיועד לכלבים בוגרים מכל הגזעים בעלי רמת פעילות ממוצעת. הנוסחה מבוססת על בשר כבש כמקור חלבון חלופי, והיא מתאימה במיוחד לכלבים בעלי מערכת עיכול רגישה או כאלה המפתחים אי-סבילות לחלבונים נפוצים אחרים כמו עוף.
+- Image: https://gurimbakfar.co.il/assets/product-1783413282939-drcrxq.webp
 
 ### חטיף נובלוס ברבקיו שוק עוף 80 גר' 10 ב 100
 https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-10-b-100-3rhh7s
@@ -457,15 +457,6 @@ https://gurimbakfar.co.il/product/mtkn-mym-avtvmty-1iaijw
 - Description: מתקן מים אוטומטי לחיות מחמד הפועל על בסיס כוח הכבידה
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1783429874449-e9o50b.webp
 
-### טריפל קראון לכלב בוגר גורמה כבש 14 ק"ג
-https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-gvrmh-kbsh-14-kg-pxuesf
-- Price: 259.00 ILS
-- Availability: In stock
-- Category: מזון יבש
-- Brand: טריפל קראון
-- Description: טריפל קראון גורמה כבש ואורז (Triple Crown Gourmet Dog Lamb & Rice) הוא מזון יבש מלא ברמת פרימיום, המיוצר בספרד ומיועד לכלבים בוגרים מכל הגזעים בעלי רמת פעילות ממוצעת. הנוסחה מבוססת על בשר כבש כמקור חלבון חלופי, והיא מתאימה במיוחד לכלבים בעלי מערכת עיכול רגישה או כאלה המפתחים אי-סבילות לחלבונים נפוצים אחרים כמו עוף.
-- Image: https://gurimbakfar.co.il/assets/product-1783413282939-drcrxq.webp
-
 ### טריפל קראון לכלב פעיל 14 ק"ג
 https://gurimbakfar.co.il/product/trypl-kravn-lklb-payl-14-kg-8xaozn
 - Price: 259.00 ILS
@@ -474,21 +465,6 @@ https://gurimbakfar.co.il/product/trypl-kravn-lklb-payl-14-kg-8xaozn
 - Brand: טריפל קראון
 - Description: אוכל יבש טריפל קראון ספורטיב (Triple Crown Sportive) לכלבים פעילים. נוסחה זו מותאמת לכלבים בוגרים בעלי רמות אנרגיה גבוהות, כגון כלבי עבודה או ספורט, ומספקת את הרכיבים התזונתיים הדרושים לביצועים גבוהים ולעלייה נכונה במשקל.
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1783492499432-3yx6mn.webp
-
-### סטיספקשן כבש
-https://gurimbakfar.co.il/product/styspkshn-kbsh-9vanr7
-- Price: 339.00 ILS
-- Availability: In stock
-- Category: מזון יבש
-- Description: פורמולת Satisfaction Pro Kennel התזונה המושלמת לכלבים בוגרים עם פעילות רגילה עד ממוצעת, פורמולה זו נבחרה בקפידה כדי לספק תזונה בריאה ותזונה מאוזנת לאורך חיי כלבי הבית, כלבי התצוגה וכלבי העבודה.
-- Image: https://gurimbakfar.co.il/assets/product-1783492933423-ev14n6.webp
-
-### Brande מזון מלא לכלבים בוגרים
-https://gurimbakfar.co.il/product/brande-mzvn-mla-lklbym-bvgrym-fncnrg
-- Price: 150.00 ILS
-- Availability: In stock
-- Category: מזון יבש
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1783580123121-jxgval.webp
 
 ### טריפל קראון סלמון היפואלרגני 14 ק"ג
 https://gurimbakfar.co.il/product/trypl-kravn-slmvn-hypvalrgny-14-kg-tkhlkd
@@ -507,6 +483,31 @@ https://gurimbakfar.co.il/product/trypl-kravn-lklb-ank-avp-14-kg-zg1kre
 - Brand: טריפל קראון
 - Description: מזון לכלבים מגזע גדול או ענק‏ ‏מצוין עבור: כלבים בוגרים מגזעים גדולים וענקיים.‏ ‏לכלבים מגזע גדול יש צרכי אנרגיה ספציפיים. מסיבה זו, סדרת טריפל קראון מציעה את Titandog MaxiAdult, מזון שלם שפותח במיוחד כדי לענות על צרכי האנרגיה והתזונה של כלבים מגזע גדול. הוא מכיל אספקת חלבון המספקת לשמירה על שרירים חזקים ואיזון סידן/זרחן, כמו גם כונדרוספרוטקטורים המסייעים בשמירה על בריאות העצמות והמפרקים.‏ ‏ צריכת חלבון אופטימלית‏ ‏ איזון סידן וזרחן‏ ‏ עם נוגדי חמצון טבעיים.
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1783580422155-npjlxb.webp
+
+### Brande מזון מלא לכלבים בוגרים
+https://gurimbakfar.co.il/product/brande-mzvn-mla-lklbym-bvgrym-fncnrg
+- Price: 150.00 ILS
+- Availability: In stock
+- Category: מזון יבש
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1783580123121-jxgval.webp
+
+### מזון כלבים Bitesy גורים סלמון 12 ק"ג
+https://gurimbakfar.co.il/product/mzvn-klbym-bitesy-gvrym-slmvn-12-kg-vnii8w
+- Price: 309.00 ILS
+- Availability: In stock
+- Category: מזון יבש
+- Brand: Bitesy
+- Description: מזון לגורי כלבים בייטסי bitesy חלבון יחיד סלמון, תומך בהתפתחות אופטימלית של הגור מכיל בשר סלמון (34% ) עם אורז לתזונה מאוזנת. אורז ובטטה – פחמימות איכותיות קלות לעיכול, פטרוזיליה ואצות לתזונה עשירה בחומרים מזינים. עם שמן סלמון – מסייע לעור בריא ופרווה מבריקה, טאורין – מסייע לבריאות הלב כולל ויטמינים, מינרלים ונוגדי חמצון חיוניים לחיוניות. גלוקוזמין – מסייע בהתפתחות בריאה של המפרקים תוצרת איטליה.
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1783426203173-esm6je.webp
+
+### מזון כלבים Bitesy בוגר ברווז אורז ובטטה 12 ק"ג
+https://gurimbakfar.co.il/product/mzvn-klbym-bitesy-bvgr-brvvz-avrz-vbtth-12-kg-fkm6qu
+- Price: 309.00 ILS
+- Availability: In stock
+- Category: מזון יבש
+- Brand: Bitesy
+- Description: מזון כלבים Bitesy Platinum היפואלרגני על בסיס ברווז, אורז, בטטה וחמוציות לכלבים בוגרים מכיל בשר ברווז כחלבון יחיד (32%) אורז ובטטה – פחמימות איכותיות קלות לעיכול חמוציות ופטרוזליה לתזונה עשירה בחומרים מזינים. עם שמן סלמון – מסייע לעור בריא ופרווה מבריקה כולל ויטמינים, מינרלים ונוגדי חמצון חיוניים לחיוניות. גלוקוזמין – מסייע בהתפתחות בריאה של המפרקים תוצרת איטליה.
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1783425975134-1pgsw9.webp
 
 ### רתמת Quick fit xxs
 https://gurimbakfar.co.il/product/rtmt-quick-fit-xxs-4ajpda
@@ -537,23 +538,14 @@ https://gurimbakfar.co.il/product/st-rtmh-vrtsvah-lklb-ktnbynvny-lnm7ii
 - Category: קולרים ורצועות
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1784565969133-h9q9t3.webp
 
-### מזון כלבים Bitesy גורים סלמון 12 ק"ג
-https://gurimbakfar.co.il/product/mzvn-klbym-bitesy-gvrym-slmvn-12-kg-vnii8w
-- Price: 309.00 ILS
+### סמס פילד/Sam's Field אווז הודו 13 ק"ג
+https://gurimbakfar.co.il/product/sms-pyldsams-field-avvz-hvdv-13-kg-pwlewr
+- Price: 299.00 ILS
 - Availability: In stock
 - Category: מזון יבש
-- Brand: Bitesy
-- Description: מזון לגורי כלבים בייטסי bitesy חלבון יחיד סלמון, תומך בהתפתחות אופטימלית של הגור מכיל בשר סלמון (34% ) עם אורז לתזונה מאוזנת. אורז ובטטה – פחמימות איכותיות קלות לעיכול, פטרוזיליה ואצות לתזונה עשירה בחומרים מזינים. עם שמן סלמון – מסייע לעור בריא ופרווה מבריקה, טאורין – מסייע לבריאות הלב כולל ויטמינים, מינרלים ונוגדי חמצון חיוניים לחיוניות. גלוקוזמין – מסייע בהתפתחות בריאה של המפרקים תוצרת איטליה.
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1783426203173-esm6je.webp
-
-### מזון כלבים Bitesy בוגר ברווז אורז ובטטה 12 ק"ג
-https://gurimbakfar.co.il/product/mzvn-klbym-bitesy-bvgr-brvvz-avrz-vbtth-12-kg-fkm6qu
-- Price: 309.00 ILS
-- Availability: In stock
-- Category: מזון יבש
-- Brand: Bitesy
-- Description: מזון כלבים Bitesy Platinum היפואלרגני על בסיס ברווז, אורז, בטטה וחמוציות לכלבים בוגרים מכיל בשר ברווז כחלבון יחיד (32%) אורז ובטטה – פחמימות איכותיות קלות לעיכול חמוציות ופטרוזליה לתזונה עשירה בחומרים מזינים. עם שמן סלמון – מסייע לעור בריא ופרווה מבריקה כולל ויטמינים, מינרלים ונוגדי חמצון חיוניים לחיוניות. גלוקוזמין – מסייע בהתפתחות בריאה של המפרקים תוצרת איטליה.
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1783425975134-1pgsw9.webp
+- Brand: סמס פילד
+- Description: מזון Sam's Field אווז והודו 13 ק"ג הוא מזון סופר-פרימיום לכלבים בוגרים מגזע גדול. הפורמולה מכילה 70% בשר (אווז והודו), פירות, וירקות. היא אינה מכילה גלוטן ומועשרת בפרוביוטיקה, גלוקוזאמין וכונדרויטין לשמירה על המפרקים.
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1784490291964-vpsur.webp
 
 ### סמס פילד/Sam's Field בוגרים גזע קטן עוף 8 ק"ג
 https://gurimbakfar.co.il/product/sms-pyldsams-field-bvgrym-gza-ktn-avp-8-kg-owzfyp
@@ -581,6 +573,15 @@ https://gurimbakfar.co.il/product/sms-pyldsams-field-snyvr-lyyt-13-kg-ruyavy
 - Brand: סמס פילד
 - Description: מזון סופר פרמיום לכלבים בוגרים ומבוגרים מבית Sam’s Field, היפו אלרגני מופחת דגנים. מתאים לכלבים מבוגרים (סניור) או לכלבים שצריכים לרדת במשקל – מופחת קלוריות ומכיל סיבים העוזרים לתחושת שובע. על בסיס בשר כבש כמקור חלבון איכותי.
 - Image: https://gurimbakfar.co.il/assets/product-1783425541892-e6t9z5.webp
+
+### סמס פילד/Sam's Field סלומון ותפוח אדמה 13 ק"ג
+https://gurimbakfar.co.il/product/sms-pyldsams-field-slvmvn-vtpvch-admh-13-kg-h5y5qt
+- Price: 299.00 ILS
+- Availability: In stock
+- Category: מזון יבש
+- Brand: סמס פילד
+- Description: Sem’s Field Adult Salmon And Potato, סמס פילד מופחת דגנים סלמון ותפוחי אדמה מתאים לכלבים בוגרים מכל הגזעים ובכל הגדלים, מזון יבש סמס פילד מופחת דגנים מכיל 65% סלמון, פירות וירקות, בעל רמת נעכלות גבוהה, עשיר בפירות וירקות המשפרים את המערכת החיסונית, עשיר בחלבונים כמו סלמון המונעים אלרגיות , עשיר באומגה 3 ואומגה 6 המעניקים ברק לפרווה ושומרים על העור.
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1784489484204-3josz7.webp
 
 ### אדיקשן כבש כלב בוגר 15 ק"ג
 https://gurimbakfar.co.il/product/adykshn-kbsh-klb-bvgr-15-kg-12ty96
@@ -705,14 +706,14 @@ https://gurimbakfar.co.il/product/mzvn-klbym-rtvb-aysgrym-arvcht-chzyr-br-lklb-4
 - Description: 410 גרם שימורים, לכלבים בוגרים מכל הגזעים, מהאיכות הגבוהה ביותר של המותג Isegrim Roots על חזיר בר.
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1783413809325-9up29.webp
 
-### סמס פילד/Sam's Field סלומון ותפוח אדמה 13 ק"ג
-https://gurimbakfar.co.il/product/sms-pyldsams-field-slvmvn-vtpvch-admh-13-kg-h5y5qt
-- Price: 299.00 ILS
+### NATURE WILD נייצר בוגר בטעם בקר ודג 12 ק”ג
+https://gurimbakfar.co.il/product/nature-wild-nyytsr-bvgr-btam-bkr-vdg-12-kg-ipluj3
+- Price: 339.00 ILS
 - Availability: In stock
 - Category: מזון יבש
-- Brand: סמס פילד
-- Description: Sem’s Field Adult Salmon And Potato, סמס פילד מופחת דגנים סלמון ותפוחי אדמה מתאים לכלבים בוגרים מכל הגזעים ובכל הגדלים, מזון יבש סמס פילד מופחת דגנים מכיל 65% סלמון, פירות וירקות, בעל רמת נעכלות גבוהה, עשיר בפירות וירקות המשפרים את המערכת החיסונית, עשיר בחלבונים כמו סלמון המונעים אלרגיות , עשיר באומגה 3 ואומגה 6 המעניקים ברק לפרווה ושומרים על העור.
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1784489484204-3josz7.webp
+- Brand: nature
+- Description: מזון לכלבים "נייצ'ר" (Nature) מציע סדרות מזון הוליסטיות והיפואלרגניות, המבוססות על אחוזי בשר גבוהים (כדוגמת סלמון, בקר וכבש), פירות, ירקות וללא דגנים. הוא מתעכל בקלות ומתאים לכלבים עם רגישויות עיכול או אלרגיות.
+- Image: https://gurimbakfar.co.il/assets/product-1781772071865-fzxw3j.webp
 
 ### חבל דנטלי 4 קשרים
 https://gurimbakfar.co.il/product/chbl-dntly-4-kshrym-a173qr
@@ -1144,15 +1145,6 @@ https://gurimbakfar.co.il/product/myth-lklbym-petsproject-mydh-s-ashvy-mbd-amyd-
 - Category: מיטות ומזרונים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1783244034698-h07tqj.webp
 
-### NATURE WILD נייצר בוגר בטעם בקר ודג 12 ק”ג
-https://gurimbakfar.co.il/product/nature-wild-nyytsr-bvgr-btam-bkr-vdg-12-kg-ipluj3
-- Price: 339.00 ILS
-- Availability: In stock
-- Category: מזון יבש
-- Brand: nature
-- Description: מזון לכלבים "נייצ'ר" (Nature) מציע סדרות מזון הוליסטיות והיפואלרגניות, המבוססות על אחוזי בשר גבוהים (כדוגמת סלמון, בקר וכבש), פירות, ירקות וללא דגנים. הוא מתעכל בקלות ומתאים לכלבים עם רגישויות עיכול או אלרגיות.
-- Image: https://gurimbakfar.co.il/assets/product-1781772071865-fzxw3j.webp
-
 ### NATURE WILD נייצר גור בטעם ברווז והודו 12 ק”ג
 https://gurimbakfar.co.il/product/nature-wild-nyytsr-gvr-btam-brvvz-vhvdv-12-kg-zuvezx
 - Price: 349.00 ILS
@@ -1161,13 +1153,6 @@ https://gurimbakfar.co.il/product/nature-wild-nyytsr-gvr-btam-brvvz-vhvdv-12-kg-
 - Brand: nature
 - Description: פורמולה הוליסטית ללא דגנים לגורי כלבים, בשר הודו, עוף, וברווז, הוא מתכון מובחר המספק מזון שלם ומאוזן העשוי מרכיבים טבעיים וטריים באיכות הגבוהה ביותר. 25% בשר הודו טרי | 14% בשר עוף מיובש | 5% בשר ברווז מיובש | 0% דגנים חלבונים באיכות גבוהה מקדמים יצירה ותחזוקה של מסת שריר, המספקים שומנים כמקור לאנרגיה. בשר טעים מאוד עם פרוטאינים בעל ערך ביולוגי גבוה העוזר לשמור על משקל בריא. חלבון בעל רמת נעכלות גבוהה, מספק חומצות אמינו נחוצות. חלבון תזונתי ברמה גבוהה.
 - Image: https://gurimbakfar.co.il/assets/product-1781772447524-lxbm2f.webp
-
-### מיטה פלאפי לכלבים וחתולים קנל סלקט דגם לולה S אפור
-https://gurimbakfar.co.il/product/myth-plapy-lklbym-vchtvlym-knl-slkt-dgm-lvlh-s-apvr-j2fn43
-- Price: 180.00 ILS
-- Availability: In stock
-- Category: מיטות ומזרונים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1783244174011-slaffg.webp
 
 ### NATURE WILD נייצר בוגר בטעם ברווז ודג 12 ק”ג
 https://gurimbakfar.co.il/product/nature-wild-nyytsr-bvgr-btam-brvvz-vdg-12-kg-7cnjon
@@ -1178,6 +1163,13 @@ https://gurimbakfar.co.il/product/nature-wild-nyytsr-bvgr-btam-brvvz-vdg-12-kg-7
 - Description: חלבונים באיכות גבוהה מקדמים יצירה ותחזוקה של מסת שריר, המספקים שומנים כמקור לאנרגיה. חלבון תזונתי ברמה גבוהה, עוזר להקל על עצבי מערכת העיכול וגירוי בעור. חומצות שומניות אומגה -3 ואומגה 6 תורמות לרווחת העור והפרווה וגורם לפרווה מבריקה יותר. מזון הוליסטי. נקי מתוספים סינתטיים. שמורה באופן טבעי.
 - Image: https://gurimbakfar.co.il/assets/product-1781772692584-e8iw2l.webp
 
+### מיטה פלאפי לכלבים וחתולים קנל סלקט דגם לולה S אפור
+https://gurimbakfar.co.il/product/myth-plapy-lklbym-vchtvlym-knl-slkt-dgm-lvlh-s-apvr-j2fn43
+- Price: 180.00 ILS
+- Availability: In stock
+- Category: מיטות ומזרונים
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1783244174011-slaffg.webp
+
 ### NATURE נייצר סלמון 70% בשר 12 ק”ג
 https://gurimbakfar.co.il/product/nature-nyytsr-slmvn-70-bshr-12-kg-4bdq0d
 - Price: 339.00 ILS
@@ -1186,6 +1178,14 @@ https://gurimbakfar.co.il/product/nature-nyytsr-slmvn-70-bshr-12-kg-4bdq0d
 - Brand: nature
 - Description: פורמולה שפותחה כדי לשפר את בריאות הכלב שלך ולתת לו את התזונה הטובה ביותר. Nature בשר דג סלמון לכלבים בוגרים מכל הגזעים מבית Satisfaction עשוי ממתכונים בלעדיים המספקים תזונה מלאה ומאוזנת. לייצור המזון נבחרו מרכיבים טבעיים איכותיים בלבד. התוצאה מדהימה : מזון היפואלרגני, הוליסטי ללא דגנים, המכיל 70% בשר איכותי טעים מאוד ובדרגת עיכול גבוהה אשר יהפוך את בעל החיים שלכם למאושר ובריא.
 - Image: https://gurimbakfar.co.il/assets/product-1781774146935-iiyoru.webp
+
+### סטיספקשן כבש
+https://gurimbakfar.co.il/product/styspkshn-kbsh-9vanr7
+- Price: 339.00 ILS
+- Availability: In stock
+- Category: מזון יבש
+- Description: פורמולת Satisfaction Pro Kennel התזונה המושלמת לכלבים בוגרים עם פעילות רגילה עד ממוצעת, פורמולה זו נבחרה בקפידה כדי לספק תזונה בריאה ותזונה מאוזנת לאורך חיי כלבי הבית, כלבי התצוגה וכלבי העבודה.
+- Image: https://gurimbakfar.co.il/assets/product-1783492933423-ev14n6.webp
 
 ### סטיספקשיין בוגר גזע גדול עוף 20 ק"ג
 https://gurimbakfar.co.il/product/styspkshyyn-bvgr-gza-gdvl-avp-20-kg-0q6ck2

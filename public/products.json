@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-26T21:08:25.167Z",
+  "generated_at": "2026-07-27T13:01:18.925Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 228,
@@ -31,7 +31,7 @@
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-26T20:16:06.443Z"
+      "updated_at": "2026-07-27T12:53:57.166Z"
     },
     {
       "id": "31eacbc5-97dc-4d36-b4c9-c4746e60b261",
@@ -59,7 +59,7 @@
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-26T20:07:44.508Z"
+      "updated_at": "2026-07-27T12:53:57.166Z"
     },
     {
       "id": "da3ab1c6-e986-4de3-a584-da857177245f",
@@ -347,34 +347,6 @@
       "updated_at": "2026-07-20T16:30:00.146Z"
     },
     {
-      "id": "cc4787d4-1ce1-4ffd-9947-a690c102449d",
-      "slug": "sms-pyldsams-field-avvz-hvdv-13-kg-pwlewr",
-      "name": "סמס פילד/Sam's Field אווז הודו 13 ק\"ג",
-      "name_translations": {
-        "en": "Sam's Field Goose & Turkey 13 kg",
-        "he": "סמס פילד/Sam's Field אווז הודו 13 ק\"ג",
-        "ru": "Сэмс Филд/Sam's Field Гусь Индейка 13 кг"
-      },
-      "description": "<p>רכיבים: אווז מיובש 26%, הודו מיובש 15%, תפו”א 12%, אורז, שומן כבד(משומר עם Techopherols, מקור של ויטמין E) , הודו טרי ללא עצמות 10%, אפונה ירוקה 2.5%, תפוחים מיובשים 2%, שמן סלמון 2%, כבד עוף, שמרי בירה, פטרוזיליה מיובשת 0.8%, גזר 1%, אגסים מיובשים 0.5%, ענבי שועל מיובשים 0.2%, גלוקוזמין 350 מג”/ק”ג, chondroitine sulphate 220 מ”ג/ק”ג, תמצית של יוקה שידיגרה 100 מ”ג/ק”ג, קמומיל 80 מ”ג/ק”ג</p><p>ערכים תזונתיים:</p><p>חלבון גולמי 25%, שומן גולמי 15%, סיבים תזונתיים גולמיים2.8%, עפר 6.5%, לחות 10%, סידן 1.3%, זרחן 1%, ליסין 1%, מתיונין 0.3%, טראונין 0.8%, טריפטופן 0.3%, ארגינין 1.2%</p><p><br></p>",
-      "short_description": "מזון Sam's Field אווז והודו 13 ק\"ג הוא מזון סופר-פרימיום לכלבים בוגרים מגזע גדול. הפורמולה מכילה 70% בשר (אווז והודו), פירות, וירקות. היא אינה מכילה גלוטן ומועשרת בפרוביוטיקה, גלוקוזאמין וכונדרויטין לשמירה על המפרקים. ",
-      "sku": null,
-      "brand": "סמס פילד",
-      "price": 299,
-      "base_price": 299,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://gurimbakfar.co.il/assets/product-enhanced-1784490291964-vpsur.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/sms-pyldsams-field-avvz-hvdv-13-kg-pwlewr",
-      "categories": [
-        "מזון יבש"
-      ],
-      "updated_at": "2026-07-19T19:45:53.728Z"
-    },
-    {
       "id": "06a8a4d7-6c8f-403c-8f78-183989a091ec",
       "slug": "bvsh-myny-gvnyvr-avp-aufble",
       "name": "בוש מיני ג'וניור עוף",
@@ -400,7 +372,7 @@
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-23T21:35:57.176Z"
+      "updated_at": "2026-07-27T12:53:57.166Z"
     },
     {
       "id": "f7af80bf-b4a4-41e3-b77c-7ebde5f94101",
@@ -428,7 +400,7 @@
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-26T20:18:54.557Z"
+      "updated_at": "2026-07-27T12:53:57.166Z"
     },
     {
       "id": "b3ddc539-aa39-4ae8-a68d-a38aa28758c0",
@@ -456,7 +428,35 @@
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T19:16:02.591Z"
+      "updated_at": "2026-07-27T12:53:57.166Z"
+    },
+    {
+      "id": "b81f25b9-288f-4d22-a010-9eb8c8211c2b",
+      "slug": "trypl-kravn-lklb-bvgr-gvrmh-kbsh-14-kg-pxuesf",
+      "name": "טריפל קראון לכלב בוגר גורמה כבש 14 ק\"ג",
+      "name_translations": {
+        "en": "Triple Crown Adult Dog Gourmet Lamb 14 kg",
+        "he": "טריפל קראון לכלב בוגר גורמה כבש 14 ק\"ג",
+        "ru": "Triple Crown для взрослых собак Гурме Ягнёнок 14 кг"
+      },
+      "description": "<p>מרכיבים</p><p>‏דגנים (6% אורז), בשר ומוצרי לוואי מהחי (8% עופות, 6% כבש), שמנים ושומנים (10% שומן עופות), תוצרי לוואי ממקור צמחי, תוצרי לוואי של דגים ודגים, חומרים מינרליים, פירות (תפוח 1000 מ\"ג/ק\"ג ואוכמניות 1000 מ\"ג/ק\"ג) 500 מ\"ג/ק\"ג.</p><p>רכיבים תזונתיים:</p><p>‏חלבון גולמי: 27% – שמנים גולמיים ושומנים: 15% – סיבים גולמיים: 2% – חומר לא אורגני: 8% – לחות 10% – סידן – 2% – זרחן 1.30%.</p>",
+      "short_description": "טריפל קראון גורמה כבש ואורז (Triple Crown Gourmet Dog Lamb & Rice) הוא מזון יבש מלא ברמת פרימיום, המיוצר בספרד ומיועד לכלבים בוגרים מכל הגזעים בעלי רמת פעילות ממוצעת. הנוסחה מבוססת על בשר כבש כמקור חלבון חלופי, והיא מתאימה במיוחד לכלבים בעלי מערכת עיכול רגישה או כאלה המפתחים אי-סבילות לחלבונים נפוצים אחרים כמו עוף.",
+      "sku": null,
+      "brand": "טריפל קראון",
+      "price": 259,
+      "base_price": 259,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1783413282939-drcrxq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-gvrmh-kbsh-14-kg-pxuesf",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-27T12:53:57.166Z"
     },
     {
       "id": "b74196a4-ca27-4263-8cfb-1f7c3c360c2d",
@@ -1273,34 +1273,6 @@
       "updated_at": "2026-07-19T13:32:38.738Z"
     },
     {
-      "id": "b81f25b9-288f-4d22-a010-9eb8c8211c2b",
-      "slug": "trypl-kravn-lklb-bvgr-gvrmh-kbsh-14-kg-pxuesf",
-      "name": "טריפל קראון לכלב בוגר גורמה כבש 14 ק\"ג",
-      "name_translations": {
-        "en": "Triple Crown Adult Dog Gourmet Lamb 14 kg",
-        "he": "טריפל קראון לכלב בוגר גורמה כבש 14 ק\"ג",
-        "ru": "Triple Crown для взрослых собак Гурме Ягнёнок 14 кг"
-      },
-      "description": "<p>מרכיבים</p><p>‏דגנים (6% אורז), בשר ומוצרי לוואי מהחי (8% עופות, 6% כבש), שמנים ושומנים (10% שומן עופות), תוצרי לוואי ממקור צמחי, תוצרי לוואי של דגים ודגים, חומרים מינרליים, פירות (תפוח 1000 מ\"ג/ק\"ג ואוכמניות 1000 מ\"ג/ק\"ג) 500 מ\"ג/ק\"ג.</p><p>רכיבים תזונתיים:</p><p>‏חלבון גולמי: 27% – שמנים גולמיים ושומנים: 15% – סיבים גולמיים: 2% – חומר לא אורגני: 8% – לחות 10% – סידן – 2% – זרחן 1.30%.</p>",
-      "short_description": "טריפל קראון גורמה כבש ואורז (Triple Crown Gourmet Dog Lamb & Rice) הוא מזון יבש מלא ברמת פרימיום, המיוצר בספרד ומיועד לכלבים בוגרים מכל הגזעים בעלי רמת פעילות ממוצעת. הנוסחה מבוססת על בשר כבש כמקור חלבון חלופי, והיא מתאימה במיוחד לכלבים בעלי מערכת עיכול רגישה או כאלה המפתחים אי-סבילות לחלבונים נפוצים אחרים כמו עוף.",
-      "sku": null,
-      "brand": "טריפל קראון",
-      "price": 259,
-      "base_price": 259,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://gurimbakfar.co.il/assets/product-1783413282939-drcrxq.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-gvrmh-kbsh-14-kg-pxuesf",
-      "categories": [
-        "מזון יבש"
-      ],
-      "updated_at": "2026-07-19T19:10:04.029Z"
-    },
-    {
       "id": "5efd3725-7d46-466a-bda9-9cf9ce814777",
       "slug": "trypl-kravn-lklb-payl-14-kg-8xaozn",
       "name": "טריפל קראון לכלב פעיל 14 ק\"ג",
@@ -1326,63 +1298,7 @@
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T18:03:21.289Z"
-    },
-    {
-      "id": "321f3e4a-3d56-43d4-9ee8-8567cf6a4103",
-      "slug": "styspkshn-kbsh-9vanr7",
-      "name": "סטיספקשן כבש",
-      "name_translations": {
-        "en": "Satisfaction Lamb",
-        "he": "סטיספקשן כבש",
-        "ru": "Сатисфакшн Ягнёнок"
-      },
-      "description": "<p><strong>רכיבים:</strong>&nbsp;טלה מיובש (מינימום 14%), אורז (מינימום 12%), תירס, עופות מיובשים, גלוטן תירס, שמנים ושומנים, עיסת סלק, כבד הידרולי, ויטמינים ומינרלים. נוגדי חמצון וחומרים משמרים של UIT המורשים על ידי האיחוד האירופי.</p><p><br></p><p><strong>רכיבים אנליטיים:</strong> חלבון גולמי: 25%, חומר שומן גולמי: 15%, אפר גולמי: 7,5%, תאית גולמית: 2,5%, לחות: 8%, סידן: 1,5%, זרחן: 1%, ויטמין A: 18000 אול / ק”ג, ויטמין D3: 2000 אול / ק”ג, ויטמין E (DL-allpha טוקופרול אצטט): 120 מ”ג / ק”ג, נחושת (נחושת גופרתית פנטהידראט): 12 מ”ג / ק”ג. עם נוגדי חמצון וחומרים משמרים המורשים על ידי האיחוד האירופי.</p><p><br></p><p><strong>תוספים:</strong> ויטמין :A ויטמין מ”ג/ק”ג, ברזל: 75 מ”ג/ק”ג; יוד: 3.5 מ”ג/ק”ג; מנגן: copper sulfate pentahydrate): 10( נחושת 7.5 מ”ג/ק”ג; אבץ: 150 מ”ג/ק”ג; סלניום: 0.15 מ”ג/ק”ג. מכיל נוגדי חמצון וחומרים משמרים</p>",
-      "short_description": "פורמולת Satisfaction Pro Kennel התזונה המושלמת לכלבים בוגרים עם פעילות רגילה עד ממוצעת, פורמולה זו נבחרה בקפידה כדי לספק תזונה בריאה ותזונה מאוזנת לאורך חיי כלבי הבית, כלבי התצוגה וכלבי העבודה.",
-      "sku": null,
-      "brand": null,
-      "price": 339,
-      "base_price": 339,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://gurimbakfar.co.il/assets/product-1783492933423-ev14n6.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/styspkshn-kbsh-9vanr7",
-      "categories": [
-        "מזון יבש"
-      ],
-      "updated_at": "2026-07-23T21:07:28.452Z"
-    },
-    {
-      "id": "2b22e787-aef8-4fe9-88a1-1a9bcaa5c8ee",
-      "slug": "brande-mzvn-mla-lklbym-bvgrym-fncnrg",
-      "name": "Brande מזון מלא לכלבים בוגרים",
-      "name_translations": {
-        "en": "Brande Complete Food for Adult Dogs",
-        "he": "Brande מזון מלא לכלבים בוגרים",
-        "ru": "Brande полнорационный корм для взрослых собак"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 150,
-      "base_price": 150,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://gurimbakfar.co.il/assets/product-enhanced-1783580123121-jxgval.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/brande-mzvn-mla-lklbym-bvgrym-fncnrg",
-      "categories": [
-        "מזון יבש"
-      ],
-      "updated_at": "2026-07-23T21:07:49.980Z"
+      "updated_at": "2026-07-27T12:53:57.166Z"
     },
     {
       "id": "0014ab6c-0f3e-41c4-874a-14b111e130cc",
@@ -1410,7 +1326,7 @@
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T19:10:35.245Z"
+      "updated_at": "2026-07-27T12:53:57.166Z"
     },
     {
       "id": "db0ab119-0554-4225-8baa-9e2c4dd60ae5",
@@ -1438,7 +1354,91 @@
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T19:12:41.583Z"
+      "updated_at": "2026-07-27T12:53:57.166Z"
+    },
+    {
+      "id": "2b22e787-aef8-4fe9-88a1-1a9bcaa5c8ee",
+      "slug": "brande-mzvn-mla-lklbym-bvgrym-fncnrg",
+      "name": "Brande מזון מלא לכלבים בוגרים",
+      "name_translations": {
+        "en": "Brande Complete Food for Adult Dogs",
+        "he": "Brande מזון מלא לכלבים בוגרים",
+        "ru": "Brande полнорационный корм для взрослых собак"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 150,
+      "base_price": 150,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783580123121-jxgval.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/brande-mzvn-mla-lklbym-bvgrym-fncnrg",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-27T12:53:57.166Z"
+    },
+    {
+      "id": "7a652b8d-226b-4e45-9ae5-8ddfaad7d7cb",
+      "slug": "mzvn-klbym-bitesy-gvrym-slmvn-12-kg-vnii8w",
+      "name": "מזון כלבים Bitesy גורים סלמון 12 ק\"ג",
+      "name_translations": {
+        "en": "Bitesy Puppy Dog Food Salmon 12 kg",
+        "he": "מזון כלבים Bitesy גורים סלמון 12 ק\"ג",
+        "ru": "Корм для собак Bitesy для щенков с лососем 12 кг"
+      },
+      "description": "<p><strong>רכיבים :</strong></p><p>סלמון מיובש (34%), אורז (14%), בטטה מיובשת (12%), שומן הודו (12%), אפונה מיובשת, עיסת סלק מיובשת (5%), חלבון אפונה, רוטב ירקות (2%), שמן סלמון (1%), שמרים (1%) מינרלים, פרה-ביוטיקה משורש עולש (0.034%), פרה-ביוטיקה (MOS) (0.025%), גלוקוזמין (0.012%), MSM (תוסף תזונה) (0.011%), כונדרויטין (0.01%), שורש מניהוט (יוקה), חמוציות, אצות, כורכום, עגבניה, פטרוזיליה (0.005%).</p><p><br></p><p><strong>ערכים תזונתיים :</strong></p><p>חלבון גולמי: 32%, סיבים תזונתיים 2.5%, שומן גולמי: 19%, אפר גולמי: 7.5%, סידן: 7.5%, זרחן: 1.5%, אומגה 3: 1%, אומגה 6: 1.1%, לחות:&nbsp;7.5%</p>",
+      "short_description": "מזון לגורי כלבים בייטסי bitesy חלבון יחיד סלמון, תומך בהתפתחות אופטימלית של הגור\nמכיל בשר סלמון  (34% ) עם אורז לתזונה מאוזנת.\nאורז ובטטה – פחמימות איכותיות קלות לעיכול, פטרוזיליה ואצות לתזונה עשירה בחומרים מזינים.\nעם שמן סלמון – מסייע לעור בריא ופרווה מבריקה, טאורין – מסייע לבריאות הלב\nכולל ויטמינים, מינרלים ונוגדי חמצון חיוניים לחיוניות. גלוקוזמין – מסייע בהתפתחות בריאה של המפרקים\nתוצרת איטליה.",
+      "sku": null,
+      "brand": "Bitesy",
+      "price": 309,
+      "base_price": 309,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783426203173-esm6je.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-bitesy-gvrym-slmvn-12-kg-vnii8w",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-27T12:53:57.166Z"
+    },
+    {
+      "id": "24b55072-456f-4aa6-9cfc-e6cd5c500ec0",
+      "slug": "mzvn-klbym-bitesy-bvgr-brvvz-avrz-vbtth-12-kg-fkm6qu",
+      "name": "מזון כלבים Bitesy בוגר ברווז אורז ובטטה 12 ק\"ג",
+      "name_translations": {
+        "en": "Bitesy Adult Dog Food Duck, Rice & Sweet Potato 12 kg",
+        "he": "מזון כלבים Bitesy בוגר ברווז אורז ובטטה 12 ק\"ג",
+        "ru": "Корм для собак Bitesy взрослый утка рис и батат 12 кг"
+      },
+      "description": "<p><strong>רכיבים :</strong></p><p>ברווז מיובש (32%), אורז (18%), בטטה מיובשת (16%), שומן הודו (12%), אפונה מיובשת, עיסת סלק מיובשת (5%), חלבון אפונה, רוטב ירקות (2%), שמן סלמון (1%), שמרים (1%) מינרלים, פרה-ביוטיקה משורש עולש (0.034%), פרה-ביוטיקה (MOS) (0.025%), גלוקוזמין (0.012%), MSM (תוסף תזונה) (0.011%), כונדרויטין (0.01%), שורש מניהוט (יוקה), חמוציות (0.005%), אצות, כורכום, עגבניה, פטרוזיליה.</p><p><br></p><p><strong>ערכים תזונתיים :</strong></p><p>חלבון גולמי: 29%, סיבים תזונתיים גולמיים: 2.5%, שומן גולמי: 18%, אפר גולמי: 8.5%, סידן: 1.7%, זרחן: 1.2%, אומגה 3: 0.3%, אומגה 6: 2.7%, לחות: 7.5%, חלבון ממרכיבים מן החי: 76%, סה\"כ מרכיבים מן החי: 45%, קק\"ל/100 גרם: 394.</p>",
+      "short_description": "מזון כלבים Bitesy Platinum היפואלרגני על בסיס ברווז, אורז, בטטה וחמוציות לכלבים בוגרים\n\nמכיל בשר ברווז כחלבון יחיד (32%) אורז ובטטה – פחמימות איכותיות קלות לעיכול\nחמוציות ופטרוזליה לתזונה עשירה בחומרים מזינים. עם שמן סלמון – מסייע לעור בריא ופרווה מבריקה\nכולל ויטמינים, מינרלים ונוגדי חמצון חיוניים לחיוניות. גלוקוזמין – מסייע בהתפתחות בריאה של המפרקים\nתוצרת איטליה.",
+      "sku": null,
+      "brand": "Bitesy",
+      "price": 309,
+      "base_price": 309,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1783425975134-1pgsw9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-bitesy-bvgr-brvvz-avrz-vbtth-12-kg-fkm6qu",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-27T12:53:57.166Z"
     },
     {
       "id": "2708101c-ba80-4c58-a122-b9ed83a8a038",
@@ -1557,60 +1557,32 @@
       "updated_at": "2026-07-20T16:56:35.017Z"
     },
     {
-      "id": "7a652b8d-226b-4e45-9ae5-8ddfaad7d7cb",
-      "slug": "mzvn-klbym-bitesy-gvrym-slmvn-12-kg-vnii8w",
-      "name": "מזון כלבים Bitesy גורים סלמון 12 ק\"ג",
+      "id": "cc4787d4-1ce1-4ffd-9947-a690c102449d",
+      "slug": "sms-pyldsams-field-avvz-hvdv-13-kg-pwlewr",
+      "name": "סמס פילד/Sam's Field אווז הודו 13 ק\"ג",
       "name_translations": {
-        "en": "Bitesy Puppy Dog Food Salmon 12 kg",
-        "he": "מזון כלבים Bitesy גורים סלמון 12 ק\"ג",
-        "ru": "Корм для собак Bitesy для щенков с лососем 12 кг"
+        "en": "Sam's Field Goose & Turkey 13 kg",
+        "he": "סמס פילד/Sam's Field אווז הודו 13 ק\"ג",
+        "ru": "Сэмс Филд/Sam's Field Гусь Индейка 13 кг"
       },
-      "description": "<p><strong>רכיבים :</strong></p><p>סלמון מיובש (34%), אורז (14%), בטטה מיובשת (12%), שומן הודו (12%), אפונה מיובשת, עיסת סלק מיובשת (5%), חלבון אפונה, רוטב ירקות (2%), שמן סלמון (1%), שמרים (1%) מינרלים, פרה-ביוטיקה משורש עולש (0.034%), פרה-ביוטיקה (MOS) (0.025%), גלוקוזמין (0.012%), MSM (תוסף תזונה) (0.011%), כונדרויטין (0.01%), שורש מניהוט (יוקה), חמוציות, אצות, כורכום, עגבניה, פטרוזיליה (0.005%).</p><p><br></p><p><strong>ערכים תזונתיים :</strong></p><p>חלבון גולמי: 32%, סיבים תזונתיים 2.5%, שומן גולמי: 19%, אפר גולמי: 7.5%, סידן: 7.5%, זרחן: 1.5%, אומגה 3: 1%, אומגה 6: 1.1%, לחות:&nbsp;7.5%</p>",
-      "short_description": "מזון לגורי כלבים בייטסי bitesy חלבון יחיד סלמון, תומך בהתפתחות אופטימלית של הגור\nמכיל בשר סלמון  (34% ) עם אורז לתזונה מאוזנת.\nאורז ובטטה – פחמימות איכותיות קלות לעיכול, פטרוזיליה ואצות לתזונה עשירה בחומרים מזינים.\nעם שמן סלמון – מסייע לעור בריא ופרווה מבריקה, טאורין – מסייע לבריאות הלב\nכולל ויטמינים, מינרלים ונוגדי חמצון חיוניים לחיוניות. גלוקוזמין – מסייע בהתפתחות בריאה של המפרקים\nתוצרת איטליה.",
+      "description": "<p>רכיבים: אווז מיובש 26%, הודו מיובש 15%, תפו”א 12%, אורז, שומן כבד(משומר עם Techopherols, מקור של ויטמין E) , הודו טרי ללא עצמות 10%, אפונה ירוקה 2.5%, תפוחים מיובשים 2%, שמן סלמון 2%, כבד עוף, שמרי בירה, פטרוזיליה מיובשת 0.8%, גזר 1%, אגסים מיובשים 0.5%, ענבי שועל מיובשים 0.2%, גלוקוזמין 350 מג”/ק”ג, chondroitine sulphate 220 מ”ג/ק”ג, תמצית של יוקה שידיגרה 100 מ”ג/ק”ג, קמומיל 80 מ”ג/ק”ג</p><p>ערכים תזונתיים:</p><p>חלבון גולמי 25%, שומן גולמי 15%, סיבים תזונתיים גולמיים2.8%, עפר 6.5%, לחות 10%, סידן 1.3%, זרחן 1%, ליסין 1%, מתיונין 0.3%, טראונין 0.8%, טריפטופן 0.3%, ארגינין 1.2%</p><p><br></p>",
+      "short_description": "מזון Sam's Field אווז והודו 13 ק\"ג הוא מזון סופר-פרימיום לכלבים בוגרים מגזע גדול. הפורמולה מכילה 70% בשר (אווז והודו), פירות, וירקות. היא אינה מכילה גלוטן ומועשרת בפרוביוטיקה, גלוקוזאמין וכונדרויטין לשמירה על המפרקים. ",
       "sku": null,
-      "brand": "Bitesy",
-      "price": 309,
-      "base_price": 309,
+      "brand": "סמס פילד",
+      "price": 299,
+      "base_price": 299,
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-enhanced-1783426203173-esm6je.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1784490291964-vpsur.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-bitesy-gvrym-slmvn-12-kg-vnii8w",
+      "url": "https://gurimbakfar.co.il/product/sms-pyldsams-field-avvz-hvdv-13-kg-pwlewr",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T19:54:24.543Z"
-    },
-    {
-      "id": "24b55072-456f-4aa6-9cfc-e6cd5c500ec0",
-      "slug": "mzvn-klbym-bitesy-bvgr-brvvz-avrz-vbtth-12-kg-fkm6qu",
-      "name": "מזון כלבים Bitesy בוגר ברווז אורז ובטטה 12 ק\"ג",
-      "name_translations": {
-        "en": "Bitesy Adult Dog Food Duck, Rice & Sweet Potato 12 kg",
-        "he": "מזון כלבים Bitesy בוגר ברווז אורז ובטטה 12 ק\"ג",
-        "ru": "Корм для собак Bitesy взрослый утка рис и батат 12 кг"
-      },
-      "description": "<p><strong>רכיבים :</strong></p><p>ברווז מיובש (32%), אורז (18%), בטטה מיובשת (16%), שומן הודו (12%), אפונה מיובשת, עיסת סלק מיובשת (5%), חלבון אפונה, רוטב ירקות (2%), שמן סלמון (1%), שמרים (1%) מינרלים, פרה-ביוטיקה משורש עולש (0.034%), פרה-ביוטיקה (MOS) (0.025%), גלוקוזמין (0.012%), MSM (תוסף תזונה) (0.011%), כונדרויטין (0.01%), שורש מניהוט (יוקה), חמוציות (0.005%), אצות, כורכום, עגבניה, פטרוזיליה.</p><p><br></p><p><strong>ערכים תזונתיים :</strong></p><p>חלבון גולמי: 29%, סיבים תזונתיים גולמיים: 2.5%, שומן גולמי: 18%, אפר גולמי: 8.5%, סידן: 1.7%, זרחן: 1.2%, אומגה 3: 0.3%, אומגה 6: 2.7%, לחות: 7.5%, חלבון ממרכיבים מן החי: 76%, סה\"כ מרכיבים מן החי: 45%, קק\"ל/100 גרם: 394.</p>",
-      "short_description": "מזון כלבים Bitesy Platinum היפואלרגני על בסיס ברווז, אורז, בטטה וחמוציות לכלבים בוגרים\n\nמכיל בשר ברווז כחלבון יחיד (32%) אורז ובטטה – פחמימות איכותיות קלות לעיכול\nחמוציות ופטרוזליה לתזונה עשירה בחומרים מזינים. עם שמן סלמון – מסייע לעור בריא ופרווה מבריקה\nכולל ויטמינים, מינרלים ונוגדי חמצון חיוניים לחיוניות. גלוקוזמין – מסייע בהתפתחות בריאה של המפרקים\nתוצרת איטליה.",
-      "sku": null,
-      "brand": "Bitesy",
-      "price": 309,
-      "base_price": 309,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://gurimbakfar.co.il/assets/product-enhanced-1783425975134-1pgsw9.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mzvn-klbym-bitesy-bvgr-brvvz-avrz-vbtth-12-kg-fkm6qu",
-      "categories": [
-        "מזון יבש"
-      ],
-      "updated_at": "2026-07-19T19:57:12.773Z"
+      "updated_at": "2026-07-27T12:53:57.166Z"
     },
     {
       "id": "81eacf25-c1ea-4e80-a91c-db05e766dcf1",
@@ -1638,7 +1610,7 @@
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T19:21:56.871Z"
+      "updated_at": "2026-07-27T12:53:57.166Z"
     },
     {
       "id": "a76d93a7-c6ec-4300-b696-882045f354bf",
@@ -1666,7 +1638,7 @@
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T19:27:04.300Z"
+      "updated_at": "2026-07-27T12:53:57.166Z"
     },
     {
       "id": "d8ff859b-8608-4f7e-9c4e-1586b22e04c2",
@@ -1694,7 +1666,35 @@
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T19:30:36.428Z"
+      "updated_at": "2026-07-27T12:53:57.166Z"
+    },
+    {
+      "id": "9e7fc6a5-3f27-4d81-86b9-2976fe4fdae5",
+      "slug": "sms-pyldsams-field-slvmvn-vtpvch-admh-13-kg-h5y5qt",
+      "name": "סמס פילד/Sam's Field סלומון ותפוח אדמה 13 ק\"ג",
+      "name_translations": {
+        "en": "Sam's Field Salmon and Potato 13 kg",
+        "he": "סמס פילד/Sam's Field סלומון ותפוח אדמה 13 ק\"ג",
+        "ru": "Сэмс Филд/Sam's Field Лосось и картофель 13 кг"
+      },
+      "description": "<p><strong>רכיבים:</strong></p><p>סלמון, תפו\"\"א, תירס, שומן עוף(משומר עם Technopherols, מקור של ויטמין E), שמן סלמון, טעמים טבעיים, תפוחים מיובשים, שמרי בירה, עגבניות, תמצית יוקה שיגידורה, גזרים, מינרלים, DL- מתיונין, L-לייסין, mannan-oligosaccharides, fructo-oligosaccharides, חיידקים פרוביוטים.</p><p><strong>ערכים תזונתיים:</strong></p><p>חלבון גולמי 25%, שומן גולמי14%, סיבים תזונתיים גולמיים 2%, עפר 5.5%, לחות 10%, סידן 1.1%, זרחן 0.9%.</p>",
+      "short_description": "Sem’s Field Adult Salmon And Potato, סמס פילד מופחת דגנים סלמון ותפוחי אדמה מתאים לכלבים בוגרים מכל הגזעים ובכל הגדלים, מזון יבש סמס פילד מופחת דגנים מכיל 65% סלמון, פירות וירקות, בעל רמת נעכלות גבוהה, עשיר בפירות וירקות המשפרים את המערכת החיסונית, עשיר בחלבונים כמו סלמון המונעים אלרגיות , עשיר באומגה 3 ואומגה 6 המעניקים ברק לפרווה ושומרים על העור.",
+      "sku": null,
+      "brand": "סמס פילד",
+      "price": 299,
+      "base_price": 299,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1784489484204-3josz7.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/sms-pyldsams-field-slvmvn-vtpvch-admh-13-kg-h5y5qt",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-27T12:53:57.166Z"
     },
     {
       "id": "5743891b-d44b-43b9-9c46-6f5c9da99e57",
@@ -1722,7 +1722,7 @@
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T19:49:53.054Z"
+      "updated_at": "2026-07-27T12:53:57.166Z"
     },
     {
       "id": "b1437e92-9c4e-4a33-a559-f9433ac25293",
@@ -1780,7 +1780,7 @@
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T19:50:34.950Z"
+      "updated_at": "2026-07-27T12:53:57.166Z"
     },
     {
       "id": "3ac6b6c3-c1b1-4a95-8fea-c1acf3cecc98",
@@ -1808,7 +1808,7 @@
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T19:51:32.640Z"
+      "updated_at": "2026-07-27T12:53:57.166Z"
     },
     {
       "id": "b60afca5-e9d5-4272-bbce-94193281d0f9",
@@ -2128,32 +2128,32 @@
       "updated_at": "2026-07-19T13:32:38.738Z"
     },
     {
-      "id": "9e7fc6a5-3f27-4d81-86b9-2976fe4fdae5",
-      "slug": "sms-pyldsams-field-slvmvn-vtpvch-admh-13-kg-h5y5qt",
-      "name": "סמס פילד/Sam's Field סלומון ותפוח אדמה 13 ק\"ג",
+      "id": "4b347e0c-39c9-4764-a3e0-740537f0684a",
+      "slug": "nature-wild-nyytsr-bvgr-btam-bkr-vdg-12-kg-ipluj3",
+      "name": "NATURE WILD נייצר בוגר בטעם בקר ודג 12 ק”ג",
       "name_translations": {
-        "en": "Sam's Field Salmon and Potato 13 kg",
-        "he": "סמס פילד/Sam's Field סלומון ותפוח אדמה 13 ק\"ג",
-        "ru": "Сэмс Филд/Sam's Field Лосось и картофель 13 кг"
+        "en": "NATURE WILD Adult Beef & Fish Flavor 12 kg",
+        "he": "NATURE WILD נייצר בוגר בטעם בקר ודג 12 ק”ג",
+        "ru": "NATURE WILD нейчер для взрослых со вкусом говядины и рыбы 12 кг"
       },
-      "description": "<p><strong>רכיבים:</strong></p><p>סלמון, תפו\"\"א, תירס, שומן עוף(משומר עם Technopherols, מקור של ויטמין E), שמן סלמון, טעמים טבעיים, תפוחים מיובשים, שמרי בירה, עגבניות, תמצית יוקה שיגידורה, גזרים, מינרלים, DL- מתיונין, L-לייסין, mannan-oligosaccharides, fructo-oligosaccharides, חיידקים פרוביוטים.</p><p><strong>ערכים תזונתיים:</strong></p><p>חלבון גולמי 25%, שומן גולמי14%, סיבים תזונתיים גולמיים 2%, עפר 5.5%, לחות 10%, סידן 1.1%, זרחן 0.9%.</p>",
-      "short_description": "Sem’s Field Adult Salmon And Potato, סמס פילד מופחת דגנים סלמון ותפוחי אדמה מתאים לכלבים בוגרים מכל הגזעים ובכל הגדלים, מזון יבש סמס פילד מופחת דגנים מכיל 65% סלמון, פירות וירקות, בעל רמת נעכלות גבוהה, עשיר בפירות וירקות המשפרים את המערכת החיסונית, עשיר בחלבונים כמו סלמון המונעים אלרגיות , עשיר באומגה 3 ואומגה 6 המעניקים ברק לפרווה ושומרים על העור.",
+      "description": "<p><strong>מרכיבים:</strong> דג לבן טרי (30%), בשר בקר מיובש (18%), אפונה (15%), תפוחי אדמה (14%), שומן עוף (10%), בשר חזיר מיובש (8%), שעועית רחבה, פשתן (2%), עיסת סלק מיובש, שמרים, קמח אצות (0,3%), פרוקטו-אוליגוסכרידים (FOS 0,2%), מוצר שמרים (MOS 0,2%), יוקה schidigera (0,03%), שורש שן הארי אבקה (Taraxacum officinale W.) (0,02%), קליפת רימון מיובשת (Punica granatum) (0,02%), גזע אננס מיובש (Ananas sativus L.) (0,02%).</p><p><br></p><p><strong>רכיבים תזונתיים:</strong> לחות: 8,00%; חלבון גולמי: 30,00%; סיבים גולמיים: 2,40%; שומן גולמי: 19,00%; אפר גולמי: 8,60%.</p><p><br></p><p><strong>תוספים תזונתיים:</strong> וויטמין A – 21000 ממשק משתמש/ק”ג; ויטמין D3 – 1400 ממשק משתמש/ק”ג; ויטמין E. (a. r. alpha toc. Acet.) – 180 מ”ג/ק”ג; נחושת (נחושת II גופרית. pentahy.) – 15 מ”ג/ק”ג; ברזל (ברזל II פחמתי) – 30 מ”ג/ק”ג; מנגן (תחמוצת מנגן II) – 60 מ”ג/ק”ג; אבץ (אבץ סולפט מונוהידראט) – 68 מ”ג/ק”ג; יוד (אשלגן יודיד) – 3,7 מ”ג/ק”ג; סלניום (נתרן סלניט) – 0,16 מ”ג/ק”ג.</p><p><br></p><p>אנרגיה הניתנת למטבוליזם 3,990 קק”ל/ק”ג.</p>",
+      "short_description": "מזון לכלבים \"נייצ'ר\" (Nature) מציע סדרות מזון הוליסטיות והיפואלרגניות, המבוססות על אחוזי בשר גבוהים (כדוגמת סלמון, בקר וכבש), פירות, ירקות וללא דגנים. הוא מתעכל בקלות ומתאים לכלבים עם רגישויות עיכול או אלרגיות.",
       "sku": null,
-      "brand": "סמס פילד",
-      "price": 299,
-      "base_price": 299,
+      "brand": "nature",
+      "price": 339,
+      "base_price": 339,
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-enhanced-1784489484204-3josz7.webp"
+        "https://gurimbakfar.co.il/assets/product-1781772071865-fzxw3j.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/sms-pyldsams-field-slvmvn-vtpvch-admh-13-kg-h5y5qt",
+      "url": "https://gurimbakfar.co.il/product/nature-wild-nyytsr-bvgr-btam-bkr-vdg-12-kg-ipluj3",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T19:31:55.024Z"
+      "updated_at": "2026-07-27T12:53:57.166Z"
     },
     {
       "id": "37f4894e-8004-4732-bfed-5e2ea17c0a65",
@@ -3828,34 +3828,6 @@
       "updated_at": "2026-07-19T13:32:38.738Z"
     },
     {
-      "id": "4b347e0c-39c9-4764-a3e0-740537f0684a",
-      "slug": "nature-wild-nyytsr-bvgr-btam-bkr-vdg-12-kg-ipluj3",
-      "name": "NATURE WILD נייצר בוגר בטעם בקר ודג 12 ק”ג",
-      "name_translations": {
-        "en": "NATURE WILD Adult Beef & Fish Flavor 12 kg",
-        "he": "NATURE WILD נייצר בוגר בטעם בקר ודג 12 ק”ג",
-        "ru": "NATURE WILD нейчер для взрослых со вкусом говядины и рыбы 12 кг"
-      },
-      "description": "<p><strong>מרכיבים:</strong> דג לבן טרי (30%), בשר בקר מיובש (18%), אפונה (15%), תפוחי אדמה (14%), שומן עוף (10%), בשר חזיר מיובש (8%), שעועית רחבה, פשתן (2%), עיסת סלק מיובש, שמרים, קמח אצות (0,3%), פרוקטו-אוליגוסכרידים (FOS 0,2%), מוצר שמרים (MOS 0,2%), יוקה schidigera (0,03%), שורש שן הארי אבקה (Taraxacum officinale W.) (0,02%), קליפת רימון מיובשת (Punica granatum) (0,02%), גזע אננס מיובש (Ananas sativus L.) (0,02%).</p><p><br></p><p><strong>רכיבים תזונתיים:</strong> לחות: 8,00%; חלבון גולמי: 30,00%; סיבים גולמיים: 2,40%; שומן גולמי: 19,00%; אפר גולמי: 8,60%.</p><p><br></p><p><strong>תוספים תזונתיים:</strong> וויטמין A – 21000 ממשק משתמש/ק”ג; ויטמין D3 – 1400 ממשק משתמש/ק”ג; ויטמין E. (a. r. alpha toc. Acet.) – 180 מ”ג/ק”ג; נחושת (נחושת II גופרית. pentahy.) – 15 מ”ג/ק”ג; ברזל (ברזל II פחמתי) – 30 מ”ג/ק”ג; מנגן (תחמוצת מנגן II) – 60 מ”ג/ק”ג; אבץ (אבץ סולפט מונוהידראט) – 68 מ”ג/ק”ג; יוד (אשלגן יודיד) – 3,7 מ”ג/ק”ג; סלניום (נתרן סלניט) – 0,16 מ”ג/ק”ג.</p><p><br></p><p>אנרגיה הניתנת למטבוליזם 3,990 קק”ל/ק”ג.</p>",
-      "short_description": "מזון לכלבים \"נייצ'ר\" (Nature) מציע סדרות מזון הוליסטיות והיפואלרגניות, המבוססות על אחוזי בשר גבוהים (כדוגמת סלמון, בקר וכבש), פירות, ירקות וללא דגנים. הוא מתעכל בקלות ומתאים לכלבים עם רגישויות עיכול או אלרגיות.",
-      "sku": null,
-      "brand": "nature",
-      "price": 339,
-      "base_price": 339,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://gurimbakfar.co.il/assets/product-1781772071865-fzxw3j.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/nature-wild-nyytsr-bvgr-btam-bkr-vdg-12-kg-ipluj3",
-      "categories": [
-        "מזון יבש"
-      ],
-      "updated_at": "2026-07-19T20:25:32.971Z"
-    },
-    {
       "id": "704cd86f-cdff-43f8-bbf4-e9b978611ac8",
       "slug": "nature-wild-nyytsr-gvr-btam-brvvz-vhvdv-12-kg-zuvezx",
       "name": "NATURE WILD נייצר גור בטעם ברווז והודו 12 ק”ג",
@@ -3881,7 +3853,35 @@
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T20:26:46.965Z"
+      "updated_at": "2026-07-27T12:53:57.166Z"
+    },
+    {
+      "id": "63fd653c-3c98-4c5c-840e-554f417d478e",
+      "slug": "nature-wild-nyytsr-bvgr-btam-brvvz-vdg-12-kg-7cnjon",
+      "name": "NATURE WILD נייצר בוגר בטעם ברווז ודג 12 ק”ג",
+      "name_translations": {
+        "en": "NATURE WILD Adult Duck & Fish Flavor 12 kg",
+        "he": "NATURE WILD נייצר בוגר בטעם ברווז ודג 12 ק”ג",
+        "ru": "NATURE WILD нейчер взрослый со вкусом утки и рыбы 12 кг"
+      },
+      "description": "<p><strong>מרכיבים:</strong> בשר ברווז מיובש (24%), דגים לבנים טריים (20%), עמילן אפונה, שומן עוף (10%), תפוחי אדמה, אפונה, שעועית רחבה, פשתן (2,5%), שמרים, חלבוני כבד הידרוליזה (2%) , עיסת סלק מיובש, מינרלים, קמח אצות (0,24%), תוצרת שמרים (MOS 0,16%), יוקה סקיגדרה (0,026%), אבקת שורש שן הארי (Taraxacum officinale W.) (0,02%), מיובשת קליפת רימון (Punica granatum) (0,02%), גזע אננס מיובש (Ananas sativus L.) (0,02%).</p><p><br></p><p><strong>רכיבים תזונתיים:</strong> לחות: 8,00%; חלבון גולמי: 31,00%; סיבים גולמיים: 2,70%; שומן גולמי: 17,50%; אפר גולמי: 8,90%.</p><p><br></p><p><strong>תוספים תזונתיים:</strong> ויטמין A-18500Ul/kg; ויטמין D3-1250Ul/kg; ויטמין E (a.r.alpha toc.Acet) -155mg/kg; קופר (קופר II גופרית. פנטהי)-14,5 מ”ג/ק”ג; ברזל (ברזל II פחמתי) -29 מ”ג/ק”ג; מנגן (תחמוצת מנגן II) -28mg/kg; אבץ (אבץ סולפט מונוהידראט) -65 מ”ג/ק”ג; יוד (אשלגן יודיד) -3,14 מ”ג/ק”ג; סלניום (נתרן סלניט) -0,15mg/kg.</p><p><br></p><p><strong>אנרגיה הניתנת למטבוליזם</strong> 3. 890 קק”ל/ק”ג.</p>",
+      "short_description": "חלבונים באיכות גבוהה מקדמים יצירה ותחזוקה של מסת שריר, המספקים שומנים כמקור לאנרגיה.\nחלבון תזונתי ברמה גבוהה, עוזר להקל על עצבי מערכת העיכול וגירוי בעור.\nחומצות שומניות אומגה -3 ואומגה 6 תורמות לרווחת העור והפרווה וגורם לפרווה מבריקה יותר.\nמזון הוליסטי. נקי מתוספים סינתטיים. שמורה באופן טבעי.",
+      "sku": null,
+      "brand": "nature",
+      "price": 339,
+      "base_price": 339,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1781772692584-e8iw2l.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/nature-wild-nyytsr-bvgr-btam-brvvz-vdg-12-kg-7cnjon",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-27T12:53:57.166Z"
     },
     {
       "id": "327168a0-2b6b-46d9-98e6-93c186ebc23d",
@@ -3912,34 +3912,6 @@
       "updated_at": "2026-07-19T13:32:38.738Z"
     },
     {
-      "id": "63fd653c-3c98-4c5c-840e-554f417d478e",
-      "slug": "nature-wild-nyytsr-bvgr-btam-brvvz-vdg-12-kg-7cnjon",
-      "name": "NATURE WILD נייצר בוגר בטעם ברווז ודג 12 ק”ג",
-      "name_translations": {
-        "en": "NATURE WILD Adult Duck & Fish Flavor 12 kg",
-        "he": "NATURE WILD נייצר בוגר בטעם ברווז ודג 12 ק”ג",
-        "ru": "NATURE WILD нейчер взрослый со вкусом утки и рыбы 12 кг"
-      },
-      "description": "<p><strong>מרכיבים:</strong> בשר ברווז מיובש (24%), דגים לבנים טריים (20%), עמילן אפונה, שומן עוף (10%), תפוחי אדמה, אפונה, שעועית רחבה, פשתן (2,5%), שמרים, חלבוני כבד הידרוליזה (2%) , עיסת סלק מיובש, מינרלים, קמח אצות (0,24%), תוצרת שמרים (MOS 0,16%), יוקה סקיגדרה (0,026%), אבקת שורש שן הארי (Taraxacum officinale W.) (0,02%), מיובשת קליפת רימון (Punica granatum) (0,02%), גזע אננס מיובש (Ananas sativus L.) (0,02%).</p><p><br></p><p><strong>רכיבים תזונתיים:</strong> לחות: 8,00%; חלבון גולמי: 31,00%; סיבים גולמיים: 2,70%; שומן גולמי: 17,50%; אפר גולמי: 8,90%.</p><p><br></p><p><strong>תוספים תזונתיים:</strong> ויטמין A-18500Ul/kg; ויטמין D3-1250Ul/kg; ויטמין E (a.r.alpha toc.Acet) -155mg/kg; קופר (קופר II גופרית. פנטהי)-14,5 מ”ג/ק”ג; ברזל (ברזל II פחמתי) -29 מ”ג/ק”ג; מנגן (תחמוצת מנגן II) -28mg/kg; אבץ (אבץ סולפט מונוהידראט) -65 מ”ג/ק”ג; יוד (אשלגן יודיד) -3,14 מ”ג/ק”ג; סלניום (נתרן סלניט) -0,15mg/kg.</p><p><br></p><p><strong>אנרגיה הניתנת למטבוליזם</strong> 3. 890 קק”ל/ק”ג.</p>",
-      "short_description": "חלבונים באיכות גבוהה מקדמים יצירה ותחזוקה של מסת שריר, המספקים שומנים כמקור לאנרגיה.\nחלבון תזונתי ברמה גבוהה, עוזר להקל על עצבי מערכת העיכול וגירוי בעור.\nחומצות שומניות אומגה -3 ואומגה 6 תורמות לרווחת העור והפרווה וגורם לפרווה מבריקה יותר.\nמזון הוליסטי. נקי מתוספים סינתטיים. שמורה באופן טבעי.",
-      "sku": null,
-      "brand": "nature",
-      "price": 339,
-      "base_price": 339,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://gurimbakfar.co.il/assets/product-1781772692584-e8iw2l.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/nature-wild-nyytsr-bvgr-btam-brvvz-vdg-12-kg-7cnjon",
-      "categories": [
-        "מזון יבש"
-      ],
-      "updated_at": "2026-07-19T20:28:12.513Z"
-    },
-    {
       "id": "00dffc6f-01bc-4e51-b369-4cd5461a4f1a",
       "slug": "nature-nyytsr-slmvn-70-bshr-12-kg-4bdq0d",
       "name": "NATURE נייצר סלמון 70% בשר 12 ק”ג",
@@ -3965,7 +3937,35 @@
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-23T08:11:41.245Z"
+      "updated_at": "2026-07-27T12:53:57.166Z"
+    },
+    {
+      "id": "321f3e4a-3d56-43d4-9ee8-8567cf6a4103",
+      "slug": "styspkshn-kbsh-9vanr7",
+      "name": "סטיספקשן כבש",
+      "name_translations": {
+        "en": "Satisfaction Lamb",
+        "he": "סטיספקשן כבש",
+        "ru": "Сатисфакшн Ягнёнок"
+      },
+      "description": "<p><strong>רכיבים:</strong>&nbsp;טלה מיובש (מינימום 14%), אורז (מינימום 12%), תירס, עופות מיובשים, גלוטן תירס, שמנים ושומנים, עיסת סלק, כבד הידרולי, ויטמינים ומינרלים. נוגדי חמצון וחומרים משמרים של UIT המורשים על ידי האיחוד האירופי.</p><p><br></p><p><strong>רכיבים אנליטיים:</strong> חלבון גולמי: 25%, חומר שומן גולמי: 15%, אפר גולמי: 7,5%, תאית גולמית: 2,5%, לחות: 8%, סידן: 1,5%, זרחן: 1%, ויטמין A: 18000 אול / ק”ג, ויטמין D3: 2000 אול / ק”ג, ויטמין E (DL-allpha טוקופרול אצטט): 120 מ”ג / ק”ג, נחושת (נחושת גופרתית פנטהידראט): 12 מ”ג / ק”ג. עם נוגדי חמצון וחומרים משמרים המורשים על ידי האיחוד האירופי.</p><p><br></p><p><strong>תוספים:</strong> ויטמין :A ויטמין מ”ג/ק”ג, ברזל: 75 מ”ג/ק”ג; יוד: 3.5 מ”ג/ק”ג; מנגן: copper sulfate pentahydrate): 10( נחושת 7.5 מ”ג/ק”ג; אבץ: 150 מ”ג/ק”ג; סלניום: 0.15 מ”ג/ק”ג. מכיל נוגדי חמצון וחומרים משמרים</p>",
+      "short_description": "פורמולת Satisfaction Pro Kennel התזונה המושלמת לכלבים בוגרים עם פעילות רגילה עד ממוצעת, פורמולה זו נבחרה בקפידה כדי לספק תזונה בריאה ותזונה מאוזנת לאורך חיי כלבי הבית, כלבי התצוגה וכלבי העבודה.",
+      "sku": null,
+      "brand": null,
+      "price": 339,
+      "base_price": 339,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1783492933423-ev14n6.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/styspkshn-kbsh-9vanr7",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-27T12:53:57.166Z"
     },
     {
       "id": "989835b1-57b1-4701-a9bf-299ed1387a41",
@@ -3993,7 +3993,7 @@
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-22T12:05:54.677Z"
+      "updated_at": "2026-07-27T12:53:57.166Z"
     },
     {
       "id": "cfcbe0d8-c030-4741-aa07-6467b384f0c1",
@@ -4021,7 +4021,7 @@
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-22T11:56:29.525Z"
+      "updated_at": "2026-07-27T12:53:57.166Z"
     },
     {
       "id": "5db5f8ee-b761-4340-a8d7-79e4f8150727",
@@ -4049,7 +4049,7 @@
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-07-27T12:53:57.166Z"
     },
     {
       "id": "83370db5-72e3-4764-bbe4-9a0ba4ead358",
@@ -4077,7 +4077,7 @@
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-22T12:44:15.630Z"
+      "updated_at": "2026-07-27T12:53:57.166Z"
     },
     {
       "id": "7cbef393-9f02-4398-a517-62c32db78c27",
@@ -4133,7 +4133,7 @@
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-07-27T12:53:57.166Z"
     },
     {
       "id": "53ecbfd6-f12e-4e51-a495-f473224efbe1",
@@ -4161,7 +4161,7 @@
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-07-27T12:53:57.166Z"
     },
     {
       "id": "1c0599f9-0ceb-4a0f-ab8d-eeb2f86baca9",
@@ -4189,7 +4189,7 @@
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-07-27T12:53:57.166Z"
     },
     {
       "id": "f5a21ca2-30b3-4d07-9529-ad8334fc078f",
