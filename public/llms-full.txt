@@ -7753,13 +7753,6 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 
 ## Product Catalog
 
-### רתמה לכלב גדול
-URL: https://gurimbakfar.co.il/product/rtmh-lklb-gdvl-10ohaq
-Price: 0.00 ILS
-Availability: In stock
-
----
-
 ### בוש אדולט עוף ודוחן
 URL: https://gurimbakfar.co.il/product/bvsh-advlt-avp-vdvchn-yfx26s
 Price: 100.00 ILS
