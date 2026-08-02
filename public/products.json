@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T08:36:37.788Z",
+  "generated_at": "2026-08-02T08:42:51.170Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 228,
@@ -3969,7 +3969,7 @@
     },
     {
       "id": "989835b1-57b1-4701-a9bf-299ed1387a41",
-      "slug": "styspkshyyn-bvgr-gza-gdvl-avp-20-kg-0q6ck2",
+      "slug": "styspkshyyn-bvgr-gza-gdvl-avp-20-kg-sd4yix",
       "name": "סטיספקשיין בוגר גזע גדול עוף 20 ק\"ג",
       "name_translations": {
         "en": "Satisfaction Adult Large Breed Chicken 20 kg",
@@ -3987,13 +3987,13 @@
       "images": [
         "https://gurimbakfar.co.il/assets/product-1781513956786-o20cwl.webp"
       ],
-      "in_stock": false,
-      "stock_status": "out_of_stock",
-      "url": "https://gurimbakfar.co.il/product/styspkshyyn-bvgr-gza-gdvl-avp-20-kg-0q6ck2",
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/styspkshyyn-bvgr-gza-gdvl-avp-20-kg-sd4yix",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-07-27T12:53:57.166Z"
+      "updated_at": "2026-08-02T08:42:15.175Z"
     },
     {
       "id": "cfcbe0d8-c030-4741-aa07-6467b384f0c1",
