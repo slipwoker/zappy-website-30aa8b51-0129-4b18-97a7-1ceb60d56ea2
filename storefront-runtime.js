@@ -15762,8 +15762,11 @@ async function loadRelatedProducts(currentProduct, t) {
       if (toggle.__zappyMobileToggleBound) return;
       toggle.__zappyMobileToggleBound = true;
 
-      // Repair baked open-icon styles when the menu is actually closed.
-      if (!menuIsOpen(navMenu)) setClosedIcons(toggle);
+      // Always start closed. A save while the overlay was open bakes
+      // .nav-menu.active into HTML; repairing icons alone leaves the panel up.
+      closeMenu(navMenu);
+      setClosedIcons(toggle);
+      document.body.style.overflow = '';
 
       toggle.addEventListener('click', function(e) {
         e.preventDefault();
@@ -17794,6 +17797,114 @@ function fixContrast(){
       setTimeout(syncPdp, 400);
     }
     setTimeout(syncPdp, 1200);
+  } catch (e) {}
+})();
+
+
+/* ZAPPY_CARD_TAG_COLORS_V1 */
+;(function(){
+  try {
+    if (window.__zappyCardTagColorsInit) return;
+    window.__zappyCardTagColorsInit = true;
+
+    if (!document.getElementById('zappy-card-tag-colors-css')) {
+      var st = document.createElement('style');
+      st.id = 'zappy-card-tag-colors-css';
+      st.textContent = "/* ZAPPY_CARD_TAG_COLORS */\n.product-tag.tag-sale { background: #ef4444 !important; color: #fff !important; }\n.product-tag.tag-new { background: #22c55e !important; color: #fff !important; }\n.product-tag.tag-featured { background: #f59e0b !important; color: #fff !important; }\n.product-tag.tag-bestseller { background: #a855f7 !important; color: #fff !important; }\n.product-tag.tag-limited { background: #f43f5e !important; color: #fff !important; }\n.product-tag.tag-eco-friendly { background: #14b8a6 !important; color: #fff !important; }\n.product-tag.tag-color-green { background: #22c55e !important; color: #fff !important; }\n.product-tag.tag-color-red { background: #ef4444 !important; color: #fff !important; }\n.product-tag.tag-color-amber { background: #f59e0b !important; color: #fff !important; }\n.product-tag.tag-color-purple { background: #a855f7 !important; color: #fff !important; }\n.product-tag.tag-color-rose { background: #f43f5e !important; color: #fff !important; }\n.product-tag.tag-color-teal { background: #14b8a6 !important; color: #fff !important; }\n.product-tag.tag-color-sky { background: #0ea5e9 !important; color: #fff !important; }\n.product-tag.tag-color-indigo { background: #6366f1 !important; color: #fff !important; }\n.product-tag.tag-color-orange { background: #f97316 !important; color: #fff !important; }\n.product-tag.tag-color-pink { background: #ec4899 !important; color: #fff !important; }\n.product-tag.tag-color-slate { background: #64748b !important; color: #fff !important; }";
+      document.head.appendChild(st);
+    }
+
+    var ALLOWED = { green:1, red:1, amber:1, purple:1, rose:1, teal:1, sky:1, indigo:1, orange:1, pink:1, slate:1 };
+
+    function normalizeColors(raw) {
+      var out = {};
+      if (!raw || typeof raw !== 'object' || Array.isArray(raw)) return out;
+      Object.keys(raw).forEach(function(name) {
+        var tag = String(name || '').trim().toLowerCase();
+        var key = String(raw[name] || '').trim().toLowerCase();
+        if (tag && ALLOWED[key]) out[tag] = key;
+      });
+      return out;
+    }
+
+    window.ZAPPY_TAG_COLORS = window.ZAPPY_TAG_COLORS || {};
+    window.zappyResolveProductTagClass = function(tag) {
+      var tagLower = String(tag || '').toLowerCase();
+      if (tagLower === 'sale' || tagLower === '\u05de\u05d1\u05e6\u05e2') return 'product-tag tag-sale';
+      if (tagLower === 'new' || tagLower === '\u05d7\u05d3\u05e9') return 'product-tag tag-new';
+      if (tagLower === 'featured' || tagLower === '\u05de\u05d5\u05de\u05dc\u05e5') return 'product-tag tag-featured';
+      if (tagLower === 'bestseller' || tagLower === '\u05e8\u05d1 \u05de\u05db\u05e8') return 'product-tag tag-bestseller';
+      if (tagLower === 'limited' || tagLower === '\u05de\u05d5\u05d2\u05d1\u05dc') return 'product-tag tag-limited';
+      if (tagLower === 'eco-friendly' || tagLower === '\u05d9\u05d3\u05d9\u05d3\u05d5\u05ea\u05d9 \u05dc\u05e1\u05d1\u05d9\u05d1\u05d4') return 'product-tag tag-eco-friendly';
+      var key = (window.ZAPPY_TAG_COLORS && window.ZAPPY_TAG_COLORS[tagLower]) || 'pink';
+      if (!ALLOWED[key]) key = 'pink';
+      return 'product-tag tag-color-' + key;
+    };
+
+    window.zappyRefreshCardTagColors = function(scope) {
+      var root = (scope && scope.querySelectorAll) ? scope : document;
+      try {
+        root.querySelectorAll('.product-tag').forEach(function(el) {
+          if (el.classList.contains('tag-out-of-stock')) return;
+          el.className = window.zappyResolveProductTagClass((el.textContent || '').trim());
+        });
+      } catch (e) {}
+    };
+
+    function wrapBuilder() {
+      var orig = window.zappyBuildCardTagsHtml;
+      if (typeof orig !== 'function' || orig.__zappyTagColors) return;
+      window.zappyBuildCardTagsHtml = function(p, t) {
+        var html = orig(p, t);
+        if (!html) return html;
+        return html.replace(/<span class="product-tag(?:\s+([^"]*))?">([^<]*)<\/span>/g, function(m, cls, text) {
+          if ((' ' + (cls || '') + ' ').indexOf(' tag-out-of-stock ') !== -1) return m;
+          return '<span class="' + window.zappyResolveProductTagClass(text) + '">' + text + '</span>';
+        });
+      };
+      window.zappyBuildCardTagsHtml.__zappyTagColors = true;
+    }
+    wrapBuilder();
+    setTimeout(wrapBuilder, 0);
+    setTimeout(wrapBuilder, 500);
+
+    function ingest(payload) {
+      var raw = null;
+      if (payload && payload.data && payload.data.tagColors) raw = payload.data.tagColors;
+      else if (payload && payload.tagColors) raw = payload.tagColors;
+      window.ZAPPY_TAG_COLORS = normalizeColors(raw);
+      window.zappyRefreshCardTagColors();
+    }
+    if (window.__zappyStoreSettingsData) ingest(window.__zappyStoreSettingsData);
+
+    try {
+      if (window.fetch && !window.fetch.__zappyTagColors) {
+        var origFetch = window.fetch;
+        window.fetch = function(input, init) {
+          var url = '';
+          try { url = typeof input === 'string' ? input : (input && input.url) || ''; } catch (e0) {}
+          var p = origFetch.apply(this, arguments);
+          if (url && url.indexOf('/storefront/settings') !== -1) {
+            p.then(function(res) {
+              try {
+                res.clone().json().then(function(data) {
+                  if (data && data.success && data.data) ingest(data);
+                }).catch(function(){});
+              } catch (e1) {}
+              return res;
+            }).catch(function(){});
+          }
+          return p;
+        };
+        window.fetch.__zappyTagColors = true;
+      }
+    } catch (e2) {}
+
+    var _origAfter = window.zappyAfterCardsRendered;
+    window.zappyAfterCardsRendered = function(scope) {
+      if (typeof _origAfter === 'function') { try { _origAfter(scope); } catch (e3) {} }
+      window.zappyRefreshCardTagColors(scope);
+    };
   } catch (e) {}
 })();
 
@@ -20223,6 +20334,12 @@ function fixContrast(){
   // expands .sub-menu.mobile-expanded, and our V5 ensureRuntimeCssInjected
   // pins the button to the far edge of the row (right in LTR, left in RTL).
   // Above 768px we tear it back down so the desktop hover dropdown is intact.
+  // normalizeMobileSubmenuLayout writes inline !important locks (display /
+  // visibility / height / position / …). Those beat stylesheet :hover
+  // flyouts, so desktop teardown MUST remove them — not just the toggle
+  // and .mobile-expanded class. Otherwise a visit below 768px (or a
+  // resize/rotate across the breakpoint) leaves dropdowns hidden or stuck
+  // in-flow.
   function ensureMobileSubmenuToggles() {
     var isMobile = window.matchMedia ? window.matchMedia('(max-width: 768px)').matches : window.innerWidth <= 768;
 
@@ -20237,6 +20354,7 @@ function fixContrast(){
         arrow.style.display = '';
         arrow.removeAttribute('data-zappy-mobile-hidden');
       });
+      clearMobileSubmenuLayoutLocks();
       return;
     }
 
@@ -20297,11 +20415,59 @@ function fixContrast(){
   function setImportant(el, prop, value) {
     if (!el || !el.style || !el.style.setProperty) return;
     el.style.setProperty(prop, value, 'important');
+    if (!el.setAttribute) return;
+    el.setAttribute('data-zappy-mobile-layout-lock', '1');
+    // Record each property THIS lock wrote. Desktop teardown must not
+    // removeProperty a name we never set — that races the transparent-
+    // navbar scroll helper's inline frosted color on Products triggers.
+    var recorded = (el.getAttribute('data-zappy-mobile-layout-lock-props') || '');
+    var written = recorded ? recorded.split(',') : [];
+    if (written.indexOf(prop) === -1) {
+      written.push(prop);
+      el.setAttribute('data-zappy-mobile-layout-lock-props', written.join(','));
+    }
+  }
+
+  function clearImportant(el, props) {
+    if (!el || !el.style || !el.style.removeProperty) return;
+    for (var i = 0; i < props.length; i++) el.style.removeProperty(props[i]);
+  }
+
+  // Allowlist of properties normalizeMobileSubmenuLayout may lock.
+  // Teardown intersects the per-element recorded list with this — never
+  // a blanket wipe. A full-list removeProperty also dropped inline
+  // color the scroll helper (sTC) set on dropdown triggers, so a
+  // mobile→desktop resize lost frosted contrast until the next scroll.
+  var MOBILE_SUBMENU_LOCK_PROPS = [
+    'align-items', 'background', 'border', 'box-sizing', 'color', 'direction',
+    'display', 'flex', 'flex-wrap', 'font-size', 'font-weight', 'height',
+    'inset-inline-end', 'inset-inline-start', 'justify-content', 'left',
+    'line-height', 'margin', 'max-height', 'max-width', 'min-height',
+    'min-width', 'opacity', 'order', 'overflow', 'overflow-wrap', 'padding',
+    'padding-left', 'padding-right', 'pointer-events', 'position', 'right',
+    'text-align', 'transform', 'visibility', 'white-space', 'width'
+  ];
+
+  function clearMobileSubmenuLayoutLocks() {
+    document.querySelectorAll('[data-zappy-mobile-layout-lock="1"]').forEach(function(el) {
+      var recorded = (el.getAttribute('data-zappy-mobile-layout-lock-props') || '').split(',');
+      var written = [];
+      for (var i = 0; i < recorded.length; i++) {
+        var prop = recorded[i];
+        if (prop && MOBILE_SUBMENU_LOCK_PROPS.indexOf(prop) !== -1) written.push(prop);
+      }
+      clearImportant(el, written);
+      el.removeAttribute('data-zappy-mobile-layout-lock');
+      el.removeAttribute('data-zappy-mobile-layout-lock-props');
+    });
   }
 
   function normalizeMobileSubmenuLayout() {
     var isMobile = window.matchMedia ? window.matchMedia('(max-width: 768px)').matches : window.innerWidth <= 768;
-    if (!isMobile) return;
+    if (!isMobile) {
+      clearMobileSubmenuLayoutLocks();
+      return;
+    }
     var isRtl = (document.documentElement.getAttribute('dir') || document.body.getAttribute('dir')) === 'rtl';
     document.querySelectorAll('.nav-menu li:has(> .sub-menu), nav li:has(> .sub-menu), .navbar li:has(> .sub-menu)').forEach(function(li) {
       var submenu = li.querySelector(':scope > .sub-menu');
@@ -20388,8 +20554,24 @@ function fixContrast(){
       setImportant(submenu, 'right', 'auto');
       setImportant(submenu, 'inset-inline-start', 'auto');
       setImportant(submenu, 'inset-inline-end', 'auto');
+      setImportant(submenu, 'position', 'static');
       if (submenu.classList.contains('mobile-expanded')) {
+        setImportant(submenu, 'display', 'block');
+        setImportant(submenu, 'visibility', 'visible');
+        setImportant(submenu, 'opacity', '1');
+        setImportant(submenu, 'height', 'auto');
+        setImportant(submenu, 'max-height', 'none');
+        setImportant(submenu, 'overflow', 'visible');
+        setImportant(submenu, 'pointer-events', 'auto');
         setImportant(submenu, 'padding', '8px 0');
+      } else {
+        setImportant(submenu, 'display', 'none');
+        setImportant(submenu, 'visibility', 'hidden');
+        setImportant(submenu, 'opacity', '0');
+        setImportant(submenu, 'height', '0');
+        setImportant(submenu, 'max-height', '0');
+        setImportant(submenu, 'overflow', 'hidden');
+        setImportant(submenu, 'pointer-events', 'none');
       }
 
       submenu.querySelectorAll('a, .menu-group-title').forEach(function(item) {
@@ -20486,12 +20668,12 @@ function fixContrast(){
   // declaration merging that was eating the standalone CSS injection.
   function ensureRuntimeCssInjected() {
     var existing = document.getElementById('zappy-ecom-routing-runtime-css');
-    if (existing && existing.getAttribute('data-v') === '31') return;
+    if (existing && existing.getAttribute('data-v') === '33') return;
     if (existing) existing.remove();
     var style = document.createElement('style');
     style.id = 'zappy-ecom-routing-runtime-css';
     style.setAttribute('data-zappy-runtime', 'ecom-routing');
-    style.setAttribute('data-v', '31');
+    style.setAttribute('data-v', '33');
     style.textContent =
       '@media (min-width: 769px){' +
         'html[dir="ltr"] .nav-container > .nav-brand,body[dir="ltr"] .nav-container > .nav-brand,html[dir="ltr"] .nav-right-group > .nav-brand,body[dir="ltr"] .nav-right-group > .nav-brand{order:-1!important}' +
@@ -20541,6 +20723,13 @@ function fixContrast(){
         '.zappy-products-dropdown>.sub-menu .zappy-nav-parent>a,.zappy-products-dropdown>.sub-menu .zappy-nav-parent>.menu-group-title{font-weight:700!important}' +
         '.zappy-products-dropdown>.sub-menu .zappy-nav-child>a,.zappy-products-dropdown>.sub-menu .zappy-nav-child>.menu-group-title{padding-left:36px!important;padding-right:16px!important;font-size:.94em!important;opacity:.85!important}' +
         'html[dir="rtl"] .zappy-products-dropdown>.sub-menu .zappy-nav-child>a,body[dir="rtl"] .zappy-products-dropdown>.sub-menu .zappy-nav-child>a,html[dir="rtl"] .zappy-products-dropdown>.sub-menu .zappy-nav-child>.menu-group-title,body[dir="rtl"] .zappy-products-dropdown>.sub-menu .zappy-nav-child>.menu-group-title{padding-left:16px!important;padding-right:36px!important}' +
+        '.navbar .nav-menu:not(.active):not(.open),nav.navbar .nav-menu:not(.active):not(.open),#navMenu:not(.active):not(.open){visibility:hidden!important;opacity:0!important;pointer-events:none!important}' +
+        '.navbar .nav-menu:not(.active):not(.open) *,nav.navbar .nav-menu:not(.active):not(.open) *,#navMenu:not(.active):not(.open) *{visibility:hidden!important;pointer-events:none!important}' +
+        '.navbar .nav-menu:not(.active):not(.open) .sub-menu,nav.navbar .nav-menu:not(.active):not(.open) .sub-menu,#navMenu:not(.active):not(.open) .sub-menu{display:none!important}' +
+        '#navMenu.active,#navMenu.open,.nav-menu.active,.nav-menu.open{display:flex!important;flex-direction:column!important;flex-wrap:nowrap!important;overflow-x:hidden!important;overflow-y:auto!important}' +
+        '#navMenu.active>li,#navMenu.open>li,.nav-menu.active>li,.nav-menu.open>li{position:static!important;width:100%!important;max-width:100%!important;flex:0 0 auto!important;top:auto!important;bottom:auto!important;left:auto!important;right:auto!important;inset:auto!important;transform:none!important}' +
+        '#navMenu .sub-menu,.nav-menu .sub-menu,.navbar .sub-menu,.zappy-products-dropdown>.sub-menu,.nav-menu .zappy-products-dropdown>.sub-menu,.nav-menu.active .zappy-products-dropdown>.sub-menu,.nav-menu.active .zappy-products-dropdown .sub-menu,#navMenu li:hover>.sub-menu,.nav-menu li:hover>.sub-menu,.navbar li:hover>.sub-menu,#navMenu li:focus-within>.sub-menu,.nav-menu li:focus-within>.sub-menu{display:none!important;visibility:hidden!important;opacity:0!important;height:0!important;max-height:0!important;overflow:hidden!important;pointer-events:none!important;position:static!important;transform:none!important}' +
+        '#navMenu .sub-menu.mobile-expanded,.nav-menu .sub-menu.mobile-expanded,.navbar .sub-menu.mobile-expanded,.zappy-products-dropdown>.sub-menu.mobile-expanded,.nav-menu.active .zappy-products-dropdown>.sub-menu.mobile-expanded,.nav-menu.active .zappy-products-dropdown .sub-menu.mobile-expanded{display:block!important;visibility:visible!important;opacity:1!important;height:auto!important;max-height:none!important;overflow:visible!important;pointer-events:auto!important;position:static!important;transform:none!important;width:100%!important;left:auto!important;right:auto!important;top:auto!important;float:none!important}' +
       '}';
     (document.head || document.documentElement).appendChild(style);
   }
@@ -22721,28 +22910,32 @@ function withConsent(category, callback) {
   [300, 1000, 2500].forEach(function(ms){ setTimeout(boot, ms); });
 })();
 
-/* ZAPPY_MOBILE_MENU_CLOSED_ICONS_V1 */
+/* ZAPPY_MOBILE_MENU_CLOSED_ICONS_V2 */
 (function(){
-  if (window.__zappyMobileMenuClosedIconsV1) return;
-  window.__zappyMobileMenuClosedIconsV1 = true;
-  function reset() {
-    var toggle = document.querySelector('.mobile-toggle, #mobileToggle');
-    if (!toggle) return;
+  if (window.__zappyMobileMenuClosedIconsV2) return;
+  window.__zappyMobileMenuClosedIconsV2 = true;
+  function closeBaked() {
     var menu = document.querySelector('#navMenu, .nav-menu, .navbar-menu');
-    var isOpen = !!(menu && (menu.classList.contains('active') || menu.classList.contains('open') || menu.style.display === 'block'));
-    if (isOpen) return;
-    toggle.classList.remove('active');
-    var hi = toggle.querySelector('.hamburger-icon');
-    var ci = toggle.querySelector('.close-icon');
-    if (hi) hi.style.setProperty('display', 'block', 'important');
-    if (ci) ci.style.setProperty('display', 'none', 'important');
+    if (menu) {
+      menu.classList.remove('active');
+      menu.classList.remove('open');
+      menu.style.removeProperty('display');
+    }
+    var toggle = document.querySelector('.mobile-toggle, #mobileToggle');
+    if (toggle) {
+      toggle.classList.remove('active');
+      if (toggle.setAttribute) toggle.setAttribute('aria-expanded', 'false');
+      var hi = toggle.querySelector('.hamburger-icon');
+      var ci = toggle.querySelector('.close-icon');
+      if (hi) hi.style.setProperty('display', 'block', 'important');
+      if (ci) ci.style.setProperty('display', 'none', 'important');
+    }
+    document.body.style.overflow = '';
   }
+  closeBaked();
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', reset);
-  } else {
-    reset();
+    document.addEventListener('DOMContentLoaded', closeBaked, { once: true });
   }
-  [50, 200, 500].forEach(function(ms){ setTimeout(reset, ms); });
 })();
 
 
@@ -22842,6 +23035,130 @@ function withConsent(category, callback) {
   }
   [50, 200, 800, 1600, 3200].forEach(function(ms){ setTimeout(function(){ wrapLegacyInit(); scrubOrphans(); }, ms); });
 })();
+
+
+
+/* ZAPPY_HOME_FEATURED_PRODUCTS_LAZY_V3 */
+async function zappyLoadFeaturedProductsPaged() {
+  var grid = document.getElementById('zappy-featured-products');
+  if (!grid) return;
+  var websiteId = window.ZAPPY_WEBSITE_ID;
+  if (!websiteId) return;
+  if (typeof zappyClearBakedPreviewEmptyStoreCta === 'function') {
+    zappyClearBakedPreviewEmptyStoreCta();
+  }
+  try {
+    if (typeof fetchAdditionalJsSettings === 'function') {
+      await Promise.race([
+        fetchAdditionalJsSettings(),
+        new Promise(function(resolve) { setTimeout(resolve, 3000); })
+      ]);
+    }
+  } catch (e) {}
+  var t = { noProducts: 'No products to display', noFeaturedProducts: 'No featured products yet. Check out all our products!', errorLoading: 'Error loading products' };
+  var PAGE_SIZE = 12;
+  var offset = 0;
+  var loadingMore = false;
+  var allLoaded = false;
+  var loadedIds = Object.create(null);
+  var observer = null;
+  var inFlight = null;
+  function removeSentinel() {
+    var el = grid.querySelector('[data-zappy-featured-lazy-sentinel]');
+    if (el && el.parentNode) el.parentNode.removeChild(el);
+    if (observer) { observer.disconnect(); observer = null; }
+  }
+  function ensureSentinel() {
+    var el = grid.querySelector('[data-zappy-featured-lazy-sentinel]');
+    if (!el) {
+      el = document.createElement('div');
+      el.setAttribute('data-zappy-featured-lazy-sentinel', '1');
+      el.className = 'zappy-featured-lazy-sentinel';
+      el.setAttribute('aria-hidden', 'true');
+      el.style.cssText = 'grid-column:1/-1;width:100%;height:1px;';
+      grid.appendChild(el);
+    }
+    if (typeof IntersectionObserver === 'function') {
+      if (observer) observer.disconnect();
+      observer = new IntersectionObserver(function(entries) {
+        for (var i = 0; i < entries.length; i++) {
+          if (entries[i].isIntersecting) { fetchPage(false); break; }
+        }
+      }, { root: null, rootMargin: '2500px 0px', threshold: 0 });
+      observer.observe(el);
+    } else {
+      setTimeout(function() { fetchPage(false); }, 0);
+    }
+  }
+  function fetchFeaturedJson(pageOffset) {
+    return fetch(buildApiUrlWithLang('/api/ecommerce/storefront/products?websiteId=' + websiteId + '&featured=true&limit=' + PAGE_SIZE + '&offset=' + pageOffset)).then(function(res) {
+      return res.json();
+    });
+  }
+  function startPrefetch(pageOffset) {
+    if (allLoaded) return;
+    if (inFlight && inFlight.offset === pageOffset) return;
+    var pendingPrefetch = { offset: pageOffset, promise: fetchFeaturedJson(pageOffset) };
+    inFlight = pendingPrefetch;
+    pendingPrefetch.promise.catch(function() {
+      if (inFlight === pendingPrefetch) inFlight = null;
+    });
+  }
+  async function fetchPage(replace) {
+    if (loadingMore || allLoaded) return;
+    loadingMore = true;
+    try {
+      var data;
+      var pending = (inFlight && inFlight.offset === offset) ? inFlight : { offset: offset, promise: fetchFeaturedJson(offset) };
+      inFlight = pending;
+      try {
+        data = await pending.promise;
+      } finally {
+        if (inFlight === pending) inFlight = null;
+      }
+      var pageItems = (data && data.success && Array.isArray(data.data)) ? data.data : [];
+      if (replace && !pageItems.length) {
+        if (data && data.success && typeof zappyHasAnyStorefrontProducts === 'function' && await zappyHasAnyStorefrontProducts() === false && typeof zappyRenderPreviewEmptyStoreCta === 'function') {
+          grid.innerHTML = zappyRenderPreviewEmptyStoreCta(t.noProducts, 'no-featured-products');
+        } else {
+          grid.innerHTML = '<div class="no-featured-products">' + t.noFeaturedProducts + '</div>';
+        }
+        allLoaded = true;
+        return;
+      }
+      var featuredList = pageItems.filter(function(p) {
+        if (!p || !p.id || loadedIds[p.id]) return false;
+        loadedIds[p.id] = true;
+        return true;
+      });
+      if (typeof additionalJsSortOutOfStockLast !== 'undefined' && additionalJsSortOutOfStockLast && typeof window.sortProductsOutOfStockLast === 'function') {
+        featuredList = window.sortProductsOutOfStockLast(featuredList);
+      }
+      if (featuredList.length && typeof renderProductGrid === 'function') {
+        renderProductGrid(grid, featuredList, t, true, undefined, !replace);
+      }
+      offset += pageItems.length;
+      var total = data && typeof data.total === 'number' ? data.total : null;
+      if (!pageItems.length || pageItems.length < PAGE_SIZE || (total != null && offset >= total)) {
+        allLoaded = true;
+        removeSentinel();
+      } else {
+        ensureSentinel();
+        startPrefetch(offset);
+      }
+    } catch (e) {
+      if (replace) {
+        grid.innerHTML = '<div class="empty-cart">' + t.errorLoading + '</div>';
+        allLoaded = true;
+      }
+    } finally {
+      loadingMore = false;
+    }
+  }
+  await fetchPage(true);
+}
+loadFeaturedProducts = zappyLoadFeaturedProductsPaged;
+window.loadFeaturedProducts = zappyLoadFeaturedProductsPaged;
 
 
 /* ZAPPY_CUSTOMER_DISCOUNT_CONFIG_FALLBACK_V3 */
