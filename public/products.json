@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-26T09:19:57.329Z",
+  "generated_at": "2026-08-26T09:20:31.550Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 234,
@@ -9,7 +9,11 @@
       "id": "a0d9bfe4-f3d8-4829-b074-daae67de5e34",
       "slug": "wiggle-kvbyvt-kbd-bkr-myvbshvt-bhkpah-40-grm-e51f7j",
       "name": "WIGGLE קוביות כבד בקר מיובשות בהקפאה 40 גרם",
-      "name_translations": {},
+      "name_translations": {
+        "en": "WIGGLE Freeze-Dried Beef Liver Cubes 40g",
+        "he": "WIGGLE קוביות כבד בקר מיובשות בהקפאה 40 גרם",
+        "ru": "WIGGLE кубики говяжьей печени сублимационной сушки 40 грамм"
+      },
       "description": "",
       "short_description": null,
       "sku": null,
@@ -27,7 +31,7 @@
       "categories": [
         "חטיפים טבעיים"
       ],
-      "updated_at": "2026-08-26T09:19:23.352Z"
+      "updated_at": "2026-08-26T09:19:58.221Z"
     },
     {
       "id": "e7fb8730-4e3e-4881-ad3c-bce9d2590593",
