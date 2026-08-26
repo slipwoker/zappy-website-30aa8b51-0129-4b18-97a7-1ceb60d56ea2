@@ -1,10 +1,38 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-26T09:09:06.579Z",
+  "generated_at": "2026-08-26T09:11:01.528Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 231,
+  "count": 232,
   "products": [
+    {
+      "id": "b00ed022-3848-42cd-8766-a42e4afca0be",
+      "slug": "wiggle-kvbyvt-kbd-brvvz-myvbshvt-bhkpah-40-grm-r86k8r",
+      "name": "WIGGLE קוביות כבד ברווז מיובשות בהקפאה 40 גרם",
+      "name_translations": {
+        "en": "WIGGLE Freeze-Dried Duck Liver Cubes 40g",
+        "he": "WIGGLE קוביות כבד ברווז מיובשות בהקפאה 40 גרם",
+        "ru": "WIGGLE кубики утиной печени сублимационной сушки 40 грамм"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": "wiggle",
+      "price": 19,
+      "base_price": 19,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1787735334069-1du73n.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/wiggle-kvbyvt-kbd-brvvz-myvbshvt-bhkpah-40-grm-r86k8r",
+      "categories": [
+        "חטיפים טבעיים"
+      ],
+      "updated_at": "2026-08-26T09:10:24.225Z"
+    },
     {
       "id": "0f54b7a7-1963-4b06-911d-33b301957f0b",
       "slug": "wiggle-kvbyvt-slmvn-myvbshvt-bhkpah-40-grm-7i3us4",
