@@ -73,7 +73,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 233** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 234** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### WIGGLE קוביות כבד בקר מיובשות בהקפאה 40 גרם
+https://gurimbakfar.co.il/product/wiggle-kvbyvt-kbd-bkr-myvbshvt-bhkpah-40-grm-e51f7j
+- Price: 19.00 ILS
+- Availability: In stock
+- Category: חטיפים טבעיים
+- Brand: wiggle
+- Image: https://gurimbakfar.co.il/assets/product-ai-fit-1787735941368-r4s2zk.webp
 
 ### WIGGLE קוביות חזה עוף מיובשות בהקפאה - 40 גרם
 https://gurimbakfar.co.il/product/wiggle-kvbyvt-chzh-avp-myvbshvt-bhkpah-40-grm-5ydudp
@@ -1616,13 +1624,6 @@ https://gurimbakfar.co.il/product/shmn-byshvm-lbaly-chyym-pure-dkdfjf
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449961983-aki1z.webp
-
-### קוצץ ציפורניים Petsproject
-https://gurimbakfar.co.il/product/kvtsts-tsypvrnyym-petsproject-zvyroj
-- Price: 79.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781450306935-lm0zas.webp
 
 ---
 
