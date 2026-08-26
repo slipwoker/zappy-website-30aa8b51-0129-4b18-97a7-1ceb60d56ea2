@@ -1,18 +1,18 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-26T09:06:26.467Z",
+  "generated_at": "2026-08-26T09:07:16.219Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 230,
   "products": [
     {
       "id": "4a1031a6-d36c-48f4-9ccc-e70ec22cf8c9",
-      "slug": "kvbyvt-kbd-avp-100-tbay-h8fi94",
-      "name": "קוביות כבד עוף 100% טבעי",
+      "slug": "wiggle-kvbyvt-kbd-avp-myvbshvt-bhkpah-40-grm-8s49lb",
+      "name": "WIGGLE קוביות כבד עוף מיובשות בהקפאה 40 גרם",
       "name_translations": {
-        "en": "Chicken Liver Cubes 100% Natural",
-        "he": "קוביות כבד עוף 100% טבעי",
-        "ru": "Кубики куриной печени 100% натуральные"
+        "en": "WIGGLE Freeze-Dried Chicken Liver Cubes 40g",
+        "he": "WIGGLE קוביות כבד עוף מיובשות בהקפאה 40 גרם",
+        "ru": "WIGGLE кубики куриной печени сублимационной сушки 40 г"
       },
       "description": "",
       "short_description": "חטיף 100% טבעי",
@@ -27,11 +27,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kvbyvt-kbd-avp-100-tbay-h8fi94",
+      "url": "https://gurimbakfar.co.il/product/wiggle-kvbyvt-kbd-avp-myvbshvt-bhkpah-40-grm-8s49lb",
       "categories": [
         "חטיפים טבעיים"
       ],
-      "updated_at": "2026-08-26T09:02:12.271Z"
+      "updated_at": "2026-08-26T09:06:41.931Z"
     },
     {
       "id": "0d777080-2523-4164-ae37-569527bd037b",
