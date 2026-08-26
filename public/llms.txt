@@ -73,7 +73,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 229** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 230** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### קוביות כבד עוף
+https://gurimbakfar.co.il/product/kvbyvt-kbd-avp-ewwi6p
+- Price: 19.00 ILS
+- Availability: Out of stock
+- Category: חטיפים
+- Brand: wiglle
+- Description: חטיף 100% טבעי
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1787733687417-tphvua.webp
 
 ### בולי סטיק
 https://gurimbakfar.co.il/product/bvly-styk-e9mwl6
@@ -1611,13 +1620,6 @@ https://gurimbakfar.co.il/product/tsatsva-tmnvn-ktyph-mrshrsh-am-tsptsph-osq2dp
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781450720393-qzfqi8.webp
-
-### כיסוי מושב אחורי לכלב
-https://gurimbakfar.co.il/product/kysvy-mvshb-achvry-lklb-v70yuy
-- Price: 180.00 ILS
-- Availability: In stock
-- Category: אביזרים
-- Image: https://gurimbakfar.co.il/assets/product-1780860631624-oa086.webp
 
 ---
 
