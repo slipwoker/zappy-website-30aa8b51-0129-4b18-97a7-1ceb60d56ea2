@@ -1,10 +1,38 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-26T09:20:31.550Z",
+  "generated_at": "2026-08-26T09:22:02.047Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 234,
+  "count": 235,
   "products": [
+    {
+      "id": "3c566257-1bdf-4271-b43d-0d2383e13e80",
+      "slug": "wiggle-kvbyvt-chzh-brvvz-myvbshvt-bhkpah-40-grm-mbvlfl",
+      "name": "WIGGLE קוביות חזה ברווז מיובשות בהקפאה 40 גרם",
+      "name_translations": {
+        "en": "WIGGLE Freeze-Dried Duck Breast Cubes 40g",
+        "he": "WIGGLE קוביות חזה ברווז מיובשות בהקפאה 40 גרם",
+        "ru": "WIGGLE Кубики из утиной грудки, сублимированные 40 г"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": "wiggle",
+      "price": 19,
+      "base_price": 19,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1787736055749-v9at8s.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/wiggle-kvbyvt-chzh-brvvz-myvbshvt-bhkpah-40-grm-mbvlfl",
+      "categories": [
+        "חטיפים טבעיים"
+      ],
+      "updated_at": "2026-08-26T09:21:24.831Z"
+    },
     {
       "id": "a0d9bfe4-f3d8-4829-b074-daae67de5e34",
       "slug": "wiggle-kvbyvt-kbd-bkr-myvbshvt-bhkpah-40-grm-e51f7j",

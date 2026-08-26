@@ -73,7 +73,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 234** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 235** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### WIGGLE קוביות חזה ברווז מיובשות בהקפאה 40 גרם
+https://gurimbakfar.co.il/product/wiggle-kvbyvt-chzh-brvvz-myvbshvt-bhkpah-40-grm-mbvlfl
+- Price: 19.00 ILS
+- Availability: In stock
+- Category: חטיפים טבעיים
+- Brand: wiggle
+- Image: https://gurimbakfar.co.il/assets/product-ai-fit-1787736055749-v9at8s.webp
 
 ### WIGGLE קוביות כבד בקר מיובשות בהקפאה 40 גרם
 https://gurimbakfar.co.il/product/wiggle-kvbyvt-kbd-bkr-myvbshvt-bhkpah-40-grm-e51f7j
@@ -1617,13 +1625,6 @@ https://gurimbakfar.co.il/product/shmn-byshvm-lbaly-chyym-petglow-3jcamm
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449919551-l46kzt.webp
-
-### שמן בישום לבעלי חיים PURE
-https://gurimbakfar.co.il/product/shmn-byshvm-lbaly-chyym-pure-dkdfjf
-- Price: 35.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449961983-aki1z.webp
 
 ---
 
