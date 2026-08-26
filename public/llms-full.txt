@@ -200,6 +200,8 @@ Description: חנות ציוד וגורים לאימוץ
 ## קנו לפי קטגוריה
 
 
+טוען מוצרים...
+
 
 
 
@@ -209,6 +211,8 @@ Description: חנות ציוד וגורים לאימוץ
 
 ## מוצרים מומלצים
 
+
+טוען מוצרים...
 
 
 צפה בכל המוצרים →
@@ -1317,6 +1321,141 @@ Description: המוצרים שלנו - גורים בכפר
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+טוען מוצרים...
 
 
 
@@ -4376,6 +4515,8 @@ Description: מוצרים - גורים בכפר
 
 
 
+טוען מוצרים...
+
 
 
 
@@ -7119,7 +7260,7 @@ gurimbakfar@gmail.com
 
 
 
-קראתי ואני מסכים/ה ל    תנאי השימוש   |
+קראתי ואני מסכים/ה ל   תנאי השימוש   |
 מדיניות החזרות
 
 
@@ -7606,15 +7747,15 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### קוביות כבד עוף 100% טבעי
-URL: https://gurimbakfar.co.il/product/kvbyvt-kbd-avp-100-tbay-pnfznp
+URL: https://gurimbakfar.co.il/product/kvbyvt-kbd-avp-100-tbay-h8fi94
 Price: 19.00 ILS
-Availability: Out of stock
+Availability: In stock
 Brand: wiglle
 
 ---
 
 ### בולי סטיק
-URL: https://gurimbakfar.co.il/product/bvly-styk-e9mwl6
+URL: https://gurimbakfar.co.il/product/bvly-styk-12ei7f
 Price: 35.00 ILS
 Availability: In stock
 Brand: wiggle
