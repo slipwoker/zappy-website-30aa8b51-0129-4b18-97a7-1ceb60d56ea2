@@ -1,10 +1,38 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-26T09:07:16.219Z",
+  "generated_at": "2026-08-26T09:09:06.579Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 230,
+  "count": 231,
   "products": [
+    {
+      "id": "0f54b7a7-1963-4b06-911d-33b301957f0b",
+      "slug": "wiggle-kvbyvt-slmvn-myvbshvt-bhkpah-40-grm-7i3us4",
+      "name": "WIGGLE קוביות סלמון מיובשות בהקפאה 40 גרם",
+      "name_translations": {
+        "en": "WIGGLE Freeze-Dried Salmon Cubes 40g",
+        "he": "WIGGLE קוביות סלמון מיובשות בהקפאה 40 גרם",
+        "ru": "WIGGLE кубики лосося сублимационной сушки 40 грамм"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": "wiggle",
+      "price": 19,
+      "base_price": 19,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1787735279584-yf8w5j.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/wiggle-kvbyvt-slmvn-myvbshvt-bhkpah-40-grm-7i3us4",
+      "categories": [
+        "חטיפים טבעיים"
+      ],
+      "updated_at": "2026-08-26T09:08:32.963Z"
+    },
     {
       "id": "4a1031a6-d36c-48f4-9ccc-e70ec22cf8c9",
       "slug": "wiggle-kvbyvt-kbd-avp-myvbshvt-bhkpah-40-grm-8s49lb",

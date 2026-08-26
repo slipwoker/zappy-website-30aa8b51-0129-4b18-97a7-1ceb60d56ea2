@@ -73,7 +73,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 230** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 231** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### WIGGLE קוביות סלמון מיובשות בהקפאה 40 גרם
+https://gurimbakfar.co.il/product/wiggle-kvbyvt-slmvn-myvbshvt-bhkpah-40-grm-7i3us4
+- Price: 19.00 ILS
+- Availability: In stock
+- Category: חטיפים טבעיים
+- Brand: wiggle
+- Image: https://gurimbakfar.co.il/assets/product-ai-fit-1787735279584-yf8w5j.webp
 
 ### WIGGLE קוביות כבד עוף מיובשות בהקפאה 40 גרם
 https://gurimbakfar.co.il/product/wiggle-kvbyvt-kbd-avp-myvbshvt-bhkpah-40-grm-8s49lb
@@ -1613,13 +1621,6 @@ https://gurimbakfar.co.il/product/mshkvlt-gvmy-dntlyt-i3kjv5
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781450631767-q4nqtm.webp
-
-### צעצוע תמנון קטיפה מרשרש עם צפצפה
-https://gurimbakfar.co.il/product/tsatsva-tmnvn-ktyph-mrshrsh-am-tsptsph-osq2dp
-- Price: 35.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781450720393-qzfqi8.webp
 
 ---
 
