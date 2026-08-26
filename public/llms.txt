@@ -76,10 +76,10 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 230** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### קוביות כבד עוף 100% טבעי
-https://gurimbakfar.co.il/product/kvbyvt-kbd-avp-100-tbay-nk9rzv
+https://gurimbakfar.co.il/product/kvbyvt-kbd-avp-100-tbay-pnfznp
 - Price: 19.00 ILS
 - Availability: Out of stock
-- Category: חטיפים
+- Category: חטיפים טבעיים
 - Brand: wiglle
 - Description: חטיף 100% טבעי
 - Image: https://gurimbakfar.co.il/assets/product-1787733798289-jio1tw.webp

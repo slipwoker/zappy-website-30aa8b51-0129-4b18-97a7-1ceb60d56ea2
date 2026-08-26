@@ -7747,7 +7747,7 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### קוביות כבד עוף 100% טבעי
-URL: https://gurimbakfar.co.il/product/kvbyvt-kbd-avp-100-tbay-nk9rzv
+URL: https://gurimbakfar.co.il/product/kvbyvt-kbd-avp-100-tbay-pnfznp
 Price: 19.00 ILS
 Availability: Out of stock
 Brand: wiglle

@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-26T08:50:20.662Z",
+  "generated_at": "2026-08-26T08:51:46.252Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 230,
   "products": [
     {
       "id": "4a1031a6-d36c-48f4-9ccc-e70ec22cf8c9",
-      "slug": "kvbyvt-kbd-avp-100-tbay-nk9rzv",
+      "slug": "kvbyvt-kbd-avp-100-tbay-pnfznp",
       "name": "קוביות כבד עוף 100% טבעי",
       "name_translations": {
         "en": "Chicken Liver Cubes 100% Natural",
@@ -27,11 +27,11 @@
       ],
       "in_stock": false,
       "stock_status": "out_of_stock",
-      "url": "https://gurimbakfar.co.il/product/kvbyvt-kbd-avp-100-tbay-nk9rzv",
+      "url": "https://gurimbakfar.co.il/product/kvbyvt-kbd-avp-100-tbay-pnfznp",
       "categories": [
-        "חטיפים"
+        "חטיפים טבעיים"
       ],
-      "updated_at": "2026-08-26T08:44:03.709Z"
+      "updated_at": "2026-08-26T08:51:35.448Z"
     },
     {
       "id": "0d777080-2523-4164-ae37-569527bd037b",
