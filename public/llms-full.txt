@@ -7747,7 +7747,7 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### בולי סטיק
-URL: https://gurimbakfar.co.il/product/bvly-styk-b742bm
+URL: https://gurimbakfar.co.il/product/bvly-styk-e9mwl6
 Price: 35.00 ILS
 Availability: In stock
 Brand: wiggle

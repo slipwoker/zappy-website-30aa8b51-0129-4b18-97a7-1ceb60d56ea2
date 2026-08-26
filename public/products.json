@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-26T08:30:51.274Z",
+  "generated_at": "2026-08-26T08:31:00.103Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 229,
   "products": [
     {
       "id": "0d777080-2523-4164-ae37-569527bd037b",
-      "slug": "bvly-styk-b742bm",
+      "slug": "bvly-styk-e9mwl6",
       "name": "בולי סטיק",
       "name_translations": {
         "en": "Bully Stick",
@@ -15,7 +15,7 @@
         "ru": "Булли стик"
       },
       "description": "",
-      "short_description": null,
+      "short_description": "בולי סטיק 100% טבעי ",
       "sku": null,
       "brand": "wiggle",
       "price": 35,
@@ -27,11 +27,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/bvly-styk-b742bm",
+      "url": "https://gurimbakfar.co.il/product/bvly-styk-e9mwl6",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-08-26T08:30:23.542Z"
+      "updated_at": "2026-08-26T08:30:58.570Z"
     },
     {
       "id": "295d41fb-4423-4157-ba57-a1dcc699be1e",

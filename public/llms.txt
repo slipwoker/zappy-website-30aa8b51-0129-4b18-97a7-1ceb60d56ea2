@@ -76,11 +76,12 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 229** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### בולי סטיק
-https://gurimbakfar.co.il/product/bvly-styk-b742bm
+https://gurimbakfar.co.il/product/bvly-styk-e9mwl6
 - Price: 35.00 ILS
 - Availability: In stock
 - Category: חטיפים
 - Brand: wiggle
+- Description: בולי סטיק 100% טבעי
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1787732649256-yiavpo.webp
 
 ### בוש אדולט עוף ודוחן
