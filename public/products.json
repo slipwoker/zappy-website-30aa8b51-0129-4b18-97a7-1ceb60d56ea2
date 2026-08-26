@@ -1,18 +1,18 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-26T08:42:51.149Z",
+  "generated_at": "2026-08-26T08:43:55.625Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 230,
   "products": [
     {
       "id": "4a1031a6-d36c-48f4-9ccc-e70ec22cf8c9",
-      "slug": "kvbyvt-kbd-avp-ewwi6p",
-      "name": "קוביות כבד עוף",
+      "slug": "kvbyvt-kbd-avp-100-tbay-nk9rzv",
+      "name": "קוביות כבד עוף 100% טבעי",
       "name_translations": {
-        "en": "Chicken Liver Cubes",
-        "he": "קוביות כבד עוף",
-        "ru": "Кубики куриной печени"
+        "en": "Chicken Liver Cubes 100% Natural",
+        "he": "קוביות כבד עוף 100% טבעי",
+        "ru": "Кубики куриной печени 100% натуральные"
       },
       "description": "",
       "short_description": "חטיף 100% טבעי",
@@ -23,15 +23,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-enhanced-1787733687417-tphvua.webp"
+        "https://gurimbakfar.co.il/assets/product-1787733798289-jio1tw.webp"
       ],
       "in_stock": false,
       "stock_status": "out_of_stock",
-      "url": "https://gurimbakfar.co.il/product/kvbyvt-kbd-avp-ewwi6p",
+      "url": "https://gurimbakfar.co.il/product/kvbyvt-kbd-avp-100-tbay-nk9rzv",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-08-26T08:42:16.822Z"
+      "updated_at": "2026-08-26T08:43:50.115Z"
     },
     {
       "id": "0d777080-2523-4164-ae37-569527bd037b",
