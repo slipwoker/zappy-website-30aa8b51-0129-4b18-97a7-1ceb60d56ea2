@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-26T09:03:06.808Z",
+  "generated_at": "2026-08-26T09:06:26.467Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 230,
@@ -35,12 +35,12 @@
     },
     {
       "id": "0d777080-2523-4164-ae37-569527bd037b",
-      "slug": "bvly-styk-12ei7f",
-      "name": "בולי סטיק",
+      "slug": "wiggle-bvly-styk-60-grm-oiwfl0",
+      "name": "WIGGLE בולי סטיק 60 גרם",
       "name_translations": {
-        "en": "Bully Stick",
-        "he": "בולי סטיק",
-        "ru": "Булли Стик"
+        "en": "WIGGLE Bully Stick 60g",
+        "he": "WIGGLE בולי סטיק 60 גרם",
+        "ru": "WIGGLE Булли Стик 60 грамм"
       },
       "description": "",
       "short_description": "בולי סטיק 100% טבעי ",
@@ -55,12 +55,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/bvly-styk-12ei7f",
+      "url": "https://gurimbakfar.co.il/product/wiggle-bvly-styk-60-grm-oiwfl0",
       "categories": [
         "חטיפים",
         "חטיפים טבעיים"
       ],
-      "updated_at": "2026-08-26T09:02:32.631Z"
+      "updated_at": "2026-08-26T09:05:51.520Z"
     },
     {
       "id": "295d41fb-4423-4157-ba57-a1dcc699be1e",
