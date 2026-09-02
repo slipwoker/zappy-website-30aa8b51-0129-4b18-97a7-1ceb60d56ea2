@@ -76,10 +76,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 236** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### תרסיס לניטרול ריחות 500 מל PURRY
-https://gurimbakfar.co.il/product/trsys-lnytrvl-rychvt-500-ml-purry-rfmflg
+https://gurimbakfar.co.il/product/trsys-lnytrvl-rychvt-500-ml-purry-223g3c
 - Price: 49.00 ILS
 - Availability: In stock
 - Brand: purry
+- Description: תרסיס לניטרול ריחות 500 מ"ל של המותג PURRY מיועד לפירוק מולקולרי של ריחות קשים כמו ריח שתן, ריח פרווה רטובה או הפרשות
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1788369595453-mtyqy.webp
 
 ### WIGGLE קוביות חזה ברווז מיובשות בהקפאה 40 גרם
