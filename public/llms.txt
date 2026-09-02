@@ -73,7 +73,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 236** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 237** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### מברשת סליקר ארגונומית FUREVER מידה L
+https://gurimbakfar.co.il/product/mbrsht-slykr-argvnvmyt-furever-mydh-l-ew7sco
+- Price: 56.00 ILS
+- Availability: Out of stock
+- Category: מוצרי טיפוח
+- Description: מברשת סליקר היא כלי חיוני בטיפוח של כלבים וחתולים המשמשת להוצאת עודפי פרווה, קשרים וסבכים. הזיפים הדקיקים עשויים מנירוסטה וחודרים עמוק לתוך הפרווה וכך מסירים את הפרווה העודפת.
+- Image: https://gurimbakfar.co.il/assets/product-1788370870619-99s0m3.webp
 
 ### תרסיס לניטרול ריחות 500 מל PURRY
 https://gurimbakfar.co.il/product/trsys-lnytrvl-rychvt-500-ml-purry-223g3c
@@ -1619,13 +1627,6 @@ https://gurimbakfar.co.il/product/rtsvavt-plksy-jnoo9p
 - Availability: In stock
 - Category: קולרים ורצועות
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1780898526650-2onagi.webp
-
-### חגורת בטיחות לכלב Record
-https://gurimbakfar.co.il/product/chgvrt-btychvt-lklb-record-wx66xy
-- Price: 35.00 ILS
-- Availability: In stock
-- Category: אביזרים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449877512-tzjlul.webp
 
 ---
 
