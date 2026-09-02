@@ -1,10 +1,36 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-09-02T14:46:40.099Z",
+  "generated_at": "2026-09-02T17:25:36.796Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 235,
+  "count": 236,
   "products": [
+    {
+      "id": "5676a3eb-a191-4491-b1e9-42adb890a6ba",
+      "slug": "trsys-lnytrvl-rychvt-500-ml-purry-rfmflg",
+      "name": "תרסיס לניטרול ריחות 500 מל PURRY",
+      "name_translations": {
+        "en": "Odor Neutralizing Spray 500ml PURRY",
+        "he": "תרסיס לניטרול ריחות 500 מל PURRY",
+        "ru": "Спрей для нейтрализации запахов 500 мл PURRY"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": "purry",
+      "price": 49,
+      "base_price": 49,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1788369595453-mtyqy.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/trsys-lnytrvl-rychvt-500-ml-purry-rfmflg",
+      "categories": [],
+      "updated_at": "2026-09-02T17:24:59.518Z"
+    },
     {
       "id": "3c566257-1bdf-4271-b43d-0d2383e13e80",
       "slug": "wiggle-kvbyvt-chzh-brvvz-myvbshvt-bhkpah-40-grm-mbvlfl",

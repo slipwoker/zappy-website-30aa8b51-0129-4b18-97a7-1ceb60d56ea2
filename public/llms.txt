@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 235** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 236** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### תרסיס לניטרול ריחות 500 מל PURRY
+https://gurimbakfar.co.il/product/trsys-lnytrvl-rychvt-500-ml-purry-rfmflg
+- Price: 49.00 ILS
+- Availability: In stock
+- Brand: purry
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1788369595453-mtyqy.webp
 
 ### WIGGLE קוביות חזה ברווז מיובשות בהקפאה 40 גרם
 https://gurimbakfar.co.il/product/wiggle-kvbyvt-chzh-brvvz-myvbshvt-bhkpah-40-grm-mbvlfl
@@ -1618,13 +1625,6 @@ https://gurimbakfar.co.il/product/chgvrt-btychvt-lklb-record-wx66xy
 - Availability: In stock
 - Category: אביזרים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449877512-tzjlul.webp
-
-### שמן בישום לבעלי חיים petglow
-https://gurimbakfar.co.il/product/shmn-byshvm-lbaly-chyym-petglow-3jcamm
-- Price: 35.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449919551-l46kzt.webp
 
 ---
 
