@@ -1,18 +1,18 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-09-02T17:42:57.606Z",
+  "generated_at": "2026-09-02T17:43:57.087Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 237,
   "products": [
     {
       "id": "457b2e2c-ab40-400b-ba69-caf8f95d1544",
-      "slug": "mbrsht-slykr-argvnvmyt-furever-mydh-l-ew7sco",
+      "slug": "mbrsht-slykr-argvnvmyt-furever-mydh-l-ztr4qo",
       "name": "מברשת סליקר ארגונומית FUREVER מידה L",
       "name_translations": {
         "en": "FUREVER Ergonomic Slicker Brush Size L",
         "he": "מברשת סליקר ארגונומית FUREVER מידה L",
-        "ru": "Эргономичная щётка-сликер FUREVER размер L"
+        "ru": "Эргономичная щётка-слик FUREVER размер L"
       },
       "description": "",
       "short_description": "מברשת סליקר היא כלי חיוני בטיפוח של כלבים וחתולים המשמשת להוצאת עודפי פרווה, קשרים וסבכים. הזיפים הדקיקים עשויים מנירוסטה וחודרים עמוק לתוך הפרווה וכך מסירים את הפרווה העודפת.",
@@ -27,11 +27,11 @@
       ],
       "in_stock": false,
       "stock_status": "out_of_stock",
-      "url": "https://gurimbakfar.co.il/product/mbrsht-slykr-argvnvmyt-furever-mydh-l-ew7sco",
+      "url": "https://gurimbakfar.co.il/product/mbrsht-slykr-argvnvmyt-furever-mydh-l-ztr4qo",
       "categories": [
         "מוצרי טיפוח"
       ],
-      "updated_at": "2026-09-02T17:42:20.164Z"
+      "updated_at": "2026-09-02T17:43:23.374Z"
     },
     {
       "id": "5676a3eb-a191-4491-b1e9-42adb890a6ba",
