@@ -76,7 +76,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 237** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### מברשת סליקר ארגונומית FUREVER מידה L
-https://gurimbakfar.co.il/product/mbrsht-slykr-argvnvmyt-furever-mydh-l-ztr4qo
+https://gurimbakfar.co.il/product/mbrsht-slykr-argvnvmyt-furever-mydh-l-6creku
 - Price: 56.00 ILS
 - Availability: Out of stock
 - Category: מוצרי טיפוח
