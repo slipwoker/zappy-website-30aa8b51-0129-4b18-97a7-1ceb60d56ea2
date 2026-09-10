@@ -76,9 +76,9 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 237** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### מברשת סליקר ארגונומית FUREVER מידה L
-https://gurimbakfar.co.il/product/mbrsht-slykr-argvnvmyt-furever-mydh-l-6creku
+https://gurimbakfar.co.il/product/mbrsht-slykr-argvnvmyt-furever-mydh-l-t5kcn1
 - Price: 56.00 ILS
-- Availability: Out of stock
+- Availability: In stock
 - Category: מוצרי טיפוח
 - Description: מברשת סליקר היא כלי חיוני בטיפוח של כלבים וחתולים המשמשת להוצאת עודפי פרווה, קשרים וסבכים. הזיפים הדקיקים עשויים מנירוסטה וחודרים עמוק לתוך הפרווה וכך מסירים את הפרווה העודפת.
 - Image: https://gurimbakfar.co.il/assets/product-1788370870619-99s0m3.webp
