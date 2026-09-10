@@ -1,18 +1,18 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-09-10T09:49:14.583Z",
+  "generated_at": "2026-09-10T09:50:19.303Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 238,
   "products": [
     {
       "id": "51511fcc-940f-44c8-9e27-e40953af9b82",
-      "slug": "brande-mzvn-mla-lklbym-bvgrym-tue2z9",
-      "name": "Brande מזון מלא לכלבים בוגרים",
+      "slug": "brande-mzvn-mla-lklbym-bvgrym-12-kg-8ifmbm",
+      "name": "Brande מזון מלא לכלבים בוגרים - 12 ק\"ג",
       "name_translations": {
-        "en": "Brande Complete Food for Adult Dogs",
-        "he": "Brande מזון מלא לכלבים בוגרים",
-        "ru": "Brande полнорационный корм для взрослых собак"
+        "en": "Brande Complete Food for Adult Dogs - 12 kg",
+        "he": "Brande מזון מלא לכלבים בוגרים - 12 ק\"ג",
+        "ru": "Brande полнорационный корм для взрослых собак - 12 кг"
       },
       "description": "",
       "short_description": null,
@@ -27,11 +27,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/brande-mzvn-mla-lklbym-bvgrym-tue2z9",
+      "url": "https://gurimbakfar.co.il/product/brande-mzvn-mla-lklbym-bvgrym-12-kg-8ifmbm",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-09-10T09:48:41.917Z"
+      "updated_at": "2026-09-10T09:49:55.623Z"
     },
     {
       "id": "457b2e2c-ab40-400b-ba69-caf8f95d1544",
