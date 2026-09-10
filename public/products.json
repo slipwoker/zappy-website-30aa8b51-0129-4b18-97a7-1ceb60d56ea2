@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-09-08T11:11:00.309Z",
+  "generated_at": "2026-09-10T09:01:49.596Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 237,
@@ -3286,7 +3286,7 @@
     },
     {
       "id": "2f8dee24-f97b-4532-b09c-21a45d4466f2",
-      "slug": "hnrys-chmat-bvtnym-tbayt-yh6a9h",
+      "slug": "hnrys-chmat-bvtnym-tbayt-72e5vc",
       "name": "הנריס חמאת בוטנים טבעית",
       "name_translations": {
         "en": "Henris Natural Peanut Butter",
@@ -3304,13 +3304,13 @@
       "images": [
         "https://gurimbakfar.co.il/assets/product-enhanced-1782157095043-aufz4e.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/hnrys-chmat-bvtnym-tbayt-yh6a9h",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://gurimbakfar.co.il/product/hnrys-chmat-bvtnym-tbayt-72e5vc",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-09-10T09:00:37.769Z"
     },
     {
       "id": "b91d8b66-5179-44d7-b395-c0304740c348",
@@ -6386,12 +6386,12 @@
     },
     {
       "id": "ae011526-b18b-45d6-9252-d510568233d1",
-      "slug": "hnrys-bvly-styk-tsmh-7bbhly",
+      "slug": "hnrys-bvly-styk-tsmh-vswyyz",
       "name": "הנריס בולי סטיק צמה",
       "name_translations": {
-        "en": "Harris Bully Stick Braid",
+        "en": "Henris Bully Stick Braid",
         "he": "הנריס בולי סטיק צמה",
-        "ru": "Henris Bully Stick коса"
+        "ru": "Henris Bully Stick Коса"
       },
       "description": "",
       "short_description": null,
@@ -6406,11 +6406,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/hnrys-bvly-styk-tsmh-7bbhly",
+      "url": "https://gurimbakfar.co.il/product/hnrys-bvly-styk-tsmh-vswyyz",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-09-10T09:01:41.759Z"
     },
     {
       "id": "2f74cf6f-922f-4bf6-9e3b-781ba52ab28f",
