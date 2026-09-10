@@ -73,7 +73,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 237** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 238** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### Brande מזון מלא לכלבים בוגרים
+https://gurimbakfar.co.il/product/brande-mzvn-mla-lklbym-bvgrym-glz4ws
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: מזון יבש
+- Brand: Brande
+- Image: https://gurimbakfar.co.il/assets/product-ai-fit-1789033608171-c5936x.webp
 
 ### מברשת סליקר ארגונומית FUREVER מידה L
 https://gurimbakfar.co.il/product/mbrsht-slykr-argvnvmyt-furever-mydh-l-z69am8
@@ -1620,13 +1628,6 @@ https://gurimbakfar.co.il/product/mbrsht-shynyym-dv-tsddy-k21ph9
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449807302-moy51e.webp
-
-### רצועות פלקסי
-https://gurimbakfar.co.il/product/rtsvavt-plksy-jnoo9p
-- Price: 30.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1780898526650-2onagi.webp
 
 ---
 
