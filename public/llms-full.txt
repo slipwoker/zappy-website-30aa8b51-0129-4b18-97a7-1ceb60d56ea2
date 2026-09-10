@@ -7791,12 +7791,12 @@ Brand: סמס פילד
 ---
 
 ### סמס פילד/Sam's Field בוגרים גזע קטן עוף 8 ק"ג
-URL: https://gurimbakfar.co.il/product/sms-pyldsams-field-bvgrym-gza-ktn-avp-8-kg-owzfyp
+URL: https://gurimbakfar.co.il/product/sms-pyldsams-field-bvgrym-gza-ktn-avp-8-kg-fe0ran
 Price: 200.00 ILS
 Availability: In stock
 Brand: סמס פילד
 
-מזון לכלבים סם פילד/Sam's Field בוגרים גזע קטן: עוף, כבד עוף, תפוח אדמה, תירס, שומן עוף, שמן דג סלמון, חומרי טעם, תפוח עץ מיובש, שמרים יבשים, עגבניות, תמצית יוקה, גזר, מינרלים, מטיונין, ליזין, מנן אוליגו סכריד, פרוקטואוליגוסכרידים, חיידקים פרוביוטיים. תכולה תזונתית-סם פילד/Sam's Field בוגרים על בסיס עוף טרי ותפוח אדמה : חלבון : 28%, שומן: 17.0%, סיבים: 2.5%, אפר: % 6.6&nbsp;, לחות: 10.0%, סידן: 1.5%, זרחן: 1.0%
+מזון לכלבים סם פילד/Sam&#39;s Field בוגרים גזע קטן: עוף, כבד עוף, תפוח אדמה, תירס, שומן עוף, שמן דג סלמון, חומרי טעם, תפוח עץ מיובש, שמרים יבשים, עגבניות, תמצית יוקה, גזר, מינרלים, מטיונין, ליזין, מנן אוליגו סכריד, פרוקטואוליגוסכרידים, חיידקים פרוביוטיים. תכולה תזונתית-סם פילד/Sam&#39;s Field בוגרים על בסיס עוף טרי ותפוח אדמה : חלבון : 28%, שומן: 17.0%, סיבים: 2.5%, אפר: % 6.6 , לחות: 10.0%, סידן: 1.5%, זרחן: 1.0%
 
 ---
 
@@ -7962,7 +7962,7 @@ Isegrim Roots מספקת את התזונה המקורית של האב הקדמו
 ---
 
 ### NATURE WILD נייצר בוגר בטעם בקר ודג 12 ק”ג
-URL: https://gurimbakfar.co.il/product/nature-wild-nyytsr-bvgr-btam-bkr-vdg-12-kg-ipluj3
+URL: https://gurimbakfar.co.il/product/nature-wild-nyytsr-bvgr-btam-bkr-vdg-12-kg-d7amg8
 Price: 339.00 ILS
 Availability: In stock
 Brand: nature
