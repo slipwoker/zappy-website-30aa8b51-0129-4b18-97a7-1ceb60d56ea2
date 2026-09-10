@@ -7209,7 +7209,7 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### מברשת סליקר ארגונומית FUREVER מידה L
-URL: https://gurimbakfar.co.il/product/mbrsht-slykr-argvnvmyt-furever-mydh-l-t5kcn1
+URL: https://gurimbakfar.co.il/product/mbrsht-slykr-argvnvmyt-furever-mydh-l-z69am8
 Price: 56.00 ILS
 Availability: In stock
 
@@ -7272,7 +7272,7 @@ Brand: wiglle
 ---
 
 ### WIGGLE בולי סטיק 60 גרם
-URL: https://gurimbakfar.co.il/product/wiggle-bvly-styk-60-grm-oiwfl0
+URL: https://gurimbakfar.co.il/product/wiggle-bvly-styk-60-grm-ynt3to
 Price: 35.00 ILS
 Availability: In stock
 Brand: wiggle

@@ -76,7 +76,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 237** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### מברשת סליקר ארגונומית FUREVER מידה L
-https://gurimbakfar.co.il/product/mbrsht-slykr-argvnvmyt-furever-mydh-l-t5kcn1
+https://gurimbakfar.co.il/product/mbrsht-slykr-argvnvmyt-furever-mydh-l-z69am8
 - Price: 56.00 ILS
 - Availability: In stock
 - Category: מוצרי טיפוח
@@ -141,7 +141,7 @@ https://gurimbakfar.co.il/product/wiggle-kvbyvt-kbd-avp-myvbshvt-bhkpah-40-grm-8
 - Image: https://gurimbakfar.co.il/assets/product-1787733798289-jio1tw.webp
 
 ### WIGGLE בולי סטיק 60 גרם
-https://gurimbakfar.co.il/product/wiggle-bvly-styk-60-grm-oiwfl0
+https://gurimbakfar.co.il/product/wiggle-bvly-styk-60-grm-ynt3to
 - Price: 35.00 ILS
 - Availability: In stock
 - Category: חטיפים
