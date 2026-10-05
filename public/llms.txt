@@ -76,7 +76,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 240** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### רול באפלו ענק עטוף עם ברווז
-https://gurimbakfar.co.il/product/rvl-baplv-ank-atvp-am-brvvz-mlnmy2
+https://gurimbakfar.co.il/product/rvl-baplv-ank-atvp-am-brvvz-4onq3m
 - Price: 130.00 ILS
 - Availability: In stock
 - Category: חטיפים ועצמות

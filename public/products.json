@@ -1,20 +1,20 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-05T13:30:01.095Z",
+  "generated_at": "2026-10-05T13:31:20.854Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 240,
   "products": [
     {
       "id": "7dac0c85-5c62-486e-92b4-5efaff0a958b",
-      "slug": "rvl-baplv-ank-atvp-am-brvvz-mlnmy2",
+      "slug": "rvl-baplv-ank-atvp-am-brvvz-4onq3m",
       "name": "רול באפלו ענק עטוף עם ברווז",
       "name_translations": {
         "en": "Giant Buffalo Roll Wrapped with Duck",
         "he": "רול באפלו ענק עטוף עם ברווז",
         "ru": "Огромный рулет из буйволиной кожи, обёрнутый уткой"
       },
-      "description": "<p></p><ul><li> עצם או רול עשוי מעור באפלו גולמי (Rawhide) שעליו מלופף בשר ברווז מיובש.</li><li>לרוב מגיע באורכים של כ-20 ס&quot;מ (רול ענק) באריזות חיסכון המכילות 10 יחידות. </li><li>משקל 1200 גר&#39;</li><li>מתאים כפינוק טעים או כצעצוע לעיסה המספק תעסוקה לכלב לאורך זמן. </li></ul><p></p>",
+      "description": "<p></p><ul><li>עצם או רול עשוי מעור באפלו גולמי (Rawhide) שעליו מלופף בשר ברווז מיובש.</li><li>לרוב מגיע באורכים של כ-20 ס&quot;מ (רול ענק) באריזות חיסכון המכילות 10 יחידות.</li><li>משקל 1200 גר&#39;</li><li>מתאים כפינוק טעים או כצעצוע לעיסה המספק תעסוקה לכלב לאורך זמן.</li></ul>",
       "short_description": "רול באפלו ענק עטוף בברווז הוא חטיף לעיסה פופולרי ומשלים לכלבים, המשמש כפתרון מעולה לתעסוקה ולשמירה על היגיינת הפה",
       "sku": null,
       "brand": null,
@@ -27,11 +27,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rvl-baplv-ank-atvp-am-brvvz-mlnmy2",
+      "url": "https://gurimbakfar.co.il/product/rvl-baplv-ank-atvp-am-brvvz-4onq3m",
       "categories": [
         "חטיפים ועצמות"
       ],
-      "updated_at": "2026-10-05T13:29:05.345Z"
+      "updated_at": "2026-10-05T13:30:15.469Z"
     },
     {
       "id": "27d5ed23-41bb-4652-86f3-c1eaf3ac3657",

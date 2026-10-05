@@ -7302,7 +7302,7 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### רול באפלו ענק עטוף עם ברווז
-URL: https://gurimbakfar.co.il/product/rvl-baplv-ank-atvp-am-brvvz-mlnmy2
+URL: https://gurimbakfar.co.il/product/rvl-baplv-ank-atvp-am-brvvz-4onq3m
 Price: 130.00 ILS
 Availability: In stock
 
