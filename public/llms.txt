@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 239** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 240** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### רול באפלו ענק עטוף עם ברווז
+https://gurimbakfar.co.il/product/rvl-baplv-ank-atvp-am-brvvz-il9nc0
+- Price: 130.00 ILS
+- Availability: In stock
+- Description: רול באפלו ענק עטוף בברווז הוא חטיף לעיסה פופולרי ומשלים לכלבים, המשמש כפתרון מעולה לתעסוקה ולשמירה על היגיינת הפה
+- Image: https://gurimbakfar.co.il/assets/product-enhanced-1791206829401-gdj4cj.webp
 
 ### מזון יבש לחתול
 https://gurimbakfar.co.il/product/mzvn-ybsh-lchtvl-byiclj
@@ -1619,13 +1626,6 @@ https://gurimbakfar.co.il/product/arkt-tschtsvch-shynyym-lklbym-btam-bkr-cx1jij
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449730108-hbmwky.webp
-
-### רולר דבק 60 דפים
-https://gurimbakfar.co.il/product/rvlr-dbk-60-dpym-26gesj
-- Price: 25.00 ILS
-- Availability: In stock
-- Category: בית
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449768881-uyzpov.webp
 
 ---
 
