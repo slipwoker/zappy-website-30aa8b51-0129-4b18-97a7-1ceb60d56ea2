@@ -76,9 +76,10 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 240** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### רול באפלו ענק עטוף עם ברווז
-https://gurimbakfar.co.il/product/rvl-baplv-ank-atvp-am-brvvz-il9nc0
+https://gurimbakfar.co.il/product/rvl-baplv-ank-atvp-am-brvvz-mlnmy2
 - Price: 130.00 ILS
 - Availability: In stock
+- Category: חטיפים ועצמות
 - Description: רול באפלו ענק עטוף בברווז הוא חטיף לעיסה פופולרי ומשלים לכלבים, המשמש כפתרון מעולה לתעסוקה ולשמירה על היגיינת הפה
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1791206829401-gdj4cj.webp
 
@@ -164,7 +165,7 @@ https://gurimbakfar.co.il/product/wiggle-kvbyvt-kbd-avp-myvbshvt-bhkpah-40-grm-4
 https://gurimbakfar.co.il/product/wiggle-bvly-styk-60-grm-9mje0e
 - Price: 35.00 ILS
 - Availability: Out of stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Brand: wiggle
 - Description: בולי סטיק 100% טבעי
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1787732649256-yiavpo.webp
@@ -322,7 +323,7 @@ https://gurimbakfar.co.il/product/trypl-kravn-lklb-bvgr-gvrmh-kbsh-14-kg-pxuesf
 https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-10-b-100-3rhh7s
 - Price: 12.50 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: חטיף נובילוס (Nobilus) בטעם שוק עוף ברביקיו (80 גרם) הוא חטיף פרימיום פופולרי ועשיר בחלבון המיועד לפינוק, אימון ותעסוקה של כלבים. אריזה: מארז נוח במשקל 80 גרם הכולל סגירה חוזרת (Ziploc) לשמירה מרבית על הטריות.
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783464739061-immko8.webp
 
@@ -330,7 +331,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-10-b-100-3r
 https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-k46lbu
 - Price: 12.50 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: חטיף נובילוס (Nobilus) בטעם שוק עוף ברביקיו (80 גרם) הוא חטיף פרימיום פופולרי ועשיר בחלבון המיועד לפינוק, אימון ותעסוקה של כלבים. אריזה: מארז נוח במשקל 80 גרם הכולל סגירה חוזרת (Ziploc) לשמירה מרבית על הטריות.
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783464739061-immko8.webp
 
@@ -338,7 +339,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-k46lbu
 https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-2ma0at
 - Price: 12.50 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: חטיף נובילוס (Nobilus) בטעם סטייק טיבון בקר / ברביקיו בקר במשקל 80 גרם הוא חטיף אולטרה-פרימיום איכותי וטעים המיועד לכלבים, המבוסס על בשר אמיתי כמרכיב עיקרי ומתאים כפינוק יומי או כפרס באילוף. אריזה: מגיע במארז נוח עם סגירה חוזרת (Ziploc) השומרת על טריות המוצר לאורך זמן.
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783464427466-wndd0c.webp
 
@@ -346,7 +347,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-2ma0at
 https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tslavt-kbsh-80-gr-2erv3i
 - Price: 12.50 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: חטיף נובילוס (Nobilus) בטעם ברביקיו צלעות כבש הוא חטיף לעיסה איכותי ודל שומן המיועד לכלבים, המגיע באריזת 80 גרם עם סגירה חוזרת לשמירה על הטריות.חטיף זה פופולרי מאוד כצופר, כפרס בזמן אילוף או כחטיף תעסקות טעים המבוסס על בשר אמיתי כמרכיב עיקרי.
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783464090406-vdupbg.webp
 
@@ -354,7 +355,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tslavt-kbsh-80-gr-2erv3i
 https://gurimbakfar.co.il/product/chtyp-nvblvs-dntly-mbrshvt-80-gr-4qadwf
 - Price: 12.50 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: חטיף נובילוס (Nobilus) דנטלי בצורת מברשת שיניים (80 גרם) הוא חטיף לעיסה פונקציונלי לכלבים, המיועד לשמירה על היגיינת הפה. החטיף מגיע במארז עם סגירה חוזרת לשמירה על הטריות.
 - Image: https://gurimbakfar.co.il/assets/product-1783463815538-8srhrg.webp
 
@@ -362,7 +363,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-dntly-mbrshvt-80-gr-4qadwf
 https://gurimbakfar.co.il/product/chtyp-nvblvs-atypvt-shl-arnb-bmkl-kltsyvm-80-gr-57sm0v
 - Price: 12.50 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: חטיף נובילוס (Nobilus) ארנב על עצם סידן (מקל קלציום) במשקל 80 גרם הוא חטיף פרימיום איכותי והיפואלרגני המיועד לכלבים. החטיף מורכב מנתחי בשר ארנב אמיתי המלופפים סביב מקל סידן (קלציום), מה שמספק לכלב גם חוויית לעיסה טעימה וממושכת וגם תמיכה בבריאות העצמות והשיניים. אריזה: מגיע באריזת 80 גרם עם סגירה חוזרת (Ziploc) לשמירה מקסימלית על הטריות.
 - Image: https://gurimbakfar.co.il/assets/product-1783463699571-lson.webp
 
@@ -370,7 +371,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-atypvt-shl-arnb-bmkl-kltsyvm-80-g
 https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-arnb-80-gr-6hq0ox
 - Price: 12.50 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: נובילוס חטיף לכלב סושי ארנב - 80 גרם הוא חטיף פרימיום בצורת ספירלה המיועד לכלבים, המיוצר על ידי המותג נובילוס (Nobilus). אריזה: 80 גרם עם סגירה חוזרת לשמירה על הטריות.
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783463235014-inll9.webp
 
@@ -378,7 +379,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-arnb-80-gr-6hq0ox
 https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-arnb-80-gr-cekqt0
 - Price: 12.50 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: חטיף לכלבים נובילוס פילה ארנבת 80 גר - NOBILUS הוא חטיף אולטרה-פרימיום איכותי לכלבים, המיוצר על בסיס בשר ארנב וחזה עוף. לפי פרסומי החנויות המשווקות (כמו "לה דוג" ו"המגרש של יוגב"), מדובר בחטיף היפואלרגני, דל שומן וללא תוספת סוכר, המתאים מאוד גם לכלבים רגישים או מבוגרים. אריזה: 80 גרם, מגיעה לרוב עם סגירה חוזרת (פסגור) לשמירה על הטריות.
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783462971467-ivkv6r.webp
 
@@ -386,7 +387,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-arnb-80-gr-cekqt0
 https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-dg-kvd-80-gr-h4yxjs
 - Price: 12.50 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: נובילוס (Nobilus) חטיף קוביות פילה דג קוד (80 גרם) הוא חטיף אולטרה-פרימיום איכותי לכלבים, המיוצר מרכיבים נבחרים ומתאים במיוחד כצ'ופר יומיומי או כפרס בזמן אילוף. אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (Ziploc) לשמירה על איכות המוצר לאורך זמן.
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783462483766-4i9dde.webp
 
@@ -394,7 +395,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-dg-kvd-80-gr-h4yxjs
 https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-slmvn-80-gr-2hq23m
 - Price: 12.50 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: חטיף נובילוס (Nobilus) פילה סלמון 80 גרם הוא חטיף אולטרה-פרימיום איכותי המיועד לכלבים. החטיף משלב נתחי פילה סלמון מובחרים, חזה עוף וחלבון אפונה, והוא מתאים מאוד כצ'ופר יומי, פרס באילוף או כתוספת מפתה למזון היבש.
 - Image: https://gurimbakfar.co.il/assets/product-1783461562150-59m0cd.webp
 
@@ -402,7 +403,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-slmvn-80-gr-2hq23m
 https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-slmvn-80-gr-2fltzk
 - Price: 12.50 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: נובילוס חטיף פילה סלמון לכלב 80 גרם הוא חטיף אולטרה-פרימיום איכותי וטעים המיועד לפינוק, אילוף או כתוספת משלימה למזון היומי של הכלב. אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (זיפר) לשמירה על איכות החטיף לאורך זמן.
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783461171036-1002g.webp
 
@@ -410,7 +411,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-slmvn-80-gr-2fltzk
 https://gurimbakfar.co.il/product/chtyp-nvblvs-nknykyvt-kbsh-80-gr-dc0nhs
 - Price: 12.50 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: נובילוס Nobilus חטיף נקניקיות כבש הוא חטיף פרימיום היפואלרגני המיועד לכלבים, המגיע באריזה של 80 גרם ומבוסס על שילוב של בשר כבש ובשר חזה ברווז. יתרון נוסף - אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (זיפר) לשמירה על איכות החטיף לאורך זמן.
 - Image: https://gurimbakfar.co.il/assets/product-1783459320643-9td0u.webp
 
@@ -418,7 +419,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-nknykyvt-kbsh-80-gr-dc0nhs
 https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-kbsh-80-gr-wqg8tp
 - Price: 12.50 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: חטיף נובילוס (Nobilus) פילה כבש במשקל 80 גרם הוא חטיף פרמיום היפואלרגני המיועד לכלבים מכל הגזעים והגילאים. הוא פופולרי במיוחד כצ'ופר איכותי, חטיף אימון או תוספת משלימה למזון. יתרון נוסף - אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (זיפר) לשמירה על איכות החטיף לאורך זמן.
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783465457803-e765ze.webp
 
@@ -426,7 +427,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-kbsh-80-gr-wqg8tp
 https://gurimbakfar.co.il/product/chtyp-nvblvs-kvbyvt-kbsh-aylvp-80-gr-wsuw9i
 - Price: 12.50 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: קוביות כבש 80 גרם - נובילוס NOBILUS הוא חטיף אילוף פרימיום פופולרי לכלבים, המגיע בצורת קוביות קטנות המותאמות במיוחד לביס מהיר בזמן אימון מבלי להפריע לרצף הלמידה. החטיף מבוסס על בשר כבש אמיתי כמרכיב עיקרי בשילוב בשר חזה ברווז, ומספק מקור חלבון איכותי ודל שומן.
 - Image: https://gurimbakfar.co.il/assets/product-1783459385785-haaosh.webp
 
@@ -434,7 +435,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-kvbyvt-kbsh-aylvp-80-gr-wsuw9i
 https://gurimbakfar.co.il/product/chtyp-nvblvs-mklvt-kbsh-80-gr-uecb2h
 - Price: 12.50 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: חטיף לכלבים נובילוס (Nobilus) מקלות כבש באריזת 80 גרם הוא חטיף משלים, איכותי והיפואלרגני המיועד לפינוק, נשנוש או תגמול בזמן אילוף. החטיף מיוצר על בסיס בשר אמיתי כמרכיב עיקרי, מתאפיין ברמת טעימות ונעכלות גבוהה מאוד, ואינו מכיל תוספת סוכר.
 - Image: https://gurimbakfar.co.il/assets/product-1783459511093-5ao8rr.webp
 
@@ -442,7 +443,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-mklvt-kbsh-80-gr-uecb2h
 https://gurimbakfar.co.il/product/chtyp-nvblvs-mklvt-bkr-vavrz-80-gr-yvqxjc
 - Price: 12.50 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: חטיף הכלבים נובילוס (Nobilus) מקלות/רצועות בקר ואורז באריזת 80 גרם הוא חטיף פרימיום חצי קשיח, העשיר בחלבון ודל בשומן. החטיף מיוצר מבשר אמיתי כמרכיב עיקרי, קל לעיכול, ומתאים מאוד כצ'ופר יומיומי או כחטיף אילוף ותגמול שניתן לשבור בקלות לחתיכות קטנות.
 - Image: https://gurimbakfar.co.il/assets/product-1783459618367-etd5fh.webp
 
@@ -450,7 +451,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-mklvt-bkr-vavrz-80-gr-yvqxjc
 https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-bkr-aw8qfa
 - Price: 12.50 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: נובילוס חטיף סושי בקר - 80 גרם הוא חטיף אולטרה-פרימיום איכותי לכלבים המעוצב בצורת ספירלה המזכירה סושי. החטיף מבוסס על שילוב של שלושה מקורות חלבון מובחרים וקלים לעיכול. לפי פירוט הרכיבים הרשמי של היצרן Nobilus באתר ג'וי בוקס, המוצר מיוצר מבשר אמיתי כמרכיב עיקרי ומתאים כחטיף התעסקות, אילוף או פינוק דל שומן.
 - Image: https://gurimbakfar.co.il/assets/product-1783459806783-d8olyh.webp
 
@@ -458,7 +459,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-bkr-aw8qfa
 https://gurimbakfar.co.il/product/chtyp-nvblvs-nknykyvt-brvvz-80-gr-dip46d
 - Price: 12.50 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: חטיף נובילוס (Nobilus) נקניקיות ברווז הוא חטיף פרימיום משלים והיפואלרגני המיועד לכלבים. החטיף מגיע באריזה של 80 גרם עם סגירה חוזרת לשמירה על הטריות, ומתאים כצ'ופר, חטיף התעסקות או לעיסה לכלבים מכל הגזעים והגילאים.
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783459889501-znyu5g.webp
 
@@ -466,7 +467,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-nknykyvt-brvvz-80-gr-dip46d
 https://gurimbakfar.co.il/product/chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-2abwgm
 - Price: 12.50 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: חטיף נובילוס (Nobilus) מקל ברווז ואורז הוא חטיף לעיסה איכותי ודל שומן לכלבים. המוצר מגיע במארז של 80 גרם עם סגירה חוזרת לשמירה על הטריות. הוא מבוסס על בשר אמיתי כרכיב מרכזי ומתאים כצ'ופר להתעסקות, לעיסה או כפרס באימונים.
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783465619118-rzgrb.webp
 
@@ -474,7 +475,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-2abwgm
 https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-vdg-kvd-80-gr-r9xvi9
 - Price: 12.50 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: חטיף נובילוס (Nobilus) בטעם ברווז ודג קוד באריזת 80 גרם הוא חטיף אולטרה-פרימיום איכותי לכלבים, המשלב חלבון מן החי (חזה ברווז) יחד עם דג בקלה (קוד) העשיר באומגה 3. החטיף מתאפיין ברמת טעימות גבוהה, הוא דל שומן, קל לעיכול ומתאים במיוחד גם לכלבים בעלי רגישויות או אלרגיות.
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783460063333-0rpkvy.webp
 
@@ -482,7 +483,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-vdg-kvd-80-gr-r9xvi9
 https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-svshy-80-gr-ul4cc9
 - Price: 12.50 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: חטיף נובילוס סושי ברווז (80 גרם) הוא חטיף פרימיום היפואלרגני ודל שומן לכלבים. הוא מעוצב בצורת סושי ספירלי ייחודי ומשלב בשר חזה ברווז איכותי יחד עם דג בקלה.
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783460147763-4xcra.webp
 
@@ -490,7 +491,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-svshy-80-gr-ul4cc9
 https://gurimbakfar.co.il/product/chtyp-nvblvs-rtsvavt-brvvz-rk-80-gr-w88isd
 - Price: 12.50 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: חטיפי נובילוס (Nobilus) רצועות או פרוסות ברווז רכות במשקל 80 גרם הם חטיפי אולטרה-פרימיום פופולריים לכלבים, המבוססים על בשר אמיתי כמרכיב עיקרי. יתרון נוסף - אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (זיפר) לשמירה על איכות החטיף לאורך זמן.
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783460215121-dlklu.webp
 
@@ -498,7 +499,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-rtsvavt-brvvz-rk-80-gr-w88isd
 https://gurimbakfar.co.il/product/chtyp-nvblvs-ngysy-brvvz-80-gr-iyl4og
 - Price: 12.50 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: נובילוס חטיף היפואלרגני לכלב - נגיסי ברווז 80 גרם NOBILUS הוא חטיף אולטרה-פרימיום פופולרי ומבוקש מאוד לכלבים, המיוצר מבשר חזה ברווז אמיתי כמרכיב עיקרי. יתרון נוסף - אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (זיפר) לשמירה על איכות החטיף לאורך זמן.
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783460370000-3574pk.webp
 
@@ -506,7 +507,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-ngysy-brvvz-80-gr-iyl4og
 https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-pylh-rk-80-gr-w7o05o
 - Price: 12.50 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: חטיף הכלבים נובילוס (Nobilus) פילה ברווז רך במארז 80 גרם הוא חטיף איכותי מסדרת אולטרה-פרימיום, המבוסס על בשר חזה ברווז אמיתי כמרכיב עיקרי (מעל 30%). החטיף מתאפיין במרקם רך ונימוח, עשיר בחלבון ודל מאוד בשומן, מה שהופך אותו למושלם כצ'ופר יומיומי, חטיף אילוף או פינוק לכלבים בעלי מערכת עיכול רגישה. יתרון נוסף - אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (זיפר) לשמירה על איכות החטיף לאורך זמן.
 - Image: https://gurimbakfar.co.il/assets/product-1783460419131-qr2no8c.webp
 
@@ -514,7 +515,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-pylh-rk-80-gr-w7o05o
 https://gurimbakfar.co.il/product/chtyp-nvblvs-avp-kltsyvm-80-gr-edpchi
 - Price: 12.50 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: חטיף נובלוס עצם קלציום (סידן) במעטפת עוף (80 גרם) הוא חטיף בריא. הוא מורכב מעצם סידן טבעית שעטופה בבשר חזה עוף אמיתי. החטיף מעסיק את הכלב, מנקה את השיניים, ומחזק את הלסת. יתרון נוסף - אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (זיפר) לשמירה על איכות החטיף לאורך זמן.
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783460545902-m0cqapq.webp
 
@@ -522,7 +523,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-avp-kltsyvm-80-gr-edpchi
 https://gurimbakfar.co.il/product/chtyp-nvblvs-rtsvavt-avp-rkvt-80-gr-kkcxkq
 - Price: 12.50 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: חטיף נובילוס רצועות עוף רכות הוא פינוק פרימיום לכלבים. הוא מכיל בשר עוף אמיתי, עשיר בחלבון ודל שומן. המרקם הרך מקל על הלעיסה. זה הופך אותו למושלם עבור כלבים מכל הגילאים, כולל גורים וכלבים מבוגרים. החטיף מגיע באריזת 80 גרם עם סגירה חוזרת לשמירת הטריות. הרכיבים מבוססים על חזה עוף בשילוב עם חלבון אפונה ועמילן. הוא משמש מצוין כפינוק יומי או כפרס בזמן אילוף.
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783460700766-4fq2z.webp
 
@@ -530,7 +531,7 @@ https://gurimbakfar.co.il/product/chtyp-nvblvs-rtsvavt-avp-rkvt-80-gr-kkcxkq
 https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-avp-80-gr-tiq5j0
 - Price: 12.50 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Brand: NOBILUS
 - Description: חטיפי נובילוס, חטיפים טעימים במיוחד המתאימים למתן כפינוק, לעיסה, ומושלמים כתוספת משלימה לאוכל. 80 גרם * מארז עם סגירה חוזרת, לשמירה על טריות * מושלם כחטיף התעסקות * מקור חלבון איכותי * חטיף דל שומן * בשר אמיתי כמרכיב עיקרי
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1783460765247-fw760j.webp
@@ -717,7 +718,7 @@ https://gurimbakfar.co.il/product/adykshn-slmvn-klb-bvgr-15-kg-3c8axk
 https://gurimbakfar.co.il/product/chtyp-rtsvavt-atsvt-ym-ml-vd455y
 - Price: 16.90 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Brand: Native Way
 - Description: חטיף רצועות אצות ים לכלבים קטנים ובינוניים 80 גר' עשיר ברכיבים תזונתיים חיוניים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1783957583565-jzvzpr.webp
@@ -726,7 +727,7 @@ https://gurimbakfar.co.il/product/chtyp-rtsvavt-atsvt-ym-ml-vd455y
 https://gurimbakfar.co.il/product/chtyp-mkl-atsvt-ym-ml-e2i5nq
 - Price: 16.90 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Brand: Native Way
 - Description: חטיף מקלות אצות ים לכלבים בינוניים וגדולים 80 גרם
 - Image: https://gurimbakfar.co.il/assets/product-1783425048603-1g0qve.webp
@@ -742,7 +743,7 @@ https://gurimbakfar.co.il/product/tsatsva-paylvt-ayntraktyby-tirotto-lklbym-rvdp
 https://gurimbakfar.co.il/product/chtyp-mkl-atsvt-ym-sm-d4rxz9
 - Price: 16.90 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: חטיף מקלות אצות ים לכלבים קטנים ובינוניים 80 גרם
 - Image: https://gurimbakfar.co.il/assets/product-1783424979881-twykal.webp
 
@@ -1002,21 +1003,21 @@ https://gurimbakfar.co.il/product/kbl-kshyrh-lklb-am-kpyts-petsproject-avby-5-mm
 https://gurimbakfar.co.il/product/chtyp-syybr-dvg-lklb-btam-brvvz-yx6hxh
 - Price: 8.00 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Image: https://gurimbakfar.co.il/assets/product-1781771402259-51568.webp
 
 ### חטיף סייבר דוג לכלב בטעם סלמון
 https://gurimbakfar.co.il/product/chtyp-syybr-dvg-lklb-btam-slmvn-6sr4y9
 - Price: 8.00 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Image: https://gurimbakfar.co.il/assets/product-1781771460412-0irmqfc.webp
 
 ### חטיף סייבר דוג לכלב בטעם ארנבת
 https://gurimbakfar.co.il/product/chtyp-syybr-dvg-lklb-btam-arnbt-x3nacr
 - Price: 8.00 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Image: https://gurimbakfar.co.il/assets/product-1781771635193-g78vbs.webp
 
 ### רצועה ניילון פרידוג מידה M
@@ -1044,7 +1045,7 @@ https://gurimbakfar.co.il/product/klvb-aylvp-lklbym-mfyzxg
 https://gurimbakfar.co.il/product/hnrys-chmat-bvtnym-tbayt-72e5vc
 - Price: 35.00 ILS
 - Availability: Out of stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1782157095043-aufz4e.webp
 
 ### פדים לאימון גורים 50 יח'
@@ -1072,14 +1073,14 @@ https://gurimbakfar.co.il/product/pdym-laymvn-gvrym-am-pchm-payl-30-ych-o4ysvk
 https://gurimbakfar.co.il/product/krn-ayyl-advm-75-150-gr-m-tajljj
 - Price: 65.00 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1782843117890-chyka6.webp
 
 ### קרן אייל אדום 50-75 גר' S
 https://gurimbakfar.co.il/product/krn-ayyl-advm-50-75-gr-s-iwvv9k
 - Price: 45.00 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1782843225510-3v43pj.webp
 
 ### שימורי פרנדי 70% בשר עגל 400 ג"ר
@@ -1152,7 +1153,7 @@ https://gurimbakfar.co.il/product/mntrl-rychvt-shtn-vmnkh-ktmym-lmshtch-hklb-ri7
 https://gurimbakfar.co.il/product/chtypy-bvsh-lklbym-btam-avp-vmngv-200-gr-lj7jyk
 - Price: 25.00 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1783282680679-hd4hae.webp
 
 ### כלוב נשיאה פתח קדמי 56*37*35
@@ -1404,14 +1405,14 @@ https://gurimbakfar.co.il/product/shrshrt-chnk-65-sm-shchvr-7hhrl8
 https://gurimbakfar.co.il/product/hnrys-azny-baplv-chtvkvt-xk1hoh
 - Price: 26.00 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1783278674555-kf4ic.webp
 
 ### הנריס קוביות עוף עם בלוברי
 https://gurimbakfar.co.il/product/hnrys-kvbyvt-avp-am-blvbry-2npic1
 - Price: 21.00 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1783278813367-whohfk.webp
 
 ### מסרק פרמינטור M
@@ -1504,7 +1505,7 @@ https://gurimbakfar.co.il/product/tsatsva-tmnvn-mrshrsh-am-tsptsph-5lwji6
 https://gurimbakfar.co.il/product/hnrys-gydy-baplv-d1ih0e
 - Price: 26.00 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781440962153-7zaog1.webp
 
 ### בקבוק שתייה 500 ml 
@@ -1546,7 +1547,7 @@ https://gurimbakfar.co.il/product/kdvr-dntly-am-chbl-r40ega
 https://gurimbakfar.co.il/product/hnrys-grvnvt-avp-s062qs
 - Price: 26.00 ILS
 - Availability: In stock
-- Category: חטיפים
+- Category: חטיפים ועצמות
 - Description: גרונות עוף 100% טבעי וללא תוספים מלאכותיים – חטיף בריא, טעים וללא חומרים משמרים. דל שומן, עשיר בחלבון וקל לעיכול.
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1782207242082-g9mbh.webp
 
