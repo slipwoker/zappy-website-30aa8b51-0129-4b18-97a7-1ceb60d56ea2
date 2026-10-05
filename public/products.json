@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-05T18:44:35.973Z",
+  "generated_at": "2026-10-05T19:41:11.615Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 241,
@@ -5485,12 +5485,12 @@
     },
     {
       "id": "2a9f1cb9-048b-4175-b2f2-af0b4f8da1b0",
-      "slug": "mzrkt-mym-chytsvnyt-14-lytr-petstar-l954l1",
+      "slug": "mzrkt-mym-chytsvnyt-14-lytr-petstar-p8737h",
       "name": "מזרקת מים חיצונית 1.4 ליטר Petstar",
       "name_translations": {
-        "en": "Petstar 1.4 Liter Outdoor Water Fountain",
+        "en": "Petstar Outdoor Water Fountain 1.4 Liter",
         "he": "מזרקת מים חיצונית 1.4 ליטר Petstar",
-        "ru": "Наружный водный фонтан 1.4 литра Petstar"
+        "ru": "Внешний фонтан для воды 1.4 литра Petstar"
       },
       "description": "",
       "short_description": null,
@@ -5503,13 +5503,13 @@
       "images": [
         "https://gurimbakfar.co.il/assets/product-enhanced-1780898660548-exsfsp.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mzrkt-mym-chytsvnyt-14-lytr-petstar-l954l1",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://gurimbakfar.co.il/product/mzrkt-mym-chytsvnyt-14-lytr-petstar-p8737h",
       "categories": [
         "כלי אוכל ושתייה"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-10-05T19:39:07.896Z"
     },
     {
       "id": "f6bedaf8-2b0a-4bcb-9133-c0f3dddbf18f",
