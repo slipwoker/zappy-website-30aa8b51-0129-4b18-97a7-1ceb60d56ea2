@@ -1,10 +1,40 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-05T13:32:03.943Z",
+  "generated_at": "2026-10-05T14:14:00.235Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 240,
+  "count": 241,
   "products": [
+    {
+      "id": "8cf00b92-1e16-494c-8688-fb664d73195f",
+      "slug": "smvkys-byskvvytym-lklbym-pytsh-vbzylykvm-n20uw3",
+      "name": "סמוקיס ביסקוויטים לכלבים פיצה ובזיליקום",
+      "name_translations": {
+        "en": "Smokies Dog Biscuits Pizza and Basil",
+        "he": "סמוקיס ביסקוויטים לכלבים פיצה ובזיליקום",
+        "ru": "Smokeys бисквиты для собак пицца и базилик"
+      },
+      "description": "",
+      "short_description": "ביסקוויטים לכלבים מכילים רכיבים טבעיים , עשוי מחומרי גלם ראויים למאכל אדם. \nמשקל 200 גר'",
+      "sku": null,
+      "brand": null,
+      "price": 20,
+      "base_price": 20,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1791209191318-nbhvz7o.webp",
+        "https://gurimbakfar.co.il/assets/product-1791209460460-pngmqnh.webp",
+        "https://gurimbakfar.co.il/assets/product-1791209520116-nhlxz.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/smvkys-byskvvytym-lklbym-pytsh-vbzylykvm-n20uw3",
+      "categories": [
+        "חטיפים טבעיים"
+      ],
+      "updated_at": "2026-10-05T14:13:24.737Z"
+    },
     {
       "id": "7dac0c85-5c62-486e-92b4-5efaff0a958b",
       "slug": "rvl-baplv-ank-atvp-am-brvvz-4onq3m",
