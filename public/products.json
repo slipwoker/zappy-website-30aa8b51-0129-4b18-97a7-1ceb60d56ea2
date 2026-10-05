@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-05T19:41:11.615Z",
+  "generated_at": "2026-10-05T19:41:29.864Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 241,
+  "count": 240,
   "products": [
     {
       "id": "8cf00b92-1e16-494c-8688-fb664d73195f",
@@ -62,30 +62,6 @@
         "חטיפים ועצמות"
       ],
       "updated_at": "2026-10-05T18:37:10.759Z"
-    },
-    {
-      "id": "27d5ed23-41bb-4652-86f3-c1eaf3ac3657",
-      "slug": "mzvn-ybsh-lchtvl-byiclj",
-      "name": "מזון יבש לחתול",
-      "name_translations": {
-        "en": "Dry Cat Food",
-        "he": "מזון יבש לחתול",
-        "ru": "Сухой корм для кошек"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 250,
-      "base_price": 250,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mzvn-ybsh-lchtvl-byiclj",
-      "categories": [],
-      "updated_at": "2026-10-05T11:04:02.757Z"
     },
     {
       "id": "51511fcc-940f-44c8-9e27-e40953af9b82",
