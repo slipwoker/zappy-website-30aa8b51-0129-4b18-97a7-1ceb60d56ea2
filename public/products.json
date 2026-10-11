@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-11T17:40:24.115Z",
+  "generated_at": "2026-10-11T17:41:43.772Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 240,
@@ -59,7 +59,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/rvl-baplv-ank-atvp-am-brvvz-i6dyf8",
       "categories": [
-        "עצמות לעסה"
+        "עצמות לעיסה"
       ],
       "updated_at": "2026-10-11T17:30:03.772Z"
     },
@@ -337,7 +337,7 @@
       "stock_status": "out_of_stock",
       "url": "https://gurimbakfar.co.il/product/wiggle-bvly-styk-60-grm-isy308",
       "categories": [
-        "עצמות לעסה"
+        "עצמות לעיסה"
       ],
       "updated_at": "2026-10-11T17:39:46.745Z"
     },
