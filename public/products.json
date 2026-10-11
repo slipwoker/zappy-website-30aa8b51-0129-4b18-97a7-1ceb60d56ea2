@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-11T17:11:13.463Z",
+  "generated_at": "2026-10-11T17:11:33.476Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 240,
@@ -4756,7 +4756,7 @@
     },
     {
       "id": "70b82793-842a-426c-9119-4de05b97c5f9",
-      "slug": "hnrys-azny-baplv-chtvkvt-ldv0gw",
+      "slug": "hnrys-azny-baplv-chtvkvt-au2rjp",
       "name": "הנריס אזני באפלו חתוכות",
       "name_translations": {
         "en": "Henris Buffalo Ears Cut",
@@ -4776,12 +4776,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/hnrys-azny-baplv-chtvkvt-ldv0gw",
+      "url": "https://gurimbakfar.co.il/product/hnrys-azny-baplv-chtvkvt-au2rjp",
       "categories": [
-        "חטיפים ועצמות",
         "חטיפים טבעיים"
       ],
-      "updated_at": "2026-10-11T17:08:18.161Z"
+      "updated_at": "2026-10-11T17:11:18.422Z"
     },
     {
       "id": "adc02516-30ac-4190-a8cf-1b1744924ced",
