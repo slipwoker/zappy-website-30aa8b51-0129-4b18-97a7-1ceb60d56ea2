@@ -8520,7 +8520,7 @@ Availability: In stock
 ---
 
 ### הנריס חמאת בוטנים טבעית
-URL: https://gurimbakfar.co.il/product/hnrys-chmat-bvtnym-tbayt-72e5vc
+URL: https://gurimbakfar.co.il/product/hnrys-chmat-bvtnym-tbayt-4yd44q
 Price: 35.00 ILS
 Availability: Out of stock
 
@@ -9236,7 +9236,7 @@ Availability: In stock
 ---
 
 ### הנריס בולי סטיק
-URL: https://gurimbakfar.co.il/product/hnrys-bvly-styk-vp0jgi
+URL: https://gurimbakfar.co.il/product/hnrys-bvly-styk-2ao091
 Price: 39.00 ILS
 Availability: In stock
 
