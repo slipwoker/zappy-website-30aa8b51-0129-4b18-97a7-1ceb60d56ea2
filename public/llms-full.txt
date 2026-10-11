@@ -9033,7 +9033,7 @@ Availability: In stock
 ---
 
 ### הנריס גרונות עוף
-URL: https://gurimbakfar.co.il/product/hnrys-grvnvt-avp-s062qs
+URL: https://gurimbakfar.co.il/product/hnrys-grvnvt-avp-74yi2z
 Price: 26.00 ILS
 Availability: In stock
 
@@ -9236,9 +9236,9 @@ Availability: In stock
 ---
 
 ### הנריס בולי סטיק
-URL: https://gurimbakfar.co.il/product/hnrys-bvly-styk-2ao091
+URL: https://gurimbakfar.co.il/product/hnrys-bvly-styk-e7nhy0
 Price: 39.00 ILS
-Availability: In stock
+Availability: Out of stock
 
 ---
 
@@ -9250,9 +9250,9 @@ Availability: In stock
 ---
 
 ### הנריס דגים שלמים
-URL: https://gurimbakfar.co.il/product/hnrys-dgym-shlmym-jc6752
+URL: https://gurimbakfar.co.il/product/hnrys-dgym-shlmym-setmy0
 Price: 26.00 ILS
-Availability: In stock
+Availability: Out of stock
 
 ---
 

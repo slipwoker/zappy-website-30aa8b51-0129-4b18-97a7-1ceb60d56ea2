@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-11T17:09:18.605Z",
+  "generated_at": "2026-10-11T17:10:49.133Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 240,
@@ -5325,10 +5325,10 @@
     },
     {
       "id": "9bfbad74-da13-4019-949a-f32efe8f200c",
-      "slug": "hnrys-grvnvt-avp-s062qs",
+      "slug": "hnrys-grvnvt-avp-74yi2z",
       "name": "הנריס גרונות עוף",
       "name_translations": {
-        "en": "Harrys Chicken Necks",
+        "en": "Henis Chicken Necks",
         "he": "הנריס גרונות עוף",
         "ru": "Henriss куриные шеи"
       },
@@ -5345,11 +5345,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/hnrys-grvnvt-avp-s062qs",
+      "url": "https://gurimbakfar.co.il/product/hnrys-grvnvt-avp-74yi2z",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים ועצמות",
+        "חטיפים טבעיים"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-10-11T17:09:42.729Z"
     },
     {
       "id": "3911b74b-8974-47e2-b1e3-8fb25c95d663",
@@ -6137,7 +6138,7 @@
     },
     {
       "id": "ae83648a-20cd-4e87-a129-0b2adc505923",
-      "slug": "hnrys-bvly-styk-2ao091",
+      "slug": "hnrys-bvly-styk-e7nhy0",
       "name": "הנריס בולי סטיק",
       "name_translations": {
         "en": "Henris Bully Stick",
@@ -6155,14 +6156,13 @@
       "images": [
         "https://gurimbakfar.co.il/assets/product-enhanced-1781449138802-xuj7sa.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/hnrys-bvly-styk-2ao091",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://gurimbakfar.co.il/product/hnrys-bvly-styk-e7nhy0",
       "categories": [
-        "חטיפים ועצמות",
         "חטיפים טבעיים"
       ],
-      "updated_at": "2026-10-11T17:07:07.064Z"
+      "updated_at": "2026-10-11T17:10:14.112Z"
     },
     {
       "id": "9e1967bb-86cc-4d4c-90c6-767e9e0c5d91",
@@ -6197,12 +6197,12 @@
     },
     {
       "id": "44683ae0-d9f7-4718-84ce-d2282b3cda10",
-      "slug": "hnrys-dgym-shlmym-jc6752",
+      "slug": "hnrys-dgym-shlmym-setmy0",
       "name": "הנריס דגים שלמים",
       "name_translations": {
-        "en": "Harris Whole Fish",
+        "en": "Harness Whole Fish",
         "he": "הנריס דגים שלמים",
-        "ru": "Харрис цельная рыба"
+        "ru": "Harringtons целая рыба"
       },
       "description": "",
       "short_description": null,
@@ -6215,13 +6215,13 @@
       "images": [
         "https://gurimbakfar.co.il/assets/product-enhanced-1781451525050-euhnz.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/hnrys-dgym-shlmym-jc6752",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://gurimbakfar.co.il/product/hnrys-dgym-shlmym-setmy0",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים טבעיים"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-10-11T17:10:38.253Z"
     },
     {
       "id": "df1532c4-011b-43a1-bc4d-9493fb8979bb",
