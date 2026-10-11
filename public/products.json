@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-11T17:11:33.476Z",
+  "generated_at": "2026-10-11T17:11:53.510Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 240,
@@ -4784,12 +4784,12 @@
     },
     {
       "id": "adc02516-30ac-4190-a8cf-1b1744924ced",
-      "slug": "hnrys-kvbyvt-avp-am-blvbry-uft0kb",
+      "slug": "hnrys-kvbyvt-avp-am-blvbry-131o91",
       "name": "הנריס קוביות עוף עם בלוברי",
       "name_translations": {
-        "en": "Henris Chicken Cubes with Blueberry",
+        "en": "Henny's Chicken Cubes with Blueberry",
         "he": "הנריס קוביות עוף עם בלוברי",
-        "ru": "Хенрис кубики курицы с черникой"
+        "ru": "Хенрис кубики из курицы с черникой"
       },
       "description": "",
       "short_description": null,
@@ -4804,12 +4804,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/hnrys-kvbyvt-avp-am-blvbry-uft0kb",
+      "url": "https://gurimbakfar.co.il/product/hnrys-kvbyvt-avp-am-blvbry-131o91",
       "categories": [
-        "חטיפים ועצמות",
         "חטיפים טבעיים"
       ],
-      "updated_at": "2026-10-11T17:08:44.006Z"
+      "updated_at": "2026-10-11T17:11:37.016Z"
     },
     {
       "id": "0f1542d2-e77b-412e-91e9-f6f8624d087d",
