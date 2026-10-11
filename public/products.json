@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-11T17:26:52.344Z",
+  "generated_at": "2026-10-11T17:27:49.027Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 240,
@@ -37,7 +37,7 @@
     },
     {
       "id": "7dac0c85-5c62-486e-92b4-5efaff0a958b",
-      "slug": "rvl-baplv-ank-atvp-am-brvvz-4onq3m",
+      "slug": "rvl-baplv-ank-atvp-am-brvvz-439vfu",
       "name": "רול באפלו ענק עטוף עם ברווז",
       "name_translations": {
         "en": "Giant Buffalo Roll Wrapped with Duck",
@@ -57,11 +57,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/rvl-baplv-ank-atvp-am-brvvz-4onq3m",
+      "url": "https://gurimbakfar.co.il/product/rvl-baplv-ank-atvp-am-brvvz-439vfu",
       "categories": [
-        "חטיפים"
+        "חטיפים",
+        "עצמות לעסה"
       ],
-      "updated_at": "2026-10-07T12:18:47.828Z"
+      "updated_at": "2026-10-11T17:27:31.853Z"
     },
     {
       "id": "51511fcc-940f-44c8-9e27-e40953af9b82",
