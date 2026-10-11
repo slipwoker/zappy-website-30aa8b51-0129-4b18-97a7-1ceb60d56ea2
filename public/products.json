@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-11T17:17:31.365Z",
+  "generated_at": "2026-10-11T17:23:15.897Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 240,
@@ -59,7 +59,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/rvl-baplv-ank-atvp-am-brvvz-4onq3m",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-10-07T12:18:47.828Z"
     },
@@ -337,7 +337,7 @@
       "stock_status": "out_of_stock",
       "url": "https://gurimbakfar.co.il/product/wiggle-bvly-styk-60-grm-9mje0e",
       "categories": [
-        "חטיפים ועצמות",
+        "חטיפים",
         "חטיפים טבעיים"
       ],
       "updated_at": "2026-09-23T13:14:39.293Z"
@@ -819,7 +819,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-10-b-100-3rhh7s",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-10-11T13:03:18.143Z"
     },
@@ -847,7 +847,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-k46lbu",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-23T16:05:43.713Z"
     },
@@ -875,7 +875,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-2ma0at",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-23T16:05:43.459Z"
     },
@@ -903,7 +903,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tslavt-kbsh-80-gr-2erv3i",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-23T16:05:43.409Z"
     },
@@ -931,7 +931,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-dntly-mbrshvt-80-gr-4qadwf",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-23T16:05:44.276Z"
     },
@@ -959,7 +959,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-atypvt-shl-arnb-bmkl-kltsyvm-80-gr-57sm0v",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-23T16:05:43.509Z"
     },
@@ -987,7 +987,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-arnb-80-gr-6hq0ox",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-23T16:05:43.965Z"
     },
@@ -1015,7 +1015,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-arnb-80-gr-cekqt0",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-23T16:05:43.357Z"
     },
@@ -1043,7 +1043,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-dg-kvd-80-gr-h4yxjs",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-23T16:05:43.814Z"
     },
@@ -1071,7 +1071,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-slmvn-80-gr-2hq23m",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-23T16:05:44.375Z"
     },
@@ -1099,7 +1099,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-slmvn-80-gr-2fltzk",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-23T16:05:44.426Z"
     },
@@ -1127,7 +1127,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-nknykyvt-kbsh-80-gr-dc0nhs",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-23T16:05:44.326Z"
     },
@@ -1155,7 +1155,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-pylh-kbsh-80-gr-wqg8tp",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-23T16:05:43.559Z"
     },
@@ -1183,7 +1183,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-kvbyvt-kbsh-aylvp-80-gr-wsuw9i",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-23T16:05:43.612Z"
     },
@@ -1211,7 +1211,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-mklvt-kbsh-80-gr-uecb2h",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-23T16:05:43.763Z"
     },
@@ -1239,7 +1239,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-mklvt-bkr-vavrz-80-gr-yvqxjc",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-23T16:05:44.476Z"
     },
@@ -1267,7 +1267,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-bkr-aw8qfa",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-23T16:05:44.069Z"
     },
@@ -1295,7 +1295,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-nknykyvt-brvvz-80-gr-dip46d",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-10-11T13:03:18.413Z"
     },
@@ -1323,7 +1323,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-2abwgm",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-23T16:05:44.176Z"
     },
@@ -1351,7 +1351,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-vdg-kvd-80-gr-r9xvi9",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-23T16:05:43.864Z"
     },
@@ -1379,7 +1379,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-svshy-80-gr-ul4cc9",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-23T16:05:44.576Z"
     },
@@ -1407,7 +1407,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-rtsvavt-brvvz-rk-80-gr-w88isd",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-10-11T13:03:18.682Z"
     },
@@ -1435,7 +1435,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-ngysy-brvvz-80-gr-iyl4og",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-23T16:05:44.226Z"
     },
@@ -1463,7 +1463,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brvvz-pylh-rk-80-gr-w7o05o",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-23T16:05:44.626Z"
     },
@@ -1491,7 +1491,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-avp-kltsyvm-80-gr-edpchi",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-10-11T13:03:17.871Z"
     },
@@ -1519,7 +1519,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-rtsvavt-avp-rkvt-80-gr-kkcxkq",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-09-29T16:56:20.555Z"
     },
@@ -1547,7 +1547,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-svshy-avp-80-gr-tiq5j0",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-23T16:05:44.526Z"
     },
@@ -2171,7 +2171,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-rtsvavt-atsvt-ym-ml-vd455y",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-19T13:32:38.738Z"
     },
@@ -2199,7 +2199,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-mkl-atsvt-ym-ml-e2i5nq",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-19T13:32:38.738Z"
     },
@@ -2258,7 +2258,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-mkl-atsvt-ym-sm-d4rxz9",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-19T13:32:38.738Z"
     },
@@ -3226,7 +3226,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-syybr-dvg-lklb-btam-brvvz-yx6hxh",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-19T13:32:38.738Z"
     },
@@ -3254,7 +3254,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-syybr-dvg-lklb-btam-slmvn-6sr4y9",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-19T13:32:38.738Z"
     },
@@ -3282,7 +3282,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtyp-syybr-dvg-lklb-btam-arnbt-x3nacr",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-19T13:32:38.738Z"
     },
@@ -3506,7 +3506,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/krn-ayyl-advm-75-150-gr-m-tajljj",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-19T13:32:38.738Z"
     },
@@ -3534,7 +3534,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/krn-ayyl-advm-50-75-gr-s-iwvv9k",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-19T13:32:38.738Z"
     },
@@ -3814,7 +3814,7 @@
       "stock_status": "in_stock",
       "url": "https://gurimbakfar.co.il/product/chtypy-bvsh-lklbym-btam-avp-vmngv-200-gr-lj7jyk",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים"
       ],
       "updated_at": "2026-07-19T13:32:38.738Z"
     },
