@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-11T17:14:13.802Z",
+  "generated_at": "2026-10-11T17:15:03.829Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 240,
@@ -6724,12 +6724,12 @@
     },
     {
       "id": "7292bb9f-63ed-42a4-9ffe-f331a94c8e05",
-      "slug": "hnrys-kvbyvt-slmvn-2tj0rr",
+      "slug": "hnrys-kvbyvt-slmvn-hb8g8r",
       "name": "הנריס קוביות סלמון",
       "name_translations": {
-        "en": "Harris Salmon Cubes",
+        "en": "Henris Salmon Cubes",
         "he": "הנריס קוביות סלמון",
-        "ru": "Харрис кубики лосося"
+        "ru": "Хенрис кубики лосося"
       },
       "description": "",
       "short_description": null,
@@ -6744,11 +6744,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/hnrys-kvbyvt-slmvn-2tj0rr",
+      "url": "https://gurimbakfar.co.il/product/hnrys-kvbyvt-slmvn-hb8g8r",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים טבעיים"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-10-11T17:14:26.998Z"
     },
     {
       "id": "735cafa9-ff65-4972-9912-0bfb59a5ab07",
