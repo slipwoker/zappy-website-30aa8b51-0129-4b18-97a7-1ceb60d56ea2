@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-11T17:10:49.133Z",
+  "generated_at": "2026-10-11T17:11:13.463Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 240,
@@ -3372,12 +3372,12 @@
     },
     {
       "id": "2f8dee24-f97b-4532-b09c-21a45d4466f2",
-      "slug": "hnrys-chmat-bvtnym-tbayt-4yd44q",
+      "slug": "hnrys-chmat-bvtnym-tbayt-sgz78q",
       "name": "הנריס חמאת בוטנים טבעית",
       "name_translations": {
         "en": "Henris Natural Peanut Butter",
         "he": "הנריס חמאת בוטנים טבעית",
-        "ru": "Henris арахисовое масло натуральное"
+        "ru": "Henris арахисовая паста натуральная"
       },
       "description": "",
       "short_description": null,
@@ -3392,12 +3392,11 @@
       ],
       "in_stock": false,
       "stock_status": "out_of_stock",
-      "url": "https://gurimbakfar.co.il/product/hnrys-chmat-bvtnym-tbayt-4yd44q",
+      "url": "https://gurimbakfar.co.il/product/hnrys-chmat-bvtnym-tbayt-sgz78q",
       "categories": [
-        "חטיפים ועצמות",
         "חטיפים טבעיים"
       ],
-      "updated_at": "2026-10-11T17:07:46.327Z"
+      "updated_at": "2026-10-11T17:10:59.778Z"
     },
     {
       "id": "b91d8b66-5179-44d7-b395-c0304740c348",
