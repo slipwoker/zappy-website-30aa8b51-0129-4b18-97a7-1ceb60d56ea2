@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-11T17:11:53.510Z",
+  "generated_at": "2026-10-11T17:12:33.872Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 240,
@@ -5153,7 +5153,7 @@
     },
     {
       "id": "cb07cd49-f9b9-4232-9459-86cc86a8a08d",
-      "slug": "hnrys-gydy-baplv-28pfyt",
+      "slug": "hnrys-gydy-baplv-7wu7uo",
       "name": "הנריס גידי באפלו",
       "name_translations": {
         "en": "Harness Gidi Buffalo",
@@ -5173,12 +5173,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/hnrys-gydy-baplv-28pfyt",
+      "url": "https://gurimbakfar.co.il/product/hnrys-gydy-baplv-7wu7uo",
       "categories": [
-        "חטיפים ועצמות",
         "חטיפים טבעיים"
       ],
-      "updated_at": "2026-10-11T17:09:12.899Z"
+      "updated_at": "2026-10-11T17:12:08.067Z"
     },
     {
       "id": "c87b4cd6-439b-44fc-9ea5-95651f44005c",
@@ -5322,7 +5321,7 @@
     },
     {
       "id": "9bfbad74-da13-4019-949a-f32efe8f200c",
-      "slug": "hnrys-grvnvt-avp-74yi2z",
+      "slug": "hnrys-grvnvt-avp-1rmifx",
       "name": "הנריס גרונות עוף",
       "name_translations": {
         "en": "Henis Chicken Necks",
@@ -5342,12 +5341,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/hnrys-grvnvt-avp-74yi2z",
+      "url": "https://gurimbakfar.co.il/product/hnrys-grvnvt-avp-1rmifx",
       "categories": [
-        "חטיפים ועצמות",
         "חטיפים טבעיים"
       ],
-      "updated_at": "2026-10-11T17:09:42.729Z"
+      "updated_at": "2026-10-11T17:12:33.181Z"
     },
     {
       "id": "3911b74b-8974-47e2-b1e3-8fb25c95d663",
