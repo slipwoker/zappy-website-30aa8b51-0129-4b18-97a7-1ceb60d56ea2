@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-11T17:15:03.829Z",
+  "generated_at": "2026-10-11T17:16:09.133Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 240,
@@ -6133,7 +6133,7 @@
     },
     {
       "id": "ae83648a-20cd-4e87-a129-0b2adc505923",
-      "slug": "hnrys-bvly-styk-e7nhy0",
+      "slug": "hnrys-bvly-styk-e399tc",
       "name": "הנריס בולי סטיק",
       "name_translations": {
         "en": "Henris Bully Stick",
@@ -6153,11 +6153,11 @@
       ],
       "in_stock": false,
       "stock_status": "out_of_stock",
-      "url": "https://gurimbakfar.co.il/product/hnrys-bvly-styk-e7nhy0",
+      "url": "https://gurimbakfar.co.il/product/hnrys-bvly-styk-e399tc",
       "categories": [
         "חטיפים טבעיים"
       ],
-      "updated_at": "2026-10-11T17:10:14.112Z"
+      "updated_at": "2026-10-11T17:15:35.175Z"
     },
     {
       "id": "9e1967bb-86cc-4d4c-90c6-767e9e0c5d91",
