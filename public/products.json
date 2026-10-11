@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-11T17:13:08.823Z",
+  "generated_at": "2026-10-11T17:13:48.874Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 240,
@@ -6416,12 +6416,12 @@
     },
     {
       "id": "c663dce8-7e6e-4070-afc9-4402d426a535",
-      "slug": "hnrys-prsvt-baplv-7hz9nc",
+      "slug": "hnrys-prsvt-baplv-zwrqmr",
       "name": "הנריס פרסות באפלו",
       "name_translations": {
-        "en": "Harris Buffalo Hooves",
+        "en": "Henris Buffalo Hooves",
         "he": "הנריס פרסות באפלו",
-        "ru": "Харрис копыта буйвола"
+        "ru": "Хенрис Буйволиные Копытца"
       },
       "description": "",
       "short_description": null,
@@ -6436,11 +6436,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/hnrys-prsvt-baplv-7hz9nc",
+      "url": "https://gurimbakfar.co.il/product/hnrys-prsvt-baplv-zwrqmr",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים טבעיים"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-10-11T17:13:16.360Z"
     },
     {
       "id": "951cd501-b239-4ecc-827b-334e6e3ec787",
@@ -6472,7 +6472,7 @@
     },
     {
       "id": "ae011526-b18b-45d6-9252-d510568233d1",
-      "slug": "hnrys-bvly-styk-tsmh-vswyyz",
+      "slug": "hnrys-bvly-styk-tsmh-xsv98w",
       "name": "הנריס בולי סטיק צמה",
       "name_translations": {
         "en": "Henris Bully Stick Braid",
@@ -6490,13 +6490,13 @@
       "images": [
         "https://gurimbakfar.co.il/assets/product-enhanced-1781433698700-b9ysz.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/hnrys-bvly-styk-tsmh-vswyyz",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://gurimbakfar.co.il/product/hnrys-bvly-styk-tsmh-xsv98w",
       "categories": [
-        "חטיפים ועצמות"
+        "חטיפים טבעיים"
       ],
-      "updated_at": "2026-09-10T09:01:41.759Z"
+      "updated_at": "2026-10-11T17:13:38.291Z"
     },
     {
       "id": "2f74cf6f-922f-4bf6-9e3b-781ba52ab28f",

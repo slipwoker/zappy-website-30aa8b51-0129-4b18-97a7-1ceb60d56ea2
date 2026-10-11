@@ -9306,7 +9306,7 @@ Availability: In stock
 ---
 
 ### הנריס פרסות באפלו
-URL: https://gurimbakfar.co.il/product/hnrys-prsvt-baplv-7hz9nc
+URL: https://gurimbakfar.co.il/product/hnrys-prsvt-baplv-zwrqmr
 Price: 26.00 ILS
 Availability: In stock
 
@@ -9320,9 +9320,9 @@ Availability: In stock
 ---
 
 ### הנריס בולי סטיק צמה
-URL: https://gurimbakfar.co.il/product/hnrys-bvly-styk-tsmh-vswyyz
+URL: https://gurimbakfar.co.il/product/hnrys-bvly-styk-tsmh-xsv98w
 Price: 60.00 ILS
-Availability: In stock
+Availability: Out of stock
 
 ---
 
