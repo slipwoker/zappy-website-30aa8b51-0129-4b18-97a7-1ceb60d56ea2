@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-12T19:53:59.273Z",
+  "generated_at": "2026-10-12T19:55:51.669Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 240,
@@ -147,7 +147,7 @@
     },
     {
       "id": "3c566257-1bdf-4271-b43d-0d2383e13e80",
-      "slug": "wiggle-kvbyvt-chzh-brvvz-myvbshvt-bhkpah-40-grm-sv1ues",
+      "slug": "wiggle-kvbyvt-chzh-brvvz-myvbshvt-bhkpah-40-grm-f4oi8b",
       "name": "WIGGLE קוביות חזה ברווז מיובשות בהקפאה 40 גרם",
       "name_translations": {
         "en": "WIGGLE Freeze-Dried Duck Breast Cubes 40g",
@@ -167,15 +167,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/wiggle-kvbyvt-chzh-brvvz-myvbshvt-bhkpah-40-grm-sv1ues",
+      "url": "https://gurimbakfar.co.il/product/wiggle-kvbyvt-chzh-brvvz-myvbshvt-bhkpah-40-grm-f4oi8b",
       "categories": [
         "חטיפים טבעיים"
       ],
-      "updated_at": "2026-09-29T16:56:20.038Z"
+      "updated_at": "2026-10-12T19:55:39.078Z"
     },
     {
       "id": "a0d9bfe4-f3d8-4829-b074-daae67de5e34",
-      "slug": "wiggle-kvbyvt-kbd-bkr-myvbshvt-bhkpah-40-grm-vja7hr",
+      "slug": "wiggle-kvbyvt-kbd-bkr-myvbshvt-bhkpah-40-grm-htc0gd",
       "name": "WIGGLE קוביות כבד בקר מיובשות בהקפאה 40 גרם",
       "name_translations": {
         "en": "WIGGLE Freeze-Dried Beef Liver Cubes 40g",
@@ -195,20 +195,20 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/wiggle-kvbyvt-kbd-bkr-myvbshvt-bhkpah-40-grm-vja7hr",
+      "url": "https://gurimbakfar.co.il/product/wiggle-kvbyvt-kbd-bkr-myvbshvt-bhkpah-40-grm-htc0gd",
       "categories": [
         "חטיפים טבעיים"
       ],
-      "updated_at": "2026-09-10T09:40:26.875Z"
+      "updated_at": "2026-10-12T19:54:58.540Z"
     },
     {
       "id": "e7fb8730-4e3e-4881-ad3c-bce9d2590593",
-      "slug": "wiggle-kvbyvt-chzh-avp-myvbshvt-bhkpah-40-grm-67qli2",
+      "slug": "wiggle-kvbyvt-chzh-avp-myvbshvt-bhkpah-40-grm-kb6dhe",
       "name": "WIGGLE קוביות חזה עוף מיובשות בהקפאה - 40 גרם",
       "name_translations": {
         "en": "WIGGLE Freeze-Dried Chicken Breast Cubes - 40g",
         "he": "WIGGLE קוביות חזה עוף מיובשות בהקפאה - 40 גרם",
-        "ru": "WIGGLE Кубики куриной грудки сублимационной сушки - 40 г"
+        "ru": "WIGGLE кубики куриной грудки сублимационной сушки - 40 г"
       },
       "description": "",
       "short_description": null,
@@ -223,11 +223,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/wiggle-kvbyvt-chzh-avp-myvbshvt-bhkpah-40-grm-67qli2",
+      "url": "https://gurimbakfar.co.il/product/wiggle-kvbyvt-chzh-avp-myvbshvt-bhkpah-40-grm-kb6dhe",
       "categories": [
         "חטיפים טבעיים"
       ],
-      "updated_at": "2026-09-10T09:40:55.562Z"
+      "updated_at": "2026-10-12T19:54:41.372Z"
     },
     {
       "id": "b00ed022-3848-42cd-8766-a42e4afca0be",
@@ -259,7 +259,7 @@
     },
     {
       "id": "0f54b7a7-1963-4b06-911d-33b301957f0b",
-      "slug": "wiggle-kvbyvt-slmvn-myvbshvt-bhkpah-40-grm-2odv1j",
+      "slug": "wiggle-kvbyvt-slmvn-myvbshvt-bhkpah-40-grm-bfpiy9",
       "name": "WIGGLE קוביות סלמון מיובשות בהקפאה 40 גרם",
       "name_translations": {
         "en": "WIGGLE Freeze-Dried Salmon Cubes 40g",
@@ -279,11 +279,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/wiggle-kvbyvt-slmvn-myvbshvt-bhkpah-40-grm-2odv1j",
+      "url": "https://gurimbakfar.co.il/product/wiggle-kvbyvt-slmvn-myvbshvt-bhkpah-40-grm-bfpiy9",
       "categories": [
         "חטיפים טבעיים"
       ],
-      "updated_at": "2026-09-10T09:41:25.787Z"
+      "updated_at": "2026-10-12T19:55:18.904Z"
     },
     {
       "id": "4a1031a6-d36c-48f4-9ccc-e70ec22cf8c9",
