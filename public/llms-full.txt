@@ -215,6 +215,8 @@ Description: חנות ציוד וגורים לאימוץ
 ## קנו לפי קטגוריה
 
 
+טוען מוצרים...
+
 
 
 
@@ -224,6 +226,8 @@ Description: חנות ציוד וגורים לאימוץ
 
 ## מוצרים מומלצים
 
+
+טוען מוצרים...
 
 
 צפה בכל המוצרים →
@@ -1287,6 +1291,141 @@ Description: המוצרים שלנו - גורים בכפר
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+טוען מוצרים...
 
 
 
@@ -4242,6 +4381,8 @@ Description: מוצרים - גורים בכפר
 
 
 
+טוען מוצרים...
+
 
 
 
@@ -6909,7 +7050,7 @@ gurimbakfar@gmail.com
 
 
 
-קראתי ואני מסכים/ה ל    תנאי השימוש   |
+קראתי ואני מסכים/ה ל   תנאי השימוש   |
 מדיניות החזרות
 
 
@@ -8751,14 +8892,14 @@ Availability: In stock
 ---
 
 ### הנריס אזני באפלו חתוכות
-URL: https://gurimbakfar.co.il/product/hnrys-azny-baplv-chtvkvt-au2rjp
+URL: https://gurimbakfar.co.il/product/hnrys-azny-baplv-chtvkvt-ikcsli
 Price: 26.00 ILS
 Availability: In stock
 
 ---
 
 ### הנריס קוביות עוף עם בלוברי
-URL: https://gurimbakfar.co.il/product/hnrys-kvbyvt-avp-am-blvbry-131o91
+URL: https://gurimbakfar.co.il/product/hnrys-kvbyvt-avp-am-blvbry-24i2fj
 Price: 21.00 ILS
 Availability: In stock
 
@@ -8850,7 +8991,7 @@ Availability: In stock
 ---
 
 ### הנריס גידי באפלו
-URL: https://gurimbakfar.co.il/product/hnrys-gydy-baplv-7wu7uo
+URL: https://gurimbakfar.co.il/product/hnrys-gydy-baplv-8zl1yc
 Price: 26.00 ILS
 Availability: In stock
 
@@ -8892,7 +9033,7 @@ Availability: In stock
 ---
 
 ### הנריס גרונות עוף
-URL: https://gurimbakfar.co.il/product/hnrys-grvnvt-avp-1rmifx
+URL: https://gurimbakfar.co.il/product/hnrys-grvnvt-avp-fkyj74
 Price: 26.00 ILS
 Availability: In stock
 
@@ -9165,7 +9306,7 @@ Availability: In stock
 ---
 
 ### הנריס פרסות באפלו
-URL: https://gurimbakfar.co.il/product/hnrys-prsvt-baplv-zwrqmr
+URL: https://gurimbakfar.co.il/product/hnrys-prsvt-baplv-81kx12
 Price: 26.00 ILS
 Availability: In stock
 

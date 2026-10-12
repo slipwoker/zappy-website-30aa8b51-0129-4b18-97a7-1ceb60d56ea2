@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-11T17:42:22.802Z",
+  "generated_at": "2026-10-12T19:53:59.273Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 240,
@@ -4755,7 +4755,7 @@
     },
     {
       "id": "70b82793-842a-426c-9119-4de05b97c5f9",
-      "slug": "hnrys-azny-baplv-chtvkvt-au2rjp",
+      "slug": "hnrys-azny-baplv-chtvkvt-ikcsli",
       "name": "הנריס אזני באפלו חתוכות",
       "name_translations": {
         "en": "Henris Buffalo Ears Cut",
@@ -4775,18 +4775,18 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/hnrys-azny-baplv-chtvkvt-au2rjp",
+      "url": "https://gurimbakfar.co.il/product/hnrys-azny-baplv-chtvkvt-ikcsli",
       "categories": [
         "חטיפים טבעיים"
       ],
-      "updated_at": "2026-10-11T17:11:18.422Z"
+      "updated_at": "2026-10-12T19:52:48.765Z"
     },
     {
       "id": "adc02516-30ac-4190-a8cf-1b1744924ced",
-      "slug": "hnrys-kvbyvt-avp-am-blvbry-131o91",
+      "slug": "hnrys-kvbyvt-avp-am-blvbry-24i2fj",
       "name": "הנריס קוביות עוף עם בלוברי",
       "name_translations": {
-        "en": "Henny's Chicken Cubes with Blueberry",
+        "en": "Henris Chicken Cubes with Blueberry",
         "he": "הנריס קוביות עוף עם בלוברי",
         "ru": "Хенрис кубики из курицы с черникой"
       },
@@ -4803,11 +4803,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/hnrys-kvbyvt-avp-am-blvbry-131o91",
+      "url": "https://gurimbakfar.co.il/product/hnrys-kvbyvt-avp-am-blvbry-24i2fj",
       "categories": [
         "חטיפים טבעיים"
       ],
-      "updated_at": "2026-10-11T17:11:37.016Z"
+      "updated_at": "2026-10-12T19:53:21.497Z"
     },
     {
       "id": "0f1542d2-e77b-412e-91e9-f6f8624d087d",
@@ -5152,7 +5152,7 @@
     },
     {
       "id": "cb07cd49-f9b9-4232-9459-86cc86a8a08d",
-      "slug": "hnrys-gydy-baplv-7wu7uo",
+      "slug": "hnrys-gydy-baplv-8zl1yc",
       "name": "הנריס גידי באפלו",
       "name_translations": {
         "en": "Harness Gidi Buffalo",
@@ -5172,11 +5172,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/hnrys-gydy-baplv-7wu7uo",
+      "url": "https://gurimbakfar.co.il/product/hnrys-gydy-baplv-8zl1yc",
       "categories": [
         "חטיפים טבעיים"
       ],
-      "updated_at": "2026-10-11T17:12:08.067Z"
+      "updated_at": "2026-10-12T19:52:33.356Z"
     },
     {
       "id": "c87b4cd6-439b-44fc-9ea5-95651f44005c",
@@ -5320,7 +5320,7 @@
     },
     {
       "id": "9bfbad74-da13-4019-949a-f32efe8f200c",
-      "slug": "hnrys-grvnvt-avp-1rmifx",
+      "slug": "hnrys-grvnvt-avp-fkyj74",
       "name": "הנריס גרונות עוף",
       "name_translations": {
         "en": "Henis Chicken Necks",
@@ -5340,11 +5340,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/hnrys-grvnvt-avp-1rmifx",
+      "url": "https://gurimbakfar.co.il/product/hnrys-grvnvt-avp-fkyj74",
       "categories": [
         "חטיפים טבעיים"
       ],
-      "updated_at": "2026-10-11T17:12:33.181Z"
+      "updated_at": "2026-10-12T19:51:44.828Z"
     },
     {
       "id": "3911b74b-8974-47e2-b1e3-8fb25c95d663",
@@ -6415,7 +6415,7 @@
     },
     {
       "id": "c663dce8-7e6e-4070-afc9-4402d426a535",
-      "slug": "hnrys-prsvt-baplv-zwrqmr",
+      "slug": "hnrys-prsvt-baplv-81kx12",
       "name": "הנריס פרסות באפלו",
       "name_translations": {
         "en": "Henris Buffalo Hooves",
@@ -6435,11 +6435,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/hnrys-prsvt-baplv-zwrqmr",
+      "url": "https://gurimbakfar.co.il/product/hnrys-prsvt-baplv-81kx12",
       "categories": [
         "חטיפים טבעיים"
       ],
-      "updated_at": "2026-10-11T17:13:16.360Z"
+      "updated_at": "2026-10-12T19:52:15.306Z"
     },
     {
       "id": "951cd501-b239-4ecc-827b-334e6e3ec787",
