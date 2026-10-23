@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-21T18:24:23.236Z",
+  "generated_at": "2026-10-23T11:53:39.670Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 240,
@@ -93,7 +93,7 @@
     },
     {
       "id": "457b2e2c-ab40-400b-ba69-caf8f95d1544",
-      "slug": "mbrsht-slykr-argvnvmyt-furever-mydh-l-z69am8",
+      "slug": "mbrsht-slykr-argvnvmyt-furever-mydh-l-j9837f",
       "name": "מברשת סליקר ארגונומית FUREVER מידה L",
       "name_translations": {
         "en": "FUREVER Ergonomic Slicker Brush Size L",
@@ -113,11 +113,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mbrsht-slykr-argvnvmyt-furever-mydh-l-z69am8",
+      "url": "https://gurimbakfar.co.il/product/mbrsht-slykr-argvnvmyt-furever-mydh-l-j9837f",
       "categories": [
         "מוצרי טיפוח"
       ],
-      "updated_at": "2026-09-10T09:36:48.276Z"
+      "updated_at": "2026-10-23T11:52:14.277Z"
     },
     {
       "id": "5676a3eb-a191-4491-b1e9-42adb890a6ba",
@@ -4333,7 +4333,7 @@
     },
     {
       "id": "cfcbe0d8-c030-4741-aa07-6467b384f0c1",
-      "slug": "styspkshn-gvrym-gza-gdvl-avp-20-kg-r3rstd",
+      "slug": "styspkshn-gvrym-gza-gdvl-avp-20-kg-eob6lp",
       "name": "סטיספקשן גורים גזע גדול עוף 20 ק\"ג",
       "name_translations": {
         "en": "Satisfaction Large Breed Puppies Chicken 20 kg",
@@ -4353,11 +4353,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/styspkshn-gvrym-gza-gdvl-avp-20-kg-r3rstd",
+      "url": "https://gurimbakfar.co.il/product/styspkshn-gvrym-gza-gdvl-avp-20-kg-eob6lp",
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-09-08T11:10:22.469Z"
+      "updated_at": "2026-10-23T11:53:03.717Z"
     },
     {
       "id": "5db5f8ee-b761-4340-a8d7-79e4f8150727",

@@ -215,6 +215,8 @@ Description: חנות ציוד וגורים לאימוץ
 ## קנו לפי קטגוריה
 
 
+טוען מוצרים...
+
 
 
 
@@ -224,6 +226,8 @@ Description: חנות ציוד וגורים לאימוץ
 
 ## מוצרים מומלצים
 
+
+טוען מוצרים...
 
 
 צפה בכל המוצרים →
@@ -1287,6 +1291,141 @@ Description: המוצרים שלנו - גורים בכפר
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+טוען מוצרים...
 
 
 
@@ -4242,6 +4381,8 @@ Description: מוצרים - גורים בכפר
 
 
 
+טוען מוצרים...
+
 
 
 
@@ -6909,7 +7050,7 @@ gurimbakfar@gmail.com
 
 
 
-קראתי ואני מסכים/ה ל    תנאי השימוש   |
+קראתי ואני מסכים/ה ל   תנאי השימוש   |
 מדיניות החזרות
 
 
@@ -7371,7 +7512,7 @@ Brand: Brande
 ---
 
 ### מברשת סליקר ארגונומית FUREVER מידה L
-URL: https://gurimbakfar.co.il/product/mbrsht-slykr-argvnvmyt-furever-mydh-l-z69am8
+URL: https://gurimbakfar.co.il/product/mbrsht-slykr-argvnvmyt-furever-mydh-l-j9837f
 Price: 56.00 ILS
 Availability: In stock
 
@@ -8634,7 +8775,7 @@ Availability: Out of stock
 ---
 
 ### סטיספקשן גורים גזע גדול עוף 20 ק"ג
-URL: https://gurimbakfar.co.il/product/styspkshn-gvrym-gza-gdvl-avp-20-kg-r3rstd
+URL: https://gurimbakfar.co.il/product/styspkshn-gvrym-gza-gdvl-avp-20-kg-eob6lp
 Price: 379.00 ILS
 Availability: In stock
 
