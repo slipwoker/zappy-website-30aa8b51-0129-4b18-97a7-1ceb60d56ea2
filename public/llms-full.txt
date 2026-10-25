@@ -7488,10 +7488,12 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### WIGGLE אוזן בופאלו 70 גרם
-URL: https://gurimbakfar.co.il/product/wiggle-avzn-bvpalv-70-grm-185iqd
+URL: https://gurimbakfar.co.il/product/wiggle-avzn-bvpalv-70-grm-9yi7dw
 Price: 25.00 ILS
 Availability: In stock
 Brand: WIGGLE
+
+אוזן בופאלו 100% רכיב יחיד (אוזן בופאלו בלבד). דל שומן ועשיר בחלבון, מהווה חלופה דלת שומן באופן משמעותי בהשוואה לאוזני חזיר או בקר רגילות. המרקם הקשיח מסייע בניקוי שיניים והפחתת אבנית בזמן הלעיסה. מתאים בעיקר לכלבים בינוניים וגדולים המחפשים תעסוקה ממושכת.
 
 ---
 
