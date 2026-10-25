@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-25T07:46:41.412Z",
+  "generated_at": "2026-10-25T07:57:33.288Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 242,
@@ -35,7 +35,7 @@
     },
     {
       "id": "f947e500-5d33-4ad6-90d6-22e96f69276c",
-      "slug": "wiggle-tsmvt-bvlystyk-90-gr-hb3bb8",
+      "slug": "wiggle-tsmvt-bvlystyk-90-gr-b5piv7",
       "name": "WIGGLE 'צמות בוליסטיק 90 גר",
       "name_translations": {
         "en": "WIGGLE Bully Sticks Braided 90g",
@@ -51,15 +51,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-enhanced-1792914292611-nw3des.webp"
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1792914989278-el7wl.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/wiggle-tsmvt-bvlystyk-90-gr-hb3bb8",
+      "url": "https://gurimbakfar.co.il/product/wiggle-tsmvt-bvlystyk-90-gr-b5piv7",
       "categories": [
         "עצמות לעיסה"
       ],
-      "updated_at": "2026-10-25T07:46:07.534Z"
+      "updated_at": "2026-10-25T07:56:59.800Z"
     },
     {
       "id": "8cf00b92-1e16-494c-8688-fb664d73195f",
