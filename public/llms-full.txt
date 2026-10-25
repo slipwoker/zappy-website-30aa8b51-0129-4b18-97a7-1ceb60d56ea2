@@ -7488,9 +7488,10 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### WIGGLE רול בופאלו 180 גרם
-URL: https://gurimbakfar.co.il/product/wiggle-rvl-bvpalv-180-grm-9h8vu0
-Price: 0.00 ILS
+URL: https://gurimbakfar.co.il/product/wiggle-rvl-bvpalv-180-grm-9qluhl
+Price: 49.00 ILS
 Availability: In stock
+Brand: WIGGLE
 
 עשוי 100% עור בופאלו טבעי (מונופרוטאין, מתאים לכלבים רגישים או אלרגיים). מעולה לתעסוקה ולהפגת שעמום, המרקם הסיבי והדחוס מספק שעות של לעיסה ממושכת שעוזרת לפרוק מתחים , פריקת אנרגייה. הלעיסה הקשיחה פועלת כמברשת שיניים טבעית המסייעת בהסרת פלאק והפחתת אבנית. עשיר בחלבון טבעי ודל בשומן, ללא פחמימות, סוכרים, דגנים או חומרים משמרים.
 

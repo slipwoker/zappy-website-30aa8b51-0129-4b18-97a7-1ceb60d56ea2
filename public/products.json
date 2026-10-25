@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-25T08:30:58.276Z",
+  "generated_at": "2026-10-25T08:40:33.581Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 245,
   "products": [
     {
       "id": "99a6a346-9d6b-4bf3-9ce3-e47824579704",
-      "slug": "wiggle-rvl-bvpalv-180-grm-9h8vu0",
+      "slug": "wiggle-rvl-bvpalv-180-grm-9qluhl",
       "name": "WIGGLE רול בופאלו 180 גרם",
       "name_translations": {
         "en": "WIGGLE Buffalo Roll 180g",
@@ -17,17 +17,21 @@
       "description": "<ul><li>עשוי 100% עור בופאלו טבעי (מונופרוטאין, מתאים לכלבים רגישים או אלרגיים).</li><li>מעולה לתעסוקה ולהפגת שעמום,  המרקם הסיבי והדחוס מספק שעות של לעיסה ממושכת שעוזרת לפרוק מתחים , פריקת אנרגייה. הלעיסה הקשיחה פועלת כמברשת שיניים טבעית המסייעת בהסרת פלאק והפחתת אבנית.</li><li> עשיר בחלבון טבעי ודל בשומן, ללא פחמימות, סוכרים, דגנים או חומרים משמרים.</li></ul><p></p>",
       "short_description": "חטיף WIGGLE בופאלו רול (180 גרם) הוא חטיף טבעי ועמיד לכלבים, העשוי מ-100% עור קרקפת בופאלו טבעי ומגולגל לגליל קשיח.",
       "sku": null,
-      "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "brand": "WIGGLE",
+      "price": 49,
+      "base_price": 49,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1792917229955-dmcfr.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/wiggle-rvl-bvpalv-180-grm-9h8vu0",
-      "categories": [],
-      "updated_at": "2026-10-25T08:30:21.537Z"
+      "url": "https://gurimbakfar.co.il/product/wiggle-rvl-bvpalv-180-grm-9qluhl",
+      "categories": [
+        "עצמות לעיסה"
+      ],
+      "updated_at": "2026-10-25T08:39:58.414Z"
     },
     {
       "id": "ede4b2cd-fa16-414e-b8e6-6533fe4f681a",
