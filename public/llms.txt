@@ -73,7 +73,13 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 244** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 245** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### WIGGLE רול בופאלו 180 גרם
+https://gurimbakfar.co.il/product/wiggle-rvl-bvpalv-180-grm-9h8vu0
+- Price: 0.00 ILS
+- Availability: In stock
+- Description: חטיף WIGGLE בופאלו רול (180 גרם) הוא חטיף טבעי ועמיד לכלבים, העשוי מ-100% עור קרקפת בופאלו טבעי ומגולגל לגליל קשיח.
 
 ### WIGGLE דגים מיובשים 50 גרם 
 https://gurimbakfar.co.il/product/wiggle-dgym-myvbshym-50-grm-s6da5k
@@ -1631,13 +1637,6 @@ https://gurimbakfar.co.il/product/mbrsht-avnybrslyt-kshh-advmh-hylkbr
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449364410-36grpk.webp
-
-### מברשת freedog
-https://gurimbakfar.co.il/product/mbrsht-freedog-ip8x9x
-- Price: 55.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449317230-uuzxmq.webp
 
 ---
 
