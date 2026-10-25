@@ -1,23 +1,23 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-25T07:41:16.429Z",
+  "generated_at": "2026-10-25T07:45:11.678Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 242,
   "products": [
     {
       "id": "25b5474c-e1ea-4067-909e-42d4d3f489ce",
-      "slug": "wiggle-tsmvt-avr-bvpalv-100-gr-qfrbi6",
+      "slug": "wiggle-tsmvt-avr-bvpalv-100-gr-69c02t",
       "name": "WIGGLE  'צמות עור בופאלו 100 גר ",
       "name_translations": {
-        "en": "WIGGLE Buffalo Hide Braids 100g",
+        "en": "WIGGLE Buffalo Leather Braids 100g",
         "he": "WIGGLE  'צמות עור בופאלו 100 גר ",
-        "ru": "WIGGLE Косички из кожи буйвола 100 г"
+        "ru": "WIGGLE 'косички из кожи буйвола 100 гр"
       },
-      "description": "",
+      "description": "<p></p><ul><li>צמות עור באפלו עשוי מ 100% עור בופאלו טבעי, ללא חומרים משמרים, צבעי מאכל או תוספים מלאכותיים. </li><li>משמש כחטיף דנטלי המסייע בניקוי שיניים, הסרת שאריות ומניעת אבנית בזמן הלעיסה.  מבנה הצמה הקשיח מספק לכלב תעסוקה ארוכה, פריקת אנרגיה.</li></ul><p></p>",
       "short_description": "צמות עור בופאלו של מותג וויגל (WIGGLE) הם חטיפי לעיסה טבעיים לכלבים המיוצרים מ-100% עור בופאלו מיובש בייבוש איטי.",
       "sku": null,
-      "brand": null,
+      "brand": "WIGGLE",
       "price": 25,
       "base_price": 25,
       "sale_price": null,
@@ -27,15 +27,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/wiggle-tsmvt-avr-bvpalv-100-gr-qfrbi6",
+      "url": "https://gurimbakfar.co.il/product/wiggle-tsmvt-avr-bvpalv-100-gr-69c02t",
       "categories": [
         "עצמות לעיסה"
       ],
-      "updated_at": "2026-10-25T07:40:44.079Z"
+      "updated_at": "2026-10-25T07:44:35.082Z"
     },
     {
       "id": "f947e500-5d33-4ad6-90d6-22e96f69276c",
-      "slug": "wiggle-tsmvt-bvlystyk-90-gr-v0tl8h",
+      "slug": "wiggle-tsmvt-bvlystyk-90-gr-a44gl8",
       "name": "WIGGLE 'צמות בוליסטיק 90 גר",
       "name_translations": {
         "en": "WIGGLE Bully Sticks Braided 90g",
@@ -51,15 +51,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-enhanced-1792912920221-3id4tjs.webp"
+        "https://gurimbakfar.co.il/assets/product-enhanced-1792914292611-nw3des.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/wiggle-tsmvt-bvlystyk-90-gr-v0tl8h",
+      "url": "https://gurimbakfar.co.il/product/wiggle-tsmvt-bvlystyk-90-gr-a44gl8",
       "categories": [
         "עצמות לעיסה"
       ],
-      "updated_at": "2026-10-25T07:29:00.957Z"
+      "updated_at": "2026-10-25T07:45:03.674Z"
     },
     {
       "id": "8cf00b92-1e16-494c-8688-fb664d73195f",
