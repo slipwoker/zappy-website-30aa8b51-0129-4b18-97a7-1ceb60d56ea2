@@ -1,10 +1,36 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-25T06:45:45.808Z",
+  "generated_at": "2026-10-25T07:23:46.145Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 240,
+  "count": 241,
   "products": [
+    {
+      "id": "f947e500-5d33-4ad6-90d6-22e96f69276c",
+      "slug": "wiggle-tsmvt-bvlystyk-90-gr-ckjeg5",
+      "name": "WIGGLE צמות בוליסטיק 90 גר'",
+      "name_translations": {
+        "en": "WIGGLE Bully Sticks Braids 90g",
+        "he": "WIGGLE צמות בוליסטיק 90 גר'",
+        "ru": "WIGGLE косички буллистик 90 гр'"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-enhanced-1792912920221-3id4tjs.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/wiggle-tsmvt-bvlystyk-90-gr-ckjeg5",
+      "categories": [],
+      "updated_at": "2026-10-25T07:23:13.075Z"
+    },
     {
       "id": "8cf00b92-1e16-494c-8688-fb664d73195f",
       "slug": "smvkys-byskvvytym-lklbym-pytsh-vbzylykvm-jno1yh",
