@@ -76,9 +76,9 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 240** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### סמוקיס ביסקוויטים לכלבים פיצה ובזיליקום
-https://gurimbakfar.co.il/product/smvkys-byskvvytym-lklbym-pytsh-vbzylykvm-n20uw3
+https://gurimbakfar.co.il/product/smvkys-byskvvytym-lklbym-pytsh-vbzylykvm-jno1yh
 - Price: 20.00 ILS
-- Availability: In stock
+- Availability: Out of stock
 - Category: חטיפים טבעיים
 - Description: ביסקוויטים לכלבים מכילים רכיבים טבעיים , עשוי מחומרי גלם ראויים למאכל אדם. משקל 200 גר'
 - Image: https://gurimbakfar.co.il/assets/product-1791209191318-nbhvz7o.webp

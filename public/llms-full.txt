@@ -7488,9 +7488,9 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### סמוקיס ביסקוויטים לכלבים פיצה ובזיליקום
-URL: https://gurimbakfar.co.il/product/smvkys-byskvvytym-lklbym-pytsh-vbzylykvm-n20uw3
+URL: https://gurimbakfar.co.il/product/smvkys-byskvvytym-lklbym-pytsh-vbzylykvm-jno1yh
 Price: 20.00 ILS
-Availability: In stock
+Availability: Out of stock
 
 ---
 

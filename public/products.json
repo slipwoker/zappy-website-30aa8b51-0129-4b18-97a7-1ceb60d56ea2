@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-23T11:57:39.236Z",
+  "generated_at": "2026-10-25T06:45:45.808Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 240,
   "products": [
     {
       "id": "8cf00b92-1e16-494c-8688-fb664d73195f",
-      "slug": "smvkys-byskvvytym-lklbym-pytsh-vbzylykvm-n20uw3",
+      "slug": "smvkys-byskvvytym-lklbym-pytsh-vbzylykvm-jno1yh",
       "name": "סמוקיס ביסקוויטים לכלבים פיצה ובזיליקום",
       "name_translations": {
         "en": "Smokies Dog Biscuits Pizza and Basil",
@@ -27,13 +27,13 @@
         "https://gurimbakfar.co.il/assets/product-1791209460460-pngmqnh.webp",
         "https://gurimbakfar.co.il/assets/product-1791209520116-nhlxz.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/smvkys-byskvvytym-lklbym-pytsh-vbzylykvm-n20uw3",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://gurimbakfar.co.il/product/smvkys-byskvvytym-lklbym-pytsh-vbzylykvm-jno1yh",
       "categories": [
         "חטיפים טבעיים"
       ],
-      "updated_at": "2026-10-05T14:13:24.737Z"
+      "updated_at": "2026-10-25T06:45:10.542Z"
     },
     {
       "id": "7dac0c85-5c62-486e-92b4-5efaff0a958b",
