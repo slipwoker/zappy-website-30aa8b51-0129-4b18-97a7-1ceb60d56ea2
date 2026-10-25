@@ -7487,8 +7487,8 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 
 ## Product Catalog
 
-### WIGGLE  'צמות עור בופאלו 100 גר 
-URL: https://gurimbakfar.co.il/product/wiggle-tsmvt-avr-bvpalv-100-gr-69c02t
+### WIGGLE  צמות עור בופאלו 100 גרם 
+URL: https://gurimbakfar.co.il/product/wiggle-tsmvt-avr-bvpalv-100-grm-s8hwq1
 Price: 25.00 ILS
 Availability: In stock
 Brand: WIGGLE
@@ -7497,8 +7497,8 @@ Brand: WIGGLE
 
 ---
 
-### WIGGLE 'צמות בוליסטיק 90 גר
-URL: https://gurimbakfar.co.il/product/wiggle-tsmvt-bvlystyk-90-gr-hxc9vx
+### WIGGLE צמות בוליסטיק 90 גרם
+URL: https://gurimbakfar.co.il/product/wiggle-tsmvt-bvlystyk-90-grm-4jwoe5
 Price: 59.00 ILS
 Availability: In stock
 Brand: WIGGLE

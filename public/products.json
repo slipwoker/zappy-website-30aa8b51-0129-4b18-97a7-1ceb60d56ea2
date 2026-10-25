@@ -1,20 +1,20 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-25T07:58:31.701Z",
+  "generated_at": "2026-10-25T08:00:32.414Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 242,
   "products": [
     {
       "id": "25b5474c-e1ea-4067-909e-42d4d3f489ce",
-      "slug": "wiggle-tsmvt-avr-bvpalv-100-gr-69c02t",
-      "name": "WIGGLE  'צמות עור בופאלו 100 גר ",
+      "slug": "wiggle-tsmvt-avr-bvpalv-100-grm-s8hwq1",
+      "name": "WIGGLE  צמות עור בופאלו 100 גרם ",
       "name_translations": {
-        "en": "WIGGLE Buffalo Leather Braids 100g",
-        "he": "WIGGLE  'צמות עור בופאלו 100 גר ",
-        "ru": "WIGGLE 'косички из кожи буйвола 100 гр"
+        "en": "WIGGLE Buffalo Hide Braids 100g",
+        "he": "WIGGLE  צמות עור בופאלו 100 גרם ",
+        "ru": "WIGGLE Косички из кожи буйвола 100 грамм"
       },
-      "description": "<p></p><ul><li>צמות עור באפלו עשוי מ 100% עור בופאלו טבעי, ללא חומרים משמרים, צבעי מאכל או תוספים מלאכותיים. </li><li>משמש כחטיף דנטלי המסייע בניקוי שיניים, הסרת שאריות ומניעת אבנית בזמן הלעיסה.  מבנה הצמה הקשיח מספק לכלב תעסוקה ארוכה, פריקת אנרגיה.</li></ul><p></p>",
+      "description": "<p></p><ul><li>צמות עור באפלו עשוי מ 100% עור בופאלו טבעי, ללא חומרים משמרים, צבעי מאכל או תוספים מלאכותיים.</li><li>משמש כחטיף דנטלי המסייע בניקוי שיניים, הסרת שאריות ומניעת אבנית בזמן הלעיסה. מבנה הצמה הקשיח מספק לכלב תעסוקה ארוכה, פריקת אנרגיה.</li></ul>",
       "short_description": "צמות עור בופאלו של מותג וויגל (WIGGLE) הם חטיפי לעיסה טבעיים לכלבים המיוצרים מ-100% עור בופאלו מיובש בייבוש איטי.",
       "sku": null,
       "brand": "WIGGLE",
@@ -27,20 +27,20 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/wiggle-tsmvt-avr-bvpalv-100-gr-69c02t",
+      "url": "https://gurimbakfar.co.il/product/wiggle-tsmvt-avr-bvpalv-100-grm-s8hwq1",
       "categories": [
         "עצמות לעיסה"
       ],
-      "updated_at": "2026-10-25T07:44:35.082Z"
+      "updated_at": "2026-10-25T07:59:06.009Z"
     },
     {
       "id": "f947e500-5d33-4ad6-90d6-22e96f69276c",
-      "slug": "wiggle-tsmvt-bvlystyk-90-gr-hxc9vx",
-      "name": "WIGGLE 'צמות בוליסטיק 90 גר",
+      "slug": "wiggle-tsmvt-bvlystyk-90-grm-4jwoe5",
+      "name": "WIGGLE צמות בוליסטיק 90 גרם",
       "name_translations": {
-        "en": "WIGGLE Bully Sticks Braided 90g",
-        "he": "WIGGLE 'צמות בוליסטיק 90 גר",
-        "ru": "WIGGLE 'Жевательные косички буллистик 90 гр"
+        "en": "WIGGLE Bully Sticks Braid 90g",
+        "he": "WIGGLE צמות בוליסטיק 90 גרם",
+        "ru": "WIGGLE Булли стик косичка 90 грамм"
       },
       "description": "",
       "short_description": "בולי סטיק של המותג וויגל (Wiggle) הוא חטיף לעיסה טבעי לכלבים, העשוי מ-100% שריר בקר מיובש ללא תוספים או חומרים משמרים. \nצורת הצמה (המנוסחת לרוב מ-3 יחידות קלועות יחד) המיועדת להעניק לכלב חוויית לעיסה קשה וממושכת יותר.\nהאריזה מכילה 2 יח ",
@@ -55,11 +55,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/wiggle-tsmvt-bvlystyk-90-gr-hxc9vx",
+      "url": "https://gurimbakfar.co.il/product/wiggle-tsmvt-bvlystyk-90-grm-4jwoe5",
       "categories": [
         "עצמות לעיסה"
       ],
-      "updated_at": "2026-10-25T07:57:59.824Z"
+      "updated_at": "2026-10-25T07:59:56.515Z"
     },
     {
       "id": "8cf00b92-1e16-494c-8688-fb664d73195f",
