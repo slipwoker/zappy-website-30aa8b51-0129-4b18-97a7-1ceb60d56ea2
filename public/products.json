@@ -1,25 +1,25 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-25T07:23:46.145Z",
+  "generated_at": "2026-10-25T07:29:35.926Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 241,
   "products": [
     {
       "id": "f947e500-5d33-4ad6-90d6-22e96f69276c",
-      "slug": "wiggle-tsmvt-bvlystyk-90-gr-ckjeg5",
-      "name": "WIGGLE צמות בוליסטיק 90 גר'",
+      "slug": "wiggle-tsmvt-bvlystyk-90-gr-v0tl8h",
+      "name": "WIGGLE 'צמות בוליסטיק 90 גר",
       "name_translations": {
-        "en": "WIGGLE Bully Sticks Braids 90g",
-        "he": "WIGGLE צמות בוליסטיק 90 גר'",
-        "ru": "WIGGLE косички буллистик 90 гр'"
+        "en": "WIGGLE Bully Sticks Braided 90g",
+        "he": "WIGGLE 'צמות בוליסטיק 90 גר",
+        "ru": "WIGGLE 'Жевательные косички буллистик 90 гр"
       },
       "description": "",
-      "short_description": null,
+      "short_description": "בולי סטיק של המותג וויגל (Wiggle) הוא חטיף לעיסה טבעי לכלבים, העשוי מ-100% שריר בקר מיובש ללא תוספים או חומרים משמרים. \nצורת הצמה (המנוסחת לרוב מ-3 יחידות קלועות יחד) המיועדת להעניק לכלב חוויית לעיסה קשה וממושכת יותר.\nהאריזה מכילה 2 יח ",
       "sku": null,
-      "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "brand": "WIGGLE",
+      "price": 59,
+      "base_price": 59,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -27,9 +27,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/wiggle-tsmvt-bvlystyk-90-gr-ckjeg5",
-      "categories": [],
-      "updated_at": "2026-10-25T07:23:13.075Z"
+      "url": "https://gurimbakfar.co.il/product/wiggle-tsmvt-bvlystyk-90-gr-v0tl8h",
+      "categories": [
+        "עצמות לעיסה"
+      ],
+      "updated_at": "2026-10-25T07:29:00.957Z"
     },
     {
       "id": "8cf00b92-1e16-494c-8688-fb664d73195f",

@@ -7487,10 +7487,11 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 
 ## Product Catalog
 
-### WIGGLE צמות בוליסטיק 90 גר'
-URL: https://gurimbakfar.co.il/product/wiggle-tsmvt-bvlystyk-90-gr-ckjeg5
-Price: 0.00 ILS
+### WIGGLE 'צמות בוליסטיק 90 גר
+URL: https://gurimbakfar.co.il/product/wiggle-tsmvt-bvlystyk-90-gr-v0tl8h
+Price: 59.00 ILS
 Availability: In stock
+Brand: WIGGLE
 
 ---
 
