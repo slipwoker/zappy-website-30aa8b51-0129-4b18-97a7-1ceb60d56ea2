@@ -1,10 +1,38 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-25T08:07:12.412Z",
+  "generated_at": "2026-10-25T08:27:02.916Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 243,
+  "count": 244,
   "products": [
+    {
+      "id": "ede4b2cd-fa16-414e-b8e6-6533fe4f681a",
+      "slug": "wiggle-dgym-myvbshym-50-grm-s6da5k",
+      "name": "WIGGLE דגים מיובשים 50 גרם ",
+      "name_translations": {
+        "en": "WIGGLE Dried Fish 50g",
+        "he": "WIGGLE דגים מיובשים 50 גרם ",
+        "ru": "WIGGLE Сушёная рыба 50 грамм"
+      },
+      "description": "<p>דגים שלמים ואיכותיים מהים שעברו ייבוש עדין לשמירה על הערכים התזונתיים, הטעם והארומה.</p><ul><li><strong>*עשירים באומגה 3: מסייעים לבריאות העור, הפרווה והמפרקים של הכלב.</strong></li><li><strong>*100% טבעי</strong></li><li><strong>*טעימות גבוהה: מתאימים מאוד כצ&#39;ופר או כפרס בזמן אילוף</strong></li></ul><p></p>",
+      "short_description": "חטיפי הדגים המיובשים של המותג Wiggle (וויגל) הם חטיפים טבעיים לכלבים, העשויים מ-100% רכיבים טבעיים.",
+      "sku": null,
+      "brand": "WIGGLE",
+      "price": 19,
+      "base_price": 19,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1792916636118-qb8hrs.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/wiggle-dgym-myvbshym-50-grm-s6da5k",
+      "categories": [
+        "חטיפים טבעיים"
+      ],
+      "updated_at": "2026-10-25T08:26:51.765Z"
+    },
     {
       "id": "0e5b1c58-d0f0-4e83-b74a-c8a91a4bd920",
       "slug": "wiggle-avzn-bvpalv-70-grm-9yi7dw",

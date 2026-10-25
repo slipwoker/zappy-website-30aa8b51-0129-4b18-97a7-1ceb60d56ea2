@@ -73,7 +73,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 243** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 244** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### WIGGLE דגים מיובשים 50 גרם 
+https://gurimbakfar.co.il/product/wiggle-dgym-myvbshym-50-grm-s6da5k
+- Price: 19.00 ILS
+- Availability: In stock
+- Category: חטיפים טבעיים
+- Brand: WIGGLE
+- Description: חטיפי הדגים המיובשים של המותג Wiggle (וויגל) הם חטיפים טבעיים לכלבים, העשויים מ-100% רכיבים טבעיים.
+- Image: https://gurimbakfar.co.il/assets/product-ai-fit-1792916636118-qb8hrs.webp
 
 ### WIGGLE אוזן בופאלו 70 גרם
 https://gurimbakfar.co.il/product/wiggle-avzn-bvpalv-70-grm-9yi7dw
@@ -1629,13 +1638,6 @@ https://gurimbakfar.co.il/product/mbrsht-freedog-ip8x9x
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449317230-uuzxmq.webp
-
-### כדור משחק אלסטי
-https://gurimbakfar.co.il/product/kdvr-mshchk-alsty-gauldp
-- Price: 30.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449405837-ddn8wk.webp
 
 ---
 
