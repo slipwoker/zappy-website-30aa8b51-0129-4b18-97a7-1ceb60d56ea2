@@ -1,10 +1,38 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-25T07:30:44.026Z",
+  "generated_at": "2026-10-25T07:41:16.429Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 241,
+  "count": 242,
   "products": [
+    {
+      "id": "25b5474c-e1ea-4067-909e-42d4d3f489ce",
+      "slug": "wiggle-tsmvt-avr-bvpalv-100-gr-qfrbi6",
+      "name": "WIGGLE  'צמות עור בופאלו 100 גר ",
+      "name_translations": {
+        "en": "WIGGLE Buffalo Hide Braids 100g",
+        "he": "WIGGLE  'צמות עור בופאלו 100 גר ",
+        "ru": "WIGGLE Косички из кожи буйвола 100 г"
+      },
+      "description": "",
+      "short_description": "צמות עור בופאלו של מותג וויגל (WIGGLE) הם חטיפי לעיסה טבעיים לכלבים המיוצרים מ-100% עור בופאלו מיובש בייבוש איטי.",
+      "sku": null,
+      "brand": null,
+      "price": 25,
+      "base_price": 25,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1792913938090-3y6lw7.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/wiggle-tsmvt-avr-bvpalv-100-gr-qfrbi6",
+      "categories": [
+        "עצמות לעיסה"
+      ],
+      "updated_at": "2026-10-25T07:40:44.079Z"
+    },
     {
       "id": "f947e500-5d33-4ad6-90d6-22e96f69276c",
       "slug": "wiggle-tsmvt-bvlystyk-90-gr-v0tl8h",
