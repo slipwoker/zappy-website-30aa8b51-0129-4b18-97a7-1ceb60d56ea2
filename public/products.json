@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-25T09:27:20.954Z",
+  "generated_at": "2026-10-25T09:39:08.931Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 245,
@@ -31,7 +31,7 @@
       "categories": [
         "עצמות לעיסה"
       ],
-      "updated_at": "2026-10-25T08:39:58.414Z"
+      "updated_at": "2026-10-25T09:38:32.749Z"
     },
     {
       "id": "ede4b2cd-fa16-414e-b8e6-6533fe4f681a",
@@ -339,7 +339,7 @@
       "categories": [
         "חטיפים טבעיים"
       ],
-      "updated_at": "2026-10-12T19:54:58.540Z"
+      "updated_at": "2026-10-25T09:38:32.481Z"
     },
     {
       "id": "e7fb8730-4e3e-4881-ad3c-bce9d2590593",
@@ -367,7 +367,7 @@
       "categories": [
         "חטיפים טבעיים"
       ],
-      "updated_at": "2026-10-12T19:54:41.372Z"
+      "updated_at": "2026-10-25T09:38:32.613Z"
     },
     {
       "id": "b00ed022-3848-42cd-8766-a42e4afca0be",
@@ -4497,7 +4497,7 @@
       "categories": [
         "מזון יבש"
       ],
-      "updated_at": "2026-10-23T11:53:03.717Z"
+      "updated_at": "2026-10-25T09:38:32.883Z"
     },
     {
       "id": "5db5f8ee-b761-4340-a8d7-79e4f8150727",
@@ -6881,13 +6881,13 @@
       "images": [
         "https://gurimbakfar.co.il/assets/product-enhanced-1781076341784-1vqbkb.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://gurimbakfar.co.il/product/hnrys-kvbyvt-slmvn-hb8g8r",
       "categories": [
         "חטיפים טבעיים"
       ],
-      "updated_at": "2026-10-11T17:14:26.998Z"
+      "updated_at": "2026-10-25T09:38:31.318Z"
     },
     {
       "id": "735cafa9-ff65-4972-9912-0bfb59a5ab07",
