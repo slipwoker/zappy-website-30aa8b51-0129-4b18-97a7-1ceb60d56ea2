@@ -1,10 +1,36 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-25T08:00:32.414Z",
+  "generated_at": "2026-10-25T08:02:42.637Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 242,
+  "count": 243,
   "products": [
+    {
+      "id": "0e5b1c58-d0f0-4e83-b74a-c8a91a4bd920",
+      "slug": "wiggle-avzn-bvpalv-70-grm-185iqd",
+      "name": "WIGGLE אוזן בופאלו 70 גרם",
+      "name_translations": {
+        "en": "WIGGLE Buffalo Ear 70g",
+        "he": "WIGGLE אוזן בופאלו 70 גרם",
+        "ru": "WIGGLE ухо буйвола 70 грамм"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": "WIGGLE",
+      "price": 25,
+      "base_price": 25,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/wiggle-avzn-bvpalv-70-grm-185iqd",
+      "categories": [
+        "עצמות לעיסה"
+      ],
+      "updated_at": "2026-10-25T08:02:07.488Z"
+    },
     {
       "id": "25b5474c-e1ea-4067-909e-42d4d3f489ce",
       "slug": "wiggle-tsmvt-avr-bvpalv-100-grm-s8hwq1",
