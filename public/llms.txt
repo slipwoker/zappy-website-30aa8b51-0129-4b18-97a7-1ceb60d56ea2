@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 247** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 248** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### קולר ניילון חגורה 2 אבזמים 5*75 ס"מ
+https://gurimbakfar.co.il/product/kvlr-nyylvn-chgvrh-2-abzmym-575-sm-9xcy20
+- Price: 75.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+- Image: https://gurimbakfar.co.il/assets/product-1793186293628-u2jyoe.webp
 
 ### קולר ניילון חגורה 2 אבזמים 4*70 ס"מ
 https://gurimbakfar.co.il/product/kvlr-nyylvn-chgvrh-2-abzmym-470-sm-6cwkne
@@ -1635,13 +1642,6 @@ https://gurimbakfar.co.il/product/arkt-tschtsvch-shynyym-lklbym-kvll-mshchh-mbrs
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449239449-isaixh.webp
-
-### סט צעצועי לעיסה לכלב 4 חלקים צבע ורוד
-https://gurimbakfar.co.il/product/st-tsatsvay-laysh-lklb-4-chlkym-tsba-vrvd-4x70r9
-- Price: 30.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781451482646-42qbvf.webp
 
 ---
 
