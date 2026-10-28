@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-28T09:16:59.816Z",
+  "generated_at": "2026-10-28T09:31:08.861Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 245,
@@ -794,14 +794,14 @@
     },
     {
       "id": "ce699fbd-1df5-4ba5-b51c-6db478d7cc7d",
-      "slug": "kvlr-chgvrh-lklb-gdvl-m3sbrd",
-      "name": "קולר חגורה לכלב גדול",
+      "slug": "kvlr-chgvrh-lklb-gdvl-mydvt-480-sm-wjb9x9",
+      "name": "קולר חגורה לכלב גדול מידות 4*80 ס\"מ",
       "name_translations": {
-        "en": "Belt Collar for Large Dog",
-        "he": "קולר חגורה לכלב גדול",
-        "ru": "Ошейник-пояс для большой собаки"
+        "en": "Belt Collar for Large Dog Sizes 4*80 cm",
+        "he": "קולר חגורה לכלב גדול מידות 4*80 ס\"מ",
+        "ru": "Ошейник-ремень для большой собаки размер 4*80 см"
       },
-      "description": "<p>רוחב 45 מ\"מ</p><p>היקף מינימלי 61 ס\"מ</p><p>היקף מקסימלי 70 ס\"מ</p>",
+      "description": "<p>רוחב 45 מ&quot;מ</p><p>היקף מינימלי 61 ס&quot;מ</p><p>היקף מקסימלי 70 ס&quot;מ</p>",
       "short_description": "קולר המתאים לכלבים מגזעים גדולים",
       "sku": "PR-1045",
       "brand": "PRODUCT PELEG",
@@ -816,11 +816,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kvlr-chgvrh-lklb-gdvl-m3sbrd",
+      "url": "https://gurimbakfar.co.il/product/kvlr-chgvrh-lklb-gdvl-mydvt-480-sm-wjb9x9",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-20T16:30:00.146Z"
+      "updated_at": "2026-10-28T09:30:34.568Z"
     },
     {
       "id": "06a8a4d7-6c8f-403c-8f78-183989a091ec",
