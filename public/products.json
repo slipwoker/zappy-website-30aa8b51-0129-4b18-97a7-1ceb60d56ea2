@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-28T10:09:52.694Z",
+  "generated_at": "2026-10-28T10:10:47.525Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 245,
@@ -794,15 +794,15 @@
     },
     {
       "id": "ce699fbd-1df5-4ba5-b51c-6db478d7cc7d",
-      "slug": "kvlr-nyylvn-chgvrh-lklb-gdvl-mydvt-478-sm-75wbng",
+      "slug": "kvlr-nyylvn-chgvrh-lklb-gdvl-mydvt-478-sm-gypjic",
       "name": "קולר ניילון חגורה לכלב גדול  מידות 4*78 ס\"מ",
       "name_translations": {
         "en": "Nylon Belt Collar for Large Dog - Size 4*78 cm",
         "he": "קולר ניילון חגורה לכלב גדול  מידות 4*78 ס\"מ",
-        "ru": "Нейлоновый ошейник-ремень для большой собаки, размер 4*78 см"
+        "ru": "Нейлоновый ошейник-ремень для крупной собаки, размер 4*78 см"
       },
       "description": "<p>רוחב 45 מ&quot;מ</p><p>היקף מינימלי 61 ס&quot;מ</p><p>היקף מקסימלי 70 ס&quot;מ</p>",
-      "short_description": "קולר חזק במיוחד המתאים לכלבים מגזעים גדולים.\nמידות : 4*80 ס\"מ\n",
+      "short_description": "קולר חזק במיוחד בעל אבזם אחד המתאים לכלבים מגזעים גדולים. \nמידות : 4*78 סמ \n",
       "sku": "PR-1045",
       "brand": "PRODUCT PELEG",
       "price": 65,
@@ -816,11 +816,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kvlr-nyylvn-chgvrh-lklb-gdvl-mydvt-478-sm-75wbng",
+      "url": "https://gurimbakfar.co.il/product/kvlr-nyylvn-chgvrh-lklb-gdvl-mydvt-478-sm-gypjic",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-10-28T10:09:18.771Z"
+      "updated_at": "2026-10-28T10:10:15.755Z"
     },
     {
       "id": "06a8a4d7-6c8f-403c-8f78-183989a091ec",
