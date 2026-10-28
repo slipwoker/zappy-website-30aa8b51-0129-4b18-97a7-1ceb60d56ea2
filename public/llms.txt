@@ -73,7 +73,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 251** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 252** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### WIGGLE פרסות בופאלו
+https://gurimbakfar.co.il/product/wiggle-prsvt-bvpalv-1ivp5z
+- Price: 21.00 ILS
+- Availability: In stock
+- Category: עצמות לעיסה
+- Description: פרסת בופאלו של וויגל (Wiggle) היא חטיף לעיסה טבעי לכלבים העשוי מ-100% בופאלו מיובש, ללא תוספות, חומרים משמרים או צבעי מאכל.
+- Image: https://gurimbakfar.co.il/assets/product-ai-fit-1793204239375-qw0vd8.webp
 
 ### קליקר לאילוף כלבים
 https://gurimbakfar.co.il/product/klykr-laylvp-klbym-nhpr2a
@@ -1640,14 +1648,6 @@ https://gurimbakfar.co.il/product/kdvr-dntly-am-chbl-r40ega
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1782207805344-g4fzh7h.webp
-
-### הנריס גרונות עוף
-https://gurimbakfar.co.il/product/hnrys-grvnvt-avp-fkyj74
-- Price: 26.00 ILS
-- Availability: In stock
-- Category: חטיפים טבעיים
-- Description: גרונות עוף 100% טבעי וללא תוספים מלאכותיים – חטיף בריא, טעים וללא חומרים משמרים. דל שומן, עשיר בחלבון וקל לעיכול.
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1782207242082-g9mbh.webp
 
 ---
 

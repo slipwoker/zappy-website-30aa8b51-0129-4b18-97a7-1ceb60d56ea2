@@ -1,10 +1,38 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-28T16:11:43.301Z",
+  "generated_at": "2026-10-28T16:18:27.194Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 251,
+  "count": 252,
   "products": [
+    {
+      "id": "e276443b-fd9f-45dc-9195-385589a560d9",
+      "slug": "wiggle-prsvt-bvpalv-1ivp5z",
+      "name": "WIGGLE פרסות בופאלו",
+      "name_translations": {
+        "en": "WIGGLE Buffalo Hooves",
+        "he": "WIGGLE פרסות בופאלו",
+        "ru": "WIGGLE копыта буйвола"
+      },
+      "description": "",
+      "short_description": "פרסת בופאלו של וויגל (Wiggle) היא חטיף לעיסה טבעי לכלבים העשוי מ-100% בופאלו מיובש, ללא תוספות, חומרים משמרים או צבעי מאכל.",
+      "sku": null,
+      "brand": null,
+      "price": 21,
+      "base_price": 21,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1793204239375-qw0vd8.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/wiggle-prsvt-bvpalv-1ivp5z",
+      "categories": [
+        "עצמות לעיסה"
+      ],
+      "updated_at": "2026-10-28T16:17:52.089Z"
+    },
     {
       "id": "89e27089-0dfe-4ad8-8c1d-8beb0bf7bfdd",
       "slug": "klykr-laylvp-klbym-nhpr2a",
