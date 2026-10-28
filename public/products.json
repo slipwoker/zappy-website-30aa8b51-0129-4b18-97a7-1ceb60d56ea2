@@ -1,10 +1,43 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-28T11:23:30.198Z",
+  "generated_at": "2026-10-28T12:02:26.690Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 248,
+  "count": 249,
   "products": [
+    {
+      "id": "a9e67fbd-9fe6-4d7d-ab63-5d35216fafb3",
+      "slug": "kvlr-tkty-lklb-rkqpuz",
+      "name": "קולר טקטי לכלב",
+      "name_translations": {
+        "en": "Tactical Dog Collar",
+        "he": "קולר טקטי לכלב",
+        "ru": "Тактический ошейник для собак"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1793188664520-6ny9p.webp",
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1793188690594-jegrlp.webp",
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1793188728034-wv2tmi.webp",
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1793188798604-uhjmno.webp",
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1793188828111-76cb7q.webp",
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1793188856855-bkkmhl.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/kvlr-tkty-lklb-rkqpuz",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-10-28T12:02:15.124Z"
+    },
     {
       "id": "a66a469a-bed6-4cdd-8536-3cada29fed97",
       "slug": "kvlr-nyylvn-chgvrh-2-abzmym-575-sm-ovgxi5",

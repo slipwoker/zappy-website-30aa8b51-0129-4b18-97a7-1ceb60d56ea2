@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 248** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 249** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### קולר טקטי לכלב
+https://gurimbakfar.co.il/product/kvlr-tkty-lklb-rkqpuz
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+- Image: https://gurimbakfar.co.il/assets/product-ai-fit-1793188664520-6ny9p.webp
 
 ### קולר ניילון חגורה 2 אבזמים 5*75 ס"מ
 https://gurimbakfar.co.il/product/kvlr-nyylvn-chgvrh-2-abzmym-575-sm-ovgxi5
@@ -1638,13 +1645,6 @@ https://gurimbakfar.co.il/product/tsatsva-pryzby-lklbym-tsbay-pstl-m61xmb
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1782206300223-agal8.webp
-
-### ערכת צחצוח שיניים לכלבים כולל משחה, מברשת ואצבעון
-https://gurimbakfar.co.il/product/arkt-tschtsvch-shynyym-lklbym-kvll-mshchh-mbrsht-vatsbavn-q70cyp
-- Price: 35.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449239449-isaixh.webp
 
 ---
 
