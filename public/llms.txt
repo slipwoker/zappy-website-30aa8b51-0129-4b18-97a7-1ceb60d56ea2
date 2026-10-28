@@ -73,7 +73,13 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 246** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 247** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### קולר ניילון חגורה 2 אבזמים 4*70 ס"מ
+https://gurimbakfar.co.il/product/kvlr-nyylvn-chgvrh-2-abzmym-470-sm-8x3uhj
+- Price: 75.00 ILS
+- Availability: In stock
+- Description: קולר ניילון חגורה חזק במיוחד , לכלבים גדולים מידות : אורך 70 ס"מ רוחב 4 ס"מ
 
 ### קולר ניילון חגורה 2 אבזמים 4*77 ס"מ
 https://gurimbakfar.co.il/product/kvlr-nyylvn-chgvrh-2-abzmym-477-sm-tpno58
@@ -1634,13 +1640,6 @@ https://gurimbakfar.co.il/product/st-tsatsvay-laysh-lklb-4-chlkym-tsba-vrvd-4x70
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1781451482646-42qbvf.webp
-
-### מזרקת מים חיצונית 1.4 ליטר Petstar
-https://gurimbakfar.co.il/product/mzrkt-mym-chytsvnyt-14-lytr-petstar-p8737h
-- Price: 85.00 ILS
-- Availability: Out of stock
-- Category: כלי אוכל ושתייה
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1780898660548-exsfsp.webp
 
 ---
 
