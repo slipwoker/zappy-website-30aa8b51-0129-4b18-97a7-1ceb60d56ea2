@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-25T09:39:08.931Z",
+  "generated_at": "2026-10-28T09:15:37.440Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 245,
@@ -764,12 +764,12 @@
     },
     {
       "id": "2b158e86-511f-49f6-bd82-929a7edf3356",
-      "slug": "kvlr-chgvrh-lklb-gdvl-j894yz",
-      "name": "קולר חגורה לכלב גדול",
+      "slug": "kvlr-chgvrh-lklb-gdvl-mydvt-5-75-sm-6i2kdk",
+      "name": "קולר חגורה לכלב גדול מידות 5 * 75 סמ ",
       "name_translations": {
-        "en": "Belt Collar for Large Dog",
-        "he": "קולר חגורה לכלב גדול",
-        "ru": "Ошейник-пояс для большой собаки"
+        "en": "Belt Collar for Large Dog Size 5 * 75 cm",
+        "he": "קולר חגורה לכלב גדול מידות 5 * 75 סמ ",
+        "ru": "Ошейник-пояс для большой собаки размер 5 * 75 см"
       },
       "description": "",
       "short_description": null,
@@ -786,11 +786,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kvlr-chgvrh-lklb-gdvl-j894yz",
+      "url": "https://gurimbakfar.co.il/product/kvlr-chgvrh-lklb-gdvl-mydvt-5-75-sm-6i2kdk",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-20T15:58:15.025Z"
+      "updated_at": "2026-10-28T09:15:02.666Z"
     },
     {
       "id": "ce699fbd-1df5-4ba5-b51c-6db478d7cc7d",
