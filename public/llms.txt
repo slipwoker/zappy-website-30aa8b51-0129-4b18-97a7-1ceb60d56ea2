@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 245** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 246** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### קולר ניילון חגורה 2 אבזמים 4*77 ס"מ
+https://gurimbakfar.co.il/product/kvlr-nyylvn-chgvrh-2-abzmym-477-sm-ogs1nd
+- Price: 75.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+- Image: https://gurimbakfar.co.il/assets/product-1793184171224-cuxfwj.webp
 
 ### WIGGLE רול בופאלו 180 גרם
 https://gurimbakfar.co.il/product/wiggle-rvl-bvpalv-180-grm-9qluhl
@@ -1633,13 +1640,6 @@ https://gurimbakfar.co.il/product/mzrkt-mym-chytsvnyt-14-lytr-petstar-p8737h
 - Availability: Out of stock
 - Category: כלי אוכל ושתייה
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1780898660548-exsfsp.webp
-
-### מברשת אוניברסלית קשה אדומה
-https://gurimbakfar.co.il/product/mbrsht-avnybrslyt-kshh-advmh-hylkbr
-- Price: 65.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1781449364410-36grpk.webp
 
 ---
 

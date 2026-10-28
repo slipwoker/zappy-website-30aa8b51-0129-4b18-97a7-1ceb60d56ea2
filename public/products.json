@@ -1,10 +1,38 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-28T10:42:03.339Z",
+  "generated_at": "2026-10-28T10:45:28.774Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 245,
+  "count": 246,
   "products": [
+    {
+      "id": "7aba5e30-40ee-4b5e-85b2-f9aad953168f",
+      "slug": "kvlr-nyylvn-chgvrh-2-abzmym-477-sm-ogs1nd",
+      "name": "קולר ניילון חגורה 2 אבזמים 4*77 ס\"מ",
+      "name_translations": {
+        "en": "Nylon Belt Collar 2 Buckles 4*77 cm",
+        "he": "קולר ניילון חגורה 2 אבזמים 4*77 ס\"מ",
+        "ru": "Ошейник нейлоновый с ремнём 2 пряжки 4*77 см"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 75,
+      "base_price": 75,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-1793184171224-cuxfwj.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/kvlr-nyylvn-chgvrh-2-abzmym-477-sm-ogs1nd",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-10-28T10:44:55.217Z"
+    },
     {
       "id": "99a6a346-9d6b-4bf3-9ce3-e47824579704",
       "slug": "wiggle-rvl-bvpalv-180-grm-9qluhl",
