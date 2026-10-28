@@ -7488,7 +7488,7 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### קולר טקטי לכלב
-URL: https://gurimbakfar.co.il/product/kvlr-tkty-lklb-rkqpuz
+URL: https://gurimbakfar.co.il/product/kvlr-tkty-lklb-xiy4f5
 Price: 0.00 ILS
 Availability: In stock
 
