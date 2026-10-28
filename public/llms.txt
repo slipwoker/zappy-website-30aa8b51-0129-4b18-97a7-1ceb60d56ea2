@@ -76,11 +76,12 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 247** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### קולר ניילון חגורה 2 אבזמים 4*70 ס"מ
-https://gurimbakfar.co.il/product/kvlr-nyylvn-chgvrh-2-abzmym-470-sm-3ny6cw
+https://gurimbakfar.co.il/product/kvlr-nyylvn-chgvrh-2-abzmym-470-sm-6cwkne
 - Price: 75.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 - Description: קולר ניילון חגורה חזק במיוחד , לכלבים גדולים מידות : אורך 70 ס"מ רוחב 4 ס"מ
+- Image: https://gurimbakfar.co.il/assets/product-1793186193828-c4y42c.webp
 
 ### קולר ניילון חגורה 2 אבזמים 4*77 ס"מ
 https://gurimbakfar.co.il/product/kvlr-nyylvn-chgvrh-2-abzmym-477-sm-tpno58
