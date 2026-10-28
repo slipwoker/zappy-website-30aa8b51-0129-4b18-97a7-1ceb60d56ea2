@@ -76,10 +76,12 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 248** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### קולר ניילון חגורה 2 אבזמים 5*75 ס"מ
-https://gurimbakfar.co.il/product/kvlr-nyylvn-chgvrh-2-abzmym-575-sm-9xcy20
+https://gurimbakfar.co.il/product/kvlr-nyylvn-chgvrh-2-abzmym-575-sm-ovgxi5
 - Price: 75.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
+- Brand: JOHNDEERE
+- Description: קולר ניילון חגורה חזק במיוחד , לכלבים גדולים מידות : אורך 75 ס"מ רוחב 5 ס"מ
 - Image: https://gurimbakfar.co.il/assets/product-1793186293628-u2jyoe.webp
 
 ### קולר ניילון חגורה 2 אבזמים 4*70 ס"מ

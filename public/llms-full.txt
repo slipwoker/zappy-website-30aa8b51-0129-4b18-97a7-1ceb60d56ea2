@@ -7488,9 +7488,10 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### קולר ניילון חגורה 2 אבזמים 5*75 ס"מ
-URL: https://gurimbakfar.co.il/product/kvlr-nyylvn-chgvrh-2-abzmym-575-sm-9xcy20
+URL: https://gurimbakfar.co.il/product/kvlr-nyylvn-chgvrh-2-abzmym-575-sm-ovgxi5
 Price: 75.00 ILS
 Availability: In stock
+Brand: JOHNDEERE
 
 ---
 

@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-28T11:19:29.728Z",
+  "generated_at": "2026-10-28T11:20:24.524Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 248,
   "products": [
     {
       "id": "a66a469a-bed6-4cdd-8536-3cada29fed97",
-      "slug": "kvlr-nyylvn-chgvrh-2-abzmym-575-sm-9xcy20",
+      "slug": "kvlr-nyylvn-chgvrh-2-abzmym-575-sm-ovgxi5",
       "name": "קולר ניילון חגורה 2 אבזמים 5*75 ס\"מ",
       "name_translations": {
         "en": "Nylon Belt Collar 2 Buckles 5*75 cm",
@@ -15,9 +15,9 @@
         "ru": "Ошейник нейлоновый ременной 2 пряжки 5*75 см"
       },
       "description": "",
-      "short_description": null,
+      "short_description": "קולר ניילון חגורה חזק במיוחד , לכלבים גדולים\nמידות : \nאורך 75 ס\"מ\nרוחב 5 ס\"מ",
       "sku": null,
-      "brand": null,
+      "brand": "JOHNDEERE",
       "price": 75,
       "base_price": 75,
       "sale_price": null,
@@ -29,11 +29,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kvlr-nyylvn-chgvrh-2-abzmym-575-sm-9xcy20",
+      "url": "https://gurimbakfar.co.il/product/kvlr-nyylvn-chgvrh-2-abzmym-575-sm-ovgxi5",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-10-28T11:18:54.982Z"
+      "updated_at": "2026-10-28T11:20:23.958Z"
     },
     {
       "id": "9d08d9dd-1b1b-4961-b52e-7b9c85a61c61",
