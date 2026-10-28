@@ -76,10 +76,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 249** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### קולר טקטי לכלב עם ידית אחיזה
-https://gurimbakfar.co.il/product/kvlr-tkty-lklb-am-ydyt-achyzh-vjcf7b
+https://gurimbakfar.co.il/product/kvlr-tkty-lklb-am-ydyt-achyzh-49vpu1
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
+- Description: קולר טקטי לכלב מיועד להעניק שליטה מקסימלית, עמידות יוצאת דופן ובטיחות מוגברת, הוא מבוסס על עיצובים המשמשים כלבי עבודה בצבא ובמשטרה. קולרים אלו מתאימים במיוחד לכלבים בינוניים וגדולים, לכלבי עבודה, או לכלבים בעלי נטייה למשוך חזק ברצועה.
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1793188664520-6ny9p.webp
 
 ### קולר ניילון חגורה 2 אבזמים 5*75 ס"מ
