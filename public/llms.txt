@@ -73,7 +73,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 250** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 251** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### קליקר לאילוף כלבים
+https://gurimbakfar.co.il/product/klykr-laylvp-klbym-nhpr2a
+- Price: 17.00 ILS
+- Availability: In stock
+- Category: ציוד
+- Description: קליקר לאילוף כלבים הוא אביזר קטן עם לשונית מתכת שמשמיע צליל "קליק" חד וברור, ומשמש ככלי סמן ליצירת התניה חיובית
+- Image: https://gurimbakfar.co.il/assets/product-ai-fit-1793203699648-2a8maw.webp
 
 ### מיקס חטיפים לכלב
 https://gurimbakfar.co.il/product/myks-chtypym-lklb-ect438
@@ -1640,13 +1648,6 @@ https://gurimbakfar.co.il/product/hnrys-grvnvt-avp-fkyj74
 - Category: חטיפים טבעיים
 - Description: גרונות עוף 100% טבעי וללא תוספים מלאכותיים – חטיף בריא, טעים וללא חומרים משמרים. דל שומן, עשיר בחלבון וקל לעיכול.
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1782207242082-g9mbh.webp
-
-### מברשת אובלית גדולה רקורד
-https://gurimbakfar.co.il/product/mbrsht-avblyt-gdvlh-rkvrd-arwmvw
-- Price: 65.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1782206596414-a1xsdh.webp
 
 ---
 

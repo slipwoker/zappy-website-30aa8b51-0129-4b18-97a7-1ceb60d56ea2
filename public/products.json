@@ -1,10 +1,38 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-28T14:50:10.928Z",
+  "generated_at": "2026-10-28T16:11:19.096Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 250,
+  "count": 251,
   "products": [
+    {
+      "id": "89e27089-0dfe-4ad8-8c1d-8beb0bf7bfdd",
+      "slug": "klykr-laylvp-klbym-nhpr2a",
+      "name": "קליקר לאילוף כלבים",
+      "name_translations": {
+        "en": "Dog Training Clicker",
+        "he": "קליקר לאילוף כלבים",
+        "ru": "Кликер для дрессировки собак"
+      },
+      "description": "",
+      "short_description": "קליקר לאילוף כלבים הוא אביזר קטן עם לשונית מתכת שמשמיע צליל \"קליק\" חד וברור, ומשמש ככלי סמן ליצירת התניה חיובית",
+      "sku": null,
+      "brand": null,
+      "price": 17,
+      "base_price": 17,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1793203699648-2a8maw.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/klykr-laylvp-klbym-nhpr2a",
+      "categories": [
+        "ציוד"
+      ],
+      "updated_at": "2026-10-28T16:11:07.178Z"
+    },
     {
       "id": "fc106218-58ba-4431-939a-a6920be3bc8e",
       "slug": "myks-chtypym-lklb-ect438",
