@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-28T10:10:47.525Z",
+  "generated_at": "2026-10-28T10:22:02.965Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 245,
@@ -794,15 +794,15 @@
     },
     {
       "id": "ce699fbd-1df5-4ba5-b51c-6db478d7cc7d",
-      "slug": "kvlr-nyylvn-chgvrh-lklb-gdvl-mydvt-478-sm-gypjic",
-      "name": "קולר ניילון חגורה לכלב גדול  מידות 4*78 ס\"מ",
+      "slug": "kvlr-nyylvn-chgvrh-lklb-gdvl-mydvt-480-sm-05v36q",
+      "name": "קולר ניילון חגורה לכלב גדול  מידות 4*80 ס\"מ",
       "name_translations": {
-        "en": "Nylon Belt Collar for Large Dog - Size 4*78 cm",
-        "he": "קולר ניילון חגורה לכלב גדול  מידות 4*78 ס\"מ",
-        "ru": "Нейлоновый ошейник-ремень для крупной собаки, размер 4*78 см"
+        "en": "Nylon Belt Collar for Large Dog - Size 4*80 cm",
+        "he": "קולר ניילון חגורה לכלב גדול  מידות 4*80 ס\"מ",
+        "ru": "Нейлоновый ошейник-ремень для большой собаки, размер 4*80 см"
       },
       "description": "<p>רוחב 45 מ&quot;מ</p><p>היקף מינימלי 61 ס&quot;מ</p><p>היקף מקסימלי 70 ס&quot;מ</p>",
-      "short_description": "קולר חזק במיוחד בעל אבזם אחד המתאים לכלבים מגזעים גדולים. \nמידות : 4*78 סמ \n",
+      "short_description": "קולר חזק במיוחד בעל אבזם אחד המתאים לכלבים מגזעים גדולים. \nמידות : 4*80 ס\"מ\n",
       "sku": "PR-1045",
       "brand": "PRODUCT PELEG",
       "price": 65,
@@ -810,17 +810,17 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://gurimbakfar.co.il/assets/product-ai-fit-1784564899964-w3ys94.webp",
-        "https://gurimbakfar.co.il/assets/product-ai-fit-1784554320632-66k82n.webp",
-        "https://gurimbakfar.co.il/assets/product-ai-fit-1784554372165-dhcm3i.webp"
+        "https://gurimbakfar.co.il/assets/product-1793182796156-3ip9rn.webp",
+        "https://gurimbakfar.co.il/assets/product-1793182804687-41aoy.webp",
+        "https://gurimbakfar.co.il/assets/product-1793182812140-khijvm.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kvlr-nyylvn-chgvrh-lklb-gdvl-mydvt-478-sm-gypjic",
+      "url": "https://gurimbakfar.co.il/product/kvlr-nyylvn-chgvrh-lklb-gdvl-mydvt-480-sm-05v36q",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-10-28T10:10:15.755Z"
+      "updated_at": "2026-10-28T10:21:01.962Z"
     },
     {
       "id": "06a8a4d7-6c8f-403c-8f78-183989a091ec",
