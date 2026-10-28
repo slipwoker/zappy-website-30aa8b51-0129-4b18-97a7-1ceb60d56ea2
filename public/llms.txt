@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 252** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 253** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### בולי סטיק אריזת חיסכון 250 גרם
+https://gurimbakfar.co.il/product/bvly-styk-aryzt-chyskvn-250-grm-7grc4a
+- Price: 130.00 ILS
+- Availability: In stock
+- Category: עצמות לעיסה
+- Image: https://gurimbakfar.co.il/assets/product-ai-fit-1793205069640-gzu79.webp
 
 ### WIGGLE פרסות בופאלו
 https://gurimbakfar.co.il/product/wiggle-prsvt-bvpalv-jo9klq
@@ -1641,13 +1648,6 @@ https://gurimbakfar.co.il/product/shmpv-petglow-f4ozj3
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1780898271084-4ekxi.webp
-
-### כדור דנטלי עם חבל
-https://gurimbakfar.co.il/product/kdvr-dntly-am-chbl-r40ega
-- Price: 35.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1782207805344-g4fzh7h.webp
 
 ---
 

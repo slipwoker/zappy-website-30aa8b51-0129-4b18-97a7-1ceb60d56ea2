@@ -1,10 +1,38 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-28T16:19:27.026Z",
+  "generated_at": "2026-10-28T16:32:37.482Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
-  "count": 252,
+  "count": 253,
   "products": [
+    {
+      "id": "029d029b-009b-4b8f-abe7-e9ced32f36ff",
+      "slug": "bvly-styk-aryzt-chyskvn-250-grm-7grc4a",
+      "name": "בולי סטיק אריזת חיסכון 250 גרם",
+      "name_translations": {
+        "en": "Bully Stick Value Pack 250g",
+        "he": "בולי סטיק אריזת חיסכון 250 גרם",
+        "ru": "Булли стик экономичная упаковка 250 грамм"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 130,
+      "base_price": 130,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://gurimbakfar.co.il/assets/product-ai-fit-1793205069640-gzu79.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/bvly-styk-aryzt-chyskvn-250-grm-7grc4a",
+      "categories": [
+        "עצמות לעיסה"
+      ],
+      "updated_at": "2026-10-28T16:31:41.709Z"
+    },
     {
       "id": "e276443b-fd9f-45dc-9195-385589a560d9",
       "slug": "wiggle-prsvt-bvpalv-jo9klq",
