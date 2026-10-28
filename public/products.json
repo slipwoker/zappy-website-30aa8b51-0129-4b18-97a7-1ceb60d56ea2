@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-28T11:20:24.524Z",
+  "generated_at": "2026-10-28T11:21:09.759Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 248,
@@ -33,11 +33,11 @@
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-10-28T11:20:23.958Z"
+      "updated_at": "2026-10-28T11:20:37.381Z"
     },
     {
       "id": "9d08d9dd-1b1b-4961-b52e-7b9c85a61c61",
-      "slug": "kvlr-nyylvn-chgvrh-2-abzmym-470-sm-6cwkne",
+      "slug": "kvlr-nyylvn-chgvrh-2-abzmym-470-sm-345dj6",
       "name": "קולר ניילון חגורה 2 אבזמים 4*70 ס\"מ",
       "name_translations": {
         "en": "Nylon Belt Collar 2 Buckles 4*70 cm",
@@ -47,7 +47,7 @@
       "description": "",
       "short_description": "קולר ניילון חגורה חזק במיוחד , לכלבים גדולים\nמידות : \nאורך 70 ס\"מ\nרוחב 4 ס\"מ",
       "sku": null,
-      "brand": null,
+      "brand": "JOHNDEERE",
       "price": 75,
       "base_price": 75,
       "sale_price": null,
@@ -58,11 +58,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kvlr-nyylvn-chgvrh-2-abzmym-470-sm-6cwkne",
+      "url": "https://gurimbakfar.co.il/product/kvlr-nyylvn-chgvrh-2-abzmym-470-sm-345dj6",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-10-28T11:17:10.006Z"
+      "updated_at": "2026-10-28T11:21:06.788Z"
     },
     {
       "id": "7aba5e30-40ee-4b5e-85b2-f9aad953168f",
