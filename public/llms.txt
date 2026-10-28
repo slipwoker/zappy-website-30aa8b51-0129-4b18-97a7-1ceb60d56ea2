@@ -73,7 +73,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 249** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+**Total active products: 250** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
+
+### מיקס חטיפים לכלב
+https://gurimbakfar.co.il/product/myks-chtypym-lklb-ect438
+- Price: 16.00 ILS
+- Availability: In stock
+- Category: חטיפים
+- Description: מיקס חטיפים לכלב, צ'ופר, דנטלי, לעיסה ועוד משקל כ 160 גרם
+- Image: https://gurimbakfar.co.il/assets/product-ai-fit-1793198794251-44r56n.webp
 
 ### קולר טקטי לכלב עם ידית אחיזה
 https://gurimbakfar.co.il/product/kvlr-tkty-lklb-am-ydyt-achyzh-efzyd8
@@ -1639,13 +1647,6 @@ https://gurimbakfar.co.il/product/mbrsht-avblyt-gdvlh-rkvrd-arwmvw
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.co.il/assets/product-enhanced-1782206596414-a1xsdh.webp
-
-### צעצוע פריזבי לכלבים צבעי פסטל
-https://gurimbakfar.co.il/product/tsatsva-pryzby-lklbym-tsbay-pstl-m61xmb
-- Price: 30.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.co.il/assets/product-enhanced-1782206300223-agal8.webp
 
 ---
 
