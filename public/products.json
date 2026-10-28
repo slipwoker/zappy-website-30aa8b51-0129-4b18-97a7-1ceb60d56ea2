@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-28T12:11:56.246Z",
+  "generated_at": "2026-10-28T12:13:52.869Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 249,
   "products": [
     {
       "id": "a9e67fbd-9fe6-4d7d-ab63-5d35216fafb3",
-      "slug": "kvlr-tkty-lklb-am-ydyt-achyzh-83v4mq",
+      "slug": "kvlr-tkty-lklb-am-ydyt-achyzh-uel5pw",
       "name": "קולר טקטי לכלב עם ידית אחיזה",
       "name_translations": {
         "en": "Tactical Dog Collar with Handle",
@@ -32,11 +32,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kvlr-tkty-lklb-am-ydyt-achyzh-83v4mq",
+      "url": "https://gurimbakfar.co.il/product/kvlr-tkty-lklb-am-ydyt-achyzh-uel5pw",
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-10-28T12:11:21.718Z"
+      "updated_at": "2026-10-28T12:12:00.948Z"
     },
     {
       "id": "a66a469a-bed6-4cdd-8536-3cada29fed97",
