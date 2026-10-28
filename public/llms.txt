@@ -76,11 +76,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 252** (showing first 200; full catalog at https://gurimbakfar.co.il/products.json)
 
 ### WIGGLE פרסות בופאלו
-https://gurimbakfar.co.il/product/wiggle-prsvt-bvpalv-1ivp5z
+https://gurimbakfar.co.il/product/wiggle-prsvt-bvpalv-jo9klq
 - Price: 21.00 ILS
 - Availability: In stock
 - Category: עצמות לעיסה
-- Description: פרסת בופאלו של וויגל (Wiggle) היא חטיף לעיסה טבעי לכלבים העשוי מ-100% בופאלו מיובש, ללא תוספות, חומרים משמרים או צבעי מאכל.
+- Description: פרסת בופאלו של וויגל (Wiggle) היא חטיף לעיסה טבעי לכלבים העשוי מ-100% בופאלו מיובש, ללא תוספות, חומרים משמרים או צבעי מאכל. האריזה מכילה 3 יחידות
 - Image: https://gurimbakfar.co.il/assets/product-ai-fit-1793204239375-qw0vd8.webp
 
 ### קליקר לאילוף כלבים
