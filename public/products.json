@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-29T06:48:42.718Z",
+  "generated_at": "2026-10-29T07:36:42.682Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 253,
@@ -1224,12 +1224,12 @@
     },
     {
       "id": "d02028c5-495a-4a29-b6aa-6aa33ac38143",
-      "slug": "chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-2ma0at",
+      "slug": "chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-jw405a",
       "name": "חטיף נובלוס ברבקיו טיבון בקר 80 גר'",
       "name_translations": {
         "en": "Nobilus BBQ T-Bone Beef Snack 80g",
         "he": "חטיף נובלוס ברבקיו טיבון בקר 80 גר'",
-        "ru": "Лакомство Nobulus барбекю Тибон говядина 80 г"
+        "ru": "Лакомство Nobulus Барбекю Тибон говядина 80 гр'"
       },
       "description": "<p>רכיבים: בשר חזה עוף, תוצרי לוואי של בקר, בשר חזה ברווז, קמח חיטה, חלבון סויה, קמח, עמילן סויה, גליצרין, ויטמין C, נתרן EVC, שומן.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 28%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5%</li><li>לחות: מקסימום 18%</li></ul>",
       "short_description": "חטיף נובילוס (Nobilus) בטעם סטייק טיבון בקר / ברביקיו בקר במשקל 80 גרם הוא חטיף אולטרה-פרימיום איכותי וטעים המיועד לכלבים, המבוסס על בשר אמיתי כמרכיב עיקרי ומתאים כפינוק יומי או כפרס באילוף.\nאריזה: מגיע במארז נוח עם סגירה חוזרת (Ziploc) השומרת על טריות המוצר לאורך זמן.",
@@ -1242,13 +1242,13 @@
       "images": [
         "https://gurimbakfar.co.il/assets/product-ai-fit-1783464427466-wndd0c.webp"
       ],
-      "in_stock": false,
-      "stock_status": "out_of_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-2ma0at",
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-jw405a",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-10-29T06:48:03.404Z"
+      "updated_at": "2026-10-29T07:36:10.704Z"
     },
     {
       "id": "1c9bd934-e8a6-40e7-bce1-c6f304467716",
