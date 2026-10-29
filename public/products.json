@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-29T07:36:42.682Z",
+  "generated_at": "2026-10-29T07:38:02.965Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 253,
@@ -1224,12 +1224,12 @@
     },
     {
       "id": "d02028c5-495a-4a29-b6aa-6aa33ac38143",
-      "slug": "chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-jw405a",
+      "slug": "chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-lhf8u7",
       "name": "חטיף נובלוס ברבקיו טיבון בקר 80 גר'",
       "name_translations": {
         "en": "Nobilus BBQ T-Bone Beef Snack 80g",
         "he": "חטיף נובלוס ברבקיו טיבון בקר 80 גר'",
-        "ru": "Лакомство Nobulus Барбекю Тибон говядина 80 гр'"
+        "ru": "Лакомство Nobulus барбекю Тибон говядина 80 г"
       },
       "description": "<p>רכיבים: בשר חזה עוף, תוצרי לוואי של בקר, בשר חזה ברווז, קמח חיטה, חלבון סויה, קמח, עמילן סויה, גליצרין, ויטמין C, נתרן EVC, שומן.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 28%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5%</li><li>לחות: מקסימום 18%</li></ul>",
       "short_description": "חטיף נובילוס (Nobilus) בטעם סטייק טיבון בקר / ברביקיו בקר במשקל 80 גרם הוא חטיף אולטרה-פרימיום איכותי וטעים המיועד לכלבים, המבוסס על בשר אמיתי כמרכיב עיקרי ומתאים כפינוק יומי או כפרס באילוף.\nאריזה: מגיע במארז נוח עם סגירה חוזרת (Ziploc) השומרת על טריות המוצר לאורך זמן.",
@@ -1244,11 +1244,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-jw405a",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-lhf8u7",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-10-29T07:36:10.704Z"
+      "updated_at": "2026-10-29T07:37:30.686Z"
     },
     {
       "id": "1c9bd934-e8a6-40e7-bce1-c6f304467716",
