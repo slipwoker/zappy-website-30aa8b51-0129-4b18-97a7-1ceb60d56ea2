@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-16T10:15:41.661Z",
+  "generated_at": "2026-11-16T10:16:16.344Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 253,
@@ -7011,12 +7011,12 @@
     },
     {
       "id": "a57b0f41-2e09-476e-963f-41c8e16bfae4",
-      "slug": "hnrys-knh-nshymh-74uviv",
+      "slug": "hnrys-knh-nshymh-wwwubj",
       "name": "הנריס קנה נשימה",
       "name_translations": {
-        "en": "Harnais Breathe Collar",
+        "en": "Harris Aqua Breath",
         "he": "הנריס קנה נשימה",
-        "ru": "Harness трубка для дыхания"
+        "ru": "Харнес с трахеотомической трубкой"
       },
       "description": "",
       "short_description": null,
@@ -7031,11 +7031,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/hnrys-knh-nshymh-74uviv",
+      "url": "https://gurimbakfar.co.il/product/hnrys-knh-nshymh-wwwubj",
       "categories": [
         "חטיפים טבעיים"
       ],
-      "updated_at": "2026-10-11T17:14:02.301Z"
+      "updated_at": "2026-11-16T10:16:08.931Z"
     },
     {
       "id": "0678fd0f-7144-46d9-827a-d36a55c55330",
