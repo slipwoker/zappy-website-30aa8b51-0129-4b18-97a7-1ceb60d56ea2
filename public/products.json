@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-16T10:18:28.591Z",
+  "generated_at": "2026-11-20T13:07:12.731Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 253,
@@ -319,7 +319,7 @@
       "categories": [
         "עצמות לעיסה"
       ],
-      "updated_at": "2026-10-25T08:06:39.116Z"
+      "updated_at": "2026-11-20T13:06:33.389Z"
     },
     {
       "id": "25b5474c-e1ea-4067-909e-42d4d3f489ce",
@@ -571,7 +571,7 @@
       "categories": [
         "חטיפים טבעיים"
       ],
-      "updated_at": "2026-10-25T09:38:32.481Z"
+      "updated_at": "2026-11-20T13:06:33.530Z"
     },
     {
       "id": "e7fb8730-4e3e-4881-ad3c-bce9d2590593",
@@ -599,7 +599,7 @@
       "categories": [
         "חטיפים טבעיים"
       ],
-      "updated_at": "2026-10-25T09:38:32.613Z"
+      "updated_at": "2026-11-20T13:06:34.683Z"
     },
     {
       "id": "b00ed022-3848-42cd-8766-a42e4afca0be",
