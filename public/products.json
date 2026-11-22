@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-22T09:52:10.865Z",
+  "generated_at": "2026-11-22T10:20:48.889Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 253,
@@ -1168,7 +1168,7 @@
     },
     {
       "id": "b74196a4-ca27-4263-8cfb-1f7c3c360c2d",
-      "slug": "chtyp-nvblvs-brbkyv-shvk-avp-80-gr-10-b-100-wnft8i",
+      "slug": "chtyp-nvblvs-brbkyv-shvk-avp-80-gr-10-b-100-bnjeij",
       "name": "חטיף נובלוס ברבקיו שוק עוף 80 גר' 10 ב 100",
       "name_translations": {
         "en": "Nobilus BBQ Chicken Drumstick Treat 80g 10 for 100",
@@ -1186,22 +1186,22 @@
       "images": [
         "https://gurimbakfar.co.il/assets/product-ai-fit-1783464739061-immko8.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-10-b-100-wnft8i",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-10-b-100-bnjeij",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-11-22T09:50:23.666Z"
+      "updated_at": "2026-11-22T10:19:52.552Z"
     },
     {
       "id": "96fca75b-38ad-4bb4-8a1d-d00c08d8a04a",
-      "slug": "chtyp-nvblvs-brbkyv-shvk-avp-80-gr-k46lbu",
+      "slug": "chtyp-nvblvs-brbkyv-shvk-avp-80-gr-3to8pi",
       "name": "חטיף נובלוס ברבקיו שוק עוף 80 גר'",
       "name_translations": {
         "en": "Nobilus BBQ Chicken Drumstick Treat 80g",
         "he": "חטיף נובלוס ברבקיו שוק עוף 80 גר'",
-        "ru": "Лакомство Nobulus барбекю куриная голень 80 г"
+        "ru": "Лакомство Nobulus барбекю куриная голень 80 гр'"
       },
       "description": "<p>רכיבים: בשר חזה עוף, בשר חזה ברווז, קמח חיטה, קמח חלבון סויה, עמילן סויה, גליצרין, ויטמין C, נתרן EVC, חומרי טעם וריח.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 28%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5%</li><li>לחות: מקסימום 18%</li></ul>",
       "short_description": "חטיף נובילוס (Nobilus) בטעם שוק עוף ברביקיו (80 גרם) הוא חטיף פרימיום פופולרי ועשיר בחלבון המיועד לפינוק, אימון ותעסוקה של כלבים.\nאריזה: מארז נוח במשקל 80 גרם הכולל סגירה חוזרת (Ziploc) לשמירה מרבית על הטריות.",
@@ -1214,13 +1214,13 @@
       "images": [
         "https://gurimbakfar.co.il/assets/product-ai-fit-1783464739061-immko8.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-k46lbu",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-3to8pi",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-07-23T16:05:43.713Z"
+      "updated_at": "2026-11-22T10:20:12.254Z"
     },
     {
       "id": "d02028c5-495a-4a29-b6aa-6aa33ac38143",
@@ -1252,12 +1252,12 @@
     },
     {
       "id": "1c9bd934-e8a6-40e7-bce1-c6f304467716",
-      "slug": "chtyp-nvblvs-brbkyv-tslavt-kbsh-80-gr-1bfb0e",
+      "slug": "chtyp-nvblvs-brbkyv-tslavt-kbsh-80-gr-ekq3gg",
       "name": "חטיף נובלוס ברבקיו צלעות כבש 80 גר'",
       "name_translations": {
         "en": "Nobilus BBQ Lamb Ribs Treat 80g",
         "he": "חטיף נובלוס ברבקיו צלעות כבש 80 גר'",
-        "ru": "Лакомство Nobulus барбекю рёбрышки ягнёнка 80 г"
+        "ru": "Лакомство Nobulus Барбекю Рёбрышки Ягнёнка 80 г"
       },
       "description": "<p>רכיבים: בשר חזה עוף, תוצרי לוואי של כבש, בשר חזה ברווז, קמח חיטה, חלבון סויה, עמילן סויה, גליצרין, ויטמין C נתרן EVC, חומרי טעם וריח.</p><p>ערכים תזונתיים:</p><ul><li>חלבון גולמי: מינימום 28%</li><li>שומן גולמי: מקסימום 3%</li><li>סיבים גולמיים: מקסימום 1%</li><li>אפר גולמי: מקסימום 5% לחות:</li><li>מקסימום 18%</li></ul>",
       "short_description": "חטיף נובילוס (Nobilus) בטעם ברביקיו צלעות כבש הוא חטיף לעיסה איכותי ודל שומן המיועד לכלבים, המגיע באריזת 80 גרם עם סגירה חוזרת לשמירה על הטריות.חטיף זה פופולרי מאוד כצופר, כפרס בזמן אילוף או כחטיף תעסקות טעים המבוסס על בשר אמיתי כמרכיב עיקרי.",
@@ -1270,13 +1270,13 @@
       "images": [
         "https://gurimbakfar.co.il/assets/product-ai-fit-1783464090406-vdupbg.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tslavt-kbsh-80-gr-1bfb0e",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://gurimbakfar.co.il/product/chtyp-nvblvs-brbkyv-tslavt-kbsh-80-gr-ekq3gg",
       "categories": [
         "חטיפים"
       ],
-      "updated_at": "2026-10-29T07:48:11.997Z"
+      "updated_at": "2026-11-22T10:20:36.131Z"
     },
     {
       "id": "55cd6023-2864-473e-b30b-3333c421b4f0",
