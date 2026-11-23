@@ -5894,6 +5894,76 @@ function stripHtmlToText(html) {
   }
 
   // Load shipping methods on checkout page
+  /* ZAPPY_CHECKOUT_SHIPPING_METHOD_FREE_PRICE_V1 */
+  // Whether a cart-wide free-shipping benefit (free-shipping coupon, seasonal
+  // free-shipping discount, first-order free shipping) zeroes shipping for
+  // EVERY method. Mirrors getEffectiveCheckoutShippingCost so the shipping
+  // method list and the order summary never disagree.
+  function hasCartWideFreeShipping() {
+    try {
+      if (typeof isCartCoursesOnly === 'function' && isCartCoursesOnly()) return false;
+      if (typeof appliedCoupon !== 'undefined' && appliedCoupon && appliedCoupon.type === 'free_shipping' && appliedCoupon.grantsFreeShipping !== false) return true;
+      if (typeof seasonalFreeShipping !== 'undefined' && seasonalFreeShipping) return true;
+      if (typeof firstOrderFreeShipping !== 'undefined' && firstOrderFreeShipping) return true;
+    } catch (e) {}
+    return false;
+  }
+
+  // Price shown next to a shipping method on the checkout. When the order is
+  // eligible for free shipping (cart-wide benefit or the method's own
+  // free-above threshold) a paid method shows its original price struck through
+  // next to the localized "FREE" label, exactly like the order summary row, so
+  // the method list never advertises a price the shopper will not pay.
+  function getShippingMethodPriceView(method) {
+    var basePrice = parseFloat(method && method.price) || 0;
+    var freeLabel = (typeof getEcomText === 'function') ? getEcomText('free', (typeof t !== 'undefined' && t && t.free) || 'FREE') : 'FREE';
+    var freeAbove = method && method.conditions ? parseFloat(method.conditions.freeAbove) : 0;
+    var reachedFreeAbove = freeAbove > 0 && typeof getCartSubtotal === 'function' && getCartSubtotal() >= freeAbove;
+    var isFree = basePrice === 0 || reachedFreeAbove || hasCartWideFreeShipping();
+    if (!isFree) return { isFree: false, html: formatMoney(basePrice) };
+    if (basePrice > 0) {
+      return {
+        isFree: true,
+        html: '<span class="shipping-original-price" style="text-decoration:line-through;opacity:0.55;font-weight:400;font-size:0.8em;margin-inline-end:6px;">' + formatMoney(basePrice) + '</span><span class="shipping-free-label">' + freeLabel + '</span>'
+      };
+    }
+    return { isFree: true, html: '<span class="shipping-free-label">' + freeLabel + '</span>' };
+  }
+
+  // Re-render every shipping method's price. Free-shipping eligibility is only
+  // known once updateOrderTotals has evaluated coupons / seasonal / first-order
+  // discounts (after the methods were first drawn), so it runs on every
+  // totals update.
+  function refreshShippingMethodPrices() {
+    try {
+      var container = document.getElementById('shipping-methods');
+      if (!container || typeof shippingMethods === 'undefined' || !shippingMethods || !shippingMethods.length) return;
+      var cartWideFree = hasCartWideFreeShipping();
+      shippingMethods.forEach(function(method) {
+        var block = container.querySelector('.shipping-method-block[data-method-id="' + method.id + '"]');
+        if (!block) return;
+        var priceEl = block.querySelector('.shipping-price');
+        if (priceEl) {
+          var view = getShippingMethodPriceView(method);
+          if (priceEl.innerHTML !== view.html) priceEl.innerHTML = view.html;
+          priceEl.classList.toggle('free', view.isFree);
+          // The preview discount enhancement stamps data-zappy-free-shipping on
+          // rows it rewrites. This refresh replaces that markup (a legacy bundle
+          // has no seasonal flag, so cart-wide free shipping reads as false),
+          // and a leftover stamp makes syncShippingMethodListFreeState skip the
+          // row. Drop it whenever we draw the bundle's own price.
+          if (typeof priceEl.removeAttribute === 'function') {
+            priceEl.removeAttribute('data-zappy-free-shipping');
+            priceEl.removeAttribute('data-zappy-original-price');
+          }
+        }
+        // "Free above X" is moot once a free-shipping benefit already applies.
+        var noteEl = block.querySelector('.shipping-free-note');
+        if (noteEl) noteEl.style.display = cartWideFree ? 'none' : '';
+      });
+    } catch (e) {}
+  }
+
   async function loadShippingMethods() {
     const container = document.getElementById('shipping-methods');
     if (!container) return;
@@ -8044,6 +8114,7 @@ function stripHtmlToText(html) {
     
     if (subtotalEl) subtotalEl.textContent = formatMoney(subtotal);
     if (vatAmountEl) vatAmountEl.textContent = formatMoney(vatAmount);
+    refreshShippingMethodPrices();
     if (shippingCostEl) {
       var freeShipLabel = getEcomText('free', t.free || 'FREE');
       if (shippingCost === 0 && baseShippingPrice > 0) {
@@ -21540,7 +21611,12 @@ function fixContrast(){
             }
           }
           var priceEl = block.querySelector('.shipping-price.free');
-          if (priceEl) priceEl.textContent = getText('free');
+          if (priceEl) {
+            // Free-shipping methods may carry the struck-through original price
+            // next to the label; translate only the label, keep the price.
+            var freeLabelEl = priceEl.querySelector('.shipping-free-label') || priceEl;
+            freeLabelEl.textContent = getText('free');
+          }
           var addressEl = block.querySelector('.shipping-address');
           var addressText = formatPickupAddress(method);
           if (addressEl && addressText) addressEl.textContent = addressText;
