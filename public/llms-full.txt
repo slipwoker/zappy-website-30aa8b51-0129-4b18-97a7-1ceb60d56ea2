@@ -8180,7 +8180,7 @@ Availability: In stock
 ---
 
 ### צעצוע לעיסה Masticosso להיגיינת השיניים לכלבים
-URL: https://gurimbakfar.co.il/product/tsatsva-laysh-masticosso-lhygyynt-hshynyym-lklbym-agdj25
+URL: https://gurimbakfar.co.il/product/tsatsva-laysh-masticosso-lhygyynt-hshynyym-lklbym-e15k51
 Price: 29.00 ILS
 Availability: In stock
 
@@ -8256,7 +8256,7 @@ Availability: In stock
 ---
 
 ### קערת האכלה איטית 
-URL: https://gurimbakfar.co.il/product/kart-haklh-aytyt-b7084j
+URL: https://gurimbakfar.co.il/product/kart-haklh-aytyt-fmlpyh
 Price: 40.00 ILS
 Availability: In stock
 
@@ -8885,14 +8885,14 @@ Availability: In stock
 ---
 
 ### משטח ליקוק 17.7*16.3 ס"מ freedog
-URL: https://gurimbakfar.co.il/product/mshtch-lykvk-177163-sm-freedog-f3ap8m
+URL: https://gurimbakfar.co.il/product/mshtch-lykvk-177163-sm-freedog-cgxl3o
 Price: 50.00 ILS
 Availability: In stock
 
 ---
 
 ### משטח ליקוק 20*20 ס"מ freedog
-URL: https://gurimbakfar.co.il/product/mshtch-lykvk-2020-sm-freedog-h3rdn0
+URL: https://gurimbakfar.co.il/product/mshtch-lykvk-2020-sm-freedog-n3jji5
 Price: 50.00 ILS
 Availability: In stock
 
@@ -8934,7 +8934,7 @@ Availability: In stock
 ---
 
 ### כדור חטיפים
-URL: https://gurimbakfar.co.il/product/kdvr-chtypym-p2pje5
+URL: https://gurimbakfar.co.il/product/kdvr-chtypym-p7tirr
 Price: 50.00 ILS
 Availability: In stock
 
@@ -9145,7 +9145,7 @@ Availability: In stock
 ---
 
 ### משקולת גומי דנטלית
-URL: https://gurimbakfar.co.il/product/mshkvlt-gvmy-dntlyt-i3kjv5
+URL: https://gurimbakfar.co.il/product/mshkvlt-gvmy-dntlyt-semgyx
 Price: 25.00 ILS
 Availability: In stock
 
@@ -9187,7 +9187,7 @@ Availability: In stock
 ---
 
 ### משחק האכלה מתגלגל
-URL: https://gurimbakfar.co.il/product/mshchk-haklh-mtglgl-4izint
+URL: https://gurimbakfar.co.il/product/mshchk-haklh-mtglgl-eabmeb
 Price: 55.00 ILS
 Availability: In stock
 
@@ -9229,7 +9229,7 @@ Availability: Out of stock
 ---
 
 ### צעצוע לעיסה דנטלי
-URL: https://gurimbakfar.co.il/product/tsatsva-laysh-dntly-teoo4v
+URL: https://gurimbakfar.co.il/product/tsatsva-laysh-dntly-wvjwo9
 Price: 25.00 ILS
 Availability: In stock
 
@@ -9341,9 +9341,9 @@ Availability: In stock
 ---
 
 ### משחק לכלב סקיני אריה
-URL: https://gurimbakfar.co.il/product/mshchk-lklb-skyny-aryh-zv4dt1
+URL: https://gurimbakfar.co.il/product/mshchk-lklb-skyny-aryh-wj53kj
 Price: 35.00 ILS
-Availability: In stock
+Availability: Out of stock
 
 ---
 

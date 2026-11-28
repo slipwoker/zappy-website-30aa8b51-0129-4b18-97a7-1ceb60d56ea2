@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-23T11:36:59.599Z",
+  "generated_at": "2026-11-28T15:57:43.035Z",
   "base_url": "https://gurimbakfar.co.il",
   "currency": "ILS",
   "count": 253,
@@ -2635,10 +2635,10 @@
     },
     {
       "id": "a8e46184-bfd9-47c0-97f9-39b4cd5b793e",
-      "slug": "tsatsva-laysh-masticosso-lhygyynt-hshynyym-lklbym-agdj25",
+      "slug": "tsatsva-laysh-masticosso-lhygyynt-hshynyym-lklbym-e15k51",
       "name": "צעצוע לעיסה Masticosso להיגיינת השיניים לכלבים",
       "name_translations": {
-        "en": "Masticosso Chew Toy for Dogs' Dental Hygiene",
+        "en": "Masticosso Chew Toy for Dog Dental Hygiene",
         "he": "צעצוע לעיסה Masticosso להיגיינת השיניים לכלבים",
         "ru": "Жевательная игрушка Masticosso для гигиены зубов собак"
       },
@@ -2659,11 +2659,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/tsatsva-laysh-masticosso-lhygyynt-hshynyym-lklbym-agdj25",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-laysh-masticosso-lhygyynt-hshynyym-lklbym-e15k51",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-08-17T11:22:16.290Z"
+      "updated_at": "2026-11-28T15:53:04.536Z"
     },
     {
       "id": "e2979dc1-cb4b-465d-8e0c-baef7a8e1b0e",
@@ -2895,7 +2895,7 @@
     },
     {
       "id": "5e46433f-6a55-42ae-9bab-db31759f45bf",
-      "slug": "kart-haklh-aytyt-b7084j",
+      "slug": "kart-haklh-aytyt-fmlpyh",
       "name": "קערת האכלה איטית ",
       "name_translations": {
         "en": "Slow Feeder Bowl ",
@@ -2920,11 +2920,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kart-haklh-aytyt-b7084j",
+      "url": "https://gurimbakfar.co.il/product/kart-haklh-aytyt-fmlpyh",
       "categories": [
         "כלי אוכל ושתייה"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-11-28T15:50:43.426Z"
     },
     {
       "id": "20bd9d16-4918-4a7f-a051-fcdc1f9d53cc",
@@ -5211,7 +5211,7 @@
     },
     {
       "id": "3ae37028-e2f5-4fe2-940b-53a5bf3c8305",
-      "slug": "mshtch-lykvk-177163-sm-freedog-f3ap8m",
+      "slug": "mshtch-lykvk-177163-sm-freedog-cgxl3o",
       "name": "משטח ליקוק 17.7*16.3 ס\"מ freedog",
       "name_translations": {
         "en": "Licking Mat 17.7*16.3 cm freedog",
@@ -5231,20 +5231,20 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mshtch-lykvk-177163-sm-freedog-f3ap8m",
+      "url": "https://gurimbakfar.co.il/product/mshtch-lykvk-177163-sm-freedog-cgxl3o",
       "categories": [
         "כלי אוכל ושתייה"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-11-28T15:51:14.005Z"
     },
     {
       "id": "85ed2463-8df4-4e3d-891f-35e213b9eac3",
-      "slug": "mshtch-lykvk-2020-sm-freedog-h3rdn0",
+      "slug": "mshtch-lykvk-2020-sm-freedog-n3jji5",
       "name": "משטח ליקוק 20*20 ס\"מ freedog",
       "name_translations": {
         "en": "Licking Mat 20*20 cm freedog",
         "he": "משטח ליקוק 20*20 ס\"מ freedog",
-        "ru": "коврик для лизания 20*20 см freedog"
+        "ru": "Коврик для лизания 20*20 см freedog"
       },
       "description": "",
       "short_description": null,
@@ -5262,11 +5262,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mshtch-lykvk-2020-sm-freedog-h3rdn0",
+      "url": "https://gurimbakfar.co.il/product/mshtch-lykvk-2020-sm-freedog-n3jji5",
       "categories": [
         "כלי אוכל ושתייה"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-11-28T15:51:35.655Z"
     },
     {
       "id": "cddaf0f1-b326-467b-a1ec-6ffcbce0d10a",
@@ -5410,7 +5410,7 @@
     },
     {
       "id": "fa7d254f-588b-46d6-9d02-9f0fa08a286c",
-      "slug": "kdvr-chtypym-p2pje5",
+      "slug": "kdvr-chtypym-p7tirr",
       "name": "כדור חטיפים",
       "name_translations": {
         "en": "Snack Ball",
@@ -5430,11 +5430,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/kdvr-chtypym-p2pje5",
+      "url": "https://gurimbakfar.co.il/product/kdvr-chtypym-p7tirr",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-11-28T15:53:28.982Z"
     },
     {
       "id": "2ee7497c-53a0-4109-859f-4d7fa1deae29",
@@ -6252,12 +6252,12 @@
     },
     {
       "id": "1895a3a9-0487-4a66-a781-37b414e77f79",
-      "slug": "mshkvlt-gvmy-dntlyt-i3kjv5",
+      "slug": "mshkvlt-gvmy-dntlyt-semgyx",
       "name": "משקולת גומי דנטלית",
       "name_translations": {
-        "en": "Rubber Dental Weight",
+        "en": "Dental Rubber Weight",
         "he": "משקולת גומי דנטלית",
-        "ru": "Резиновая зубная гантель"
+        "ru": "Резиновая дентальная гиря"
       },
       "description": "",
       "short_description": null,
@@ -6272,11 +6272,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mshkvlt-gvmy-dntlyt-i3kjv5",
+      "url": "https://gurimbakfar.co.il/product/mshkvlt-gvmy-dntlyt-semgyx",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-11-28T15:53:58.188Z"
     },
     {
       "id": "6f96dbb2-0aff-4568-b6d4-99c82ebb1c60",
@@ -6420,7 +6420,7 @@
     },
     {
       "id": "edaeb3d7-a15d-49c6-9c12-2df079674da0",
-      "slug": "mshchk-haklh-mtglgl-4izint",
+      "slug": "mshchk-haklh-mtglgl-eabmeb",
       "name": "משחק האכלה מתגלגל",
       "name_translations": {
         "en": "Rolling Feeding Toy",
@@ -6440,11 +6440,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mshchk-haklh-mtglgl-4izint",
+      "url": "https://gurimbakfar.co.il/product/mshchk-haklh-mtglgl-eabmeb",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-11-28T15:54:37.640Z"
     },
     {
       "id": "b0755a5f-ef0d-488f-970d-9356e416bbc4",
@@ -6591,12 +6591,12 @@
     },
     {
       "id": "df1532c4-011b-43a1-bc4d-9493fb8979bb",
-      "slug": "tsatsva-laysh-dntly-teoo4v",
+      "slug": "tsatsva-laysh-dntly-wvjwo9",
       "name": "צעצוע לעיסה דנטלי",
       "name_translations": {
         "en": "Dental Chew Toy",
         "he": "צעצוע לעיסה דנטלי",
-        "ru": "Игрушка для жевания стоматологическая"
+        "ru": "Жевательная зубная игрушка"
       },
       "description": "",
       "short_description": null,
@@ -6611,11 +6611,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/tsatsva-laysh-dntly-teoo4v",
+      "url": "https://gurimbakfar.co.il/product/tsatsva-laysh-dntly-wvjwo9",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-11-28T15:54:59.794Z"
     },
     {
       "id": "6a5df1cd-2053-4544-a02f-cdc1101566cf",
@@ -7039,12 +7039,12 @@
     },
     {
       "id": "0678fd0f-7144-46d9-827a-d36a55c55330",
-      "slug": "mshchk-lklb-skyny-aryh-zv4dt1",
+      "slug": "mshchk-lklb-skyny-aryh-wj53kj",
       "name": "משחק לכלב סקיני אריה",
       "name_translations": {
         "en": "Skinny Lion Dog Toy",
         "he": "משחק לכלב סקיני אריה",
-        "ru": "Игрушка для собак Скинни Лев"
+        "ru": "Игрушка для собаки Скинни Лев"
       },
       "description": "",
       "short_description": null,
@@ -7057,13 +7057,13 @@
       "images": [
         "https://gurimbakfar.co.il/assets/product-enhanced-1781076035016-waacog.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://gurimbakfar.co.il/product/mshchk-lklb-skyny-aryh-zv4dt1",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://gurimbakfar.co.il/product/mshchk-lklb-skyny-aryh-wj53kj",
       "categories": [
         "צעצועים"
       ],
-      "updated_at": "2026-07-19T13:32:38.738Z"
+      "updated_at": "2026-11-28T15:55:39.843Z"
     },
     {
       "id": "ab5c3104-ec2c-4557-8910-cb9dc17dcd9c",
